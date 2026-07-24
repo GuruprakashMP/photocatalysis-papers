@@ -1,5 +1,157 @@
 [
  {
+  "id": "da7b0c68f132f6bd",
+  "title": "Nanoscale Materials in Chemistry",
+  "authors": [],
+  "journal": "",
+  "publisher": "",
+  "published": "2001-08-23",
+  "year": 2001,
+  "doi": "10.1002/0471220620",
+  "url": "https://doi.org/10.1002/0471220620",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bc17ac8aea6dcbdc",
+  "title": "A Taylor Vortex Photocatalytic Reactor for Water Purification",
+  "authors": [
+   "Tapan K. Sengupta",
+   "Mohammad Fazlul Kabir",
+   "Ajay K. Ray"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-23",
+  "year": 2001,
+  "doi": "10.1021/ie001120i",
+  "url": "https://doi.org/10.1021/ie001120i",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Water Purification"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "National University of Singapore"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a8eb86f802c8ce56",
+  "title": "ChemInform Abstract: Enhanced Photocatalytic Dechlorination of 1,2,3,4‐Tetrachlorobenzene Using Nanosized CdS/TiO 2 Hybrid Photocatalyst under Visible Light Irradiation.",
+  "authors": [
+   "Hengbo Yin",
+   "Yuji Wada",
+   "Takayuki Kitamura",
+   "Takao Sakata",
+   "Hirotaro Mori",
+   "Shozo Yanagida"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-08-21",
+  "year": 2001,
+  "doi": "10.1002/chin.200134066",
+  "url": "https://doi.org/10.1002/chin.200134066",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cc0017aff5f0cf1e",
+  "title": "Photoinitiated Catalysis in Nafion Membranes Containing Palladium(II) meso-Tetrakis(N-methyl-4-pyridyl)porphyrin and Iron(III) meso-Tetrakis(2,6-dichlorophenyl)porphyrin for O2-Mediated Oxidations of Alkenes",
+  "authors": [
+   "Andrea Maldotti",
+   "Leonardo Andreotti",
+   "Alessandra Molinari",
+   "Sergey M. Borisov",
+   "V. V. VASIL'EV"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2001-08-17",
+  "year": 2001,
+  "doi": "10.1002/1521-3765(20010817)7:16<3564::aid-chem3564>3.0.co;2-2",
+  "url": "https://doi.org/10.1002/1521-3765(20010817)7:16<3564::aid-chem3564>3.0.co;2-2",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoexcitation",
+   "Photogenerated Carriers",
+   "Quantum Yield",
+   "Singlet Oxygen",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Ferrara",
+   "Moscow State Pedagogical University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f8df9e3e7770665b",
+  "title": "Photochemical Instability of CdSe Nanocrystals Coated by Hydrophilic Thiols",
+  "authors": [
+   "José Aldana",
+   "Y. Andrew Wang",
+   "Xiaogang Peng"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-16",
+  "year": 2001,
+  "doi": "10.1021/ja016424q",
+  "url": "https://doi.org/10.1021/ja016424q",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photooxidation"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Arkansas at Fayetteville"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "f856d6d88756a764",
   "title": "ChemInform Abstract: Substitution Effects of In 3+ by Al 3+ and Ga 3+ on the Photocatalytic and Structural Properties of the Bi 2 InNbO 7 Photocatalyst.",
   "authors": [
@@ -22,6 +174,140 @@
   ],
   "relevance_score": 46,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9a0a0f001af40676",
+  "title": "Relationship between the Local Structures of Titanium Oxide Photocatalysts and Their Reactivities in the Decomposition of NO",
+  "authors": [
+   "Jinlong Zhang",
+   "Yun Hang Hu",
+   "Masaya Matsuoka",
+   "Hiromi Yamashita",
+   "Madoka Minagawa",
+   "Hisao Hidaka",
+   "Masakazu Anpo"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-09",
+  "year": 2001,
+  "doi": "10.1021/jp012080e",
+  "url": "https://doi.org/10.1021/jp012080e",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Osaka Prefecture University",
+   "Meisei University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cb85c5f0b1295dcf",
+  "title": "Photocatalytic Reduction of CO 2 with H 2 O on Ti−β Zeolite Photocatalysts: Effect of the Hydrophobic and Hydrophilic Properties",
+  "authors": [
+   "Keita Ikeue",
+   "Hiromi Yamashita",
+   "Masakazu Anpo",
+   "Takahiko Takewaki"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-08",
+  "year": 2001,
+  "doi": "10.1021/jp010885g",
+  "url": "https://doi.org/10.1021/jp010885g",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Osaka Prefecture University",
+   "Mitsubishi Chemical (Japan)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0ff609cbfd66045d",
+  "title": "ChemInform Abstract: Photocatalytic Property and Electronic Structure of Lanthanide Tantalates, LnTaO 4 (Ln: La, Ce, Pr, Nd, and Sm).",
+  "authors": [
+   "Masato Machida",
+   "S. Murakami",
+   "Toshiki Kijima",
+   "Shigenori Matsushima",
+   "M. Arai"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2001-08-07",
+  "year": 2001,
+  "doi": "10.1002/chin.200132020",
+  "url": "https://doi.org/10.1002/chin.200132020",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Miyazaki"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b3374266b2b5f250",
+  "title": "Uphill Photooxidation of NADH Analogues by Hexyl Viologen Catalyzed by Zinc Porphyrin-Linked Fullerenes",
+  "authors": [
+   "Shunichi Fukuzumi",
+   "Hiroshi Imahori",
+   "Ken Okamoto",
+   "Hiroko Yamada",
+   "Mamoru Fujitsuka",
+   "Osamu Ito",
+   "Dirk M. Guldi"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-04",
+  "year": 2001,
+  "doi": "10.1021/jp011613g",
+  "url": "https://doi.org/10.1021/jp011613g",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation",
+   "Quantum Yield",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Notre Dame",
+   "Tohoku University",
+   "Science and Technology Corporation (United States)",
+   "The University of Osaka"
+  ],
   "added": "2026-07-24"
  },
  {
@@ -82,6 +368,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b451fabe89765584",
+  "title": "Auxiliary functions in photosynthesis: the role of the FtsH protease",
+  "authors": [
+   "Shaun Bailey",
+   "P. Silva",
+   "Peter J. Nixon",
+   "Conrad W. Mullineaux",
+   "Colin Robinson",
+   "N. H. Mann"
+  ],
+  "journal": "Biochemical Society Transactions",
+  "publisher": "Portland Press",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1042/bst0290455",
+  "url": "https://doi.org/10.1042/bst0290455",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Z-Scheme"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Warwick",
+   "Imperial College London",
+   "University College London"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "ae07652151505832",
   "title": "Visible light photodegradation of 4-chlorophenol with a coke-containing titanium dioxide photocatalyst",
   "authors": [
@@ -117,6 +435,373 @@
   "added": "2026-07-24"
  },
  {
+  "id": "97c3f23903d9a867",
+  "title": "Photocatalytic degradation of dyes on a magnetically separated photocatalyst under visible and UV irradiation",
+  "authors": [
+   "Feng Chen",
+   "Yinde Xie",
+   "Jincai Zhao",
+   "Gongxuan Lu"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0045-6535(00)00277-0",
+  "url": "https://doi.org/10.1016/s0045-6535(00)00277-0",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Beijing National Laboratory for Molecular Sciences",
+   "Chinese Academy of Sciences",
+   "Lanzhou Institute of Chemical Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "813bec2d3e427d62",
+  "title": "The influence of pH and cadmium sulfide on the photocatalytic degradation of 2-chlorophenol in titanium dioxide suspensions",
+  "authors": [
+   "Ruey-an Doong",
+   "Chih-Hua Chen",
+   "R. A. Maithreepala",
+   "Sue-min Chang"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0043-1354(00)00580-7",
+  "url": "https://doi.org/10.1016/s0043-1354(00)00580-7",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "National Tsing Hua University",
+   "Institute of Environmental Engineering"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7a0cb3b2cf754fee",
+  "title": "Heterogeneous photocatalytic oxidation of polyvinyl alcohol in water",
+  "authors": [
+   "Yingxu Chen",
+   "Zhenshi Sun",
+   "Ye Yang",
+   "Qiang Ke"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s1010-6030(01)00477-4",
+  "url": "https://doi.org/10.1016/s1010-6030(01)00477-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Zhejiang University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "703ee26edc83e4b3",
+  "title": "Microstructural Characterization of Thin Films TiO2 Deposited Inside a Tubing by Spray Pyrolysis",
+  "authors": [
+   "M. Miki-Yoshida",
+   "F. Paraguay D.",
+   "Wilber Antúnez"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1017/s1431927600028130",
+  "url": "https://doi.org/10.1017/s1431927600028130",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Centro de Investigación en Materiales Avanzados"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6f7b9f8178c65fd4",
+  "title": "LIQUID-PHASE PHOTOCATALYTIC REACTION ON TiO 2 2 THIN FILM",
+  "authors": [
+   "Akio Watanabe",
+   "Muhammad Altaf Nazir",
+   "H. Kumazawa"
+  ],
+  "journal": "Chemical Engineering Communications",
+  "publisher": "Taylor & Francis",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1080/00986440108912879",
+  "url": "https://doi.org/10.1080/00986440108912879",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Toyama"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "68ed11bde3933fd5",
+  "title": "Efficient Photocatalytic Degradation of Environmental Pollutants with Mass-Produced ZnS Nanocrystals",
+  "authors": [
+   "Claudia L. Torres-Martínez",
+   "Richard Kho",
+   "Omar I. Mian",
+   "Rajesh K. Mehra"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1006/jcis.2001.7684",
+  "url": "https://doi.org/10.1006/jcis.2001.7684",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of California, Riverside"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "60b8cc2b6e21d0af",
+  "title": "Photocatalytic degradation of concentrated solutions of 2,4-dichlorophenol using low energy light",
+  "authors": [
+   "María P. Ormad",
+   "J.L. Ovelleiro",
+   "J. Kiwi"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0926-3373(01)00132-1",
+  "url": "https://doi.org/10.1016/s0926-3373(01)00132-1",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Zaragoza",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5598f24d9d1e3594",
+  "title": "Mechanism of Photoredox Reactions of Iron(III) Complexes Containing Salen-type Ligands",
+  "authors": [
+   "Jozef Šíma"
+  ],
+  "journal": "Hrčak Portal of scientific journals of Croatia (University Computing Centre)",
+  "publisher": "United Nations University",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "",
+  "url": "http://hrcak.srce.hr/131868",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoredox",
+   "Photoreduction",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Slovak University of Technology in Bratislava"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3bfecc61c84a6142",
+  "title": "Photocatalysis and Photosorption in the Earth's Atmosphere",
+  "authors": [
+   "Valentin N. Parmon",
+   "В. С. Захаренко"
+  ],
+  "journal": "CATTECH",
+  "publisher": "Springer Nature",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1023/a:1011996606399",
+  "url": "https://doi.org/10.1023/a:1011996606399",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Boreskov Institute of Catalysis"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "30b3b55d2eed1cd1",
+  "title": "Filter membranes eliminate viruses",
+  "authors": [],
+  "journal": "Membrane Technology",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0958-2118(01)80271-8",
+  "url": "https://doi.org/10.1016/s0958-2118(01)80271-8",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photoanodes"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2c426df10e9763e3",
+  "title": "Optimal radiation field in one-dimensional continuous flow heterogeneous photocatalytic reactors",
+  "authors": [
+   "Lev Davydov",
+   "Roumen Tsekov",
+   "Panagiotis G. Smirniotis"
+  ],
+  "journal": "Chemical Engineering Science",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0009-2509(01)00138-5",
+  "url": "https://doi.org/10.1016/s0009-2509(01)00138-5",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cincinnati",
+   "Sofia University \"St. Kliment Ohridski\""
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2ba2fe080f3362da",
+  "title": "The surface properties and photocatalytic activities of ZnO ultrafine particles",
+  "authors": [
+   "Liqiang Jing",
+   "Zili Xu",
+   "Xiaojun Sun",
+   "Jing Shang",
+   "Weimin Cai"
+  ],
+  "journal": "Applied Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0169-4332(01)00365-8",
+  "url": "https://doi.org/10.1016/s0169-4332(01)00365-8",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Harbin Institute of Technology",
+   "Jilin University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1e3e64071093fbc0",
+  "title": "Degradation of Sucrose and Nitrate Over Titania Coated Nano-hematite Photocatalysts",
+  "authors": [
+   "Metta Penpolcharoen",
+   "Rose Amal",
+   "M.P. Brungs"
+  ],
+  "journal": "Journal of Nanoparticle Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1023/a:1017929204380",
+  "url": "https://doi.org/10.1023/a:1017929204380",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "UNSW Sydney",
+   "Mahanakorn University of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "1be1eaff6483b229",
   "title": "A new type of water splitting system composed of two different TiO2 photocatalysts (anatase, rutile) and a IO3−/I− shuttle redox mediator",
   "authors": [
@@ -145,6 +830,65 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "07ad6ad293c65206",
+  "title": "Photocatalytic performance of sulfated TiO2 and Degussa P-25 TiO2 during oxidation of organics",
+  "authors": [
+   "Darrin S. Muggli",
+   "Lefei Ding"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0926-3373(01)00137-0",
+  "url": "https://doi.org/10.1016/s0926-3373(01)00137-0",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of North Dakota"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "068b94517be5b942",
+  "title": "Photocatalytic activity of TiO2 films grown on different substrates",
+  "authors": [
+   "Ying Ma",
+   "Jianbin Qiu",
+   "Yaan Cao",
+   "Zishen Guan",
+   "Jiannian Yao"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1016/s0045-6535(00)00360-x",
+  "url": "https://doi.org/10.1016/s0045-6535(00)00360-x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Beijing National Laboratory for Molecular Sciences",
+   "Institute of Chemistry"
   ],
   "added": "2026-07-24"
  }
