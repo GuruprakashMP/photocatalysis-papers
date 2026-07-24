@@ -1,5 +1,61 @@
 [
  {
+  "id": "8a4989f783898435",
+  "title": "ChemInform Abstract: Photocatalytic Reduction of Nitrogen Over (Fe, Ru or Os)/TiO2 Catalysts.",
+  "authors": [
+   "N. Nageswara Rao",
+   "Sangeeta Dube",
+   "Mookan Natarajan"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1995-06-13",
+  "year": 1995,
+  "doi": "10.1002/chin.199524021",
+  "url": "https://doi.org/10.1002/chin.199524021",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Central Salt and Marine Chemicals Research Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "313b3066db1f0b68",
+  "title": "Novel inorganic photoinitiators",
+  "authors": [
+   "Charles Kutal",
+   "Bentley J. Palmer",
+   "Zhikai Wang"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1995-06-09",
+  "year": 1995,
+  "doi": "10.1117/12.210372",
+  "url": "https://doi.org/10.1117/12.210372",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Georgia"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "eb228b7914ee2268",
   "title": "Photoreductive Mechanism of CCl4 Degradation on TiO2 Particles and Effects of Electron Donors",
   "authors": [
@@ -30,6 +86,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "de2d081cb481d207",
+  "title": "Photocatalytic synthesis of CH4 and CH3OH from CO2 and H2O on highly dispersed active titanium oxide catalysts",
+  "authors": [
+   "Hiromi Yamashita",
+   "Akira Shiga",
+   "Shinichi Kawasaki",
+   "Yuichi Ichihashi",
+   "Shaw Ehara",
+   "Masakazu Anpo"
+  ],
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0196-8904(95)00081-n",
+  "url": "https://doi.org/10.1016/0196-8904(95)00081-n",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osaka Prefecture University",
+   "Ion Technology Center (Japan)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "7f43bdb4468a4daa",
   "title": "Photocatalytic degradation of trinitrotoluene and other nitroaromatic compounds",
   "authors": [
@@ -56,6 +143,229 @@
   "affiliations": [
    "Institut für Solarenergieforschung",
    "Technische Universität Braunschweig"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7b9d100cc61fc79a",
+  "title": "Aerogel materials for photocatalytic detoxification of cyanide wastes in water",
+  "authors": [
+   "Mohamed S. Ahmed",
+   "Yosry A. Attia"
+  ],
+  "journal": "Journal of Non-Crystalline Solids",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0022-3093(95)00085-2",
+  "url": "https://doi.org/10.1016/0022-3093(95)00085-2",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Suez University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7a5fbc7275967b8a",
+  "title": "Tailoring nanostructured thin films",
+  "authors": [
+   "Prashant V. Kamat"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/99572-tailoring-nanostructured-thin-films",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6837919e06be8641",
+  "title": "Heterogeneous photocatalysis: an emerging discipline involving multiphase systems",
+  "authors": [
+   "J.M. Herrmann"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0920-5861(95)00005-z",
+  "url": "https://doi.org/10.1016/0920-5861(95)00005-z",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "École Centrale de Lyon",
+   "Centre National de la Recherche Scientifique",
+   "Catalyse"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "544c06d2baaf6c47",
+  "title": "Pre-industrial experience in advanced oxidation and integral photodegradation of organics in potable waters and waste waters by PHOTOPERMTM membranes immobilizing titanium dioxide and promoting photocatalysts",
+  "authors": [
+   "Ignazio Renato Bellobono",
+   "Barbara Barni",
+   "Franco Gianturco"
+  ],
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0376-7388(94)00273-2",
+  "url": "https://doi.org/10.1016/0376-7388(94)00273-2",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Milan"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "37d7dfd7fcb87d2a",
+  "title": "Photocatalytic reduction of nitrite and nitrate ions to ammonia on Ru/TiO2 catalysts",
+  "authors": [
+   "K.T. Ranjit",
+   "T.K. Varadarajan",
+   "B. Viswanathan"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/1010-6030(94)04029-2",
+  "url": "https://doi.org/10.1016/1010-6030(94)04029-2",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Indian Institute of Technology Madras"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "27dad441113f0b1a",
+  "title": "Electrodissolution and corrosion of CuInS2 photoanodes with lamellar morphology",
+  "authors": [
+   "Sandro Cattarin",
+   "Paolo Guerriero",
+   "N. Dietz",
+   "H. J. Lewerenz"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0013-4686(93)e0051-m",
+  "url": "https://doi.org/10.1016/0013-4686(93)e0051-m",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute for the Dynamics of Environmental Processes"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0eb706be8f69e105",
+  "title": "Photoreduction of methylviolegen catalysed by tri- or tetra-sulphophthalocyaninatozinc(II) in aqueous solutions",
+  "authors": [
+   "Kuninobu Kasuga",
+   "Hitoshi Miyasaka",
+   "Makoto Handa",
+   "Masanori Dairaku"
+  ],
+  "journal": "Polyhedron",
+  "publisher": "Elsevier BV",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1016/0277-5387(94)00425-e",
+  "url": "https://doi.org/10.1016/0277-5387(94)00425-e",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shimane University",
+   "Chugoku Electric Power (Japan)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "03c76642da05a5e7",
+  "title": "The Photocatalytic Isomerization of 2-Butenes on ZrO2 Catalyst with Low Coordinated Surface Sites",
+  "authors": [
+   "Sang-Chul Moon",
+   "Takeshi Hieida",
+   "Hiromi Yamashita",
+   "Masakazu Anpo"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1995-06-01",
+  "year": 1995,
+  "doi": "10.1246/cl.1995.447",
+  "url": "https://doi.org/10.1246/cl.1995.447",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Osaka Prefecture University"
   ],
   "added": "2026-07-24"
  }

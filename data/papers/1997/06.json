@@ -1,5 +1,178 @@
 [
  {
+  "id": "3582a280fa3b4f74",
+  "title": "Vacuum Photocatalytic Oxidation of Trichloroethylene",
+  "authors": [
+   "Rao V. Annapragada",
+   "Robert Leet",
+   "Rajnish Changrani",
+   "Gregory B. Raupp"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1997-06-30",
+  "year": 1997,
+  "doi": "10.1021/es960541h",
+  "url": "https://doi.org/10.1021/es960541h",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Arizona State University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1daca031bc204ddb",
+  "title": "Photochemical Reactions on Semiconductor Particles for Organic Synthesis",
+  "authors": [
+   "Yuzhuo Li"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-06-26",
+  "year": 1997,
+  "doi": "10.1201/b16837-8",
+  "url": "https://doi.org/10.1201/b16837-8",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Organic Synthesis",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Clarkson University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0d17fccb66de4ea2",
+  "title": "Photocatalytic degradation of dichlorvos using TiO2 supported on hollow glass microbeads",
+  "authors": [
+   "Shifu Chen",
+   "Xin Liang",
+   "Zhao Jian-hong",
+   "Liucheng Wang",
+   "Zhao MengYue"
+  ],
+  "journal": "Journal of Environmental Sciences",
+  "publisher": "Elsevier BV",
+  "published": "1997-06-19",
+  "year": 1997,
+  "doi": "",
+  "url": "https://eurekamag.com/research/002/920/002920167.php",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c6f5127118e72630",
+  "title": "Synthesis and optical properties of MoS2 and isomorphous nanoclusters in the quantum confinement regime",
+  "authors": [
+   "J. P. Wilcoxon",
+   "P.P. Newcomer",
+   "G. A. Samara"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1997-06-15",
+  "year": 1997,
+  "doi": "10.1063/1.365367",
+  "url": "https://doi.org/10.1063/1.365367",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Sandia National Laboratories"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d5e85cb83040da99",
+  "title": "Photocatalytic Degradation of Lindane in Aqueous Solution",
+  "authors": [
+   "Anastasia Hiskia",
+   "A. Mylonas",
+   "Despina Tsipi",
+   "E. Papaconstantinou"
+  ],
+  "journal": "Pesticide Science",
+  "publisher": "Wiley",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1002/(sici)1096-9063(199706)50:2<171::aid-ps565>3.0.co;2-h",
+  "url": "https://doi.org/10.1002/(sici)1096-9063(199706)50:2<171::aid-ps565>3.0.co;2-h",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Centre of Scientific Research \"Demokritos\"",
+   "General Chemical State Laboratory"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cb239cd870d94756",
+  "title": "The dual-bed hydrogen production process as being developed by the Florida Solar Energy Center. Process study",
+  "authors": [
+   "J.P. DiPietro",
+   "E.G. Skolnik"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.2172/674690",
+  "url": "https://doi.org/10.2172/674690",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Energetics (United States)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "b43a092d6294f73c",
   "title": "Photocatalytic bactericidal effect of TiO2 thin films: dynamic view of the active oxygen species responsible for the effect",
   "authors": [
@@ -27,6 +200,230 @@
   "affiliations": [
    "Kanagawa Academy of Science and Technology",
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7997187c3ffc44ae",
+  "title": "Ionizing radiation induced catalysis on metal oxide particles. 1997 annual progress report",
+  "authors": [
+   "T.A. Fryberger"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.2172/13665",
+  "url": "https://doi.org/10.2172/13665",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Georgia Institute of Technology",
+   "Pacific Northwest National Laboratory",
+   "New Mexico Institute of Mining and Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "73e3b33a9c85c30d",
+  "title": "Photocatalytic bleaching of p-nitrosodimethylaniline in TiO2 aqueous suspensions: A kinetic treatment involving some primary events photoinduced on the particle surface",
+  "authors": [
+   "Ling Zang",
+   "Ping Qu",
+   "Jincai Zhao",
+   "Tao Shen",
+   "Hisao Hidaka"
+  ],
+  "journal": "Journal of Molecular Catalysis A Chemical",
+  "publisher": "Elsevier BV",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1016/s1381-1169(96)00404-9",
+  "url": "https://doi.org/10.1016/s1381-1169(96)00404-9",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Technical Institute of Physics and Chemistry",
+   "Meisei University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4b157f9910473c84",
+  "title": "Photocatalytic Degradation of Chlorinated Phenoxyacetic Acids by a New Buoyant Titania-Exfoliated Graphite Composite Photocatalyst",
+  "authors": [
+   "Alexander D. Modestov",
+   "Victor Glezer",
+   "Iliya Marjasin",
+   "Ovadia Lev"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1021/jp970132n",
+  "url": "https://doi.org/10.1021/jp970132n",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2",
+   "Water Purification"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "47e7f0bcf598c62e",
+  "title": "59 アルコール代謝酵素遺伝子の多型と食道癌感受性( 第50回日本消化器外科学会総会)",
+  "authors": [
+   "晴洋 井上",
+   "鑑 永井",
+   "辰幸 河野",
+   "邦英 吉野",
+   "光夫 遠藤",
+   "保仁 湯浅"
+  ],
+  "journal": "日本消化器外科学会雑誌",
+  "publisher": "",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1039/d3cc00988b",
+  "url": "https://doi.org/10.1039/d3cc00988b",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3a7a122b83388caa",
+  "title": "The influence of solution matrix on the photocatalytic degradation of TNT in TiO2 slurries",
+  "authors": [
+   "Daniel C. Schmelling",
+   "Kimberly A. Gray",
+   "Prashant V. Kamat"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1016/s0043-1354(96)00358-2",
+  "url": "https://doi.org/10.1016/s0043-1354(96)00358-2",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Notre Dame",
+   "Northwestern University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2d7cc27bb2531196",
+  "title": "A highly active photocatalyst for overall water splitting with a hydrated layered perovskite structure",
+  "authors": [
+   "Tsuyoshi Takata",
+   "K Shinohara",
+   "Akira Tanaka",
+   "Masahiko Hara",
+   "Junko N. Kondo",
+   "Kazunari Domen"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1016/s1010-6030(97)00037-3",
+  "url": "https://doi.org/10.1016/s1010-6030(97)00037-3",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Nikon (Japan)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1a43d488a8db6d6c",
+  "title": "Electronic spectra and photocatalytic activities of semiconductor nanoparticles incorporated in silica matrix",
+  "authors": [
+   "Н. П. Смирнова",
+   "A. I. Kryukov",
+   "A. V. Korzhak",
+   "А. М. Еременко",
+   "S.A. Kuchmii",
+   "V. M. Оgenko"
+  ],
+  "journal": "Journal of Molecular Structure",
+  "publisher": "Elsevier BV",
+  "published": "1997-06-01",
+  "year": 1997,
+  "doi": "10.1016/s0022-2860(96)09722-0",
+  "url": "https://doi.org/10.1016/s0022-2860(96)09722-0",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "L.V. Pisarzhevskii Institute of Physical Chemistry"
   ],
   "added": "2026-07-24"
  }
