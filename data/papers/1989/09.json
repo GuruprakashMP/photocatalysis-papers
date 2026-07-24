@@ -1,5 +1,170 @@
 [
  {
+  "id": "8a7d80aa492681b2",
+  "title": "ChemInform Abstract: Photocatalytic Activities of Microcrystalline TiO2 Incorporated in Sheet Silicates of Clay.",
+  "authors": [
+   "Hiroshi Yoneyama",
+   "Saori Haga",
+   "Shinşuke Yamanaka"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-09-26",
+  "year": 1989,
+  "doi": "10.1002/chin.198939033",
+  "url": "https://doi.org/10.1002/chin.198939033",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c1b0c1862394ac1e",
+  "title": "ChemInform Abstract: Reaction Mechanisms for the Photocatalytic Isomerization and Hydrogenation of cis‐2‐Butene Over TiO2.",
+  "authors": [
+   "Shintaro Kodama",
+   "Shinji Yagi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-09-19",
+  "year": 1989,
+  "doi": "10.1002/chin.198938108",
+  "url": "https://doi.org/10.1002/chin.198938108",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e838250a4f254f2b",
+  "title": "Photoredox chemistry of chloro complexes of antimony(III) and (V)",
+  "authors": [
+   "A. Vogler",
+   "A. Paukner"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1016/s0020-1693(00)83453-2",
+  "url": "https://doi.org/10.1016/s0020-1693(00)83453-2",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Regensburg"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9e3beb80f72158ab",
+  "title": "Photocatalytic effects of Fe(III) compounds on the hydroxylation of benzoic acid by hydrogen peroxide initiated by UV-radiation",
+  "authors": [
+   "Petr Sedlák",
+   "Stanislav Luňák",
+   "Jiřina Brodilová",
+   "Pavel Lederer"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1007/bf02071335",
+  "url": "https://doi.org/10.1007/bf02071335",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Czech Academy of Sciences, Institute of Inorganic Chemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8c7b8ebd9217076a",
+  "title": "Protection of photoanodes against photocorrosion by surface deposition of oxide films",
+  "authors": [
+   "G. Campet",
+   "C. Puprichitkun",
+   "Zhaoqi Sun"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1016/0022-0728(89)85150-2",
+  "url": "https://doi.org/10.1016/0022-0728(89)85150-2",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie Moléculaire",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "707a1d620cf8bb2d",
+  "title": "Factors influencing the photocatalytic efficiency of WO3 particles",
+  "authors": [
+   "Muthupandian Ashokkumar",
+   "P. Maruthamuthu"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1016/1010-6030(89)87122-9",
+  "url": "https://doi.org/10.1016/1010-6030(89)87122-9",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "WO3"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Madras"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "22551eb964821c99",
   "title": "Mechanism of Stabilization of ZnO Photoanodes in High pH Solutions",
   "authors": [
@@ -29,6 +194,91 @@
    "The University of Tokyo",
    "Yokohama National University",
    "Nagoya Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1978139a94df545d",
+  "title": "Photoelectrochemical oxidation of water at CdS and CdSe anodes coated with composites of conducting polymer containing RuO2",
+  "authors": [
+   "Diariatou Gningue",
+   "Gilles Horowitz",
+   "Jean Roncali",
+   "Françis Garnier"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1016/0022-0728(89)85142-3",
+  "url": "https://doi.org/10.1016/0022-0728(89)85142-3",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Laboratoire de Photophysique et Photochimie Supramoléculaires et Macromoléculaires"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "156d8c91aa1af790",
+  "title": "Correlations between photosorption and photocatalytic activities of alkali metal halides",
+  "authors": [
+   "V. K. Ryabchuk",
+   "L. L. Basov",
+   "Yu. P. Solonitsyn"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1007/bf02071348",
+  "url": "https://doi.org/10.1007/bf02071348",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "056ae6460dd8a733",
+  "title": "Competitive processes in photocatalysis. Phenol-sulphide and phenol-cyanide competitive photooxidation over ZnO",
+  "authors": [
+   "José Peral",
+   "Juan Casado",
+   "Xavier Domènech"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1989-09-01",
+  "year": 1989,
+  "doi": "10.1016/0013-4686(89)85030-3",
+  "url": "https://doi.org/10.1016/0013-4686(89)85030-3",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation",
+   "ZnO"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Universitat Autònoma de Barcelona"
   ],
   "added": "2026-07-24"
  }

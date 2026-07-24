@@ -1,5 +1,198 @@
 [
  {
+  "id": "ce9e9b52927166e5",
+  "title": "Static Spectral Sensitization of Photocatalytic Systems",
+  "authors": [
+   "Horst Hennig",
+   "D. Rehorek"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1986-04-30",
+  "year": 1986,
+  "doi": "10.1021/bk-1986-0307.ch008",
+  "url": "https://doi.org/10.1021/bk-1986-0307.ch008",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Leipzig University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "36c69ef237c85d3e",
+  "title": "Metal-Ligand Charge Transfer Photochemistry",
+  "authors": [
+   "Derk J. Stufkens",
+   "A. Oskam",
+   "Maarten W. Kokkes"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1986-04-30",
+  "year": 1986,
+  "doi": "10.1021/bk-1986-0307.ch006",
+  "url": "https://doi.org/10.1021/bk-1986-0307.ch006",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Amsterdam"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "fe57931fd7e10cc7",
+  "title": "ChemInform Abstract: Photocatalysis of Oxygen Transfer from p‐Cyano‐N,N‐dimethylaniline N‐Oxide to meso‐(Tetraphenylporphinato)chromium(III) Chloride.",
+  "authors": [
+   "Lin Yuan",
+   "Thomas S. Calderwood",
+   "T. C. BRUICE"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1986-04-22",
+  "year": 1986,
+  "doi": "10.1002/chin.198616280",
+  "url": "https://doi.org/10.1002/chin.198616280",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9c22355231d3c810",
+  "title": "ChemInform Abstract: Photocatalytic Decomposition of Water into H 2 and O 2 over NiO‐SrTiO3 Powder.",
+  "authors": [
+   "Kazunari Domen",
+   "Akihiko Kudo",
+   "Toshikazu Onishi",
+   "Nobuhiro Kosugi",
+   "Haruo Kuroda"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1986-04-22",
+  "year": 1986,
+  "doi": "10.1002/chin.198616008",
+  "url": "https://doi.org/10.1002/chin.198616008",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4e4c7e7db9574537",
+  "title": "ChemInform Abstract: Photoredox Reactions at Semiconductor Particles Incorporated into Clays.",
+  "authors": [
+   "O. Enea",
+   "Allen J. Bard"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1986-04-22",
+  "year": 1986,
+  "doi": "10.1002/chin.198616014",
+  "url": "https://doi.org/10.1002/chin.198616014",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoredox",
+   "Semiconductors"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e721adc43ee8fb56",
+  "title": "The n‐Silicon/Thallium(III) Oxide Heterojunction Photoelectrochemical Solar Cell",
+  "authors": [
+   "Jay A. Switzer"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "10.1149/1.2108662",
+  "url": "https://doi.org/10.1149/1.2108662",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e0f6b2cc1bbd563a",
+  "title": "Electrochemical photovoltaic cells: stabilization and optimization of semiconductor photoanodes. Final subcontract report, 5 July 1983-30 September 1985",
+  "authors": [
+   "R. Haak",
+   "S. Menezes"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5751610",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 41,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "dde14f8f27f6246f",
   "title": "Photocatalysis over binary metal oxides. Enhancement of the photocatalytic activity of titanium dioxide in titanium-silicon oxides",
   "authors": [
@@ -57,6 +250,120 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo",
    "Kyoto University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8077305c9e2b6162",
+  "title": "Photochemical catalytic reduction of carbon dioxide by visible light using RuII(bipy)3 and Re(CO)3(bipy)Cl as photocatalysts",
+  "authors": [
+   "Hannu Hukkanen",
+   "Tuula T. Pakkanen"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "10.1016/s0020-1693(00)86439-7",
+  "url": "https://doi.org/10.1016/s0020-1693(00)86439-7",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "568b3d4a84cefb24",
+  "title": "Photochemical Hydroxymethylation of Alicyclic and Aliphatic Alkenes Induced by a EuIII/EuII Photoredox System in Methanol",
+  "authors": [
+   "Akito Ishida",
+   "Shinya Yamashita",
+   "Susumu Toki",
+   "Setsuo Takamuku"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "10.1246/bcsj.59.1195",
+  "url": "https://doi.org/10.1246/bcsj.59.1195",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Osaka Research Institute of Industrial Science and Technology",
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4c385c03c67cefd9",
+  "title": "Investigation of modified strontium titanate photoanodes",
+  "authors": [
+   "A.G. Sarkisyan",
+   "V. M. Arutyunyan",
+   "V.V. Melikyan",
+   "E.V. Putnyn"
+  ],
+  "journal": "Sov. Electrochem. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6912675",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "SrTiO3"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2b59ae05cd88b936",
+  "title": "Efficient photochemical conversion of aqueous sulphides and sulphites to hydrogen using a rhodium-loaded CdS photocatalyst",
+  "authors": [
+   "Enrico Borgarello",
+   "Nick Serpone",
+   "Ezio Pelizzetti",
+   "Massimo Barbeni"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1986-04-01",
+  "year": 1986,
+  "doi": "10.1016/0047-2670(86)87017-4",
+  "url": "https://doi.org/10.1016/0047-2670(86)87017-4",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Turin",
+   "Concordia University"
   ],
   "added": "2026-07-24"
  }

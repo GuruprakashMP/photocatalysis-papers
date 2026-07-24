@@ -1,5 +1,90 @@
 [
  {
+  "id": "fb4563ca12849f9a",
+  "title": "Heterogeneous photochemical electron transfer",
+  "authors": [
+   "Michaël Grätzel"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1988-10-31",
+  "year": 1988,
+  "doi": "",
+  "url": "http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;local_base=BVB01&amp;doc_number=001074540&amp;sequence=000001&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Photocatalysis",
+   "Photodegradation",
+   "Semiconductors"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7aee7f1348d3cb5e",
+  "title": "ChemInform Abstract: Polysulfide Solution Chemistry at a CdSe Photoanode.",
+  "authors": [
+   "Noel A. Ardoin",
+   "Jack Winnick"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-10-18",
+  "year": 1988,
+  "doi": "10.1002/chin.198842009",
+  "url": "https://doi.org/10.1002/chin.198842009",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3d419f20078d84a6",
+  "title": "ChemInform Abstract: Protection of CdSe Oxygen Photoanodes by Poly(bithiophene)‐Polypyrrole Composites and Copolymers.",
+  "authors": [
+   "Diariatou Gningue",
+   "Gilles Horowitz",
+   "Françis Garnier"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-10-18",
+  "year": 1988,
+  "doi": "10.1002/chin.198842376",
+  "url": "https://doi.org/10.1002/chin.198842376",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Laboratoire de Photophysique et Photochimie Supramoléculaires et Macromoléculaires"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "ebc3eab1dd6b3b9c",
   "title": "Photocatalytic Oxidation of Alcohols on TiO2",
   "authors": [
@@ -32,6 +117,160 @@
    "RIKEN",
    "Federal Research and Clinical Center of Physical-Chemical Medicine named after Y.M. Lopukhin",
    "SRI International"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d71a71cc4b2b490d",
+  "title": "Kinetics of the reduction of methyl viologen with hydrogen on a colloidal Pt catalyst",
+  "authors": [
+   "V.E. Maier",
+   "Vladimir Shafirovich"
+  ],
+  "journal": "Kinet. Catal. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1103/physrevc.38.1069",
+  "url": "https://doi.org/10.1103/physrevc.38.1069",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9794c95241b44a88",
+  "title": "Highly active water-soluble zinc porphyrins for photoredox reactions",
+  "authors": [
+   "Yuichi Kinumi",
+   "Ichiro Okura"
+  ],
+  "journal": "Inorganica Chimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1016/s0020-1693(00)83862-1",
+  "url": "https://doi.org/10.1016/s0020-1693(00)83862-1",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8b5ed5b19826f891",
+  "title": "An adsorption water purifier with in situ photocatalytic regeneration",
+  "authors": [
+   "Ralph Matthews"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1016/0021-9517(88)90283-7",
+  "url": "https://doi.org/10.1016/0021-9517(88)90283-7",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Commonwealth Scientific and Industrial Research Organisation"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6a3427fd7ff60510",
+  "title": "Effect of surface-adsorbed 2-propanol on the photocatalytic reduction of silver and/or nitrate ions in acidic titania suspension",
+  "authors": [
+   "Bunsho Ohtani",
+   "Masaya Kakimoto",
+   "Hiroshi Miyadzu",
+   "Sei‐ichi Nishimoto",
+   "Tsutomu Kagiya"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1021/j100331a045",
+  "url": "https://doi.org/10.1021/j100331a045",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "53e8c0f8a1405b1a",
+  "title": "Kinetics studies in heterogeneous photocatalysis. I. Photocatalytic degradation of chlorinated phenols in aerated aqueous solutions over titania supported on a glass matrix",
+  "authors": [
+   "Hussain Al–Ekabi",
+   "Nick Serpone"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1021/j100331a036",
+  "url": "https://doi.org/10.1021/j100331a036",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "402451dbce742963",
+  "title": "Combined high-pressure photocatalytic reactor–UHV system and sample transfer device",
+  "authors": [
+   "Alireza Z. Moshfegh",
+   "A. Ignatiev"
+  ],
+  "journal": "Review of Scientific Instruments",
+  "publisher": "American Institute of Physics",
+  "published": "1988-10-01",
+  "year": 1988,
+  "doi": "10.1063/1.1139987",
+  "url": "https://doi.org/10.1063/1.1139987",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Houston"
   ],
   "added": "2026-07-24"
  }

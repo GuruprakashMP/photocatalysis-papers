@@ -1,5 +1,89 @@
 [
  {
+  "id": "6cc27a8e87e1f18e",
+  "title": "ChemInform Abstract: Photocatalytic Oxidation of Sulfur Dioxide in Aqueous Suspensions of α‐Fe2O3.",
+  "authors": [
+   "Bruce C. Faust",
+   "Michael R. Hoffmann",
+   "Detlef W. Bahnemann"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-11-28",
+  "year": 1989,
+  "doi": "10.1002/chin.198948022",
+  "url": "https://doi.org/10.1002/chin.198948022",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5a7721d4dd62b88d",
+  "title": "ChemInform Abstract: Photocatalysis on Small Particle Titanium Dioxide Catalysts. Reaction Intermediates and Reaction Mechanisms",
+  "authors": [
+   "Masakazu Anpo"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-11-28",
+  "year": 1989,
+  "doi": "10.1002/chin.198948342",
+  "url": "https://doi.org/10.1002/chin.198948342",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a649b86aeb49dccc",
+  "title": "ChemInform Abstract: Photooxidation of Alcohols by Hexachlorometalate(IV) Ions (M: Pt, Pd, or Ir): Spin Trapping and Matrix Isolation Electron Spin Resonance Studies.",
+  "authors": [
+   "Anand G. Fadnis",
+   "Terence J. Kemp"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-11-14",
+  "year": 1989,
+  "doi": "10.1002/chin.198946097",
+  "url": "https://doi.org/10.1002/chin.198946097",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photooxidation",
+   "Photoredox",
+   "Photoreduction",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Warwick"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "ea6ea31b277668ce",
   "title": "Photodecomposition of Kraft Lignin Catalyzed by Titanium Dioxide",
   "authors": [
@@ -31,6 +115,214 @@
    "Kanagawa University",
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e05fb82d1935c2d6",
+  "title": "Photocatalytic production of energy-rich compounds",
+  "authors": [
+   "Frank Wilkinson"
+  ],
+  "journal": "Fuel",
+  "publisher": "Elsevier BV",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1016/0016-2361(89)90053-7",
+  "url": "https://doi.org/10.1016/0016-2361(89)90053-7",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "db3bff1d86a79f20",
+  "title": "Photocatalytic degradation of nonylphenol ethoxylated surfactants",
+  "authors": [
+   "Ezio Pelizzetti",
+   "Claudio Minero",
+   "Valter Maurino",
+   "A. Sclafani",
+   "Hisao Hidaka",
+   "Nick Serpone"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1021/es00069a008",
+  "url": "https://doi.org/10.1021/es00069a008",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cfb818ff22eb2f22",
+  "title": "Influence of acid-base properties on photocatalytic and photochemical processes",
+  "authors": [
+   "Leonardo Palmisano",
+   "Vincenzo Augugliaro",
+   "M. Schiavello",
+   "A. Sclafani"
+  ],
+  "journal": "Journal of Molecular Catalysis",
+  "publisher": "Science Press",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1016/0304-5102(89)80192-0",
+  "url": "https://doi.org/10.1016/0304-5102(89)80192-0",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Palermo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ae962902d9b64874",
+  "title": "Photocatalytic degradation of DDT mediated in aqueous semiconductor slurries by simulated sunlight",
+  "authors": [
+   "Roberta Borello",
+   "Claudio Minero",
+   "Edmondo Pramauro",
+   "Ezio Pelizzetti",
+   "Nick Serpone",
+   "Hisao Hidaka"
+  ],
+  "journal": "Environmental Toxicology and Chemistry",
+  "publisher": "Wiley",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1002/etc.5620081105",
+  "url": "https://doi.org/10.1002/etc.5620081105",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "CdS",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Semiconductors",
+   "Simulated Sunlight",
+   "TiO2",
+   "WO3",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Turin",
+   "University of Parma",
+   "Concordia University",
+   "Meisei University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a4019f4240c7d925",
+  "title": "Reactions of Hydroxyl Radicals with Chlorobenzenes: Comparison of TiO2 Photocatalyst Reactions to Fenton’s Reagent",
+  "authors": [
+   "Guiseppe Lepore",
+   "Cooper H. Langford"
+  ],
+  "journal": "Water Quality Research Journal",
+  "publisher": "UWA Publishing",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.2166/wqrj.1989.033",
+  "url": "https://doi.org/10.2166/wqrj.1989.033",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Concordia University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "55c8b109fece9cd3",
+  "title": "Photocatalytic activity of tin-substituted TiO2 in visible light",
+  "authors": [
+   "T.R.N. Kutty",
+   "M. Avudaithai"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1016/0009-2614(89)80017-x",
+  "url": "https://doi.org/10.1016/0009-2614(89)80017-x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Indian Institute of Science Bangalore"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "47f32629a873833b",
+  "title": "Magnetic field effects in photoredox reaction of copper(I) cyanides",
+  "authors": [
+   "Attila K. Horváth",
+   "Z. Zsilák",
+   "S. Papp"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1989-11-01",
+  "year": 1989,
+  "doi": "10.1016/1010-6030(89)80026-7",
+  "url": "https://doi.org/10.1016/1010-6030(89)80026-7",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Veszprémi Érseki Hittudományi Fõiskola"
   ],
   "added": "2026-07-24"
  }

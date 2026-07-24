@@ -1,5 +1,124 @@
 [
  {
+  "id": "d3fadf21a265408c",
+  "title": "ChemInform Abstract: Photocatalytic Dimerization of Olefins by Decatungstate(VI), (W10O32)4‐, in Acetonitrile and Magnetic Resonance Studies of Photoreduced Species.",
+  "authors": [
+   "Toshihiro Yamase",
+   "T. Usami"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-03-29",
+  "year": 1988,
+  "doi": "10.1002/chin.198813029",
+  "url": "https://doi.org/10.1002/chin.198813029",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ea74199d91f34f1c",
+  "title": "Sensitization and Charge Carrier Kinetics in ZnO Powders",
+  "authors": [
+   "K.‐M. Schindler",
+   "Marinus Kunst"
+  ],
+  "journal": "Zeitschrift für Naturforschung A",
+  "publisher": "De Gruyter",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "10.1515/zna-1988-0301",
+  "url": "https://doi.org/10.1515/zna-1988-0301",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Dye Degradation",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e065e8f60546bf82",
+  "title": "Testing of Stability and Spectroscopic Response of NiO(OH)/Ni 2 Si/n + /n-Si-Photoanode",
+  "authors": [
+   "Guozheng Li",
+   "Shixun Wang",
+   "Nikola Getoff"
+  ],
+  "journal": "Zeitschrift für Naturforschung A",
+  "publisher": "De Gruyter",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "10.1515/zna-1988-0311",
+  "url": "https://doi.org/10.1515/zna-1988-0311",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Shandong University",
+   "University of Vienna"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8b7438fbf7d99f5b",
+  "title": "Modeling of Bipolar Semiconductor Photoelectrode Arrays for Electrolytic Processes",
+  "authors": [
+   "S. Cervera‐March",
+   "Eugene S. Smotkin",
+   "Allen J. Bard",
+   "Alan Campion",
+   "Marye Anne Fox",
+   "Thomas E. Mallouk",
+   "S. E. Webber",
+   "John White"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "10.1149/1.2095659",
+  "url": "https://doi.org/10.1149/1.2095659",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "52d8ed5a79ca9e2c",
   "title": "Photoacoustic in Situ Measurement of Quantum Efficiencies for Photoanodic Reactions at n-Type Semiconductor Electrodes",
   "authors": [
@@ -30,6 +149,92 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4c563e029595b7bd",
+  "title": "Electronic properties and the photocatalytic activity of zinc oxide surface promoted by palladium",
+  "authors": [
+   "A.Yu. Graifer",
+   "A. P. Koshcheev",
+   "I.A. Myasnikov"
+  ],
+  "journal": "Kinet. Catal. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7150972",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "300f8202dc2da1d1",
+  "title": "ChemInform Abstract: Photo‐Oxidation of Cu(I) at n‐InP in Concentrated Chloride.",
+  "authors": [
+   "L. F. Schneemeyer",
+   "J. M. Rosamilia",
+   "B.I. Miller"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "10.1002/chin.198809018",
+  "url": "https://doi.org/10.1002/chin.198809018",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "AT&T (United States)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "264e69c137369a1a",
+  "title": "Photocatalytic generation of hydrogen from Na/sub 2/S solutions in the presence of finely dispersed cadmium and copper sulfides",
+  "authors": [
+   "V. I. Fedoseev",
+   "E.N. Savinov",
+   "В.Н. Пармон"
+  ],
+  "journal": "Kinet. Catal. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1988-03-01",
+  "year": 1988,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6971551-photocatalytic-generation-hydrogen-from-na-sub-solutions-presence-finely-dispersed-cadmium-copper-sulfides",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

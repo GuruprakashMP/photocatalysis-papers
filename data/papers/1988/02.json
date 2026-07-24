@@ -1,5 +1,87 @@
 [
  {
+  "id": "dc7a117113f4b425",
+  "title": "Elements of Inorganic Photochemistry",
+  "authors": [
+   "G. Ferraudi"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1988-02-08",
+  "year": 1988,
+  "doi": "",
+  "url": "https://www.amazon.com/Elements-Inorganic-Photochemistry-G-Ferraudi/dp/0471813257",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoluminescence",
+   "Photoredox"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "111e7656fdd41a48",
+  "title": "ChemInform Abstract: Use of an Intercalation Oxide as a Reference Electrode in an All Solid‐State Polymer Electrolyte Photoelectrochemical Cell.",
+  "authors": [
+   "Benoı̂t Marsan",
+   "D. Fauteux",
+   "Ashok K. Vijh"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-02-02",
+  "year": 1988,
+  "doi": "10.1002/chin.198805016",
+  "url": "https://doi.org/10.1002/chin.198805016",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Norsk Hydro (Germany)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "97da3786a74a5b77",
+  "title": "Impedance and Admittance Measurements at Intercalated n ‐ HfS2 / Nonaqueous Electrolyte Interface",
+  "authors": [
+   "Krystyna W. Semkow",
+   "Nirupama U. Pujare",
+   "Anthony F. Sammells"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-02-01",
+  "year": 1988,
+  "doi": "10.1149/1.2095609",
+  "url": "https://doi.org/10.1149/1.2095609",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Eltron Research"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "68589e4531614caa",
   "title": "The Photocatalytic Activity of a Platinized Titanium Dioxide Catalyst Supported over Silica",
   "authors": [
@@ -29,6 +111,60 @@
   "affiliations": [
    "Tokyo Institute of Technology"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "19ce71a3d29de6a3",
+  "title": "Involvement of coordination chemistry during electron transfer in the stabilization of the pyrite (FeS2)photoanode",
+  "authors": [
+   "Xueping Li",
+   "Nicolás Alonso‐Vante",
+   "H. Tributsch"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1988-02-01",
+  "year": 1988,
+  "doi": "10.1016/0022-0728(88)80255-9",
+  "url": "https://doi.org/10.1016/0022-0728(88)80255-9",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "02e8e2fb7c933ff8",
+  "title": "Photoelectrochemical behavior of silicon coated with a catalytic and protective film of titanium-ruthenium oxide",
+  "authors": [
+   "A.M. Kraitsberg",
+   "Yu. V. Pleskov"
+  ],
+  "journal": "Sov. Electrochem. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1988-02-01",
+  "year": 1988,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6421214",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Photooxidation"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

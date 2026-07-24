@@ -1,5 +1,127 @@
 [
  {
+  "id": "9973fbbdd7582136",
+  "title": "Efficient photoinduced electron transfer from inorganic semiconductor TiO 2 to bacterial hydrogenase",
+  "authors": [
+   "V.V. Nikandrov",
+   "M.A. Shlyk",
+   "N. A. Zorin",
+   "И. Н. Гоготов",
+   "А.А. Krasnovsky"
+  ],
+  "journal": "FEBS Letters",
+  "publisher": "Wiley",
+  "published": "1988-07-04",
+  "year": 1988,
+  "doi": "10.1016/0014-5793(88)81314-0",
+  "url": "https://doi.org/10.1016/0014-5793(88)81314-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoinduced ET",
+   "Semiconductors"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "A N Bach Institute of Biochemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f5a2e4386b90b6a2",
+  "title": "Catalytic Fixation of Nitrogen by the Photocatalytic CdS/Pt/RuO 2 Particulate System in the Presence of Aqueous [Ru(Hedta)N 2 ] ⊖ Complex",
+  "authors": [
+   "Mirza M. Taqui Khan",
+   "Ramesh C. Bhardwaj",
+   "Chhaya Bhardwaj"
+  ],
+  "journal": "Angewandte Chemie International Edition in English",
+  "publisher": "",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1002/anie.198809231",
+  "url": "https://doi.org/10.1002/anie.198809231",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Central Salt and Marine Chemicals Research Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c32082a055c1d2e7",
+  "title": "A photocatalytic cycle for mild oxidation by dioxygen of substrates easily oxidizable by iodine",
+  "authors": [
+   "Paulo Figueiredo",
+   "Fernando Piña"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1016/1010-6030(88)85005-6",
+  "url": "https://doi.org/10.1016/1010-6030(88)85005-6",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Lisbon",
+   "Instituto Superior Técnico",
+   "Universidade Nova de Lisboa"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bcefc6462747dae5",
+  "title": "Bulk versus surface state contributions to the efficiency of perovskite titanate photoanodes",
+  "authors": [
+   "L. Gomathi Devi",
+   "T.R.N. Kutty",
+   "M. Avudaithai"
+  ],
+  "journal": "Bulletin of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1007/bf02744300",
+  "url": "https://doi.org/10.1007/bf02744300",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Indian Institute of Science Bangalore"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "91f074d5a943ebd5",
   "title": "Photoelectrochemical Polymerization of Pyrrole on ZnO and Its Application to Conducting Pattern Generation",
   "authors": [
@@ -29,6 +151,197 @@
   "relevance_score": 70,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "89459131f9191695",
+  "title": "Photoelectrochemical properties of metal-cluster oxide compounds, A2Mo3O8 and (LiY)Mo3O8",
+  "authors": [
+   "M. Paranthaman",
+   "G. Aravamudan",
+   "G. V. Subba Rao"
+  ],
+  "journal": "Bulletin of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1007/bf02744302",
+  "url": "https://doi.org/10.1007/bf02744302",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Indian Institute of Technology Madras"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "852d114cd7a6fc33",
+  "title": "Dye sensitization of van der Waals surfaces of tin disulfide photoanodes",
+  "authors": [
+   "B. A. Parkinson"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1021/la00082a031",
+  "url": "https://doi.org/10.1021/la00082a031",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "61b043e990bc0e91",
+  "title": "Light‐Localized Deposition of Electroconductive Polymers on n‐Type Silicon by Utilizing Semiconductor Photocatalysis",
+  "authors": [
+   "Hiroshi Yoneyama",
+   "Katsuhiro Kawai",
+   "Susumu Kuwabata"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1149/1.2096100",
+  "url": "https://doi.org/10.1149/1.2096100",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2c8d2859d6dcf197",
+  "title": "Polysulfide Solution Chemistry at a CdSe Photoanode",
+  "authors": [
+   "Noel A. Ardoin",
+   "Jack Winnick"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1149/1.2096104",
+  "url": "https://doi.org/10.1149/1.2096104",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2b2db92af285d345",
+  "title": "Photocatalytic production of hydrogen peroxides and organic peroxides in aqueous suspensions of titanium dioxide, zinc oxide, and desert sand",
+  "authors": [
+   "Claudius Kormann",
+   "Detlef W. Bahnemann",
+   "Michael R. Hoffmann"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1021/es00172a009",
+  "url": "https://doi.org/10.1021/es00172a009",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1cd981b6a73323f4",
+  "title": "Copper Photoelectroplating Using a n ‐ CuInSe2 / Acidic Iodide Based Cell",
+  "authors": [
+   "S. Menezes"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1149/1.2096167",
+  "url": "https://doi.org/10.1149/1.2096167",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Rockwell Automation (United States)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "136958dbb029ed8c",
+  "title": "Protection of CdSe Oxygen Photoanodes by Poly(bithiophene)‐Polypyrrole Composites and Copolymers",
+  "authors": [
+   "Diariatou Gningue",
+   "Gilles Horowitz",
+   "Françis Garnier"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1988-07-01",
+  "year": 1988,
+  "doi": "10.1149/1.2096099",
+  "url": "https://doi.org/10.1149/1.2096099",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Water Splitting"
+  ],
+  "tags": [
+   "CdS",
+   "Oxygen Evolution",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique"
   ],
   "added": "2026-07-24"
  }

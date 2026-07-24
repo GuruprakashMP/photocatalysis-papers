@@ -1,5 +1,111 @@
 [
  {
+  "id": "d2e19b42f39242a6",
+  "title": "Photoredox Chemistry of Colloidal Metal Oxides",
+  "authors": [
+   "T. David Waite"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1987-11-13",
+  "year": 1987,
+  "doi": "10.1021/bk-1987-0323.ch020",
+  "url": "https://doi.org/10.1021/bk-1987-0323.ch020",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e88df930a3b7555d",
+  "title": "Viologens with charged groups: New redox carriers in reactions of photocatalytic separation of hydrogen from water in homogeneous and vesicular systems",
+  "authors": [
+   "V.E. Maier",
+   "A. N. Kitaigorodskii",
+   "N. K. Khannanov",
+   "Vladimir Shafirovich"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1007/bf00957296",
+  "url": "https://doi.org/10.1007/bf00957296",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Problems of Chemical Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e7b904faaa3efb93",
+  "title": "Correlating compressor and turbine costs with thermodynamic properties for CAES power plants",
+  "authors": [
+   "Péter Vadász",
+   "D. Weiner"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1016/j.jhazmat.2012.04.009",
+  "url": "https://doi.org/10.1016/j.jhazmat.2012.04.009",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photodegradation",
+   "Photogenerated Carriers",
+   "Water Purification"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e0bebdc17936744f",
+  "title": "In vitro photoelectrochemical model of the Z scheme in green plant photosynthesis",
+  "authors": [
+   "Angela Agostiano",
+   "Francis K. Fong"
+  ],
+  "journal": "Bioelectrochemistry and Bioenergetics",
+  "publisher": "Elsevier BV",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1016/0302-4598(87)80043-0",
+  "url": "https://doi.org/10.1016/0302-4598(87)80043-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Purdue University West Lafayette"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "8a773e4840a8c14b",
   "title": "Hole Transfer Rates at Illuminated α-Fe2O3 Electrodes, Rate Declining in Highly Exothermic Reactions and Hole Transfer via Surface States",
   "authors": [
@@ -30,6 +136,65 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7b1e85343024c698",
+  "title": "US 4,683,255 Fire retardant polyphenylene ether",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1016/0306-3747(87)90025-x",
+  "url": "https://doi.org/10.1016/0306-3747(87)90025-x",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Co-catalysts & Surface",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "DFT",
+   "Doping",
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "604af36500e55b30",
+  "title": "Photo‐Oxidation of Cu(I) at n ‐ InP in Concentrated Chloride",
+  "authors": [
+   "L. F. Schneemeyer",
+   "J. M. Rosamilia",
+   "B.I. Miller"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1149/1.2100284",
+  "url": "https://doi.org/10.1149/1.2100284",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "AT&T (United States)",
+   "Alcatel Lucent (Germany)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "45f351c0f5da00c2",
   "title": "Incorporation of Dye Molecules in Polypyrrole Films in the Process of Photoelectrochemical Deposition",
   "authors": [
@@ -56,6 +221,93 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2eb7a4a1026cf20b",
+  "title": "Photosynthetic production of H2O2 from water at n-TiO2 electrodes in a photoelectrochemical cell: influence of electrolyte pH AND Pt electrodeposition",
+  "authors": [
+   "D. Tafalla",
+   "Pedro Salvador"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1016/0022-0728(87)85235-x",
+  "url": "https://doi.org/10.1016/0022-0728(87)85235-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Instituto de Catálisis y Petroleoquímica"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "11e87bf747ffffe5",
+  "title": "Cobalt(II) tetrasulfophthalocyanine on titanium dioxide. 2. Kinetics and mechanisms of the photocatalytic oxidation of aqueous sulfur dioxide",
+  "authors": [
+   "Andrew P. Hong",
+   "Detlef W. Bahnemann",
+   "Michael R. Hoffmann"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1021/j100308a035",
+  "url": "https://doi.org/10.1021/j100308a035",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "Radical Chemistry",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0bc9bb02c9cd4346",
+  "title": "GB 2,187,193 A photodegradable polymers",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1987-11-01",
+  "year": 1987,
+  "doi": "10.1016/0306-3747(87)90012-1",
+  "url": "https://doi.org/10.1016/0306-3747(87)90012-1",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Photodegradation",
+   "Photogenerated Carriers",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

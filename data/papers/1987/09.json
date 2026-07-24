@@ -1,5 +1,207 @@
 [
  {
+  "id": "b0036f2ba4e43871",
+  "title": "ChemInform Abstract: Photocatalysis",
+  "authors": [
+   "G.A. Somorjai"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-29",
+  "year": 1987,
+  "doi": "10.1002/chin.198739396",
+  "url": "https://doi.org/10.1002/chin.198739396",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c66548a6656a90a6",
+  "title": "ChemInform Abstract: Photocatalytic Activity of TiO2 Powders Suspended in Aqueous Silver Nitrate Solution. Correlation with pH‐Dependent Surface Structures.",
+  "authors": [
+   "Bunsho Ohtani",
+   "Yoshitaka Okugawa",
+   "Satoshi Nishimoto",
+   "Tsutomu Kagiya"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-15",
+  "year": 1987,
+  "doi": "10.1002/chin.198737032",
+  "url": "https://doi.org/10.1002/chin.198737032",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7e4b3a66a6eed647",
+  "title": "ChemInform Abstract: Photocatalytic Oxidation of Hydrocarbons by (5,10,15,20‐Tetraphenylporphyrinato)manganese(III) Perchlorate and Periodate.",
+  "authors": [
+   "Kenneth S. Suslick",
+   "Francis V. Acholla",
+   "Bruce R. Cook"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1987-09-08",
+  "year": 1987,
+  "doi": "10.1002/chin.198736101",
+  "url": "https://doi.org/10.1002/chin.198736101",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Urbana University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b88a4cf7e9d883d8",
+  "title": "Photocatalytic Formation of Hydrogen Peroxide",
+  "authors": [
+   "Detlef W. Bahnemann",
+   "Michael R. Hoffmann",
+   "Andrew P. Hong",
+   "Claudius Kormann"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1987-09-03",
+  "year": 1987,
+  "doi": "10.1021/bk-1987-0349.ch010",
+  "url": "https://doi.org/10.1021/bk-1987-0349.ch010",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "Semiconductors"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f4fb05ea8a15da8a",
+  "title": "Kinetics and mechanism of photocatalytic aging of polyacrylic acid and polyacrylamide at 77/sup 0/K",
+  "authors": [
+   "E.N. Seropegina",
+   "N.V. Fok",
+   "Mikhail Ya. Melnikov"
+  ],
+  "journal": "Dokl. Phys. Chem. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5676308-kinetics-mechanism-photocatalytic-aging-polyacrylic-acid-polyacrylamide-sup",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8e5a0dce6d69462a",
+  "title": "U.S. 4,665,118 Processing aid for vinyls",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0306-3747(87)90675-0",
+  "url": "https://doi.org/10.1016/0306-3747(87)90675-0",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Band Gap",
+   "BiVO4",
+   "Doping",
+   "Electron-Hole Pairs",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Pollutants",
+   "Visible Light"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8612095f622149b5",
+  "title": "Visible light cleavage of water by CdS photoanode coated with polymer-pendant Ru(bpy)2+3 film containing RuO2 dispersions",
+  "authors": [
+   "Masao Kaneko",
+   "Tokuo Okada",
+   "Shousuke Teratani",
+   "Kazuo Taya"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0013-4686(87)85075-2",
+  "url": "https://doi.org/10.1016/0013-4686(87)85075-2",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Visible Light"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "RIKEN",
+   "Tokyo Gakugei University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "642d633e5aad184f",
   "title": "Area-selective deposition of organic conducting polymers on semiconductors: Polypyrrole-ZnO system",
   "authors": [
@@ -31,6 +233,60 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5c31dc9eafbc474c",
+  "title": "Photocatalytical reduction of Cr(VI) over ZnO powder",
+  "authors": [
+   "Javier Doménech",
+   "Javier Muñoz"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0013-4686(87)85071-5",
+  "url": "https://doi.org/10.1016/0013-4686(87)85071-5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Universitat Autònoma de Barcelona"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4221ed948d295425",
+  "title": "Artificial photosynthesis using chlorophyll based carotenoid-quinone triads: Final technical progress report",
+  "authors": [
+   "Devens Gust",
+   "T.A. Moore"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5780386-artificial-photosynthesis-using-chlorophyll-based-carotenoid-quinone-triads-final-technical-progress-report",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Charge Separation",
+   "Quantum Yield"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "39ee8c0a5fcdf380",
   "title": "Fermi level and current transport of Bi12GeO2",
   "authors": [
@@ -55,6 +311,118 @@
   "relevance_score": 42,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "324450c87bc29539",
+  "title": "Photocatalytic production of hydrogen from H2S solutions over CdS/Pt colloids",
+  "authors": [
+   "Nazim Muradov",
+   "M. I. Rustamov",
+   "A. D. Guseinova",
+   "Yu. V. Bazhutin"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1007/bf02128076",
+  "url": "https://doi.org/10.1007/bf02128076",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "143ac9c6a54cd2e1",
+  "title": "Efficiency of sensitization of titanium dioxide by adsorbed acridine yellow in photocatalytic hydrogen evolution",
+  "authors": [
+   "В. С. Захаренко",
+   "Valentin N. Parmon"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1007/bf02068036",
+  "url": "https://doi.org/10.1007/bf02068036",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Boreskov Institute of Catalysis"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0bced51d526014ac",
+  "title": "Artificial photosynthesis",
+  "authors": [
+   "Melvin Calvin"
+  ],
+  "journal": "Journal of Membrane Science",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/s0376-7388(00)80373-7",
+  "url": "https://doi.org/10.1016/s0376-7388(00)80373-7",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0689ac4e4a4ee55a",
+  "title": "Chemical bath precipitation of CdSe particles for use in a photoelectrochemical cell",
+  "authors": [
+   "Y. Ueno",
+   "Hiroyuki Kaigawa",
+   "Tatsuya Ōhashi",
+   "Takashi Sugiura",
+   "H. Minoura"
+  ],
+  "journal": "Solar Energy Materials",
+  "publisher": "Elsevier BV",
+  "published": "1987-09-01",
+  "year": 1987,
+  "doi": "10.1016/0165-1633(87)90091-8",
+  "url": "https://doi.org/10.1016/0165-1633(87)90091-8",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Gifu University"
   ],
   "added": "2026-07-24"
  }

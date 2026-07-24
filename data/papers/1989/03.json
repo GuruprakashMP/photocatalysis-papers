@@ -1,5 +1,111 @@
 [
  {
+  "id": "4c5898fdff8af3bc",
+  "title": "Dependence Of The Sprayed Cds Photoelectrode Behaviour Upon The Pyrolysis Atmosphere",
+  "authors": [
+   "J. Ebothé"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1989-03-06",
+  "year": 1989,
+  "doi": "10.1117/12.949917",
+  "url": "https://doi.org/10.1117/12.949917",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bc991a863cfbfff8",
+  "title": "Photoreduction of CO2 by metal sulphide semiconductors in presence of H2S",
+  "authors": [
+   "S.M. Aliwi",
+   "K.F. Al-Jubori"
+  ],
+  "journal": "Solar Energy Materials",
+  "publisher": "Elsevier BV",
+  "published": "1989-03-01",
+  "year": 1989,
+  "doi": "10.1016/0165-1633(89)90056-7",
+  "url": "https://doi.org/10.1016/0165-1633(89)90056-7",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreduction",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b77241d5e3a1e560",
+  "title": "EER and Photocurrent Transient Investigation of the Photoassisted Evolution of Hydrogen at an Electroplatinized TiO2 Single Crystal: Implications to Water Splitting at Suspensions",
+  "authors": [
+   "Manuel Pujadas",
+   "Pedro Salvador"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1989-03-01",
+  "year": 1989,
+  "doi": "10.1149/1.2096716",
+  "url": "https://doi.org/10.1149/1.2096716",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Instituto de Catálisis y Petroleoquímica"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8ae8c7e868b13574",
+  "title": "Flash photolysis studies of RhCl(CO)L2 (L = trimethyl- or tritolylphosphine). Evidence for intermediates in the photocatalytic carbonylation of hydrocarbons",
+  "authors": [
+   "Cris Tina Spillett",
+   "Peter C. Ford"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1989-03-01",
+  "year": 1989,
+  "doi": "10.1021/ja00187a087",
+  "url": "https://doi.org/10.1021/ja00187a087",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "4f51167731e6d695",
   "title": "Photocatalytic oxidation of alcohol by titanium tetraalkoxide — an analog of heterogeneous photocatalysis on TiO2",
   "authors": [
@@ -25,6 +131,38 @@
   "affiliations": [
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "205bedd01efbd26c",
+  "title": "Semiconductor photocatalysis. 8. Zinc sulfide-catalyzed photoreduction of aldehydes and related derivatives: two-electron-transfer reduction and relationship with spectroscopic properties",
+  "authors": [
+   "Shozo Yanagida",
+   "Yoshiteru Ishimaru",
+   "Yoshio Miyake",
+   "Tsutomu Shiragami",
+   "Chyongjin Pac",
+   "Kazuhito Hashimoto",
+   "Tadayoshi Sakata"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1989-03-01",
+  "year": 1989,
+  "doi": "10.1021/j100343a066",
+  "url": "https://doi.org/10.1021/j100343a066",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreduction",
+   "Semiconductors"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

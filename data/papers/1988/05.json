@@ -1,5 +1,120 @@
 [
  {
+  "id": "42f52bb572e96e2d",
+  "title": "ChemInform Abstract: The Photocatalytic Activity of a Platinized Titanium Dioxide Catalyst Supported Over Silica",
+  "authors": [
+   "Kazunari Domen",
+   "Yoshihisa Sakata",
+   "Akihiko Kudo",
+   "K. MARUYA",
+   "Toshikazu Onishi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-05-24",
+  "year": 1988,
+  "doi": "10.1002/chin.198821032",
+  "url": "https://doi.org/10.1002/chin.198821032",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d193c30270c2720b",
+  "title": "ChemInform Abstract: Adsorption Photocatalytic Oxidation: A New Method of Water Purification.",
+  "authors": [
+   "Ralph Matthews"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-05-17",
+  "year": 1988,
+  "doi": "10.1002/chin.198820300",
+  "url": "https://doi.org/10.1002/chin.198820300",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Purification"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4085609d697be7b0",
+  "title": "ChemInform Abstract: n‐AgInSe2/Polyiodide and ‐Polysulfide Photoelectrochemical Cells.",
+  "authors": [
+   "Geula Dagan",
+   "David Cahen",
+   "A. J. Nelson"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-05-03",
+  "year": 1988,
+  "doi": "10.1002/chin.198818007",
+  "url": "https://doi.org/10.1002/chin.198818007",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "American Committee for the Weizmann Institute of Science",
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ff489feb64ed71c5",
+  "title": "Protection of Photoanodes Against Photo‐Corrosion by Surface Deposition of Oxide Films: Criteria for Choosing the Protective Coating",
+  "authors": [
+   "G. Campet",
+   "Jean-Pierre Manaud",
+   "C. Puprichitkun",
+   "Zhaoqi Sun",
+   "Pedro Salvador"
+  ],
+  "journal": "Active and Passive Electronic Components",
+  "publisher": "Hindawi Publishing Corporation",
+  "published": "1988-05-02",
+  "year": 1988,
+  "doi": "10.1155/1989/78914",
+  "url": "https://doi.org/10.1155/1989/78914",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie",
+   "Instituto de Catálisis y Petroleoquímica"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "72f5deff4b8ad417",
   "title": "Photocatalytic decomposition of water over NiO-K/sub 4/Nb/sub 6/O/sub 17/ catalyst",
   "authors": [
@@ -51,6 +166,31 @@
   "relevance_score": 46,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "047e15a075cb8dde",
+  "title": "Photocatalytic decomposition of water over NiO$z.sbnd;K4Nb6O17 catalyst",
+  "authors": [
+   "Akihiko Kudo"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1988-05-01",
+  "year": 1988,
+  "doi": "10.1016/0021-9517(88)90066-8",
+  "url": "https://doi.org/10.1016/0021-9517(88)90066-8",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
   ],
   "added": "2026-07-24"
  }
