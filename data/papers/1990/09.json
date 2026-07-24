@@ -1,5 +1,62 @@
 [
  {
+  "id": "931f9213c5efe549",
+  "title": "ChemInform Abstract: Photocatalytic Activities of Potassium‐Doped Lead Niobates and the Effect of Poling.",
+  "authors": [
+   "Yasuaki Inoue",
+   "O. Hayashi",
+   "Kazunori Sato"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-09-25",
+  "year": 1990,
+  "doi": "10.1002/chin.199039010",
+  "url": "https://doi.org/10.1002/chin.199039010",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Nagaoka University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ee811d29367dafc6",
+  "title": "Correlations between the interfacial chemistry and current-voltage behavior of n -GaAs/liquid junctions",
+  "authors": [
+   "Bruce J. Tufts",
+   "Louis G. Casagrande",
+   "Nathan S. Lewis",
+   "F. J. Grunthaner"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1990-09-17",
+  "year": 1990,
+  "doi": "10.1063/1.103497",
+  "url": "https://doi.org/10.1063/1.103497",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "California Institute of Technology",
+   "Jet Propulsion Laboratory"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "6904ef37280b0cc5",
   "title": "In Situ Observation of a Dynamically Light-Induced Morphological Transformation at an n-MoS2 Electrode Surface by a Scanning Tunneling Microscope",
   "authors": [
@@ -24,6 +81,177 @@
   "affiliations": [
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4242214b3cf2ddac",
+  "title": "STUDIES ON THE PHOTOCHEMICAL STABILITY OF SYNTHETIC RESIN-BASED RETOUCHING PAINTS: THE EFFECTS OF WHITE PIGMENTS AND EXTENDERS",
+  "authors": [
+   "Paul M. Whitmore",
+   "Catherine Bailie"
+  ],
+  "journal": "Studies in Conservation",
+  "publisher": "Taylor & Francis",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1179/sic.1990.35.s1.030",
+  "url": "https://doi.org/10.1179/sic.1990.35.s1.030",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Art Institute of Chicago",
+   "University of California, Berkeley",
+   "Bryn Mawr College",
+   "The Art Institutes"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2ef69a0905a6e5d4",
+  "title": "Effects of Size Quantization of Zinc Sulfide Microcrystallites on Photocatalytic Reduction of Carbon Dioxide",
+  "authors": [
+   "Hiroshi Inoue",
+   "Tsukasa Torimoto",
+   "Takao Sakata",
+   "Hirotaro Mori",
+   "Hiroshi Yoneyama"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1246/cl.1990.1483",
+  "url": "https://doi.org/10.1246/cl.1990.1483",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1d7dc27b76186bfe",
+  "title": "Quantum-chain photocatalytic decomposition of adamantylideneadamantane-1.2-dioxetane initiated by Eu*(fod)3",
+  "authors": [
+   "В. П. Казаков",
+   "Г. Л. Шарипов",
+   "А. И. Волошин",
+   "Г. А. Толстиков"
+  ],
+  "journal": "Russian Chemical Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1007/bf00958295",
+  "url": "https://doi.org/10.1007/bf00958295",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "172be4cab32652af",
+  "title": "Passivation of photocarrier recombination on cadmium sulfide photoanode by two-color excitation",
+  "authors": [
+   "Seiichiro Nakabayashi",
+   "Akira Kira"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1021/j100382a048",
+  "url": "https://doi.org/10.1021/j100382a048",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "138da91879ce4204",
+  "title": "Photocatalysis of Oligo( p -phenylene) Leading to Reductive Formation of Hydrogen and Ethanol from Triethylamine in Aqueous Organic Solvent",
+  "authors": [
+   "Shinjiro Matsuoka",
+   "Hiroyuki Fujii",
+   "Chyongjin Pac",
+   "Shozo Yanagida"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1246/cl.1990.1501",
+  "url": "https://doi.org/10.1246/cl.1990.1501",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1051227ca5a5b04e",
+  "title": "Magnetic Field Effects and Reaction Mechanism in Photoredox Reaction of Nitro Group",
+  "authors": [
+   "Yukiko Ishii",
+   "Hideyuki Tukada",
+   "Ryoichi Nakagaki",
+   "Kiyoshi Mutai"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1990-09-01",
+  "year": 1990,
+  "doi": "10.1246/cl.1990.1559",
+  "url": "https://doi.org/10.1246/cl.1990.1559",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo University of the Arts",
+   "The University of Tokyo",
+   "Kanazawa University"
   ],
   "added": "2026-07-24"
  }

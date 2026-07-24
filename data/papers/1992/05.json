@@ -1,5 +1,117 @@
 [
  {
+  "id": "013975ceaf81da0a",
+  "title": "ChemInform Abstract: Enhancement of the Rate of Photocatalytic Degradation on TiO2 of 2‐ Chlorophenol, 2,7‐Dichlorodibenzodioxin, and Atrazine by Inorganic Oxidizing Species",
+  "authors": [
+   "Ezio Pelizzetti",
+   "V. Carlin",
+   "Claudio Minero",
+   "Michaël Grätzel"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-05-26",
+  "year": 1992,
+  "doi": "10.1002/chin.199221336",
+  "url": "https://doi.org/10.1002/chin.199221336",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Parma"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a5c0b80f5e7cd3a2",
+  "title": "ChemInform Abstract: Preparation and Photocatalytic Properties of Silica‐Supported Fine CdS Powders.",
+  "authors": [
+   "Andrzej Sobczyński"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-05-19",
+  "year": 1992,
+  "doi": "10.1002/chin.199220022",
+  "url": "https://doi.org/10.1002/chin.199220022",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Poznań University of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "08e865a6db0f7426",
+  "title": "The Photolysis of Bis(cyclopentadienyl)molybdenum Oxide in Water. The Catalytic Production of Hydrogen.",
+  "authors": [
+   "Robert J. Flesher",
+   "Colin S. Creaser",
+   "Srdanov, V. I.",
+   "Galen D. Stucky",
+   "Joël Zink",
+   "William C. Kaska"
+  ],
+  "journal": "Defense Technical Information Center (DTIC)",
+  "publisher": "",
+  "published": "1992-05-15",
+  "year": 1992,
+  "doi": "",
+  "url": "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA251601",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "17e3118b939fc048",
+  "title": "ChemInform Abstract: Photocatalytic Cleavage of 1,2‐Diols by a Cofacially Hindered Water‐ Soluble Iron(III) Porphyrin.",
+  "authors": [
+   "Yoshihiko Ito",
+   "Kazuhiko Kunimoto",
+   "S. Miyachi",
+   "Tetsuya Kako"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1992-05-12",
+  "year": 1992,
+  "doi": "10.1002/chin.199219100",
+  "url": "https://doi.org/10.1002/chin.199219100",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kyoto University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "f13d4b58355e2ce2",
   "title": "Photoelectrochemical investigations on boron-doped chemically vapour-deposited diamond electrodes",
   "authors": [
@@ -23,6 +135,256 @@
   "relevance_score": 46,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "df7b788f1afc6d13",
+  "title": "Photocatalysis of oligo(p-phenylenes): photochemical reduction of carbon dioxide with triethylamine",
+  "authors": [
+   "Shinjiro Matsuoka",
+   "Takao Kohzuki",
+   "Chyongjin Pac",
+   "Akito Ishida",
+   "Setsuo Takamuku",
+   "Mitsuhiro Kusaba",
+   "Nobuaki Nakashima",
+   "Shozo Yanagida"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1021/j100190a057",
+  "url": "https://doi.org/10.1021/j100190a057",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b8a13c58d6dfab2d",
+  "title": "Testing the photocatalytic activity of cyanogen-and thiocyanogen-based inorganic polymers",
+  "authors": [
+   "Zoltán Tóth",
+   "Zs. Zsótér",
+   "Mihály T. Beck"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1007/bf02063556",
+  "url": "https://doi.org/10.1007/bf02063556",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Debrecen"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b03a2fcc93334a23",
+  "title": "Reduction of nitrate ions into nitrite and ammonia over some photocatalysts",
+  "authors": [
+   "Akihiko Kudo"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1016/0021-9517(92)90287-r",
+  "url": "https://doi.org/10.1016/0021-9517(92)90287-r",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "82e95d6f1ec22445",
+  "title": "Electron transfer reactions in microporous solids. Progress report, June 1991--May 1992",
+  "authors": [
+   "T.E. Mallouk"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.2172/10159106",
+  "url": "https://doi.org/10.2172/10159106",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "749a5d1c28e17902",
+  "title": "Influence of photocatalytic systems on the photo-cross-linking of diallyl oxydiethylene dicarbonate grafted onto cellulose",
+  "authors": [
+   "Ignazio Renato Bellobono",
+   "Elena Selli",
+   "Luca Righetto"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1016/1010-6030(92)80024-p",
+  "url": "https://doi.org/10.1016/1010-6030(92)80024-p",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Milan"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "687c49e7b0268ca5",
+  "title": "Design and Cost of Solar Photocatalytic Systems for Groundwater Remediation",
+  "authors": [
+   "Craig Turchi",
+   "Mark Mehos",
+   "H. Link"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.2172/1114050",
+  "url": "https://doi.org/10.2172/1114050",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Laboratory of the Rockies"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "60adb533144f6ec3",
+  "title": "Solar photodegradation of xenobiotic contaminants in polluted well water",
+  "authors": [
+   "Lea Muszkat",
+   "M. Halmann",
+   "Daniel Raucher",
+   "L. Bir"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1016/1010-6030(92)80022-n",
+  "url": "https://doi.org/10.1016/1010-6030(92)80022-n",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Agricultural Research Organization",
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3f16bfca475f3f72",
+  "title": "Electron transfer reactions in microporous solids",
+  "authors": [
+   "T.E. Mallouk"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.2172/7069873",
+  "url": "https://doi.org/10.2172/7069873",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1a705ccc5590f159",
+  "title": "TiO2 photoetching mechanisms: efficient photocatalytic corrosion of rutile in the presence of Cr2O72−",
+  "authors": [
+   "Marta González",
+   "Pedro Salvador"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1016/0022-0728(92)80519-a",
+  "url": "https://doi.org/10.1016/0022-0728(92)80519-a",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Instituto de Química Física Blas Cabrera"
   ],
   "added": "2026-07-24"
  },
@@ -57,6 +419,61 @@
   "affiliations": [
    "Tokyo Institute of Technology",
    "Nikon (United States)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0b4ac5a5790e6ff7",
+  "title": "Cyclometallated and cyclometalsilylated complexes of transition elements as photoredox sensitizers. Progress report, October 1, 1991--November 31, 1992",
+  "authors": [
+   "R.J. Watts"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.2172/10138113",
+  "url": "https://doi.org/10.2172/10138113",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "CO2 Reduction",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis",
+   "Photoredox",
+   "Photoreduction"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "027d4338837d305f",
+  "title": "Photoinduced electron transfer in supramolecular systems for artificial photosynthesis",
+  "authors": [
+   "Michael R. Wasielewski"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "1992-05-01",
+  "year": 1992,
+  "doi": "10.1021/cr00011a005",
+  "url": "https://doi.org/10.1021/cr00011a005",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Photoinduced ET"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Northwestern University"
   ],
   "added": "2026-07-24"
  }

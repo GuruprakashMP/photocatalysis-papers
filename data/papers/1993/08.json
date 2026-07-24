@@ -1,5 +1,256 @@
 [
  {
+  "id": "6eac29f25732a485",
+  "title": "ChemInform Abstract: Optimizations of Photoredox Reactions. Possibilities and Limitations",
+  "authors": [
+   "J. Šíma"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-08-24",
+  "year": 1993,
+  "doi": "10.1002/chin.199334314",
+  "url": "https://doi.org/10.1002/chin.199334314",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Slovak University of Technology in Bratislava"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0adf3338dc0f1b0d",
+  "title": "ChemInform Abstract: Photocatalytic 1,4‐Hydrosilation of 1,3‐Butadiene with Triethylsilane.",
+  "authors": [
+   "Wafa Abdelqader",
+   "S. Oezkar",
+   "N. B. PEYNIRCIOGLU"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-08-10",
+  "year": 1993,
+  "doi": "10.1002/chin.199332094",
+  "url": "https://doi.org/10.1002/chin.199332094",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Middle East Technical University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6a4beee3ede52e7e",
+  "title": "ChemInform Abstract: Photocatalytic Selective Hydrogenation of Several Linalool Type Compounds with Water Over Platinized Titanium Dioxide.",
+  "authors": [
+   "Antonius Adhi WIDODO",
+   "Tsuyoshi Kato",
+   "Y. BUTSUGAN"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-08-03",
+  "year": 1993,
+  "doi": "10.1002/chin.199331234",
+  "url": "https://doi.org/10.1002/chin.199331234",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Nagoya Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e4038fd568f90644",
+  "title": "Photoelectrochemical study of the TiO2Cr system. Observation of strong(001) rutile photoetching in the presence of Cr(VI)",
+  "authors": [
+   "Marta González",
+   "Antonio M. Chaparro",
+   "Pedro Salvador"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1016/1010-6030(93)90009-a",
+  "url": "https://doi.org/10.1016/1010-6030(93)90009-a",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Instituto de Química Física Blas Cabrera"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d5408e368123d2b9",
+  "title": "Photocatalytic degradation of pentachlorophenol on titanium dioxide particles: identification of intermediates and mechanism of reaction",
+  "authors": [
+   "G. Mills",
+   "Michael R. Hoffmann"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1021/es00045a027",
+  "url": "https://doi.org/10.1021/es00045a027",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photooxidation",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 85,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bcbf61f7d53aa609",
+  "title": "Poly-alkoxides as Functional Polymer Photocatalyst",
+  "authors": [
+   "Hisashi Ueda"
+  ],
+  "journal": "Polymer Journal",
+  "publisher": "Springer Nature",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1295/polymj.25.825",
+  "url": "https://doi.org/10.1295/polymj.25.825",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Institute for Materials Science",
+   "National Institute of Materials Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "623f08bce471aa3c",
+  "title": "Photocatalytic Destruction of Chlorinated Solvents in Water With Solar Energy",
+  "authors": [
+   "James E. Pacheco",
+   "Michael R. Prairie",
+   "L. Yellowhorse"
+  ],
+  "journal": "Journal of Solar Energy Engineering",
+  "publisher": "ASM International",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1115/1.2930038",
+  "url": "https://doi.org/10.1115/1.2930038",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Sandia National Laboratories California"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "52df185477be7f5f",
+  "title": "Water-soluble polystyrene latexes as photoredox media. 2. Excited-state electron transfer from anthracene covalently bound poly(methacrylic acid)",
+  "authors": [
+   "Jiunn Shyong Hsiao",
+   "S. E. Webber"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1021/j100133a028",
+  "url": "https://doi.org/10.1021/j100133a028",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4d1e32f022a00734",
+  "title": "Field testing solar photocatalytic detoxification on TCE‐contaminated groundwater",
+  "authors": [
+   "Mark Mehos",
+   "Craig Turchi"
+  ],
+  "journal": "Environmental Progress",
+  "publisher": "Wiley",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1002/ep.670120308",
+  "url": "https://doi.org/10.1002/ep.670120308",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "National Laboratory of the Rockies"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "4ac8bd63d1bfbd3a",
   "title": "Enhancement of the photocatalytic activity of CdS powder for hydrogen evolution from aqueous sulfite solution by heat treatment with KCl",
   "authors": [
@@ -30,6 +281,61 @@
    "Kanagawa University",
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3a45e8899f7560c3",
+  "title": "Continuous flow photocatalytic degradation of carbaryl in aqueous media",
+  "authors": [
+   "E. Peris-Cardells",
+   "José Manuel Barrio Terol",
+   "Adela R. Mauri-Aucejo",
+   "Miguel de la Guárdia",
+   "Edmondo Pramauro"
+  ],
+  "journal": "Journal of Environmental Science and Health Part B",
+  "publisher": "Taylor & Francis",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1080/03601239309372834",
+  "url": "https://doi.org/10.1080/03601239309372834",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Universitat de València",
+   "University of Turin"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "26502ebbc35a52ef",
+  "title": "Water-soluble polystyrene latexes as photoredox media. 1. Interfacial fluorescence quenching and triplet-state electron transfer from pyrene and 1-pyrenebutyric acid",
+  "authors": [
+   "Jiunn Shyong Hsiao",
+   "S. E. Webber"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1993-08-01",
+  "year": 1993,
+  "doi": "10.1021/j100133a027",
+  "url": "https://doi.org/10.1021/j100133a027",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

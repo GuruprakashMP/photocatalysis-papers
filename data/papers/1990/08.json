@@ -1,5 +1,176 @@
 [
  {
+  "id": "a8e91fdd01a32536",
+  "title": "ChemInform Abstract: Characteristics of Photoelectrochemical Cells Based on n/n+‐Si and p/n+‐Si Photoanodes Modified by Metal Films.",
+  "authors": [
+   "Shanshun Wang",
+   "G. Li",
+   "Huiqi Li",
+   "N. Getoff"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-08-28",
+  "year": 1990,
+  "doi": "10.1002/chin.199035020",
+  "url": "https://doi.org/10.1002/chin.199035020",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Vienna"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b29fb65fd95ddb85",
+  "title": "ChemInform Abstract: Photophysics and Photoredox Reactions of Ligand‐Bridged Binuclear Polypyridyl Complexes of Ruthenium(II) and of Their Monomeric Analogues.",
+  "authors": [
+   "K. Kalyanasundaram",
+   "Mohammad Khaja Nazeeruddin"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-08-21",
+  "year": 1990,
+  "doi": "10.1002/chin.199034262",
+  "url": "https://doi.org/10.1002/chin.199034262",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f33e37149bebb97a",
+  "title": "Improvements in lifetime of CdSe photoanodes by partially reduced polypirrole films",
+  "authors": [
+   "Agostino Pennisi",
+   "F. Simone"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1117/12.20435",
+  "url": "https://doi.org/10.1117/12.20435",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Catania"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b1421fb5ffcaa5a2",
+  "title": "Laser photocatalytic polymerization of phenylacetylene",
+  "authors": [
+   "Jin Pei",
+   "Shan Jun",
+   "Lu Chongxian",
+   "Zhou Yihua",
+   "Kejian Fu"
+  ],
+  "journal": "Polymer Bulletin",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1007/bf00297309",
+  "url": "https://doi.org/10.1007/bf00297309",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute of Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ab56d86f1d205bf4",
+  "title": "The role of colloidal particles in the photodegradation of organic compounds of environmental concern in aquatic systems",
+  "authors": [
+   "Ezio Felizzetti",
+   "Claudio Minero",
+   "Valter Maurino"
+  ],
+  "journal": "Advances in Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1016/0001-8686(90)80021-q",
+  "url": "https://doi.org/10.1016/0001-8686(90)80021-q",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Parma",
+   "University of Turin"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a7ca2b6e028da6e9",
+  "title": "Absolute action spectrum of E-FADH2 and E-FADH2-MTHF forms of Escherichia coli DNA photolyase",
+  "authors": [
+   "Gillian Payne",
+   "A Sancar"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1021/bi00485a021",
+  "url": "https://doi.org/10.1021/bi00485a021",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill",
+   "Institute of Molecular Biology and Biophysics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "8c4ea0f60c1a8462",
   "title": "Heterogeneous Photocatalysis. VIII. Zinc Sulfide Catalyzed Hydrogen Formation from Water in the Presence of Sodium Formate",
   "authors": [
@@ -30,6 +201,236 @@
   "relevance_score": 86,
   "affiliations": [
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "77cc0790fa39f6af",
+  "title": "Polyoxometalate systems for the catalytic selective production of nonthermodynamic alkenes from alkanes. Nature of excited-state deactivation processes and control of subsequent thermal processes in polyoxometalate photoredox chemistry",
+  "authors": [
+   "Roman F. Renneke",
+   "Marzia Pasquali",
+   "Craig L. Hill"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1021/ja00174a020",
+  "url": "https://doi.org/10.1021/ja00174a020",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Emory University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "52ea0bcab5d16167",
+  "title": "US 4,898,906 Smoke suppressant for PVDF",
+  "authors": [],
+  "journal": "Additives for Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1016/0306-3747(90)90456-c",
+  "url": "https://doi.org/10.1016/0306-3747(90)90456-c",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "CO2 Reduction",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Co-catalysts",
+   "Photocatalysis",
+   "Solar Fuels",
+   "TiO2"
+  ],
+  "relevance_score": 85,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4a92aec0e35619e2",
+  "title": "Photoreduction of NADP+ by isolated reaction centers of photosystem II: requirement for plastocyanin.",
+  "authors": [
+   "Daniel I. Arnon",
+   "J. Barber"
+  ],
+  "journal": "Proceedings of the National Academy of Sciences",
+  "publisher": "National Academy of Sciences",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1073/pnas.87.15.5930",
+  "url": "https://doi.org/10.1073/pnas.87.15.5930",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4a26eb1239bf543e",
+  "title": "Photoredox reactions of methylene blue on zinc oxide",
+  "authors": [
+   "K S Sidhu",
+   "Satbir Singh",
+   "Harinder Kaur"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "",
+  "url": "http://nopr.niscair.res.in/bitstream/123456789/46448/1/IJCA%2029A%288%29%20729-732.pdf",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photoredox",
+   "ZnO"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2ebf24cb60b8888e",
+  "title": "Photocatalytic Asymmetric Reduction of 3-Methyl-2-oxobutanoic Acid with Chiral Rh(I) Complexes and Powdery Semiconductors",
+  "authors": [
+   "Hanhein Wang",
+   "Tadayoshi Sakata",
+   "Masashi Azuma",
+   "Tetsuo Ohta",
+   "Hidemasa Takaya"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1246/cl.1990.1331",
+  "url": "https://doi.org/10.1246/cl.1990.1331",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Technical Institute of Physics and Chemistry",
+   "Academia Sinica",
+   "Institute for Molecular Science",
+   "Kyoto University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "28d393320147ef27",
+  "title": "Effects of common inorganic anions on rates of photocatalytic oxidation of organic carbon over illuminated titanium dioxide",
+  "authors": [
+   "M. F. L. Abdullah",
+   "Gary Low",
+   "Ralph Matthews"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1021/j100380a051",
+  "url": "https://doi.org/10.1021/j100380a051",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "20d33c36f54abe31",
+  "title": "Photocatalytic decomposition of water over a Ni-Loaded Rb4Nb6O17 catalyst",
+  "authors": [
+   "Kazuhiro Sayama"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1016/0021-9517(90)90200-4",
+  "url": "https://doi.org/10.1016/0021-9517(90)90200-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "15088e6f80f5f947",
+  "title": "DEGRADATION OF ATRAZINE IN SOIL THROUGH INDUCED PHOTOCATALYTIC PROCESSES",
+  "authors": [
+   "Ezio Pelizzetti",
+   "V. Carlin",
+   "Valter Maurino",
+   "Claudio Minero",
+   "M. Dolci",
+   "A. MARCHESINI"
+  ],
+  "journal": "Soil Science",
+  "publisher": "Lippincott Williams & Wilkins",
+  "published": "1990-08-01",
+  "year": 1990,
+  "doi": "10.1097/00010694-199008000-00005",
+  "url": "https://doi.org/10.1097/00010694-199008000-00005",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "Simulated Sunlight",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Parma",
+   "University of Turin",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Torino"
   ],
   "added": "2026-07-24"
  }

@@ -1,5 +1,109 @@
 [
  {
+  "id": "9ce3ab758bc74870",
+  "title": "ChemInform Abstract: CuInS2 with Lamellar Morphology. Part 1. Efficient Photoanodes in Acidic Polyiodide Medium.",
+  "authors": [
+   "Sandro Cattarin",
+   "N. Dietz",
+   "H. J. Lewerenz"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-08-30",
+  "year": 1994,
+  "doi": "10.1002/chin.199435015",
+  "url": "https://doi.org/10.1002/chin.199435015",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ec3cd66d51ee290a",
+  "title": "Photocatalytic Reduction of CO_2 with Dispersed TiO_2/Cu Powder Mixtures in Superctirical Co_2",
+  "authors": [
+   "Takayuki Mizuno",
+   "Hozumi Tsutsumi",
+   "Kiyohisa Ohta",
+   "Akira Saji",
+   "Hidetomo Noda"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1994-08-05",
+  "year": 1994,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/naid/10006893282",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ff4947467a1560ea",
+  "title": "Influence of pH and surface complexes on the rate hydrogen evolution from photocatalytic systems Pt/TiO2—electron donor",
+  "authors": [
+   "Evgenij A. Malinka",
+   "Г. Л. Камалов"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/1010-6030(94)03789-2",
+  "url": "https://doi.org/10.1016/1010-6030(94)03789-2",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e8463db7624c12a1",
+  "title": "Translational-energy-resolved studies of photographed carrier-induced reactions on semiconductor surfaces. Electron transfer reactions at semiconductor surfaces: Dynamical studies",
+  "authors": [
+   "Richard M. Osgood",
+   "Quingyun Yang"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/10194382",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "dc0cce7e61537b00",
   "title": "Conjugated Molecular System of Photochromism and Electrochromism. Photoelectrochemical Behavior of Nitrospirobenzopyran at Low Temperature",
   "authors": [
@@ -26,6 +130,319 @@
   "relevance_score": 52,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d85fc275cb0fa055",
+  "title": "Photocatalytic degradation of phenol and chlorinated phenols using AgTiO2 in a slurry reactor",
+  "authors": [
+   "Rosana M. Alberici",
+   "Wilson F. Jardim"
+  ],
+  "journal": "Water Research",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0043-1354(94)90258-5",
+  "url": "https://doi.org/10.1016/0043-1354(94)90258-5",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Estadual de Campinas (UNICAMP)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a0f320aa81c9874f",
+  "title": "Water: New processes may replace chlorine, improve in situ remediation",
+  "authors": [
+   "C.A. Simpson"
+  ],
+  "journal": "Pollution Engineering; (United States)",
+  "publisher": "",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7254180-water-new-processes-may-replace-chlorine-improve-situ-remediation",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Wastewater"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "93e33a3da3f75b05",
+  "title": "Photosensitation and photocatalysis using inorganic and organic compounds",
+  "authors": [
+   "Robin N. Perutz"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0022-328x(94)84155-1",
+  "url": "https://doi.org/10.1016/0022-328x(94)84155-1",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of York"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "913ef174ec24726e",
+  "title": "Efficient Hydroxyl Radical Production and Their Reactivity with Ethanol in the Presence of Photoexcited Semiconductors",
+  "authors": [
+   "Hiroyuki Noda",
+   "Kazuo Oikawa",
+   "Hiroaki Ohya‐Nishiguchi",
+   "Hitoshi Kamada"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1246/bcsj.67.2031",
+  "url": "https://doi.org/10.1246/bcsj.67.2031",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Photoexcitation",
+   "Radical Chemistry",
+   "Semiconductors",
+   "TiO2",
+   "WO3",
+   "ZnO"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Technopolis (Finland)",
+   "Yamagata Research Institute Of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7fc7c1576c09886c",
+  "title": "Photodegradation of phenol by visible light in the presence of colloidal Fe2O3",
+  "authors": [
+   "Soumendranath Chatterjee",
+   "Subhendu Sarkar",
+   "Suvendra N. Bhattacharyya"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/1010-6030(94)03785-x",
+  "url": "https://doi.org/10.1016/1010-6030(94)03785-x",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation",
+   "Visible Light"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Saha Institute of Nuclear Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "70a878042353bd16",
+  "title": "Photocatalytic reduction of carbon dioxide to hydrocarbon using copper-loaded titanium dioxide",
+  "authors": [
+   "Kenji Adachi",
+   "Kiyohisa Ohta",
+   "Takayuki Mizuno"
+  ],
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0038-092x(94)90480-4",
+  "url": "https://doi.org/10.1016/0038-092x(94)90480-4",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Mie University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "64b01ab733434d83",
+  "title": "Sensitized photocatalytical oxidation of terbutylazine",
+  "authors": [
+   "Hardow Ross",
+   "Jürgen Bendig",
+   "Stefan Hecht"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1016/0927-0248(94)90007-8",
+  "url": "https://doi.org/10.1016/0927-0248(94)90007-8",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Humboldt-Universität zu Berlin"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5e5a785bb8a7b3dc",
+  "title": "Air: Ultraviolet light is an element in several promising technologies to treat air pollution",
+  "authors": [
+   "J Krukowski"
+  ],
+  "journal": "Pollution Engineering; (United States)",
+  "publisher": "",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7001324-air-ultraviolet-light-element-several-promising-technologies-treat-air-pollution",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3c45aace54b8038f",
+  "title": "Photocatalytic Reduction of CO2 with Dispersed TiO2/Cu Powder Mixtures in Supercritical CO2",
+  "authors": [
+   "Takayuki Mizuno",
+   "Hozumi Tsutsumi",
+   "Kiyohisa Ohta",
+   "Akira Saji",
+   "Hidetomo Noda"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1246/cl.1994.1533",
+  "url": "https://doi.org/10.1246/cl.1994.1533",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Mie University",
+   "Chubu Electric Power (Japan)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0e7c7aa9bdc17fe1",
+  "title": "Photochemistry of Aqueous Solutions of Dicyanomercury(II) and Potassium Tetracyanomercurate(II)",
+  "authors": [
+   "W. Scott Rader",
+   "Ljiljana Solujić",
+   "Emil B. Milosavljević",
+   "James L. Hendrix",
+   "John H. Nelson"
+  ],
+  "journal": "Journal of Solar Energy Engineering",
+  "publisher": "ASM International",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1115/1.2930070",
+  "url": "https://doi.org/10.1115/1.2930070",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Nevada, Reno"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "038d1f698c65f28d",
+  "title": "Photocatalytic Decomposition of Crude Oil Slicks Using TiO2 on a Floating Substrate",
+  "authors": [
+   "Rajiv Berry",
+   "Michael Rolf Mueller"
+  ],
+  "journal": "Microchemical Journal",
+  "publisher": "Elsevier BV",
+  "published": "1994-08-01",
+  "year": 1994,
+  "doi": "10.1006/mchj.1994.1054",
+  "url": "https://doi.org/10.1006/mchj.1994.1054",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Rose–Hulman Institute of Technology"
   ],
   "added": "2026-07-24"
  }

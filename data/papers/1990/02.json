@@ -1,5 +1,116 @@
 [
  {
+  "id": "c241b9d19babb27d",
+  "title": "ChemInform Abstract: Photoredox Reaction of Triazidomercurate(II). Generation of Stable Mercury Atoms Under Ambient Conditions.",
+  "authors": [
+   "Horst Kunkely",
+   "A. VOGLER"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-02-20",
+  "year": 1990,
+  "doi": "10.1002/chin.199008022",
+  "url": "https://doi.org/10.1002/chin.199008022",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Regensburg"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "51f1a99495fab73d",
+  "title": "An anion‐permeable polymeric coating for the protection of a semiconductor photoelectrode against decomposition",
+  "authors": [
+   "Jeffrey M. Bolts",
+   "R. P. Mariella"
+  ],
+  "journal": "Journal of Applied Polymer Science",
+  "publisher": "Wiley",
+  "published": "1990-02-20",
+  "year": 1990,
+  "doi": "10.1002/app.1990.070390402",
+  "url": "https://doi.org/10.1002/app.1990.070390402",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8f7b45823da49f96",
+  "title": "ChemInform Abstract: Photoredox Chemistry of Chloro Complexes of Antimony(3+) and (5+).",
+  "authors": [
+   "A. VOGLER",
+   "A. Paukner"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-02-06",
+  "year": 1990,
+  "doi": "10.1002/chin.199006022",
+  "url": "https://doi.org/10.1002/chin.199006022",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox",
+   "Quantum Yield"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Regensburg"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "fe7901f273d69a4c",
+  "title": "Photocatalytic hydrogenation of cyclohexene through H2O as a source of H2 by Pt/CdS/RuO2 semiconductor particulate system catalysed by K[Ru(H—EDTA)Cl]2H2O",
+  "authors": [
+   "M.M.Taqui Khán",
+   "N. Nageswara Rao"
+  ],
+  "journal": "Journal of Molecular Catalysis",
+  "publisher": "Science Press",
+  "published": "1990-02-01",
+  "year": 1990,
+  "doi": "10.1016/0304-5102(90)85021-9",
+  "url": "https://doi.org/10.1016/0304-5102(90)85021-9",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Central Salt and Marine Chemicals Research Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "83487ba37556efa8",
   "title": "Catalytic reduction of methylviologen by alcohols using K4Nb6O17-based photocatalysts in aqueous solution",
   "authors": [
@@ -25,6 +136,58 @@
   "relevance_score": 46,
   "affiliations": [
    "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5c934617fef0b18d",
+  "title": "Analytical TEM study of the selective photocatalytic deposition of platinum on titania-silica mixtures and silica-supported titania",
+  "authors": [
+   "J.M. Herrmann"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1990-02-01",
+  "year": 1990,
+  "doi": "10.1016/0021-9517(90)90242-c",
+  "url": "https://doi.org/10.1016/0021-9517(90)90242-c",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "École Centrale de Lyon",
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2905df9b912a97bb",
+  "title": "Artificial photosynthesis",
+  "authors": [
+   "Anthony Harriman"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1990-02-01",
+  "year": 1990,
+  "doi": "10.1016/1010-6030(90)87039-e",
+  "url": "https://doi.org/10.1016/1010-6030(90)87039-e",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Texas at Austin"
   ],
   "added": "2026-07-24"
  }
