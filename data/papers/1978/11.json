@@ -1,5 +1,80 @@
 [
  {
+  "id": "fa499ea553e3a11f",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC SYSTEMS. XIV. MECHANISM OF ALCOHOL PHOTOOXIDATION BY URANYL NITRATE",
+  "authors": [
+   "D. Rehorek"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1978-11-28",
+  "year": 1978,
+  "doi": "10.1002/chin.197848118",
+  "url": "https://doi.org/10.1002/chin.197848118",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d03f8b481ed71aa2",
+  "title": "Solar Fuels",
+  "authors": [
+   "James R. Bolton"
+  ],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "1978-11-17",
+  "year": 1978,
+  "doi": "10.1126/science.202.4369.705",
+  "url": "https://doi.org/10.1126/science.202.4369.705",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Solar Fuels"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Western University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "68927366c6690117",
+  "title": "ChemInform Abstract: DIRECT OBSERVATION OF RADICAL INTERMEDIATES IN THE PHOTO‐KOLBE REACTION ‐ HETEROGENEOUS PHOTOCATALYTIC RADICAL FORMATION BY ELECTRON SPIN RESONANCE",
+  "authors": [
+   "B. KRAEUTLER",
+   "C.D. Jaeger",
+   "A. J. BARD"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1978-11-07",
+  "year": 1978,
+  "doi": "10.1002/chin.197845114",
+  "url": "https://doi.org/10.1002/chin.197845114",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "a300804b2097d405",
   "title": "PHOTOELECTROCHEMICAl IMAGING PROCESSES USING SEMICONDUCTOR ELECTRODES",
   "authors": [
@@ -27,6 +102,37 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "48fe8fbfa9f62a7f",
+  "title": "Semiconductor electrodes. 19: An investigation of S/Se substitution in single crystal Cd Se and Cd S photoelectrodes by electron spectroscopy",
+  "authors": [
+   "R. Noufi",
+   "Paul A. Kohl",
+   "J.W. Rogers",
+   "J.M. White",
+   "Allen J. Bard"
+  ],
+  "journal": "Defense Technical Information Center (DTIC)",
+  "publisher": "",
+  "published": "1978-11-01",
+  "year": 1978,
+  "doi": "",
+  "url": "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA061747",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

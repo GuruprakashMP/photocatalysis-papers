@@ -1,5 +1,36 @@
 [
  {
+  "id": "8d835f1ff5a8bd5f",
+  "title": "Criteria for the Efficiency, Stability, and Capacity of Abiotic Photochemical Solar Energy Storage Systems",
+  "authors": [
+   "Hans‐Dieter Scharf",
+   "Jörg Fleischhauer",
+   "Hans Leismann",
+   "Ingrid Ressler",
+   "Wolfgang Schleker",
+   "Robert Weitz"
+  ],
+  "journal": "Angewandte Chemie International Edition in English",
+  "publisher": "",
+  "published": "1979-09-01",
+  "year": 1979,
+  "doi": "10.1002/anie.197906521",
+  "url": "https://doi.org/10.1002/anie.197906521",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Munich University of Applied Sciences",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "50d80a4edc651a71",
   "title": "Competitive photoelectrochemical oxidation of reducing agents at the titanium dioxide photoanode",
   "authors": [
@@ -24,6 +55,31 @@
    "TiO2"
   ],
   "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "13270a35caed603b",
+  "title": "Spectral sensitization of the heterogeneous photocatalytic oxidation of hydroquinone in aqueous solutions at phthalocyanine-coated titanium dioxide powders",
+  "authors": [
+   "Fu‐Ren F. Fan",
+   "Allen J. Bard"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1979-09-01",
+  "year": 1979,
+  "doi": "10.1021/ja00514a056",
+  "url": "https://doi.org/10.1021/ja00514a056",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
  }
