@@ -1,5 +1,156 @@
 [
  {
+  "id": "98191dafe0cac86b",
+  "title": "Photoluminescence and Electroluminescence as Probes of Interfacial Charge-Transfer Processes Relevant to Cadmium Sulfo-Selenide-Based Photoelectrochemical Cells.",
+  "authors": [
+   "Streckert,Holger H",
+   "Tong,Jiu-ru",
+   "Michael K. Carpenter",
+   "Arthur B. Ellis"
+  ],
+  "journal": "Defense Technical Information Center (DTIC)",
+  "publisher": "",
+  "published": "1982-09-23",
+  "year": 1982,
+  "doi": "",
+  "url": "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA120173",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "CdS",
+   "Excited States",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Photoluminescence"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3b2594e579d36e40",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC ADDITION OF HYDROGEN SULFIDE TO DIMETHYLDIVINYLSILANE ‐ A NEW METHOD FOR THE SYNTHESIS OF HETEROCYCLES CONTAINING ATOMS OF SILICON AND SULFUR",
+  "authors": [
+   "М. Г. Воронков",
+   "N. N. VLASOVA",
+   "V. V. KIRPICHENKO",
+   "E. N. Suslova",
+   "M. YU. ADAMOVICH",
+   "V. V. Keiko"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-09-07",
+  "year": 1982,
+  "doi": "10.1002/chin.198236222",
+  "url": "https://doi.org/10.1002/chin.198236222",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "38dd69f1eac391aa",
+  "title": "サブマージアーク溶接の溶融池現象 : X 線透視による観察( アーク溶接ロボットの現状)",
+  "authors": [
+   "博一 野村",
+   "祐司 杉谷",
+   "正男 辻"
+  ],
+  "journal": "溶接学会誌",
+  "publisher": "",
+  "published": "1982-09-05",
+  "year": 1982,
+  "doi": "10.1016/j.chemosphere.2021.131558",
+  "url": "https://doi.org/10.1016/j.chemosphere.2021.131558",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Co-catalysts",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Visible Light",
+   "Wastewater"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f45a4e5ff825799e",
+  "title": "Water photoelectrolysis using nickel titanate and niobate as photoanodes",
+  "authors": [
+   "P.H.M. de Korte",
+   "G. Blasse"
+  ],
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1016/0022-4596(82)90359-0",
+  "url": "https://doi.org/10.1016/0022-4596(82)90359-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Utrecht University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e08650a649d27673",
+  "title": "REGENERATION OF NAD + AND NADP + COFACTORS BY PHOTOSENSITIZED ELECTRON TRANSFER",
+  "authors": [
+   "Michel Julliard",
+   "Jérémy Petit"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1111/j.1751-1097.1982.tb04376.x",
+  "url": "https://doi.org/10.1111/j.1751-1097.1982.tb04376.x",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photoredox",
+   "Visible Light"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Laboratoire de Chimie Moléculaire"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "938d6d8f3db87425",
   "title": "Study of the photocatalytic decomposition of water vapor over a nickel(II) oxide-strontium titanate (SrTiO3) catalyst",
   "authors": [
@@ -25,6 +176,119 @@
   ],
   "relevance_score": 58,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "917d03e5b86fd16b",
+  "title": "Photoelectrochemical properties of electrodes coated with photoactive-membrane visicles isolated from photosynthetic bacteria",
+  "authors": [
+   "Michael Seibert",
+   "Michael W. Kendall-Tobais"
+  ],
+  "journal": "Biochimica et Biophysica Acta (BBA) - Bioenergetics",
+  "publisher": "Elsevier BV",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1016/0005-2728(82)90193-1",
+  "url": "https://doi.org/10.1016/0005-2728(82)90193-1",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "United States Department of Energy",
+   "Energy Research Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8d9c8d585de45cfe",
+  "title": "InP and CdS Photoanodes in Concentrated Aqueous Iodide Electrolytes",
+  "authors": [
+   "L. F. Schneemeyer",
+   "B.I. Miller"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1149/1.2124335",
+  "url": "https://doi.org/10.1149/1.2124335",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "896d192ff1eba0f0",
+  "title": "Organic electrochemical techniques having potential clinical application.",
+  "authors": [
+   "Richard A. Durst",
+   "Elmo A. Blubaugh",
+   "K.A. Bunding",
+   "Mary Lou Fultz",
+   "W. A. MacCrehan",
+   "Wai-Sum Yap"
+  ],
+  "journal": "Clinical Chemistry",
+  "publisher": "American Association for Clinical Chemistry",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1093/clinchem/28.9.1922",
+  "url": "https://doi.org/10.1093/clinchem/28.9.1922",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "772d27357057ec63",
+  "title": "Photoelectrochemical Generation of Chlorine on Catalytically Modified n‐Silicon/Indium Tin Oxide Anodes",
+  "authors": [
+   "L. R. Thompson",
+   "J. DuBow",
+   "Krishnan Rajeshwar"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-09-01",
+  "year": 1982,
+  "doi": "10.1149/1.2124327",
+  "url": "https://doi.org/10.1149/1.2124327",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "The Polytechnic University of Japan",
+   "Colorado State University"
+  ],
   "added": "2026-07-24"
  }
 ]

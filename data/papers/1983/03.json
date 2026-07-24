@@ -1,5 +1,224 @@
 [
  {
+  "id": "e8ffe1ae6bd61c0e",
+  "title": "ChemInform Abstract: TRANSPORT PROPERTIES OF NAFION MEMBRANES FOR USE IN THREE‐ELECTRODE PHOTOELECTROCHEMICAL STORAGE CELLS",
+  "authors": [
+   "Peter Bratin",
+   "Micha Tomkiewicz"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-03-15",
+  "year": 1983,
+  "doi": "10.1002/chin.198311012",
+  "url": "https://doi.org/10.1002/chin.198311012",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e0d8206077bb4ae8",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC OXIDATION OF SULFUR ON TITANIUM DIOXIDE",
+  "authors": [
+   "Y. Matsumoto",
+   "H. Nagai",
+   "Eiichi Sato"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-03-08",
+  "year": 1983,
+  "doi": "10.1002/chin.198310033",
+  "url": "https://doi.org/10.1002/chin.198310033",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c1727abd079ff05f",
+  "title": "Photocatalytic evolution of dihydrogen from aqueous solutions of lipid vesicles",
+  "authors": [
+   "I. M. Tsvetkov",
+   "E. R. Buyanova",
+   "Sergei V. Lymar",
+   "Valentin N. Parmon"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1007/bf02064825",
+  "url": "https://doi.org/10.1007/bf02064825",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Boreskov Institute of Catalysis"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "71a5ba534634e146",
+  "title": "ARTIFICIAL PHOTOSYNTHESIS: QUANTUM CAPTURE and ENERGY STORAGE",
+  "authors": [
+   "Melvin Calvin"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1111/j.1751-1097.1983.tb04484.x",
+  "url": "https://doi.org/10.1111/j.1751-1097.1983.tb04484.x",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Charge Separation"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "70e61d316402ca69",
+  "title": "ChemInform Abstract: PHOTOCHEMISTRY OF TRANSITION‐METAL PHTHALOCYANINES. PHOTOREDOX‐INDUCED LIGAND SUBSTITUTION IN (PHTHALOCYANINE)BIS(PYRIDINE)RUTHENIUM(II)",
+  "authors": [
+   "D. Prasad",
+   "G. Ferraudi"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1002/chin.198309294",
+  "url": "https://doi.org/10.1002/chin.198309294",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "34b40d00e68562bc",
+  "title": "249 上底吹転炉の耐火物寿命(上底吹き製錬・ステンレス, 製鋼, 日本鉄鋼協会 第 105 回(春季)講演大会)",
+  "authors": [
+   "功 田中",
+   "昌三 村上",
+   "昭次 村瀬",
+   "益夫 永楽",
+   "秀人 細田",
+   "裕幸 青木",
+   "三郎 松尾"
+  ],
+  "journal": "鐵と鋼 : 日本鐡鋼協會々誌",
+  "publisher": "",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1166/jnn.2019.15806",
+  "url": "https://doi.org/10.1166/jnn.2019.15806",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3371d93fea4722de",
+  "title": "Hydrogen generation by photocatalytic oxidation of glucose by platinized n-titania powder",
+  "authors": [
+   "Michael R. St. John",
+   "A.J. Furgala",
+   "Anthony F. Sammells"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1021/j100228a021",
+  "url": "https://doi.org/10.1021/j100228a021",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "159adedfd142d151",
+  "title": "XPS and AES studies on iron-oxide-coated Si photoanodes with a negative flatband potential",
+  "authors": [
+   "G. Nogami",
+   "Hisamori Yamaguchi",
+   "George Maeda",
+   "Kosuke Beppu",
+   "Y. Ueda",
+   "Takashi Nakamura"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1983-03-01",
+  "year": 1983,
+  "doi": "10.1063/1.332144",
+  "url": "https://doi.org/10.1063/1.332144",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kyushu Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "124eb168789167ba",
   "title": "PHOTOCATALYTIC SYNTHESIS AND PHOTODECOMPOSITION OF AMMONIA OVER SrTiO3 AND BaTiO3 BASED CATALYSTS",
   "authors": [

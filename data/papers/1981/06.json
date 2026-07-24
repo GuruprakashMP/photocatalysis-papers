@@ -1,5 +1,169 @@
 [
  {
+  "id": "e890d76f9dfc02e0",
+  "title": "Umwandlung von Lichtenergie in chemische Energie",
+  "authors": [
+   "Gion Calzaferri"
+  ],
+  "journal": "CHIMIA International Journal for Chemistry",
+  "publisher": "Swiss Chemical Society",
+  "published": "1981-06-30",
+  "year": 1981,
+  "doi": "10.2533/chimia.1981.209",
+  "url": "https://doi.org/10.2533/chimia.1981.209",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoredox",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "930d3e2ea0fd6ea4",
+  "title": "ChemInform Abstract: IMPROVEMENT OF ENERGY CONVERSION EFFICIENCY BY SPECIFIC CHEMICAL TREATMENTS OF MOLYBDENUM SELENIDE (N‐MOSE2) AND TUNGSTEN SELENIDE (N‐WSE2) PHOTOANODES",
+  "authors": [
+   "D. Canfield",
+   "B. A. Parkinson"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-06-30",
+  "year": 1981,
+  "doi": "10.1002/chin.198126010",
+  "url": "https://doi.org/10.1002/chin.198126010",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "34cbf8a8212b35d5",
+  "title": "ChemInform Abstract: EINFLUSS VON SAUERSTOFF AUF DAS PHOTOELEKTROCHEMISCHE VERHALTEN DER POLYKRISTALLINEN CDS‐PHOTOANODE IN DER FORM EINER DUENNSCHICHT",
+  "authors": [
+   "NGUYEN CONG HOAN NGUYEN CONG HOAN",
+   "Bovykin Ba",
+   "P. Chartier"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-06-09",
+  "year": 1981,
+  "doi": "10.1002/chin.198123019",
+  "url": "https://doi.org/10.1002/chin.198123019",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c53bc6e60b46ed1d",
+  "title": "Reduction effects on the spectral response of ceramic TiO2 photoanodes",
+  "authors": [
+   "J.F. Houlihan",
+   "R.F. Bonaquist",
+   "R. T. Dirstine",
+   "D.P. Madacsi"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1981-06-01",
+  "year": 1981,
+  "doi": "10.1016/0025-5408(81)90265-8",
+  "url": "https://doi.org/10.1016/0025-5408(81)90265-8",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bfef3fd5784fc193",
+  "title": "TIN CHLORIN‐ISOBACTERIOCHLORIN: EVIDENCE FOR A REVERSIBLE PHOTOREDOX PROCESS",
+  "authors": [
+   "Caroline Debaig-Valade",
+   "O. Bagno",
+   "J.‐C. POMMIER",
+   "Jacques Joussot–Dubien"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "1981-06-01",
+  "year": 1981,
+  "doi": "10.1111/j.1751-1097.1981.tb05509.x",
+  "url": "https://doi.org/10.1111/j.1751-1097.1981.tb05509.x",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoredox",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Université de Bordeaux"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ae2a10948d1e0137",
+  "title": "Heterogeneous photocatalytic production of hydrogen and methane from ethanol and water",
+  "authors": [
+   "Tadayoshi Sakata",
+   "Tomoji Kawai"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1981-06-01",
+  "year": 1981,
+  "doi": "10.1016/0009-2614(81)80121-2",
+  "url": "https://doi.org/10.1016/0009-2614(81)80121-2",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "8288748df27865af",
   "title": "Mechanism of the Current Doubling Effect. I. The ZnO Photoanode in Aqueous Solution of Sodium Formate",
   "authors": [
@@ -28,6 +192,63 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo",
    "Nagoya Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "802bd4ae44ccc22a",
+  "title": "Porous titania glass as a photocatalyst for hydrogen production from water",
+  "authors": [
+   "Leonard Kruczynski",
+   "H. D. Gesser",
+   "Colin Turner",
+   "Edward A. Speers"
+  ],
+  "journal": "Nature",
+  "publisher": "Nature Portfolio",
+  "published": "1981-06-01",
+  "year": 1981,
+  "doi": "10.1038/291399a0",
+  "url": "https://doi.org/10.1038/291399a0",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Manitoba"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2f9d3b2e0bf20cb3",
+  "title": "Photocatalytic properties of perovskites for H2 and CO oxidation?Influence of ferroelectric properties",
+  "authors": [
+   "H. Vandamme"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1981-06-01",
+  "year": 1981,
+  "doi": "10.1016/0021-9517(81)90172-x",
+  "url": "https://doi.org/10.1016/0021-9517(81)90172-x",
+  "source": "openalex",
+  "categories": [
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Wisconsin–Milwaukee"
   ],
   "added": "2026-07-24"
  }

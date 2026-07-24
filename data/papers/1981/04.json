@@ -1,5 +1,61 @@
 [
  {
+  "id": "7a6b3eb825eeebad",
+  "title": "ChemInform Abstract: PHOTOREDOX REACTIONS IN FUNCTIONAL MICELLAR ASSEMBLIES. USE OF AMPHIPHILIC REDOX RELAYS TO ACHIEVE LIGHT ENERGY CONVERSION AND CHARGE SEPARATION",
+  "authors": [
+   "P.‐A. BRUGGER",
+   "Pierre P. Infelta",
+   "A. M. Braun",
+   "Michaël Grätzel"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-04-28",
+  "year": 1981,
+  "doi": "10.1002/chin.198117332",
+  "url": "https://doi.org/10.1002/chin.198117332",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoredox"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "fff691330a2a4cc4",
+  "title": "Factors influencing output stability of Cd-chalcogenide/polysulfide photoelectrochemical cells",
+  "authors": [
+   "Gary Hodes",
+   "J. Manassen",
+   "David Cahen"
+  ],
+  "journal": "Solar Energy Materials",
+  "publisher": "Elsevier BV",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1016/0165-1633(81)90014-9",
+  "url": "https://doi.org/10.1016/0165-1633(81)90014-9",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Carmel (Israel)",
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "c02449c51802775a",
   "title": "Photoelectrochemical Behavior of Chlorophyll a-Lipid Films on a Platinum Electrode in an Aqueous Electrolyte",
   "authors": [
@@ -32,6 +88,100 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a5a7a9903d0dc56d",
+  "title": "Influence of hydroperoxides on the photothermal oxidation of polyethylene",
+  "authors": [
+   "Jean‐Marie Ginhac",
+   "Jean‐Luc Gardette",
+   "René Arnaud",
+   "Jacques Lemaire"
+  ],
+  "journal": "Die Makromolekulare Chemie",
+  "publisher": "Wiley",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1002/macp.1981.021820402",
+  "url": "https://doi.org/10.1002/macp.1981.021820402",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "École Normale Supérieure - PSL",
+   "Clermont-Ferrand’s Superior National School of Chemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "791fec0b7783eddf",
+  "title": "The sensitization of SrTiO3 photoanodes for visible light irradiation",
+  "authors": [
+   "P.H.M. de Korte",
+   "L.G.J. de Haart",
+   "R. U. E. 'T LAM",
+   "G. Blasse"
+  ],
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1016/0038-1098(81)91139-x",
+  "url": "https://doi.org/10.1016/0038-1098(81)91139-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photoanodes",
+   "SrTiO3",
+   "Visible Light"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Utrecht University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6e56a3b8ec8fa065",
+  "title": "Luminescent photoelectrochemical cells. 5. Multiple emission from tellurium-doped cadmium sulfide photoelectrodes and implications regarding excited-state communication",
+  "authors": [
+   "Bradley R. Karas",
+   "Holger H. Streckert",
+   "Rodney Schreiner",
+   "Arthur B. Ellis"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1021/ja00397a008",
+  "url": "https://doi.org/10.1021/ja00397a008",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "CdS",
+   "Excited States",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 83,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "57803a0ee4004205",
   "title": "Study of photoelectrochemical reactions at a n-Type polycrystalline ZnO electrode using photoacoustic detection",
   "authors": [
@@ -59,6 +209,89 @@
   "affiliations": [
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2ae1ea9f6a61df1d",
+  "title": "Oxygenic photoreduction of ferredoxin independently of the membrane-bound iron-sulfur centers of photosystem I",
+  "authors": [
+   "Daniel I. Arnon",
+   "Harry Y. Tsujimoto",
+   "George M.-S. Tang"
+  ],
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1016/0006-291x(81)91253-5",
+  "url": "https://doi.org/10.1016/0006-291x(81)91253-5",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1bc5e8a0e500e419",
+  "title": "Studies on polymeric sensitizers. 2.. Photocatalytic activities of porphyrins trapped in polymer matrices",
+  "authors": [
+   "Kuniharu Kojima",
+   "Takayuki Nakahira",
+   "Yoichi Kosuge",
+   "Minoru Saito",
+   "Susumu Iwabuchi"
+  ],
+  "journal": "Journal of Polymer Science Polymer Letters Edition",
+  "publisher": "Wiley",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1002/pol.1981.130190407",
+  "url": "https://doi.org/10.1002/pol.1981.130190407",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chiba University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0359586ce2c0826f",
+  "title": "Photochemical and photocatalytic properties of adsorbed organometallic compounds. 2. Structure and photoreactivity of tris(2,2'-bipyridine)ruthenium(II) and -chromium(III) at the solid-gas interface on hectorite",
+  "authors": [
+   "S. Abdo",
+   "P. Canesson",
+   "M. I. Cruz",
+   "J. G. Fripiat",
+   "H. Van Damme"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1981-04-01",
+  "year": 1981,
+  "doi": "10.1021/j150607a015",
+  "url": "https://doi.org/10.1021/j150607a015",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

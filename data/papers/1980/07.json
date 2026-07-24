@@ -1,5 +1,118 @@
 [
  {
+  "id": "4a89a6f665181098",
+  "title": "Electrochemical photovoltaic cells/stabilization and optimization of II-VI semiconductors. First technical progress report, 15 April 1980-30 June 1980",
+  "authors": [
+   "R. Noufi",
+   "Dennis Tench",
+   "L. F. Warren"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1980-07-20",
+  "year": 1980,
+  "doi": "10.2172/5113038",
+  "url": "https://doi.org/10.2172/5113038",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Transfer",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3f117587f04f18bb",
+  "title": "Photocatalytic production of hydrogen from water and texas lignite using a platinized titania catalyst. Technical report No. 16, 1 Jan-31 Dec 80",
+  "authors": [
+   "Shunichi Sato",
+   "J. M. White"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1980-07-15",
+  "year": 1980,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6664229",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9158d1c97c1d9165",
+  "title": "Sulfur Substitution during Operation of CdSe Photoanodes and Mechanism of Surface Protection",
+  "authors": [
+   "K. T. L. De Silva",
+   "D. Haneman"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1980-07-01",
+  "year": 1980,
+  "doi": "10.1149/1.2129949",
+  "url": "https://doi.org/10.1149/1.2129949",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "UNSW Sydney"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "850a1c880dce8d7e",
+  "title": "Conversion of carbohydrate into hydrogen fuel by a photocatalytic process",
+  "authors": [
+   "Tomoji Kawai",
+   "Tadayoshi Sakata"
+  ],
+  "journal": "Nature",
+  "publisher": "Nature Portfolio",
+  "published": "1980-07-01",
+  "year": 1980,
+  "doi": "10.1038/286474a0",
+  "url": "https://doi.org/10.1038/286474a0",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "83dcea17cdfbe0e4",
   "title": "Photoelectrochromic Characteristics of Photoelectrochemical Imaging System with a Semiconductor/Solution (Metallic Ion) Junction",
   "authors": [
@@ -27,6 +140,97 @@
   "relevance_score": 61,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6193a8d256ce4bf5",
+  "title": "Photoelectrolysis of Water; Photoresponses of Nickel, Chromium and Zinc‐Doped Polycrystalline TiO2 Electrodes",
+  "authors": [
+   "Alain Monnier",
+   "Jan Augustyński"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1980-07-01",
+  "year": 1980,
+  "doi": "10.1149/1.2129954",
+  "url": "https://doi.org/10.1149/1.2129954",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Geneva"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4f241a3a09f8ed3d",
+  "title": "Photooxidation of 2-Hydroxy Acids by Copper(II) Species in Aqueous Solution",
+  "authors": [
+   "Ryoka Matsushima",
+   "Yoshinori Ichikawa",
+   "Katsuyuki Kuwabara"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1980-07-01",
+  "year": 1980,
+  "doi": "10.1246/bcsj.53.1902",
+  "url": "https://doi.org/10.1246/bcsj.53.1902",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photooxidation",
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Shizuoka University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0da6397f961c9b27",
+  "title": "Syntheses of vinyl polymers with pendant porphyrin dimers and their catalytic effects on photoreductions",
+  "authors": [
+   "Hiroyoshi Kamogawa",
+   "Hideaki Inoue",
+   "Masato Nanasawa"
+  ],
+  "journal": "Journal of Polymer Science Polymer Chemistry Edition",
+  "publisher": "Wiley",
+  "published": "1980-07-01",
+  "year": 1980,
+  "doi": "10.1002/pol.1980.170180716",
+  "url": "https://doi.org/10.1002/pol.1980.170180716",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "University of Yamanashi"
   ],
   "added": "2026-07-24"
  }

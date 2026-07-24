@@ -1,5 +1,54 @@
 [
  {
+  "id": "ee3cb957a8e103e8",
+  "title": "ChemInform Abstract: α‐IRON(III) OXIDE PHOTOANODES DOPED WITH SILICON",
+  "authors": [
+   "John H. Kennedy",
+   "Ruth Shinar",
+   "John P. Ziegler"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-01-20",
+  "year": 1981,
+  "doi": "10.1002/chin.198103017",
+  "url": "https://doi.org/10.1002/chin.198103017",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f923350019603c9f",
+  "title": "ChemInform Abstract: IRON CARBONYL‐TRIFLUOROPHOSPHINE COMPOUNDS AS PHOTOCATALYTIC PRECURSORS IN ISOMERIZATION STUDIES",
+  "authors": [
+   "Grace L. Swartz",
+   "Ronald J. Clark"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-01-06",
+  "year": 1981,
+  "doi": "10.1002/chin.198101123",
+  "url": "https://doi.org/10.1002/chin.198101123",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "fe0d77f9e775e2df",
   "title": "Photoredox reactions in functional micellar assemblies. Use of amphiphilic redox relays to achieve light energy conversion and charge separation",
   "authors": [
@@ -24,6 +73,966 @@
    "Photoredox"
   ],
   "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f29ffa63284741e2",
+  "title": "Photochemical cleavage of H2O by photocatalysis",
+  "authors": [
+   "Ezio Pelizzetti",
+   "M. Visca",
+   "E. Borgarello",
+   "Michaël Grätzel"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85296-3",
+  "url": "https://doi.org/10.1016/0047-2670(81)85296-3",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Turin",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ef0acdf5052719e9",
+  "title": "Diffuse reflectance triplet–triplet absorption spectroscopy of aromatic hydrocarbons chemisorbed on γ-alumina",
+  "authors": [
+   "Rudolf W. Kessler",
+   "F. Wilkinson"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/f19817700309",
+  "url": "https://doi.org/10.1039/f19817700309",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ed133dc19d8be5bc",
+  "title": "Effects of processing variables on the optical-to-chemical conversion efficiencies of sintered TiO2 photoanodes",
+  "authors": [
+   "J.F. Houlihan",
+   "M.A. Petro",
+   "D.P. Madacsi"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0025-5408(81)90174-4",
+  "url": "https://doi.org/10.1016/0025-5408(81)90174-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Pennsylvania State University",
+   "University of Connecticut"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e5946aaf44c0d35e",
+  "title": "Active Sites in the Photocatalytic Isomerization of CIS-BUT-2-ENE on Porous Silica Glass",
+  "authors": [
+   "Akira Morikawa",
+   "Hirofumi Kondo",
+   "Keisuke Otsuka"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/s0167-2991(08)64795-3",
+  "url": "https://doi.org/10.1016/s0167-2991(08)64795-3",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "dd8ca19d181257ca",
+  "title": "Photoelectrochemical and photocatalytic reactions of polycrystalline n-TiO2 semiconductors",
+  "authors": [
+   "K. Hartig",
+   "Waltraud Vonach",
+   "N. Getoff"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85302-6",
+  "url": "https://doi.org/10.1016/0047-2670(81)85302-6",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "University of Vienna"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d81ba8d2a3911ed0",
+  "title": "Laser flash photolysis and time-resolved electron spin resonance studies: the photoredox reactions of vitamins C, E and K1",
+  "authors": [
+   "Jeffrey K. S. Wan"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85395-6",
+  "url": "https://doi.org/10.1016/0047-2670(81)85395-6",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Queen's University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d7b9a36e1304edac",
+  "title": "Variation of the photoresponse of tungsten trioxide photoanode during photoelectrolysis of water",
+  "authors": [
+   "M. Ulmann",
+   "Jan Augustyński"
+  ],
+  "journal": "Proc. - Electrochem. Soc.; (United States)",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6924963-variation-photoresponse-tungsten-trioxide-photoanode-during-photoelectrolysis-water",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bb56cf8e924b2ec7",
+  "title": "Aspects of artificial photosynthesis in surfatant vesicles",
+  "authors": [
+   "János H. Fendler"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85370-1",
+  "url": "https://doi.org/10.1016/0047-2670(81)85370-1",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "baff80d2c7c339bb",
+  "title": "Local spectral responses of transition metal dichalcogenide photoanodes",
+  "authors": [
+   "L. De Angelis",
+   "L. Fornarini",
+   "F. Galluzzi",
+   "E. Scafè",
+   "Bruno Scrosati"
+  ],
+  "journal": "Proc. - Electrochem. Soc.; (United States)",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6925042-local-spectral-responses-transition-metal-dichalcogenide-photoanodes",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b6f7f4c762ad4e0c",
+  "title": "Spectral sensitization of SrTiO 3 photoanodes with binuclear 1,10‐phenanthroline bis(2,2′‐bipyridine) complexes of ruthenium(II) and tris‐(2,2′‐bipyridine)ruthenium(II)",
+  "authors": [
+   "A. H. A. Tinnemans",
+   "A. Mackor"
+  ],
+  "journal": "Recueil des Travaux Chimiques des Pays-Bas",
+  "publisher": "Royal Netherlands Chemical Society",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1002/recl.19811000712",
+  "url": "https://doi.org/10.1002/recl.19811000712",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "SrTiO3",
+   "Visible Light"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b3cf1e56e40da635",
+  "title": "n-InP and n-CdS photoanodes in concentrated redox electrolytes",
+  "authors": [
+   "L. F. Schneemeyer",
+   "B. Miller"
+  ],
+  "journal": "Proc. - Electrochem. Soc.; (United States)",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6771720",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "af3e402863de9f43",
+  "title": "Inorganic models of photosystem II of plant photosynthesis. Catalytic and photocatalytic oxidation of water with participation of manganese compounds",
+  "authors": [
+   "Vladimir Shafirovich",
+   "N. K. Khannanov",
+   "A. E. Shilov"
+  ],
+  "journal": "Journal of Inorganic Biochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/s0162-0134(00)80296-2",
+  "url": "https://doi.org/10.1016/s0162-0134(00)80296-2",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Problems of Chemical Physics"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "af3cb510852bf6de",
+  "title": "Photocatalytic Decomposition of Water by Solar Energy-Hydrogen Evolution, CO2 Fixation on Powdered Semiconductors and Their Mechanisms with Pulsed Laser-Dynamic Mass Technique",
+  "authors": [
+   "Tomoji Kawai",
+   "Tadayoshi Sakata"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/s0167-2991(08)64725-4",
+  "url": "https://doi.org/10.1016/s0167-2991(08)64725-4",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9634214c3eeb2179",
+  "title": "Desmontes: estado actual de la tecnica",
+  "authors": [
+   "Ventura Escario Ubarri"
+  ],
+  "journal": "Dialnet (Universidad de la Rioja)",
+  "publisher": "Universidad Internacional de La Rioja",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1038/s41699-023-00412-1",
+  "url": "https://doi.org/10.1038/s41699-023-00412-1",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9434dbdab858e831",
+  "title": "Réaction photoredox de la tétraphényl porphyrine de zinc en solution dans le triton",
+  "authors": [
+   "Georges-Olivier Pradevan",
+   "Marie‐Paule Pileni"
+  ],
+  "journal": "Journal de Chimie Physique",
+  "publisher": "EDP Sciences",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1051/jcp/1981780203",
+  "url": "https://doi.org/10.1051/jcp/1981780203",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Sorbonne Université",
+   "Physique des Cellules et Cancers"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "841ef9334688bb17",
+  "title": "Photochemistry of manganese porphyrins V: The photoreduction of methyl viologen",
+  "authors": [
+   "Nilton Carnieri",
+   "Anthony Harriman"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)80009-3",
+  "url": "https://doi.org/10.1016/0047-2670(81)80009-3",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Albemarle (United States)",
+   "Royal Institution of Great Britain"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7fcf6655dcc0bdcf",
+  "title": "Charge separation in photoredox reactions in micellar media monitored by electron spin resonance and electron spin echo methods",
+  "authors": [
+   "Larry Kevan",
+   "Ponnada A. Narayana",
+   "A.S.W. Li"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85342-7",
+  "url": "https://doi.org/10.1016/0047-2670(81)85342-7",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoredox"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Houston"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7de899a90cac3eb2",
+  "title": "Photogalvanic cells. Part 14. The synthesis and characterization of disulphonated thionines",
+  "authors": [
+   "W. John Albery",
+   "Philip N. Bartlett",
+   "Andrew W. Foulds",
+   "Fernando A. Souto-Bachiller",
+   "Robert W. Whiteside"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/p29810000794",
+  "url": "https://doi.org/10.1039/p29810000794",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "737199d6210e3fb1",
+  "title": "Oxidation of benzaldehyde by dioxygen. Photoinitiated reaction",
+  "authors": [
+   "Stanislav Luňák",
+   "Pavel Lederer",
+   "Pavel Stopka",
+   "J. Vepřek-Šiška"
+  ],
+  "journal": "Collection of Czechoslovak Chemical Communications",
+  "publisher": "Wiley-VCH",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1135/cccc19812455",
+  "url": "https://doi.org/10.1135/cccc19812455",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Czech Academy of Sciences, Institute of Inorganic Chemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "72abac2f35d9570a",
+  "title": "Heterogeneous Photocatalysis: NO Decomposition and Oxidation of Butanols by no Over TiO2 at Room Temperature",
+  "authors": [
+   "Pierre Pichat",
+   "Henri Courbon",
+   "Jean Disdier",
+   "Marie-Noëlle Mozzanega",
+   "J.M. Herrmann"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/s0167-2991(08)64793-x",
+  "url": "https://doi.org/10.1016/s0167-2991(08)64793-x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Institut de Recherches sur la Catalyse et l'Environnement de Lyon"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "72aae2ad2964b8f2",
+  "title": "Hydrogen evolution by photocatalytic reactions of some organic dyes and semiconductors",
+  "authors": [
+   "T. Sakata",
+   "Tsuyoshi Kawai",
+   "Takefumi Koiso",
+   "Masahiko Okuyama"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://ui.adsabs.harvard.edu/abs/1981hep..conf..773S/abstract",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "709354b98bc95c13",
+  "title": "Aspects of artificial photosynthesis in surfactant vesicles",
+  "authors": [
+   "JanosH. Fendler"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85137-4",
+  "url": "https://doi.org/10.1016/0047-2670(81)85137-4",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6da8b13e9416b279",
+  "title": "HYDROGEN PRODUCTION FROM BIOMASS AND WATER BY PHOTOCATALYTIC PROCESSES",
+  "authors": [
+   "T. Sakata",
+   "Tsuyoshi Kawai"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCAL8130433138",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3e8535216c158eb7",
+  "title": "Photochemical cleavage of water by photocatalysis",
+  "authors": [
+   "Enrico Borgarello",
+   "J. Kiwi",
+   "Ezio Pelizzetti",
+   "M. Visca",
+   "Michaël Grätzel"
+  ],
+  "journal": "Nature",
+  "publisher": "Nature Portfolio",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1038/289158a0",
+  "url": "https://doi.org/10.1038/289158a0",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "École Polytechnique",
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Turin"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3e0e988bde842994",
+  "title": "Visible-light-induced oxidation of water and of chloride ions in photoelectrochemical cells",
+  "authors": [
+   "Michael Neumann‐Spallart",
+   "K. Kalyanasundaram"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/c39810000437",
+  "url": "https://doi.org/10.1039/c39810000437",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Photoredox"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "37d51eedaefa1534",
+  "title": "Electron-transfer reactions of quinones, hydroquinones and methyl viologen, photosensitized by tris(2,2′-bipyridine)-ruthenium( II )",
+  "authors": [
+   "James R. Darwent",
+   "K. Kalyanasundaram"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/f29817700373",
+  "url": "https://doi.org/10.1039/f29817700373",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "35f8f6c018494cce",
+  "title": "Charge separation in photoredox reactions. Technical progress report, September 1, 1980-July 1, 1981",
+  "authors": [
+   "Larry Kevan"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "https://inis.iaea.org/search/search.aspx?orig_q=RN:12637351",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoredox"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2d715d1113b43d84",
+  "title": "INVESTIGATIONS ON SEMICONDUCTOR-ELECTROLYTE PHOTO-ELECTRODE SYSTEMS .1. PHOTOANODIC BEHAVIOR OF N-GAAS SINGLE-CRYSTALS IN CERTAIN ELECTROLYTES",
+  "authors": [
+   "Mi Ty",
+   "Song Tp",
+   "Fu Hd",
+   "Zhang Br"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://www.irgrid.ac.cn/handle/1471x/447582",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "27d3044052c7f9dd",
+  "title": "CATALYTIC EFFECTS OF TRANSITION METAL IONS ON PHOTOINITIATED OXIDATION OF BENZALDEHYDE BY MOLECULAR OXYGEN",
+  "authors": [
+   "J. Veprek-Sl ka"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://rd.springer.com/content/pdf/10.1007%2FBF02066580.pdf",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "268671f6f5d6c99a",
+  "title": "The influence of cysteine solutions on the stability of CdS photoanodes",
+  "authors": [
+   "Andrée Kirsch‐De Mesmaeker",
+   "A. Decoster",
+   "J. Nasielski"
+  ],
+  "journal": "Solar Energy Materials",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0165-1633(81)90042-3",
+  "url": "https://doi.org/10.1016/0165-1633(81)90042-3",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Université Libre de Bruxelles"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2650acb2eda9d8f6",
+  "title": "Partial oxidation of propene over U.V.-irradiated vanadium oxide supported on silica",
+  "authors": [
+   "Satohiro Yoshida",
+   "Yasuhiro Magatani",
+   "Shigeyoshi Noda",
+   "Takuzo Funabiki"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/c39810000601",
+  "url": "https://doi.org/10.1039/c39810000601",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "264ab49d172c6f6c",
+  "title": "PHOTOCATALYTIC HYDROGEN PRODUCTION FROM WATER BY THE DECOMPOSITION OF POLY-VINYLCHLORIDE, PROTEIN, ALGAE, DEAD INSECTS, AND EXCREMENT",
+  "authors": [
+   "Tomoji Kawai",
+   "Tadayoshi Sakata"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1246/cl.1981.81",
+  "url": "https://doi.org/10.1246/cl.1981.81",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "03a818f3f23488c6",
+  "title": "Photoanode on the base of pheophytin-sensitized reactions",
+  "authors": [
+   "Eugenii Katz",
+   "Yu. N. Kozlov",
+   "B. A. Kiselev"
+  ],
+  "journal": "Energy Conversion and Management",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0196-8904(81)90011-x",
+  "url": "https://doi.org/10.1016/0196-8904(81)90011-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Protein Research"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "01445f5d817e20e9",
+  "title": "Feasibility of photocatalytic oxidation for wastewater clean-up and reuse. Report for 4 Mar 81-31 Mar 81",
+  "authors": [
+   "Gary R. Peyton",
+   "David W. DeBerry"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5553770",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors",
+   "TiO2",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0077190202ddcc1a",
+  "title": "Oxygen species ionosorbed on powder photocatalyst oxides from room-temperature photoconductivity as a function of oxygen pressure",
+  "authors": [
+   "Jean-Marie Herrmann",
+   "Jean Disdier",
+   "Pierre Pichat"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/f19817702815",
+  "url": "https://doi.org/10.1039/f19817702815",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "WO3",
+   "ZnO"
+  ],
+  "relevance_score": 67,
   "affiliations": [],
   "added": "2026-07-24"
  }

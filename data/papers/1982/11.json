@@ -1,5 +1,171 @@
 [
  {
+  "id": "68c003069d9d0713",
+  "title": "Oxydation du polypropylène atactique photocatalysée par des oxydes de zinc",
+  "authors": [
+   "Gilles Penot",
+   "René Arnaud",
+   "Jacques Lemaire"
+  ],
+  "journal": "Die Makromolekulare Chemie",
+  "publisher": "Wiley",
+  "published": "1982-11-19",
+  "year": 1982,
+  "doi": "10.1002/macp.1982.021831111",
+  "url": "https://doi.org/10.1002/macp.1982.021831111",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Normale Supérieure - PSL"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3d09d6ef37dfe89c",
+  "title": "ChemInform Abstract: PHOTOCATALYSIS BY METAL CLUSTER: PHOTOACTIVATION IN CATALYTIC HYDROGENATION OF ETHYLENE BY THE TETRARUTHENIUM CLUSTER H4RU4(CO)12",
+  "authors": [
+   "Y. Doi",
+   "Shigeaki Tamura",
+   "Kunihiro Koshizuka"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-11-16",
+  "year": 1982,
+  "doi": "10.1002/chin.198246297",
+  "url": "https://doi.org/10.1002/chin.198246297",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3cae08dcd242a3d4",
+  "title": "Photoelectrochemical Cell Using a TiO 2 Photoanode and an Air Cathode for Decomposition of Sodium Chloride",
+  "authors": [
+   "Takaya Iida",
+   "Kenichi Eguchi",
+   "Kaname Ito"
+  ],
+  "journal": "Denki Kagaku oyobi Kogyo Butsuri Kagaku",
+  "publisher": "",
+  "published": "1982-11-05",
+  "year": 1982,
+  "doi": "10.5796/kogyobutsurikagaku.50.878",
+  "url": "https://doi.org/10.5796/kogyobutsurikagaku.50.878",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e925bc809be18f8d",
+  "title": "ChemInform Abstract: CHARACTERIZATION OF N‐TYPE SEMICONDUCTING TUNGSTEN DISULFIDE PHOTOANODES IN AQUEOUS AND NONAQUEOUS ELECTROLYTE SOLUTIONS. PHOTOOXIDATION OF HALIDES WITH HIGH EFFICIENCY",
+  "authors": [
+   "J. Baglio",
+   "Gary S. Calabrese",
+   "E. Kamieniecki",
+   "R. Kershaw",
+   "Clifford P. Kubiak",
+   "Antonio J. Ricco",
+   "A. Wold",
+   "Mark S. Wrighton",
+   "Glenn Zoski"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-11-02",
+  "year": 1982,
+  "doi": "10.1002/chin.198244017",
+  "url": "https://doi.org/10.1002/chin.198244017",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photooxidation"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bcd9b85a7417cf78",
+  "title": "ChemInform Abstract: PULSED‐LASER PHOTOCATALYTIC ISOMERIZATION AND HYDROGENATION OF OLEFINS",
+  "authors": [
+   "Robert L. Whetten",
+   "K.‐J. FU",
+   "Edward R. Grant"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-11-02",
+  "year": 1982,
+  "doi": "10.1002/chin.198244292",
+  "url": "https://doi.org/10.1002/chin.198244292",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c212b39fd044de31",
+  "title": "Photocatalytic production of hydrogen from water by a p- and n-type polycrystalline iron oxide assembly",
+  "authors": [
+   "Christofer Leygraf",
+   "M. Hendewerk",
+   "Gábor A. Somorjai"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1982-11-01",
+  "year": 1982,
+  "doi": "10.1021/j100220a007",
+  "url": "https://doi.org/10.1021/j100220a007",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "b9f8072a7bb7b46c",
   "title": "The Investigation of Energy Efficiency of the ZnO Semiconductor Photoelectrode by Photothermal Measurement",
   "authors": [
@@ -28,6 +194,59 @@
    "State Key Laboratory of Synthetic Chemistry",
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "62465fa3b23795e9",
+  "title": "Photocatalytic oxidation of sulfur on titanium dioxide",
+  "authors": [
+   "Yasumichi Matsumoto",
+   "H. Nagai",
+   "Eiichi Sato"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1982-11-01",
+  "year": 1982,
+  "doi": "10.1021/j100221a005",
+  "url": "https://doi.org/10.1021/j100221a005",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Utsunomiya University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "365e71aafd62f457",
+  "title": "Le photocatalyseur MoO 3 /SiO 2 : activité et structure",
+  "authors": [
+   "A. Mahay",
+   "Serge Kaliaguine",
+   "Pierre C. Roberge"
+  ],
+  "journal": "Canadian Journal of Chemistry",
+  "publisher": "NRC Research Press",
+  "published": "1982-11-01",
+  "year": 1982,
+  "doi": "10.1139/v82-391",
+  "url": "https://doi.org/10.1139/v82-391",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

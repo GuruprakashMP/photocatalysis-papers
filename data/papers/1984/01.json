@@ -1,5 +1,133 @@
 [
  {
+  "id": "094554a2a463d80f",
+  "title": "ChemInform Abstract: IMPROVEMENT OF THE PHOTOELECTROCHEMICAL OXIDATION OF HALIDES BY PLATINIZATION OF METAL DICHALCOGENIDE PHOTOANODES",
+  "authors": [
+   "Richard Simon",
+   "Antonio J. Ricco",
+   "D. Jed Harrison",
+   "Mark S. Wrighton"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1984-01-31",
+  "year": 1984,
+  "doi": "10.1002/chin.198405027",
+  "url": "https://doi.org/10.1002/chin.198405027",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "538734e52ccadbc9",
+  "title": "ChemInform Abstract: BORON PHOSPHIDE (BP)‐STABILIZED N‐SILICON AND N‐GALLIUM ARSENIDE PHOTOANODES",
+  "authors": [
+   "David S. Ginley",
+   "R.J. Baughman",
+   "M. A. Butler"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1984-01-24",
+  "year": 1984,
+  "doi": "10.1002/chin.198404011",
+  "url": "https://doi.org/10.1002/chin.198404011",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e5b1797b0dbd8b66",
+  "title": "ChemInform Abstract: ORGANIC HETEROGENEOUS PHOTOCATALYSIS: CHEMICAL CONVERSIONS SENSITIZED BY IRRADIATED SEMICONDUCTORS",
+  "authors": [
+   "Marye Anne Fox"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1984-01-10",
+  "year": 1984,
+  "doi": "10.1002/chin.198402361",
+  "url": "https://doi.org/10.1002/chin.198402361",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f45bc398927d07de",
+  "title": "A STUDY ON THE PHOTOELECTROCATALYTIC OXIDATION OF ETHENE: METAL/n-GaP PHOTOANODE",
+  "authors": [
+   "Huan Zhang"
+  ],
+  "journal": "Ganguang kexue yu guanghuaxue",
+  "publisher": "Science Press",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "https://en.cnki.com.cn/Article_en/CJFDTOTAL-GKGH198403007.htm",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f0609be851b5e301",
+  "title": "Electron-transfer reactions of a photosensitized water-soluble zinc porphyrin",
+  "authors": [
+   "Dominique Le Roux",
+   "Jean‐Claude Mialocq",
+   "Oleg Anitoff",
+   "G. Folcher"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f29848000909",
+  "url": "https://doi.org/10.1039/f29848000909",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "eb6e3a3e97d8d204",
   "title": "Current doubling effect by formaldehyde on the polycrystalline ZnO photoanode.",
   "authors": [
@@ -25,6 +153,894 @@
   ],
   "relevance_score": 49,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e0d3ba46e1a61232",
+  "title": "Basic problems of photochemical and photoelectrochemical hydrogen production from water",
+  "authors": [
+   "N. Getoff"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/0360-3199(84)90171-x",
+  "url": "https://doi.org/10.1016/0360-3199(84)90171-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Vienna",
+   "Ludwig Boltzmann Institute for Digital Health and Prevention"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d97fc6fd9b6ae702",
+  "title": "Photocatalysis by ruthenium dioxide on p-type semiconductors",
+  "authors": [
+   "W. Gissler",
+   "A. J. McEvoy"
+  ],
+  "journal": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/78958",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d7e026285db10c53",
+  "title": "Enhancement of photocatalytic oxygen evolution in aqueous TiO 2 suspensions by removal of surface-OH groups",
+  "authors": [
+   "Yoshinao Oosawa",
+   "Michaël Grätzel"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/c39840001629",
+  "url": "https://doi.org/10.1039/c39840001629",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d1fbacde63fcff58",
+  "title": "Properties and Applications of IVa Group Transition Metal Oxides",
+  "authors": [
+   "Yoshinori Fujiki"
+  ],
+  "journal": "Journal of the Mining and Metallurgical Institute of Japan",
+  "publisher": "Mining and Materials Processing Institute of Japan",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.2473/shigentosozai1953.100.1152_176",
+  "url": "https://doi.org/10.2473/shigentosozai1953.100.1152_176",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d04d3d0ebea219f7",
+  "title": "Photoredox processes in metalloporphyrin–crown ether systems",
+  "authors": [
+   "Georges Blondeel",
+   "Anthony Harriman",
+   "George Porter",
+   "Aleksandra Wilowska"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f29848000867",
+  "url": "https://doi.org/10.1039/f29848000867",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cb654dcf42be3ebd",
+  "title": "Water photolysis by a photoelectrochemical cell using an immobilized chloroplasts-methyl viologen system.",
+  "authors": [
+   "Mitsutoshi Okano",
+   "Takeaki IIDA",
+   "Hiroaki Shinohara",
+   "Hidehiko Kobayashi",
+   "Takashi MITAMURA"
+  ],
+  "journal": "Agricultural and Biological Chemistry",
+  "publisher": "Oxford University Press",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1271/bbb1961.48.1977",
+  "url": "https://doi.org/10.1271/bbb1961.48.1977",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Immobilization",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Saitama University",
+   "University of Tsukuba"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ca1a41a6f4093b5e",
+  "title": "Production of hydrogen through microheterogeneous photocatalysis of hydrogen sulfide cleavage. The thiosulfate cycle",
+  "authors": [
+   "E. Borgarello",
+   "Nick Serpone",
+   "Michaël Grätzel",
+   "Ezio Pelizzetti"
+  ],
+  "journal": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/78945",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c5bb4912e47ad402",
+  "title": "EXTENDING THE SPECTRAL RESPONSE OF DOPED POLYCRYSTALLINE n-TiO_2 PHOTOANODES",
+  "authors": [
+   "Yao Shi"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://en.cnki.com.cn/Article_en/CJFDTotal-YYKX198404009.htm",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photoanodes",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c222d25849f0e344",
+  "title": "NATO Advanced Study Institute on Fundamentals and Developments of Photocatalytic and Photoelectrochemical Processes, 20 May–2 June 1984, ERICE, Sicily, Italy",
+  "authors": [],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/0360-3199(84)90111-3",
+  "url": "https://doi.org/10.1016/0360-3199(84)90111-3",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a61db24138805c71",
+  "title": "Photoassisted Gas-Solid Reactions, Photocatalytic Processes And Endergonic Photoconversions Over Pure And Surface-Doped Metal Oxides",
+  "authors": [
+   "Joseph Cunningham",
+   "Edward L. Goold",
+   "B.K. Hodnett",
+   "Edward M. Leahy",
+   "G.Al. Sayyed"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0167-2991(09)60110-5",
+  "url": "https://doi.org/10.1016/s0167-2991(09)60110-5",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University College Cork"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9db94fed07845918",
+  "title": "Photocatalytic Dehydrogenation of Isopropanol on Pt/TiO2 Catalysts in Connection with Water Photosplitting",
+  "authors": [
+   "Ihya Ait Ichou",
+   "M. Formenti",
+   "S. J. Teichner"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0167-2991(09)60112-9",
+  "url": "https://doi.org/10.1016/s0167-2991(09)60112-9",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9b188b240f9058cd",
+  "title": "Photocatalytic decomposition of phenol in the presence of titanium dioxide",
+  "authors": [
+   "Hideki Kawaguchi"
+  ],
+  "journal": "Environmental Technology Letters",
+  "publisher": "Taylor & Francis",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1080/09593338409384301",
+  "url": "https://doi.org/10.1080/09593338409384301",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Fukui University of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9744d8c230c2e512",
+  "title": "PHOTOELECTROCHEMICAL SOLAR CELLS (PESC) USING Li DOPED CdS SEMICONDUCTOR PHOTOANODES OBTAINED BY CHEMICAL BATH DEPOSITION",
+  "authors": [
+   "Suresh Chandra",
+   "S.N. Sahu"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/b978-0-08-025407-4.50087-9",
+  "url": "https://doi.org/10.1016/b978-0-08-025407-4.50087-9",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "91e350e8ab9d7f07",
+  "title": "Room-temperature interaction of N18O with ultraviolet-illuminated titanium dioxide",
+  "authors": [
+   "Henri Courbon",
+   "Pierre Pichat"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f19848003175",
+  "url": "https://doi.org/10.1039/f19848003175",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "91468f082f3550ee",
+  "title": "Trans .fwdarw. cis isomerization of stilbene photocatalyzed by copper(I) complexes. The first example of copper(I) photocatalysis efficient under visible-light irradiation",
+  "authors": [
+   "Shigeyoshi Sakaki",
+   "Isao Okitaka",
+   "Katsutoshi Ohkubo"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/ic00170a017",
+  "url": "https://doi.org/10.1021/ic00170a017",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9122383d3929e328",
+  "title": "Oxidative stress on lens and cataract formation: role of light and oxygen",
+  "authors": [
+   "Shambhu D. Varma",
+   "Diwan Chand",
+   "Yog Raj Sharma",
+   "John F.R. Kuck",
+   "Richard D. Richards"
+  ],
+  "journal": "Current Eye Research",
+  "publisher": "Taylor & Francis",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.3109/02713688408997186",
+  "url": "https://doi.org/10.3109/02713688408997186",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry",
+   "Singlet Oxygen"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Maryland, Baltimore",
+   "Emory University",
+   "Emory Eye Center"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8f3345de3cf4cc4a",
+  "title": "Photocatalysis with colloidal semiconductor particles",
+  "authors": [
+   "Michaël Grätzel"
+  ],
+  "journal": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/78957",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8c15649b55868370",
+  "title": "Improvement of the photoelectrochemical change of H2S over CdS suspensions using RuS2 as a catalyst",
+  "authors": [
+   "D. H. M. W. Thewissen",
+   "Etty A. van der Zouwen-Assink",
+   "Klaas Timmer",
+   "A. H. A. Tinnemans",
+   "A. Mackor"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/c39840000941",
+  "url": "https://doi.org/10.1039/c39840000941",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 83,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8b8db501eaa2188d",
+  "title": "Photocatalytic Cleavage Of Hydrogen Sulfide And Organosulfur Compounds",
+  "authors": [
+   "Ezio Pelizzetti",
+   "E. Borgarello",
+   "Nick Serpone",
+   "Michaël Grätzel"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0167-2991(09)60115-4",
+  "url": "https://doi.org/10.1016/s0167-2991(09)60115-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Turin",
+   "Institut de Chimie",
+   "École Polytechnique Fédérale de Lausanne",
+   "Concordia University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7f966ab345d0930d",
+  "title": "Fundamentals and developments in photocatalytic and photoelectrochemical processes",
+  "authors": [
+   "R.I. Bickley"
+  ],
+  "journal": "Applied Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0166-9834(00)84499-1",
+  "url": "https://doi.org/10.1016/s0166-9834(00)84499-1",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "76d61521c388b641",
+  "title": "Comparing solar energy alternatives",
+  "authors": [
+   "Jackson White"
+  ],
+  "journal": "International Journal of Energy Research",
+  "publisher": "Wiley",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1002/er.4440080105",
+  "url": "https://doi.org/10.1002/er.4440080105",
+  "source": "openalex",
+  "categories": [
+   "Nitrogen Fixation"
+  ],
+  "tags": [
+   "Nitrogen Fixation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "ExxonMobil (United States)"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "740b0a8c8fc5315a",
+  "title": "Laser induced photocurrent transients in semiconductor liquid-junction solar cells employing n-WSe2 and n-MoSe2 photoanodes",
+  "authors": [
+   "Stanley G. Prybyla"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.31274/rtd-180813-8964",
+  "url": "https://doi.org/10.31274/rtd-180813-8964",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photoanodes",
+   "Quantum Yield",
+   "Semiconductors"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Iowa State University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "73b4089b0cb7ba74",
+  "title": "Photoredox properties of zinc porphyrin–viologen complexes",
+  "authors": [
+   "Anthony Harriman",
+   "George Porter",
+   "Aleksandra Wilowska"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f29848000191",
+  "url": "https://doi.org/10.1039/f29848000191",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Excited States",
+   "Photoredox"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "7374c9ad95b33d72",
+  "title": "On a novel system for the photosensitized water reduction which contains the iron-sulfur cluster, (Et4N)2(Fe4S4(SBzl)4).",
+  "authors": [
+   "Yohmei Okuno",
+   "Osamu Yonemitsu"
+  ],
+  "journal": "Chemical and Pharmaceutical Bulletin",
+  "publisher": "Pharmaceutical Society of Japan",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1248/cpb.32.846",
+  "url": "https://doi.org/10.1248/cpb.32.846",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Hokkaido University",
+   "Hokkaido Pharmaceutical University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6853c12c7cc175c0",
+  "title": "The complexation of zinc tetraphenylporphyrintrisulfonate by viologen and its role in the photoredox processes",
+  "authors": [
+   "一郎 大倉",
+   "Ichiro Okura"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100434797",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "66cabfcb9cfed88b",
+  "title": "Photocatalytic hydrogen evolution from aqueous hydrazine solution over precious-metal/anatase catalysts",
+  "authors": [
+   "Yoshinao Oosawa"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f19848001507",
+  "url": "https://doi.org/10.1039/f19848001507",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photoexcitation",
+   "TiO2"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "651d13ddd907db64",
+  "title": "Photocatalysis of the Pschorr reaction by tris-(2,2′-bipyridyl)ruthenium( II ) in the phenanthrene series",
+  "authors": [
+   "Herminia Cano-Yelo",
+   "Alain Deronzier"
+  ],
+  "journal": "Journal of the Chemical Society Perkin Transactions 2",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/p29840001093",
+  "url": "https://doi.org/10.1039/p29840001093",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "62a068d772510a4c",
+  "title": "Photocatalytic formation of hydrogen in alcoholic solutions of titanium tetrachloride",
+  "authors": [
+   "A. I. Kryukov",
+   "A. V. Korzhak",
+   "S. Ya. Kuchmii"
+  ],
+  "journal": "Theoretical and Experimental Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1007/bf00592802",
+  "url": "https://doi.org/10.1007/bf00592802",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine",
+   "L.V. Pisarzhevskii Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "53dc680c940e259d",
+  "title": "Enhancement of photocatalytic oxygen evolution in aqueous titanium dioxide suspensions by removal of surface hydroxy groups",
+  "authors": [
+   "Yoshinao Oosawa",
+   "Michaël Grätzel"
+  ],
+  "journal": "Infoscience (Ecole Polytechnique Fédérale de Lausanne)",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://infoscience.epfl.ch/record/78974",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "531287d5489847ae",
+  "title": "Photokatalytische Systeme. LXIV. Theoretische Untersuchungen zum Ladungstransfer und zur Photoreaktivität von π‐Akzeptorligandkomplexen mit d 6 ‐Übergangsmetallen",
+  "authors": [
+   "Roland Benedix",
+   "Horst Hennig"
+  ],
+  "journal": "Journal für praktische Chemie",
+  "publisher": "Wiley",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1002/prac.19843260615",
+  "url": "https://doi.org/10.1002/prac.19843260615",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photocatalysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Leipzig University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4dd69113563664d6",
+  "title": "Photocatalytic dehydrogenation of liquid propan-2-ol by platinized anatase and other catalysts",
+  "authors": [
+   "Falah H. Hussein",
+   "Robert Rudham"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f19848002817",
+  "url": "https://doi.org/10.1039/f19848002817",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "4ab9f24fa3a69269",
+  "title": "Heterogeneous Photocatalysis with Semiconductor Particulate Systems",
+  "authors": [
+   "K. Kalyanasundaram",
+   "Michaël Grätzel"
+  ],
+  "journal": "Springer series in chemical physics",
+  "publisher": "Springer Science+Business Media",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1007/978-3-642-82253-7_5",
+  "url": "https://doi.org/10.1007/978-3-642-82253-7_5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Wisconsin–Milwaukee",
+   "University of Auckland"
+  ],
   "added": "2026-07-24"
  },
  {
@@ -59,6 +1075,305 @@
    "Technical Institute of Physics and Chemistry",
    "Academia Sinica"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "474a7ff505c74204",
+  "title": "The electronic property and the photocatalytic activity of semiconductor particles.",
+  "authors": [
+   "Masatoshi Fujii",
+   "Shiro Kambe",
+   "Tomoji Kawai",
+   "Shichio Kawai"
+  ],
+  "journal": "Journal of the Japan Society of Powder and Powder Metallurgy",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.2497/jjspm.31.266",
+  "url": "https://doi.org/10.2497/jjspm.31.266",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "377c7e92e16ec6c8",
+  "title": "Photocatalytic and photoelectrochemical reactions of aqueous solutions of formic acid, formaldehyde, and methanol on platinized cadmium sulfide powder and at a cadmium sulfide electrode",
+  "authors": [
+   "Michio Matsumura",
+   "Masahiro Hiramoto",
+   "Toshio Iehara",
+   "Hiroshi Tsubomura"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/j150646a017",
+  "url": "https://doi.org/10.1021/j150646a017",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "36ce96f0a87fa443",
+  "title": "Solution medium control of the photoredox yield in the Ru(bpy)32+/methyl viologen/EDTA system",
+  "authors": [
+   "K. Mandal",
+   "Morton Z. Hoffman"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/j150646a006",
+  "url": "https://doi.org/10.1021/j150646a006",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "36b4f4991cf20a6c",
+  "title": "Solar Central Receiver Power Plants Status by Date of the First International Workshop at Claremont, USA, October 1982",
+  "authors": [
+   "C. Etiévant"
+  ],
+  "journal": "International Journal of Solar Energy",
+  "publisher": "Taylor & Francis",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1080/01425918408909934",
+  "url": "https://doi.org/10.1080/01425918408909934",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Solar Fuels"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "École Centrale Paris"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "24e31ca364610add",
+  "title": "Photocatalytic carbon–carbon bond formation with concurrent hydrogen evolution on colloidal zinc sulphide",
+  "authors": [
+   "Shozo Yanagida",
+   "Takayuki Azuma",
+   "Horishi Kawakami",
+   "Hirotoshi Kizumoto",
+   "Hiroshi Sakurai"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/c39840000021",
+  "url": "https://doi.org/10.1039/c39840000021",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "21805dc7fb9affcb",
+  "title": "Artificial photosynthesis with algal and reconstituted systems",
+  "authors": [
+   "Elias Greenbaum",
+   "Mark E. Reeves",
+   "John M. Woodward"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/acsami.4c00068",
+  "url": "https://doi.org/10.1021/acsami.4c00068",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1c650acdd3fd89dd",
+  "title": "Protection of n ‐ GaAs Photoanodes by Photoelectrochemical Grafting of Poly (3‐Methyl‐thiophene) and Poly (3,4‐Dimethyl‐thiophene) Films",
+  "authors": [
+   "Gilles Horowitz",
+   "G. Tourillon",
+   "Françis Garnier"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1149/1.2115498",
+  "url": "https://doi.org/10.1149/1.2115498",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Laboratoire de Photophysique et Photochimie Supramoléculaires et Macromoléculaires"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1a9c2923a89ac86b",
+  "title": "Solution photochemistry of tetrakis(tetrabutylammonium) decatungstate(VI) and catalytic hydrogen evolution from alcohols",
+  "authors": [
+   "Toshihiro Yamase",
+   "Naoki Takabayashi",
+   "Masashi Kaji"
+  ],
+  "journal": "Journal of the Chemical Society Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/dt9840000793",
+  "url": "https://doi.org/10.1039/dt9840000793",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "1607706f4f2119e4",
+  "title": "Photocatalytic Decomposition of Alcohols Over Mo(VI)/Al2O3 and Mo(VI)-Pt/Al2O3",
+  "authors": [
+   "Claude‐Paul Lafrance",
+   "Serge Kaliaguine",
+   "Pierre C. Roberge",
+   "Pierre Pichat"
+  ],
+  "journal": "Studies in surface science and catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0167-2991(09)60113-0",
+  "url": "https://doi.org/10.1016/s0167-2991(09)60113-0",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Université Laval"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "112157fc8020768e",
+  "title": "Electrode potential diagrams and their use in the Hill-Bendall or Z-scheme for photosynthesis",
+  "authors": [
+   "Peter Borrell",
+   "Denis T. Dixon"
+  ],
+  "journal": "Journal of Chemical Education",
+  "publisher": "American Chemical Society",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/ed061p83",
+  "url": "https://doi.org/10.1021/ed061p83",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Z-Scheme"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0e36ac781e29fbe0",
+  "title": "Photoelectrochemical studies of thin films of several tetraphenylporphyrins deposited on tin(IV) oxide electrodes",
+  "authors": [
+   "Paul A. Breddels",
+   "G. Blasse"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1039/f29848001055",
+  "url": "https://doi.org/10.1039/f29848001055",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Excited States",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
   "added": "2026-07-24"
  }
 ]

@@ -1,5 +1,254 @@
 [
  {
+  "id": "0004607ec1fd36ff",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC OXIDATION OF PROPENE OVER VARIOUS OXIDES AT 320 K. SELECTIVITY",
+  "authors": [
+   "Pierre Pichat",
+   "J.M. Herrmann",
+   "Jean Disdier",
+   "Marie-Noëlle Mozzanega"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1980-03-11",
+  "year": 1980,
+  "doi": "10.1002/chin.198010121",
+  "url": "https://doi.org/10.1002/chin.198010121",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9447f655aeb6c07a",
+  "title": "Light Induced Redox Reactions of Water Soluble Porphyrins, sensitization of hydrogen generation from water by zincporphyrin derivatives",
+  "authors": [
+   "K. Kalyanasundaram",
+   "Michaël Grätzel"
+  ],
+  "journal": "Helvetica Chimica Acta",
+  "publisher": "Wiley",
+  "published": "1980-03-05",
+  "year": 1980,
+  "doi": "10.1002/hlca.19800630219",
+  "url": "https://doi.org/10.1002/hlca.19800630219",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Photoreduction"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "École Polytechnique",
+   "Institut de Chimie",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ab69e4b6edd5eeaf",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC SYSTEMS. XXVIII. PREPARATION, THERMOCHEMISTRY AND PHOTOCHEMICAL BEHAVIOR OF (CO(BIPY)2OX)X COMPLEXES",
+  "authors": [
+   "Horst Hennig",
+   "Roland Benedix",
+   "J. Lerchner",
+   "K. Jurdeczka"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1980-03-04",
+  "year": 1980,
+  "doi": "10.1002/chin.198009331",
+  "url": "https://doi.org/10.1002/chin.198009331",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d49aba9a0d1fb143",
+  "title": "Electrocatalytic Electrodes for the Polysulfide Redox System",
+  "authors": [
+   "Gary Hodes",
+   "J. Manassen",
+   "David Cahen"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1149/1.2129709",
+  "url": "https://doi.org/10.1149/1.2129709",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ac5594fc9be1a690",
+  "title": "A theoretical treatment of charge transfer via surface states at a semiconductor-electrolyte interface: Analysis of the water photoelectrolysis process",
+  "authors": [
+   "Masahiko Nishida"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1063/1.327774",
+  "url": "https://doi.org/10.1063/1.327774",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Hydrogen Evolution",
+   "Photoanodes",
+   "Photocathodes",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "Kanazawa Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "97686250a5e60f65",
+  "title": "Photochemistry and photocatalytic activity of a polynuclear metal carbonyl hydride: dodecacarbonyltetrahydridotetraruthenium",
+  "authors": [
+   "James L. Graff",
+   "Mark S. Wrighton"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1021/ja00526a077",
+  "url": "https://doi.org/10.1021/ja00526a077",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "92dcc156673bceec",
+  "title": "Relationship between surface morphology and solar conversion efficiency of tungsten diselenide photoanodes",
+  "authors": [
+   "H. J. Lewerenz",
+   "A. Heller",
+   "F. J. DiSalvo"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1021/ja00526a019",
+  "url": "https://doi.org/10.1021/ja00526a019",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "46f7f7f40aec837a",
+  "title": "Iron-Oxide Coated n-Si as a Heterostructure Photoanode for the Photoelectrolysis of Water",
+  "authors": [
+   "Hiroshi Morisaki",
+   "Hiroshi Ono",
+   "Hitoshi Dohkoshi",
+   "Kazuhiko Yazawa"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1143/jjap.19.l148",
+  "url": "https://doi.org/10.1143/jjap.19.l148",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterostructures",
+   "Photoanodes"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Electro-Communications"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2c8aa4baaeac1249",
+  "title": "Heterogeneous photocatalysis: The photooxidation of 2-methylbutane",
+  "authors": [
+   "N. Djeghri"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1980-03-01",
+  "year": 1980,
+  "doi": "10.1016/0021-9517(80)90425-x",
+  "url": "https://doi.org/10.1016/0021-9517(80)90425-x",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Université Claude Bernard Lyon 1",
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "1c93253d86025f4c",
   "title": "DETERMINATION OF INTRINSIC QUANTUM EFFICIENCIES OF PHOTOELECTROCHEMICAL REACTIONS ON SEMICONDUCTOR ELECTRODES BY TEMPERATURE MEASUREMENT",
   "authors": [

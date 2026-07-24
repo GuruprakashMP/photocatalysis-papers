@@ -1,5 +1,113 @@
 [
  {
+  "id": "ef9d6091896c8224",
+  "title": "ChemInform Abstract: MEASUREMENT OF THE EXTINCTION COEFFICIENT OF THE METHYL VIOLOGEN CATION RADICAL AND THE EFFICIENCY OF ITS FORMATION BY SEMICONDUCTOR PHOTOCATALYSIS",
+  "authors": [
+   "Takayuki Watanabe",
+   "K. Honda"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-10-12",
+  "year": 1982,
+  "doi": "10.1002/chin.198241108",
+  "url": "https://doi.org/10.1002/chin.198241108",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "68f48e759a7cc99e",
+  "title": "ChemInform Abstract: PHOTOELECTROCHEMICAL CELLS FOR THE PRODUCTION OF HYDROGEN AND HYDROGEN PEROXIDE VIA PHOTOREDOX REACTIONS",
+  "authors": [
+   "M. Neumann‐Spallart",
+   "K. Kalyanasundaram"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-10-12",
+  "year": 1982,
+  "doi": "10.1002/chin.198241110",
+  "url": "https://doi.org/10.1002/chin.198241110",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Photoredox"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "fc0d444a688c214f",
+  "title": "Photocatalytic hydrogenation of dienes with chromium carbonyls",
+  "authors": [
+   "Manfred J. Mirbach",
+   "Nhu Phu Tuyet",
+   "Alfons Saus"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1016/s0022-328x(00)86905-3",
+  "url": "https://doi.org/10.1016/s0022-328x(00)86905-3",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Duisburg-Essen"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ce3f77f9604bd4ad",
+  "title": "Laser photocatalytic isomerization and hydrogenation of olefins in the gas phase",
+  "authors": [
+   "Robert L. Whetten",
+   "Ke-Jian Fu",
+   "Edward R. Grant"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1063/1.444244",
+  "url": "https://doi.org/10.1063/1.444244",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Cornell University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "b0dc334fadb0c3d8",
   "title": "Zinc Sulfide as Catalyst for the Heterogenous Photoreduction of Water",
   "authors": [
@@ -24,6 +132,89 @@
   "affiliations": [
    "Max Planck Society",
    "Max-Planck-Institut für Kohlenforschung"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8aa764d9be2fc764",
+  "title": "Electrochemical and surface characteristics of the photocatalytic platinum deposits on titania",
+  "authors": [
+   "M. Koudelka",
+   "Jean-Baptiste Sanchez",
+   "Jan Augustyński"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1021/j100219a001",
+  "url": "https://doi.org/10.1021/j100219a001",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "36e4aff16bdb4eb4",
+  "title": "PHOTOCATALYTIC ISOMERIZATION OF BUTENES OVER TiO2 AND ZnO",
+  "authors": [
+   "Sukeya Kodama",
+   "Masaaki Yabuta",
+   "Yutaka Kubokawa"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1246/cl.1982.1671",
+  "url": "https://doi.org/10.1246/cl.1982.1671",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2191f8230750f872",
+  "title": "Photocatalytic decomposition of liquid water on a NiOSrTiO3 catalyst",
+  "authors": [
+   "Kazunari Domen",
+   "Shuichi Naito",
+   "Toshikazu Onishi",
+   "Kenzi Tamaru"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1016/0009-2614(82)83443-x",
+  "url": "https://doi.org/10.1016/0009-2614(82)83443-x",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "The University of Tokyo"
   ],
   "added": "2026-07-24"
  }

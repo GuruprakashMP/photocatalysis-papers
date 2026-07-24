@@ -1,5 +1,186 @@
 [
  {
+  "id": "15e88110c8a36208",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC HYDROGEN PRODUCTION FROM SOLUTIONS OF SULFITE USING PLATINIZED CADMIUM SULFIDE POWDER",
+  "authors": [
+   "M. Matsumura",
+   "Yukinari Saho",
+   "Hiroshi Tsubomura"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-12-20",
+  "year": 1983,
+  "doi": "10.1002/chin.198351356",
+  "url": "https://doi.org/10.1002/chin.198351356",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8853b000451cbff2",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC SYSTEMS. LX. DYNAMIC AND STATIC QUENCHING OF THE LUMINESCENCE OF URANYL IONS BY CYANOMETALATES",
+  "authors": [
+   "H. Knöll",
+   "Horst Hennig",
+   "И. В. Соболева",
+   "M. G. Kuz’min"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-12-13",
+  "year": 1983,
+  "doi": "10.1002/chin.198350005",
+  "url": "https://doi.org/10.1002/chin.198350005",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "41de41c39ae8cb4b",
+  "title": "ChemInform Abstract: A ONE‐VOLT P‐INDIUM PHOSPHIDE/N‐CADMIUM SELENIDE REGENERATIVE PHOTOELECTROCHEMICAL CELL",
+  "authors": [
+   "P.G.P. Ang",
+   "Anthony F. Sammells"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-12-06",
+  "year": 1983,
+  "doi": "10.1002/chin.198349361",
+  "url": "https://doi.org/10.1002/chin.198349361",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f4afb596b14cc5cf",
+  "title": "Photocatalytic synthesis of ammonia",
+  "authors": [],
+  "journal": "Applied Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/0166-9834(83)85028-3",
+  "url": "https://doi.org/10.1016/0166-9834(83)85028-3",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c50182e240d8d91f",
+  "title": "In-situ storage of solar hydrogen in a PEC cell",
+  "authors": [
+   "J. Schoonman",
+   "H.S. Kiliaan"
+  ],
+  "journal": "Solid State Ionics",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/0167-2738(83)90135-2",
+  "url": "https://doi.org/10.1016/0167-2738(83)90135-2",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Utrecht University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c3228ec01075f2d8",
+  "title": "The effects of noble metals on TiO/sub 2/ semiconductors in the production of storable fuels",
+  "authors": [
+   "Ryan Pollock",
+   "Andrei Buin",
+   "J.F. Houlihan"
+  ],
+  "journal": "Alternative Energy Sources",
+  "publisher": "",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6705141-effects-noble-metals-tio-sub-semiconductors-production-storable-fuels",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9e6486e1c596d347",
+  "title": "Generation of hydrogen using hematite (. cap alpha. -Fe/sub 2/O/sub 3/) electrode",
+  "authors": [
+   "R. C. Bhardwaj",
+   "C.M. Jadhav",
+   "M.M.Taqui Khán"
+  ],
+  "journal": "Alternative Energy Sources",
+  "publisher": "",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/6722866-generation-hydrogen-using-hematite-cap-alpha-fe-sub-sub-electrode",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
   "id": "9e3117d06fa3e41e",
   "title": "Experimental evidence for the hydrogen evolution site in photocatalytic process on Pt/TiO2",
   "authors": [
@@ -26,6 +207,58 @@
   "relevance_score": 73,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "94b93f95e5926575",
+  "title": "Hydrogen from methanol by a photocatalytic route",
+  "authors": [],
+  "journal": "Applied Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/0166-9834(83)85015-5",
+  "url": "https://doi.org/10.1016/0166-9834(83)85015-5",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "81ea9c076c715c65",
+  "title": "Sn1−x Pbx O2 sputtered thin films as photoanodes for photoelectrochemical cells",
+  "authors": [
+   "Claude Lévy‐Clément",
+   "D. M. Schleich",
+   "O. Gorochov",
+   "A. Czapla"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/0025-5408(83)90186-1",
+  "url": "https://doi.org/10.1016/0025-5408(83)90186-1",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de physique des Solides",
+   "Institute of Metallurgy and Materials Science"
   ],
   "added": "2026-07-24"
  }

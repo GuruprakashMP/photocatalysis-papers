@@ -1,5 +1,262 @@
 [
  {
+  "id": "a640394f504ee9b4",
+  "title": "ChemInform Abstract: CHEMICALLY UNSYMMETRICAL, POLYMERIZED SURFACTANT VESICLES: PREPARATION AND POSSIBLE APPLICATION IN ARTIFICIAL PHOTOSYNTHESIS",
+  "authors": [
+   "P. Tundo",
+   "Kazue Kurihara",
+   "Donald J. Kippenberger",
+   "Mário J. Politi",
+   "János H. Fendler"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-04-27",
+  "year": 1982,
+  "doi": "10.1002/chin.198217219",
+  "url": "https://doi.org/10.1002/chin.198217219",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "05532aa7aff75251",
+  "title": "ChemInform Abstract: PHOTOCATALYTIC SYSTEMS. XLVI. THE PHOTOINDUCED DECOMPOSITION OF TRIBUTYLSTANNYL CHROMATE(VI) AS STUDIED BY ESR SPIN TRAPPING",
+  "authors": [
+   "D. Rehorek",
+   "Wolfram Winkler",
+   "Roland Wagener",
+   "Horst Hennig"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-04-06",
+  "year": 1982,
+  "doi": "10.1002/chin.198214272",
+  "url": "https://doi.org/10.1002/chin.198214272",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "e5c605c31adb24f2",
+  "title": "Synthesis and characterization of a new surface derivatizing reagent to promote the adhesion of polypyrrole films to N-type silicon photoanodes: N-(3-(trimethoxysilyl)propyl)pyrrole",
+  "authors": [
+   "Richard Simon",
+   "Antonio J. Ricco",
+   "Mark S. Wrighton"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1021/ja00371a045",
+  "url": "https://doi.org/10.1021/ja00371a045",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "cbde482bc37a7d98",
+  "title": "Influence of added salts on the cage escape yields in the photoredox quenching of Ru(bpy)2+3 excited states",
+  "authors": [
+   "K. Kalyanasundaram",
+   "M. Neumann‐Spallart"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1016/0009-2614(82)80059-6",
+  "url": "https://doi.org/10.1016/0009-2614(82)80059-6",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoredox"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a6b231eafdc3619e",
+  "title": "PHOTOCATALYTIC OXYGEN EVOLUTION FROM TiO2 POWDER-WATER-HALATE SYSTEMS",
+  "authors": [
+   "Yoshinao Oosawa"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1246/cl.1982.423",
+  "url": "https://doi.org/10.1246/cl.1982.423",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "National Chemical Laboratory"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a491b0b88da52187",
+  "title": "Photochemical diode model of Pt/TiO2 particle and its photocatalytic activity",
+  "authors": [
+   "T. Sakata",
+   "Tsuyoshi Kawai",
+   "Kazuhito Hashimoto"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1016/0009-2614(82)80068-7",
+  "url": "https://doi.org/10.1016/0009-2614(82)80068-7",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "820ed96930963929",
+  "title": "New semiconducting oxide photoanodes for water splitting in a photoelectrochemical cell Electrochemistry of n-type NiTiO3",
+  "authors": [
+   "Claudio Gutiérrez",
+   "Pedro Salvador",
+   "John B. Goodenough"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1016/0022-0728(82)80010-7",
+  "url": "https://doi.org/10.1016/0022-0728(82)80010-7",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Instituto de Química Física Blas Cabrera",
+   "Instituto de Catálisis y Petroleoquímica",
+   "Institute of Inorganic Chemistry of the Slovak Academy of Sciences"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "3ab3f7b699dc8531",
+  "title": "A “DIP-GROWN” CdSe PHOTOANODE IN PHOTOELECTROCHEMICAL CELL",
+  "authors": [
+   "Hideki Minoura",
+   "Ikunori Kobayashi",
+   "Yasusada Ueno",
+   "Masayasu Tsuiki"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1246/cl.1982.505",
+  "url": "https://doi.org/10.1246/cl.1982.505",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Gifu University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "196e3a221a77bea3",
+  "title": "Solid Polymer Electrolyte Photovoltaic Cell",
+  "authors": [
+   "Terje A. Skotheim",
+   "Ingemar Lundström"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1149/1.2123997",
+  "url": "https://doi.org/10.1149/1.2123997",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Charge Transfer",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Linköping University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "0d8d83cde9cc8a3d",
   "title": "PHOTOCATALYTIC HYDROGEN PRODUCTION FROM A MIXTURE OF WATER AND 2-PROPANOL ON SOME SEMICONDUCTORS",
   "authors": [
@@ -30,6 +287,41 @@
   "relevance_score": 82,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "078aadf92f028f6b",
+  "title": "Luminescent Photoelectrochemical Cells: VII . Photoluminescent and Electroluminescent Properties of Cadmium Sulfo‐Selenide Electrodes",
+  "authors": [
+   "Holger H. Streckert",
+   "J. Tong",
+   "Michael K. Carpenter",
+   "Arthur B. Ellis"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-04-01",
+  "year": 1982,
+  "doi": "10.1149/1.2123969",
+  "url": "https://doi.org/10.1149/1.2123969",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Photoluminescence",
+   "Semiconductors"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Wisconsin–Madison"
   ],
   "added": "2026-07-24"
  }

@@ -1,5 +1,91 @@
 [
  {
+  "id": "d8a79952c3043e17",
+  "title": "ChemInform Abstract: PHOTOCATALYSIS. VIII. STEREOSELECTIVE PHOTOCHEMICAL CODIMERIZATION OF CYCLOHEXENE AND CYCLOHEPTENE, CATALYZED BY COPPER(I) TRIFLUOROMETHANESULFONATE",
+  "authors": [
+   "P. J. J. A. Timmermans",
+   "G. M. J. DE RUITER",
+   "A. H. A. Tinnemans",
+   "A. Mackor"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-07-19",
+  "year": 1983,
+  "doi": "10.1002/chin.198329089",
+  "url": "https://doi.org/10.1002/chin.198329089",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ec2a4e5da88522d1",
+  "title": "Influence of hydrogen reduction on photoelectrochemical behavior of anodic oxidized n-TiO2-layers",
+  "authors": [
+   "K. Hartig",
+   "N. Getoff",
+   "K.D. Kotchev",
+   "St. Kanev"
+  ],
+  "journal": "Solar Energy Materials",
+  "publisher": "Elsevier BV",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1016/0165-1633(83)90039-4",
+  "url": "https://doi.org/10.1016/0165-1633(83)90039-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Vienna"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d59609311937b398",
+  "title": "The mechanism of photocatalytic hydrogen production from gaseous methanol and water: IR spectroscopic approach",
+  "authors": [
+   "Maki Kawai",
+   "Shuichi Naito",
+   "Kenzi Tamaru",
+   "Tomoji Kawai"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1016/0009-2614(83)80227-9",
+  "url": "https://doi.org/10.1016/0009-2614(83)80227-9",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Tokyo",
+   "Institute for Molecular Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "d25ae6d6da392c1d",
   "title": "A newly designed electrochemical medium using crown ether, and its application to electrochemical and photoelectrochemical reactions",
   "authors": [
@@ -24,6 +110,111 @@
   "affiliations": [
    "The University of Tokyo"
   ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b2cbdfcc4f95f691",
+  "title": "Kinetic method for stabilization of photochemically separated charges. I. Analysis of a photocatalytic reactor with one immobilized component",
+  "authors": [
+   "В.Н. Пармон"
+  ],
+  "journal": "Kinet. Catal. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5190092-kinetic-method-stabilization-photochemically-separated-charges-analysis-photocatalytic-reactor-one-immobilized-component",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Immobilization",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "84c1b9b98f22b038",
+  "title": "Oxygen and hydrogen generation from water on polymer-protected CdS photoanodes",
+  "authors": [
+   "Arthur J. Frank",
+   "Kenji Honda"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1016/s0022-0728(83)80246-0",
+  "url": "https://doi.org/10.1016/s0022-0728(83)80246-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Energy Research Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5b91e0bbba531299",
+  "title": "Photocatalytic liberation of hydrogen from aqueous-alcoholic solutions of heteropoly acids of the 12th order",
+  "authors": [
+   "E.N. Savinov",
+   "S.S. Saidkhanov",
+   "В.Н. Пармон"
+  ],
+  "journal": "Kinet. Catal. (Engl. Transl.); (United States)",
+  "publisher": "",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/5284104-photocatalytic-liberation-hydrogen-from-aqueous-alcoholic-solutions-heteropoly-acids-order",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "544ef383f4314f5c",
+  "title": "Electrochemical Synthesis of Photoactive MoS2",
+  "authors": [
+   "L. F. Schneemeyer",
+   "Uri Cohen"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1149/1.2120027",
+  "url": "https://doi.org/10.1149/1.2120027",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
   "added": "2026-07-24"
  },
  {
@@ -57,6 +248,36 @@
   "relevance_score": 82,
   "affiliations": [
    "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "01ba6e976b150bf0",
+  "title": "n -type GaAs photoanodes in acetonitrile: Design of a 10.0% efficient photoelectrode",
+  "authors": [
+   "C. M. Gronet",
+   "Nathan S. Lewis"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1063/1.94148",
+  "url": "https://doi.org/10.1063/1.94148",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photoanodes",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Stanford University"
   ],
   "added": "2026-07-24"
  }
