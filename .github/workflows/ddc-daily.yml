@@ -1,0 +1,56 @@
+# Daily pipeline for DataDrivenChemistryPapers.
+#
+# This repository IS the project: the pipeline code, data, and generated
+# website all live at the repo root, and this workflow updates them daily.
+
+name: Photocatalysis daily paper update
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # every day at 05:00 UTC
+  workflow_dispatch: {}    # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ddc-write   # shared with the backfill workflow — one writer at a time
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No dependencies to install: the pipeline is standard-library only.
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+        env:
+          PYTHONPATH: src
+
+      - name: Collect papers and rebuild site
+        run: python -m ddc run
+        env:
+          PYTHONPATH: src
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GuruprakashMP"
+          git config user.email "guruprakash29011999@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new papers today."
+          else
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main || true
+            git push
+          fi

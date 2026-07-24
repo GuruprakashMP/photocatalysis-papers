@@ -1,0 +1,25 @@
+{
+  "_comment": "Researchers whose complete publication lists are harvested during backfill (their papers still pass the same relevance classifier). Add names freely and rerun: python -m ddc backfill --authors-only",
+  "authors": [
+    "Akira Fujishima",
+    "Kazunari Domen",
+    "Xinchen Wang",
+    "Can Li",
+    "Jinhua Ye",
+    "Zhigang Zou",
+    "Wonyong Choi",
+    "Detlef Bahnemann",
+    "Horst Kisch",
+    "Tierui Zhang",
+    "Michael Gratzel",
+    "Gang Liu",
+    "Lianzhou Wang",
+    "Huijun Zhao",
+    "Jiaguo Yu",
+    "Shaohua Shen",
+    "David MacMillan",
+    "Tehshik Yoon",
+    "Corey Stephenson",
+    "Burkhard Konig"
+  ]
+}

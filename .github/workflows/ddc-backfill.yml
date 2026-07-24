@@ -1,0 +1,71 @@
+# One-shot (resumable) historical backfill for DataDrivenChemistryPapers.
+#
+# Trigger manually from the Actions tab (or `gh workflow run ddc-backfill.yml`).
+# Safe to re-run: already-ingested papers are skipped as duplicates, so if a
+# run hits the OpenAlex daily quota it stops cleanly and a later run resumes.
+
+name: Photocatalysis historical backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_year:
+        description: "Earliest publication year to harvest"
+        default: "1972"
+        required: false
+      to_year:
+        description: "Latest publication year to harvest"
+        default: "2025"
+        required: false
+      max_pages:
+        description: "Max pages (of 200 works) per query per year"
+        default: "12"
+        required: false
+      topics_only:
+        description: "Skip the pioneer sweep (already harvested)"
+        type: boolean
+        default: false
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ddc-write   # never run concurrently with the daily update
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run historical backfill
+        run: >
+          python -m ddc backfill
+          --from ${{ inputs.from_year }}
+          --to ${{ inputs.to_year }}
+          --max-pages ${{ inputs.max_pages }}
+          ${{ inputs.topics_only && '--topics-only' || '' }}
+        env:
+          PYTHONPATH: src
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GuruprakashMP"
+          git config user.email "guruprakash29011999@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Backfill added no new papers."
+          else
+            git commit -m "Historical backfill: ${{ inputs.from_year }}-${{ inputs.to_year }}"
+            git pull --rebase origin main || true
+            git push
+          fi

@@ -1,0 +1,20 @@
+{
+  "site_title": "PhotocatalysisPapers",
+  "site_tagline": "A continuously updated index of photocatalysis research - from water splitting to photoredox catalysis",
+  "site_base_url": "",
+  "contact_email": "guruprakash29011999@gmail.com",
+  "min_relevance_score": 40,
+  "collect_days_back": 3,
+  "max_results_per_source": 200,
+  "homepage_paper_count": 50,
+  "enabled_sources": [
+    "arxiv",
+    "chemrxiv",
+    "crossref",
+    "openalex",
+    "europepmc",
+    "pubmed",
+    "semanticscholar",
+    "doaj"
+  ]
+}
