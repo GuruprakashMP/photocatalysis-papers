@@ -1,5 +1,192 @@
 [
  {
+  "id": "eb4fc46efa1ff7e4",
+  "title": "A Tantalum Nitride Photoanode Modified with a Hole‐Storage Layer for Highly Stable Solar Water Splitting",
+  "authors": [
+   "Guiji Liu",
+   "Jingying Shi",
+   "Fuxiang Zhang",
+   "Zheng Chen",
+   "Jingfeng Han",
+   "Chunmei Ding",
+   "Shanshan Chen",
+   "Zhiliang Wang",
+   "Hongxian Han",
+   "Can Li"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2014-05-30",
+  "year": 2014,
+  "doi": "10.1002/anie.201404697",
+  "url": "https://doi.org/10.1002/anie.201404697",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Alignment",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "Solar Fuels",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "c453d30909e4ce51",
+  "title": "All‐Solid‐State Z‐Scheme Photocatalytic Systems",
+  "authors": [
+   "Peng Zhou",
+   "Jiaguo Yu",
+   "Mietek Jaroniec"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2014-05-30",
+  "year": 2014,
+  "doi": "10.1002/adma.201400288",
+  "url": "https://doi.org/10.1002/adma.201400288",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Water Splitting",
+   "CO2 Reduction",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Pollutants",
+   "Water Splitting",
+   "Z-Scheme"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "Kent State University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "d4ffbd5d0732aad2",
+  "title": "g-C 3 N 4 -Based Photocatalysts for Hydrogen Generation",
+  "authors": [
+   "Shaowen Cao",
+   "Jiaguo Yu"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2014-05-29",
+  "year": 2014,
+  "doi": "10.1021/jz500546b",
+  "url": "https://doi.org/10.1021/jz500546b",
+  "source": "openalex",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Band Structure",
+   "Carbon Nitride",
+   "Heterojunctions",
+   "Light Irradiation",
+   "Photocatalysis",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "King Abdulaziz University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "620d3bd47da0ad02",
+  "title": "Photocatalytic and photoelectrocatalytic degradation of small biological compounds at TiO2 photoanode: A case study of nucleotide bases",
+  "authors": [
+   "Guiying Li",
+   "Xiaolu Liu",
+   "Taicheng An",
+   "Hai Yang",
+   "Shanqing Zhang",
+   "Huijun Zhao"
+  ],
+  "journal": "Catalysis Today",
+  "publisher": "Elsevier BV",
+  "published": "2014-05-29",
+  "year": 2014,
+  "doi": "10.1016/j.cattod.2014.04.029",
+  "url": "https://doi.org/10.1016/j.cattod.2014.04.029",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Griffith University",
+   "Chinese Academy of Sciences",
+   "Guangzhou Institute of Geochemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "b99b63cef848adaa",
+  "title": "Photocatalytic Hydrodechlorination of Trace Carbon Tetrachloride (CCl 4 ) in Aqueous Medium",
+  "authors": [
+   "William K. O’Keefe",
+   "Yin Liu",
+   "Michael Sasges",
+   "Michael S. Wong",
+   "Fu Han",
+   "Tsuyoshi Takata",
+   "Kazunari Domen"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2014-05-28",
+  "year": 2014,
+  "doi": "10.1021/ie500344v",
+  "url": "https://doi.org/10.1021/ie500344v",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Trojan Technologies (Canada)",
+   "Western University",
+   "Rice University",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "ea72272505809661",
   "title": "Photocatalytic Conversion of CO 2 into Renewable Hydrocarbon Fuels: State‐of‐the‐Art Accomplishment, Challenges, and Prospects",
   "authors": [
@@ -27,6 +214,527 @@
   ],
   "relevance_score": 80,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "72f47c28883e99e5",
+  "title": "Nanostructured WO 3 /BiVO 4 Photoanodes for Efficient Photoelectrochemical Water Splitting",
+  "authors": [
+   "Yuriy Pihosh",
+   "Ivan Turkevych",
+   "Kazuma Mawatari",
+   "Tomohiro Asai",
+   "Takashi Hisatomi",
+   "Jin Uemura",
+   "Masahiro Tosa",
+   "Kiyoshi Shimamura",
+   "Jun Kubota",
+   "Kazunari Domen",
+   "Takehiko Kitamori"
+  ],
+  "journal": "Small",
+  "publisher": "Wiley",
+  "published": "2014-05-26",
+  "year": 2014,
+  "doi": "10.1002/smll.201400276",
+  "url": "https://doi.org/10.1002/smll.201400276",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "BiVO4",
+   "Charge Separation",
+   "Co-catalysts",
+   "Oxygen Evolution",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Solar Light",
+   "WO3",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "The University of Tokyo",
+   "National Institute for Materials Science"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9871ecc104c44112",
+  "title": "Two-dimensional layered composite photocatalysts",
+  "authors": [
+   "Jingxiang Low",
+   "Shaowen Cao",
+   "Jiaguo Yu",
+   "S. Wageh"
+  ],
+  "journal": "Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2014-05-23",
+  "year": 2014,
+  "doi": "10.1039/c4cc02553a",
+  "url": "https://doi.org/10.1039/c4cc02553a",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Pollutant Degradation",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Heterojunctions",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "King Abdulaziz University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "2237f7b7996f8691",
+  "title": "Nanostructure sensitization of transition metal oxides for visible-light photocatalysis",
+  "authors": [
+   "Hongjun Chen",
+   "Lianzhou Wang"
+  ],
+  "journal": "Beilstein Journal of Nanotechnology",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2014-05-23",
+  "year": 2014,
+  "doi": "10.3762/bjnano.5.82",
+  "url": "https://doi.org/10.3762/bjnano.5.82",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photocatalysis",
+   "Plasmonics",
+   "Quantum Dots",
+   "Solar Fuels",
+   "Visible Light"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "The University of Queensland"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "9bdbc4ddcd0c9268",
+  "title": "Synthesis of Ferrocene‐Modified Carbon Nitride Photocatalysts by Surface Amidation Reaction for Phenol Synthesis",
+  "authors": [
+   "Xiangju Ye",
+   "Yun Zheng",
+   "Xinchen Wang"
+  ],
+  "journal": "Chinese Journal of Chemistry",
+  "publisher": "Wiley",
+  "published": "2014-05-22",
+  "year": 2014,
+  "doi": "10.1002/cjoc.201400229",
+  "url": "https://doi.org/10.1002/cjoc.201400229",
+  "source": "openalex",
+  "categories": [
+   "g-C3N4 & Carbon Materials",
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Transfer",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Selective Oxidation",
+   "Visible Light",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Fuzhou University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "44515e830d4368be",
+  "title": "Titanium Dioxide Crystals with Tailored Facets",
+  "authors": [
+   "Gang Liu",
+   "Hua Gui Yang",
+   "Jian Pan",
+   "Yong Yang",
+   "Gao Qing Lu",
+   "Hui–Ming Cheng"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2014-05-22",
+  "year": 2014,
+  "doi": "10.1021/cr400621z",
+  "url": "https://doi.org/10.1021/cr400621z",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Griffith University",
+   "East China University of Science and Technology",
+   "The University of Queensland",
+   "University of Science and Technology of China",
+   "King Abdulaziz University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "333e193dc644d604",
+  "title": "The Role of Ni-Based Cocatalyst in Inhomogeneous RVO 4 Photocatalyst Systems (R = Y, Gd)",
+  "authors": [
+   "Mitsutake Oshikiri",
+   "Jinhua Ye",
+   "Mauro Boero"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2014-05-22",
+  "year": 2014,
+  "doi": "10.1021/jp502099v",
+  "url": "https://doi.org/10.1021/jp502099v",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Doping",
+   "First-Principles",
+   "Photocatalysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "National Institute for Materials Science",
+   "Centre National de la Recherche Scientifique",
+   "Institut de Physique et Chimie des Matériaux de Strasbourg",
+   "Université de Strasbourg"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "254d8965e7099be4",
+  "title": "Vapor-phase hydrothermal synthesis of rutile TiO2 nanostructured film with exposed pyramid-shaped (1 1 1) surface and superiorly photoelectrocatalytic performance",
+  "authors": [
+   "Jiangyao Chen",
+   "Haimin Zhang",
+   "Porun Liu",
+   "Yun Wang",
+   "Xiaolu Liu",
+   "Guiying Li",
+   "Taicheng An",
+   "Huijun Zhao"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2014-05-22",
+  "year": 2014,
+  "doi": "10.1016/j.jcis.2014.05.012",
+  "url": "https://doi.org/10.1016/j.jcis.2014.05.012",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Griffith University",
+   "Chinese Academy of Sciences",
+   "Guangzhou Institute of Geochemistry"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "19c11d5862b8f3e5",
+  "title": "Adenovirus inactivation by in situ photocatalytically and photoelectrocatalytically generated halogen viricides",
+  "authors": [
+   "Guiying Li",
+   "Xiaolu Liu",
+   "Haimin Zhang",
+   "Po Keung Wong",
+   "Taicheng An",
+   "Wenqu Zhou",
+   "Bing Li",
+   "Huijun Zhao"
+  ],
+  "journal": "Chemical Engineering Journal",
+  "publisher": "Elsevier BV",
+  "published": "2014-05-22",
+  "year": 2014,
+  "doi": "10.1016/j.cej.2014.05.059",
+  "url": "https://doi.org/10.1016/j.cej.2014.05.059",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Griffith University",
+   "Chinese Academy of Sciences",
+   "Guangzhou Institute of Geochemistry",
+   "Chinese University of Hong Kong",
+   "Third Affiliated Hospital of Guangzhou Medical University",
+   "Guangzhou Medical University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "38baf02091422b85",
+  "title": "Semiconductor heterojunction photocatalysts: design, construction, and photocatalytic performances",
+  "authors": [
+   "Huanli Wang",
+   "Lisha Zhang",
+   "Zhigang Chen",
+   "Junqing Hu",
+   "Shijie Li",
+   "Zhaohui Wang",
+   "Jianshe Liu",
+   "Xinchen Wang"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2014-05-20",
+  "year": 2014,
+  "doi": "10.1039/c4cs00126e",
+  "url": "https://doi.org/10.1039/c4cs00126e",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Donghua University",
+   "State Key Laboratory for Modification of Chemical Fibers and Polymer Materials",
+   "Fuzhou University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "95b2cfa8bdb59c13",
+  "title": "Effects of the preparation method on the structure and the visible-light photocatalytic activity of Ag 2 CrO 4",
+  "authors": [
+   "Difa Xu",
+   "Shaowen Cao",
+   "Jinfeng Zhang",
+   "Bei Cheng",
+   "Jiaguo Yu"
+  ],
+  "journal": "Beilstein Journal of Nanotechnology",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2014-05-19",
+  "year": 2014,
+  "doi": "10.3762/bjnano.5.77",
+  "url": "https://doi.org/10.3762/bjnano.5.77",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "Visible Light",
+   "Water Purification"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "Changsha University of Science and Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "aeb26481ffc9c200",
+  "title": "Step-wise controlled growth of metal@TiO 2 core–shells with plasmonic hot spots and their photocatalytic properties",
+  "authors": [
+   "Teera Butburee",
+   "Yang Bai",
+   "Jian Pan",
+   "Xu Zong",
+   "Chenghua Sun",
+   "Gang Liu",
+   "Lianzhou Wang"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2014-05-15",
+  "year": 2014,
+  "doi": "10.1039/c4ta01120a",
+  "url": "https://doi.org/10.1039/c4ta01120a",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Photocatalysis",
+   "Photodegradation",
+   "Plasmonics",
+   "TiO2"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "The University of Queensland",
+   "Chinese Academy of Sciences",
+   "Monash University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "453ad2120551bb87",
+  "title": "Synthesis and Photoelectrochemical Properties of (Cu 2 Sn) x Zn 3(1– x ) S 3 Nanocrystal Films",
+  "authors": [
+   "Yubin Chen",
+   "Chi-Hung Chuang",
+   "Keng-Chu Lin",
+   "Shaohua Shen",
+   "Christopher McCleese",
+   "Liejin Guo",
+   "Clemens Burda"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2014-05-07",
+  "year": 2014,
+  "doi": "10.1021/jp500270d",
+  "url": "https://doi.org/10.1021/jp500270d",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocathodes",
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Nanomaterials Research (United States)",
+   "Case Western Reserve University",
+   "Xi'an Jiaotong University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "f8317372165c3ee5",
+  "title": "Corrigendum: Enhanced Photocatalytic Hydrogen‐Production Performance of Graphene–Zn x Cd 1− x S Composites by Using an Organic S Source",
+  "authors": [
+   "Qin Li",
+   "Huan Meng",
+   "Jiaguo Yu",
+   "Wei Xiao",
+   "Yingqiu Zheng",
+   "Juan Wang"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2014-05-02",
+  "year": 2014,
+  "doi": "10.1002/chem.201400434",
+  "url": "https://doi.org/10.1002/chem.201400434",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Graphene",
+   "Photocatalysis",
+   "Quantum Efficiency"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "0ead00917ea08ae4",
+  "title": "Selective conversion of aqueous glucose to value-added sugar aldose on TiO2-based photocatalysts",
+  "authors": [
+   "Ruifeng Chong",
+   "Jun Li",
+   "Yi Ma",
+   "Bao Zhang",
+   "Hongxian Han",
+   "Can Li"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "2014-05-01",
+  "year": 2014,
+  "doi": "10.1016/j.jcat.2014.03.009",
+  "url": "https://doi.org/10.1016/j.jcat.2014.03.009",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "Dalian National Laboratory for Clean Energy"
+  ],
   "added": "2026-07-24"
  }
 ]

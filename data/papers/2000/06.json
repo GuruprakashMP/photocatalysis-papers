@@ -1,5 +1,61 @@
 [
  {
+  "id": "f662ab308f674c43",
+  "title": "Photo- and Mechano-Catalytic Overall Water Splitting Reactions to Form Hydrogen and Oxygen on Heterogeneous Catalysts",
+  "authors": [
+   "Kazunari Domen",
+   "Junko N. Kondo",
+   "Masahiko Hara",
+   "Tsuyoshi Takata"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "2000-06-01",
+  "year": 2000,
+  "doi": "10.1246/bcsj.73.1307",
+  "url": "https://doi.org/10.1246/bcsj.73.1307",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "bc649e41b7df1bdf",
+  "title": "Effect of substrates on the photocatalytic activity of nanometer TiO2 thin films",
+  "authors": [
+   "Jiaguo Yu",
+   "Xiujian Zhao"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "2000-06-01",
+  "year": 2000,
+  "doi": "10.1016/s0025-5408(00)00327-5",
+  "url": "https://doi.org/10.1016/s0025-5408(00)00327-5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Wuhan University of Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "8fdfbec667bfb8eb",
   "title": "Titanium dioxide photocatalysis",
   "authors": [
@@ -23,6 +79,66 @@
   ],
   "relevance_score": 58,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6c0262487505e0fc",
+  "title": "Quantum yields of active oxidative species formed on TiO2 photocatalyst",
+  "authors": [
+   "Kenichi Ishibashi",
+   "Akira Fujishima",
+   "Toshiya Watanabe",
+   "Kazuhito Hashimoto"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2000-06-01",
+  "year": 2000,
+  "doi": "10.1016/s1010-6030(00)00264-1",
+  "url": "https://doi.org/10.1016/s1010-6030(00)00264-1",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Kanagawa Academy of Science and Technology",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "203b70ff06ca29f8",
+  "title": "Effect of film thickness on the grain size and photocatalytic activity of the sol-gel derived nanometer TiO2 thin films",
+  "authors": [
+   "Jiaguo Yu",
+   "Xiujian Zhao",
+   "Qingnan Zhao"
+  ],
+  "journal": "Journal of Materials Science Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2000-06-01",
+  "year": 2000,
+  "doi": "10.1023/a:1006705316651",
+  "url": "https://doi.org/10.1023/a:1006705316651",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Wuhan University of Technology"
+  ],
   "added": "2026-07-24"
  }
 ]

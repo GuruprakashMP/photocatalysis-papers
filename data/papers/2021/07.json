@@ -1,5 +1,200 @@
 [
  {
+  "id": "9f5b868d104737cb",
+  "title": "Quantitative Photoelectrochemical Conversion of Ammonium to Dinitrogen Using a Bromide-Mediated Redox Cycle",
+  "authors": [
+   "Min Seok Koo",
+   "Seungmok Han",
+   "Kangwoo Cho",
+   "Wonyong Choi"
+  ],
+  "journal": "ACS ES&T Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-07-26",
+  "year": 2021,
+  "doi": "10.1021/acsestengg.1c00119",
+  "url": "https://doi.org/10.1021/acsestengg.1c00119",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "Pohang University of Science and Technology"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "665913d356ec02bb",
+  "title": "TiO2/In2S3 S-scheme photocatalyst with enhanced H2O2-production activity",
+  "authors": [
+   "Yi Yang",
+   "Bei Cheng",
+   "Jiaguo Yu",
+   "Linxi Wang",
+   "Wingkei Ho"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2021-07-22",
+  "year": 2021,
+  "doi": "10.1007/s12274-021-3733-0",
+  "url": "https://doi.org/10.1007/s12274-021-3733-0",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Solar Fuels",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Transfer",
+   "DFT",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "S-Scheme",
+   "Solar Fuels",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Wuhan University of Technology",
+   "China University of Geosciences",
+   "Education University of Hong Kong"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "a471dfb81178162d",
+  "title": "Coating Polymeric Carbon Nitride on Conductive Carbon Cloth to Promote Charge Separation for Photocatalytic Water Splitting",
+  "authors": [
+   "Dandan Zheng",
+   "Lele Yang",
+   "Wenwen Chen",
+   "Yuanxing Fang",
+   "Xinchen Wang"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "Wiley",
+  "published": "2021-07-21",
+  "year": 2021,
+  "doi": "10.1002/cssc.202101346",
+  "url": "https://doi.org/10.1002/cssc.202101346",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoelectrochemistry",
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Separation",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoredox",
+   "Water Splitting"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Fuzhou University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "591c73178c1d7fda",
+  "title": "Enormous Promotion of Photocatalytic Activity through the Use of Near-Single Layer Covalent Organic Frameworks",
+  "authors": [
+   "Xiaomin Ren",
+   "Chunzhi Li",
+   "Wanchao Kang",
+   "He Li",
+   "Na Ta",
+   "Sheng Ye",
+   "Linyan Hu",
+   "Xiuli Wang",
+   "Can Li",
+   "Qihua Yang"
+  ],
+  "journal": "CCS Chemistry",
+  "publisher": "Chinese Chemical Society",
+  "published": "2021-07-15",
+  "year": 2021,
+  "doi": "10.31635/ccschem.021.202101090",
+  "url": "https://doi.org/10.31635/ccschem.021.202101090",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics",
+   "Reactor Engineering & Scale-up",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "COFs",
+   "Charge Carriers",
+   "Charge Separation",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Quantum Efficiency",
+   "Scale-up",
+   "TiO2",
+   "Transient Absorption",
+   "Visible Light",
+   "Water Splitting"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Dalian Institute of Chemical Physics",
+   "Chinese Academy of Sciences",
+   "University of Chinese Academy of Sciences",
+   "Lanzhou University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "31232a66f0e6ee57",
+  "title": "Hydrogel photocatalysts for efficient energy conversion and environmental treatment",
+  "authors": [
+   "Wenwei Lei",
+   "Norihiro Suzuki",
+   "Chiaki Terashima",
+   "Akira Fujishima"
+  ],
+  "journal": "Frontiers in Energy",
+  "publisher": "Higher Education Press",
+  "published": "2021-07-15",
+  "year": 2021,
+  "doi": "10.1007/s11708-021-0756-x",
+  "url": "https://doi.org/10.1007/s11708-021-0756-x",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Yanshan University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
   "id": "a0669d5399709eb0",
   "title": "CdSe 1D/2D Mixed‐Dimensional Heterostructures: Curvature‐Complementary Self‐Assembly for Enhanced Visible‐Light Photocatalysis",
   "authors": [
@@ -30,6 +225,342 @@
   ],
   "relevance_score": 83,
   "affiliations": [],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "6bc46fcb097db6c2",
+  "title": "The upsurge of photocatalysts in antibiotic micropollutants treatment: Materials design, recovery, toxicity and bioanalysis",
+  "authors": [
+   "Katherine Rebecca Davies",
+   "Yassine Cherif",
+   "Gururaja Perumal Pazhani",
+   "Sengeni Anantharaj",
+   "Hajer Azzi",
+   "Chiaki Terashima",
+   "Akira Fujishima",
+   "Sudhagar Pitchaimuthu"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology C Photochemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2021-07-12",
+  "year": 2021,
+  "doi": "10.1016/j.jphotochemrev.2021.100437",
+  "url": "https://doi.org/10.1016/j.jphotochemrev.2021.100437",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Swansea University",
+   "University of Abou Bekr Belkaïd",
+   "Laboratoire de Chimie Organique",
+   "Chettinad Academy of Research and Education",
+   "Waseda University",
+   "Tokyo University of Science",
+   "Heriot-Watt University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "da0a6ec8d4ab0a02",
+  "title": "Ru(bpy)32+-sensitized {001} facets LiCoO2 nanosheets catalyzed CO2 reduction reaction with 100% carbonaceous products",
+  "authors": [
+   "Shuaiyu Jiang",
+   "Junxian Liu",
+   "Kun Zhao",
+   "Dandan Cui",
+   "Porun Liu",
+   "Huajie Yin",
+   "Mohammad Al‐Mamun",
+   "Sean E. Lowe",
+   "Weiping Zhang",
+   "Yu Lin Zhong",
+   "Jun Chen",
+   "Yun Wang",
+   "Dan Wang",
+   "Huijun Zhao"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2021-07-10",
+  "year": 2021,
+  "doi": "10.1007/s12274-021-3599-1",
+  "url": "https://doi.org/10.1007/s12274-021-3599-1",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Simulated Sunlight",
+   "Visible Light"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Griffith University",
+   "University of Wollongong",
+   "ARC Centre of Excellence for Electromaterials Science",
+   "Guangdong University of Technology",
+   "Institute of Process Engineering"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "aadd405342248785",
+  "title": "Metal-organic framework-derived Ga-Cu/CeO2 catalyst for highly efficient photothermal catalytic CO2 reduction",
+  "authors": [
+   "Bowen Deng",
+   "Hui Song",
+   "Kang Peng",
+   "Qian Li",
+   "Jinhua Ye"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2021-07-09",
+  "year": 2021,
+  "doi": "10.1016/j.apcatb.2021.120519",
+  "url": "https://doi.org/10.1016/j.apcatb.2021.120519",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "MOFs & COFs"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "MOFs",
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Hokkaido University",
+   "National Institute for Materials Science",
+   "Xi'an Jiaotong University",
+   "Shanghai Jiao Tong University",
+   "Tianjin University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "8648323efbb27bd9",
+  "title": "Regulation on polymerization degree and surface feature in graphitic carbon nitride towards efficient photocatalytic H2 evolution under visible-light irradiation",
+  "authors": [
+   "Cheng Cheng",
+   "Chung‐Li Dong",
+   "Jinwen Shi",
+   "Liuhao Mao",
+   "Yucheng Huang",
+   "Xin Kang",
+   "Shichao Zong",
+   "Shaohua Shen"
+  ],
+  "journal": "Journal of Material Science and Technology",
+  "publisher": "Elsevier BV",
+  "published": "2021-07-09",
+  "year": 2021,
+  "doi": "10.1016/j.jmst.2021.05.019",
+  "url": "https://doi.org/10.1016/j.jmst.2021.05.019",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Hydrogen Evolution",
+   "Light Irradiation",
+   "Photocatalysis",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Xi'an Jiaotong University",
+   "Tamkang University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "fcb9e46cdb4dd3f8",
+  "title": "Surface Modifications of (ZnSe) 0.5 (CuGa 2.5 Se 4.25 ) 0.5 to Promote Photocatalytic Z-Scheme Overall Water Splitting",
+  "authors": [
+   "Shanshan Chen",
+   "Junie Jhon M. Vequizo",
+   "Zhenhua Pan",
+   "Takashi Hisatomi",
+   "Mamiko Nakabayashi",
+   "Lihua Lin",
+   "Zheng Wang",
+   "Kosaku Kato",
+   "Akira Yamakata",
+   "Naoya Shibata",
+   "Tsuyoshi Takata",
+   "Taro Yamada",
+   "Kazunari Domen"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2021-07-08",
+  "year": 2021,
+  "doi": "10.1021/jacs.1c03555",
+  "url": "https://doi.org/10.1021/jacs.1c03555",
+  "source": "openalex",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Solar Fuels",
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "BiVO4",
+   "CdS",
+   "Charge Separation",
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "Quantum Yield",
+   "TiO2",
+   "Water Splitting",
+   "Z-Scheme"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Shinshu University",
+   "Nankai University",
+   "The University of Tokyo",
+   "Toyota Technological Institute"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "5f598b1e8ae49c6b",
+  "title": "Influence of calcination temperature on photocatalytic H 2 O 2 productivity of hierarchical porous ZnO microspheres",
+  "authors": [
+   "Yong Zhang",
+   "Yang Xia",
+   "Linxi Wang",
+   "Bei Cheng",
+   "Jiaguo Yu"
+  ],
+  "journal": "Nanotechnology",
+  "publisher": "IOP Publishing",
+  "published": "2021-07-07",
+  "year": 2021,
+  "doi": "10.1088/1361-6528/ac1221",
+  "url": "https://doi.org/10.1088/1361-6528/ac1221",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Simulated Sunlight",
+   "ZnO"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Hubei Polytechnic University",
+   "China University of Geosciences",
+   "Wuhan University of Technology",
+   "Zhengzhou University"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "288595dd14f2b0b3",
+  "title": "Highly Selective Photocatalytic Conversion of Carbon Dioxide by Water over Al-SrTiO 3 Photocatalyst Modified with Silver–Metal Dual Cocatalysts",
+  "authors": [
+   "Shuying Wang",
+   "Kentaro Teramura",
+   "Takashi Hisatomi",
+   "Kazunari Domen",
+   "Hiroyuki Asakura",
+   "Saburo Hosokawa",
+   "Tsunehiro Tanaka"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2021-07-07",
+  "year": 2021,
+  "doi": "10.1021/acssuschemeng.1c02126",
+  "url": "https://doi.org/10.1021/acssuschemeng.1c02126",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "Photocatalysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Kyoto University",
+   "Kyoto Katsura Hospital",
+   "Shinshu University",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-24"
+ },
+ {
+  "id": "ece7c02163b145aa",
+  "title": "Simultaneously Tuning the Defects and Surface Properties of Ta 3 N 5 Nanoparticles by Mg–Zr Codoping for Significantly Accelerated Photocatalytic H 2 Evolution",
+  "authors": [
+   "Jiadong Xiao",
+   "Junie Jhon M. Vequizo",
+   "Takashi Hisatomi",
+   "Jabor Rabeah",
+   "Mamiko Nakabayashi",
+   "Zheng Wang",
+   "Qi Xiao",
+   "Huihui Li",
+   "Zhenhua Pan",
+   "Mary Krause",
+   "Nick Yin",
+   "Gordon Smith",
+   "Naoya Shibata",
+   "Angelika Brückner",
+   "Akira Yamakata",
+   "Tsuyoshi Takata",
+   "Kazunari Domen"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2021-07-01",
+  "year": 2021,
+  "doi": "10.1021/jacs.1c04861",
+  "url": "https://doi.org/10.1021/jacs.1c04861",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Co-catalysts",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Shinshu University",
+   "Leibniz Institute for Catalysis",
+   "The University of Tokyo",
+   "Chinese Academy of Sciences",
+   "Research Center for Eco-Environmental Sciences",
+   "Lanzhou University",
+   "Toyota Technological Institute"
+  ],
   "added": "2026-07-24"
  },
  {
