@@ -1,5 +1,34 @@
 [
  {
+  "id": "65f580aa0d73d980",
+  "title": "Heterogeneous sensitized decomposition of water with sunlight. Quarterly progress report 1 Jan--31 Mar 76",
+  "authors": [
+   "Amrita Ghosh",
+   "H. Paul Maruska"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1976-03-31",
+  "year": 1976,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/7307329",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "7b9d2212c2678725",
   "title": "226 連続的戻し交配ガニセナミハダニおよびカンザワハダニの産卵数とふ化率に与える影響(一般講演)",
   "authors": [
@@ -153,5 +182,36 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0ec07e5ca32c04a9",
+  "title": "Photoelectrolysis of water in cells with SrTiO3 anodes",
+  "authors": [
+   "J. G. Mavroides",
+   "J. A. Kafalas",
+   "D. F. Kolesar"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1976-03-01",
+  "year": 1976,
+  "doi": "10.1063/1.88723",
+  "url": "https://doi.org/10.1063/1.88723",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "SrTiO3",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "MIT Lincoln Laboratory",
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-25"
  }
 ]

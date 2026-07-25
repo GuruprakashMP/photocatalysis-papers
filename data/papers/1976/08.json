@@ -25,6 +25,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b5bc1a529fb1b4c6",
+  "title": "Photolysis of water coupled to nitrate reduction by Nostoc muscorum subcellular particles",
+  "authors": [
+   "T. Ortega",
+   "Francisco Castillo",
+   "J. Cárdenas"
+  ],
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "published": "1976-08-01",
+  "year": 1976,
+  "doi": "10.1016/0006-291x(76)90914-1",
+  "url": "https://doi.org/10.1016/0006-291x(76)90914-1",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Sevilla"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "7c8678f6cb43c006",
   "title": "SELECTIVE TRAFFIC ENFORCEMENT PROGRAM-STEP-BAC STUDY IN FORT LAUDERDALE, FLORIDA",
   "authors": [
@@ -49,5 +76,58 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "587858e85457727a",
+  "title": "p - n photoelectrolysis cells",
+  "authors": [
+   "Arthur J. Nozik"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1976-08-01",
+  "year": 1976,
+  "doi": "10.1063/1.89004",
+  "url": "https://doi.org/10.1063/1.89004",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "40424f7279efc722",
+  "title": "Tungsten trioxide as an electrode for photoelectrolysis of water",
+  "authors": [
+   "M. A. Butler",
+   "R.D. Nasby",
+   "Rod K. Quinn"
+  ],
+  "journal": "Solid State Communications",
+  "publisher": "Elsevier BV",
+  "published": "1976-08-01",
+  "year": 1976,
+  "doi": "10.1016/0038-1098(76)90642-6",
+  "url": "https://doi.org/10.1016/0038-1098(76)90642-6",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Sandia National Laboratories California",
+   "Sandia National Laboratories"
+  ],
+  "added": "2026-07-25"
  }
 ]
