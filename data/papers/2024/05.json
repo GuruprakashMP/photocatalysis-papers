@@ -12576,6 +12576,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "dc0e61c9806c133b",
+  "title": "Multi-Variable Multi-Metric Optimization of Self-Assembled Photocatalytic CO 2 Reduction Performance Using Machine Learning Algorithms",
+  "authors": [
+   "Shannon A. Bonke",
+   "Giovanni Trezza",
+   "Luca Bergamasco",
+   "Hongwei Song",
+   "Santiago Rodríguez‐Jiménez",
+   "Leif Hammarström",
+   "Eliodoro Chiavazzo",
+   "Erwin Reisner"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2024-05-20",
+  "year": 2024,
+  "doi": "10.1021/jacs.4c01305",
+  "url": "https://doi.org/10.1021/jacs.4c01305",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning for Photocatalysis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Photocatalysis",
+   "Quantum Yield",
+   "Sunlight-Driven"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "University of Cambridge",
+   "Politecnico di Torino",
+   "Uppsala University"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "c887c0f48640e751",
   "title": "Nickel-Catalyzed Regioselective Hydrothiolation of Allenes Enabled by Visible-Light Photoredox Catalysis",
   "authors": [
@@ -20075,6 +20113,31 @@
    "Quzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9e96cac7cd64fc13",
+  "title": "Organophotocatalytic Construction of Sulfonamides from Dibenzothiophenium Salts",
+  "authors": [
+   "Benjamin List",
+   "Kateryna Kryvous"
+  ],
+  "journal": "Synfacts",
+  "publisher": "Georg Thieme Verlag",
+  "published": "2024-05-14",
+  "year": 2024,
+  "doi": "10.1055/s-0043-1774841",
+  "url": "https://doi.org/10.1055/s-0043-1774841",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organophotocatalysis",
+   "Photoredox"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "9a7a27ad71ba2ae7",
