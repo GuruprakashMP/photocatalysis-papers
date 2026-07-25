@@ -1,5 +1,62 @@
 [
  {
+  "id": "4594ec6cd316903f",
+  "title": "ChemInform Abstract: ANALYSIS OF THE CURRENT‐VOLTAGE CHARACTERISTICS OF PHOTOELECTROLYSIS CELLS",
+  "authors": [
+   "W. L. Ahlgren"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-01-26",
+  "year": 1982,
+  "doi": "10.1002/chin.198204011",
+  "url": "https://doi.org/10.1002/chin.198204011",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "233800b832adbb0d",
+  "title": "Photoresponse of n -type semiconductor NiTiO3",
+  "authors": [
+   "Pedro Salvador",
+   "Claudio Gutiérrez",
+   "John B. Goodenough"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "1982-01-15",
+  "year": 1982,
+  "doi": "10.1063/1.93003",
+  "url": "https://doi.org/10.1063/1.93003",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Instituto de Catálisis y Petroleoquímica",
+   "Instituto de Química Física Blas Cabrera"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "ff6df3ec6d0bc436",
   "title": "A composite semiconductor photoanode for water electrolysis",
   "authors": [
@@ -129,6 +186,32 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "db08719845d1d2e0",
+  "title": "Photoelectrolysis using linear arrays of chemically modified semitransparent electrodes",
+  "authors": [
+   "Neal R. Armstrong",
+   "V. Rogers. Shepard"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1016/0022-0728(82)87064-2",
+  "url": "https://doi.org/10.1016/0022-0728(82)87064-2",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Arizona"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "d69307c3fb5ef284",
@@ -561,6 +644,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8cd04650f6a1d17a",
+  "title": "CuWO4 and Cu3WO6 as anodes for the photoelectrolysis of water",
+  "authors": [
+   "F. A. Benko",
+   "C. L. MacLaurin",
+   "F. P. Koffyberg"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1016/0025-5408(82)90194-5",
+  "url": "https://doi.org/10.1016/0025-5408(82)90194-5",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Brock University"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "89b1461a34f67bf8",
   "title": "Luminescent photoelectrochemical cells. 6. Spatial aspects of the photoluminescence and electroluminescence of cadmium selenide electrodes",
   "authors": [
@@ -872,6 +982,62 @@
   "added": "2026-07-24"
  },
  {
+  "id": "47137b2aed6450b1",
+  "title": "The elctrochemical and photoelectrochemical characteristics of n-type sodium niobate",
+  "authors": [
+   "J.F. McCann",
+   "Akib Khan"
+  ],
+  "journal": "Electrochimica Acta",
+  "publisher": "Elsevier BV",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1016/0013-4686(82)80065-0",
+  "url": "https://doi.org/10.1016/0013-4686(82)80065-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Flinders University",
+   "Universidad de Oriente"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "4424fc82346b4cbe",
+  "title": "SIMS and AES Analysis of H : TiO2 Electrodes",
+  "authors": [
+   "J. L. Peñea",
+   "M.H. Farı́as",
+   "F. Sánchez‐Sinencio"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1149/1.2123799",
+  "url": "https://doi.org/10.1149/1.2123799",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Instituto Politécnico Nacional"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "43763ed692f1e49f",
   "title": "Reactions involving electron transfer at semiconductor surfaces. Part 12.—Nature and origins of photoactivity on oxides of 3d transition metals for elimination reactions of secondary alcohols",
   "authors": [
@@ -1033,6 +1199,63 @@
    "National University of Singapore"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "23bb77fa95a6f491",
+  "title": "Photo-assisted electrolysis of water by Si photoelectrodes",
+  "authors": [
+   "M. Noda"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1016/0360-3199(82)90124-0",
+  "url": "https://doi.org/10.1016/0360-3199(82)90124-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Aichi University of Education"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "1f3bcb28e8372b76",
+  "title": "Photoelectrochemical Response of Some Layered Chalcogenophosphate Compounds ( MPX 3 )",
+  "authors": [
+   "C. E. Byvik",
+   "B. Reichman",
+   "David W. Coleman"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-01-01",
+  "year": 1982,
+  "doi": "10.1149/1.2123767",
+  "url": "https://doi.org/10.1149/1.2123767",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Langley Research Center",
+   "Eastern Washington University",
+   "Christopher Newport University"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "18a87ff90a3556f2",

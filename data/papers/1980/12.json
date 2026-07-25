@@ -1,5 +1,32 @@
 [
  {
+  "id": "9ece59c23efcc0cc",
+  "title": "Two-photon photolysis of water and its role in two-stage photodecompositon of aqueous solutions of DNA components",
+  "authors": [
+   "Dimitar Angelov",
+   "David N. Nikogosyan",
+   "A A Oraevskiĭ"
+  ],
+  "journal": "Soviet Journal of Quantum Electronics",
+  "publisher": "IOP Publishing",
+  "published": "1980-12-31",
+  "year": 1980,
+  "doi": "10.1070/qe1980v010n12abeh010232",
+  "url": "https://doi.org/10.1070/qe1980v010n12abeh010232",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "6d13e9aeb30beb32",
   "title": "Photocatalytic water decomposition and water-gas shift reactions over NaOH-coated, platinized TiO2. Technical report no. 19, 1 January-31 December 80",
   "authors": [
@@ -79,6 +106,35 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bd179b5fb1a5eae5",
+  "title": "Inorganic materials for photoelectrolysis",
+  "authors": [
+   "John B. Goodenough",
+   "A. Hamnett",
+   "M. P. Dare‐Edwards",
+   "G. Campet",
+   "Raymond D. Wright"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1980-12-01",
+  "year": 1980,
+  "doi": "10.1016/0039-6028(80)90647-0",
+  "url": "https://doi.org/10.1016/0039-6028(80)90647-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "4ec658b59abc4e68",
@@ -165,5 +221,62 @@
    "Princeton University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2b1fd7fce9e331d5",
+  "title": "Flash photoelectrochemical studies of transient electrode processes important in solar energy conversion. Progress report, May 1, 1980-April 30, 1981",
+  "authors": [
+   "S. P. Perone"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1980-12-01",
+  "year": 1980,
+  "doi": "10.2172/6551836",
+  "url": "https://doi.org/10.2172/6551836",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Electron-Hole Pairs",
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "0e38c3db0a90510c",
+  "title": "Photoelectrolysis at the oxide-electrolyte interface as interpreted through the ‘transition’ layer model",
+  "authors": [
+   "Rajiv K. Kalia",
+   "Michael F. Weber",
+   "L. C. SCHUMACHER",
+   "M. J. Dignam"
+  ],
+  "journal": "Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1980-12-01",
+  "year": 1980,
+  "doi": "10.1016/0039-6028(80)90614-7",
+  "url": "https://doi.org/10.1016/0039-6028(80)90614-7",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Toronto"
+  ],
+  "added": "2026-07-25"
  }
 ]

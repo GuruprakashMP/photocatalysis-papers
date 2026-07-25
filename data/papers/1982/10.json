@@ -53,6 +53,64 @@
   "added": "2026-07-24"
  },
  {
+  "id": "04b0c08be5eb36c5",
+  "title": "ChemInform Abstract: TITANIA‐VANADIA ALLOYS ‐ REDUCED BANDGAP EFFECTS IN THE PHOTOELECTROLYSIS OF WATER",
+  "authors": [
+   "Terry Phillips",
+   "K. Moorjani",
+   "J. C. Murphy",
+   "T. O. Poehler"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1982-10-12",
+  "year": 1982,
+  "doi": "10.1002/chin.198241010",
+  "url": "https://doi.org/10.1002/chin.198241010",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "fccbd997ce704464",
+  "title": "Direct and Indirect Action on Thymine in Aqueous Solution by Powerful Laser Ultraviolet Radiation",
+  "authors": [
+   "E.I. Budowsky",
+   "David N. Nikogosyan",
+   "Alexander A. Oraevsky",
+   "N.A. Simukova",
+   "D. Yu. Yakovlev"
+  ],
+  "journal": "Photobiochemistry and photobiophysics.",
+  "publisher": "",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1016/s0165-8646(24)00098-9",
+  "url": "https://doi.org/10.1016/s0165-8646(24)00098-9",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Institute of Bioorganic Chemistry",
+   "Institute of Spectroscopy"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "fc0d444a688c214f",
   "title": "Photocatalytic hydrogenation of dienes with chromium carbonyls",
   "authors": [
@@ -160,6 +218,42 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "79739a878ebf87c8",
+  "title": "Photoelectrochemical properties of n -type NiTiO3",
+  "authors": [
+   "Pedro Salvador",
+   "Claudio Gutiérrez",
+   "John B. Goodenough"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1982-10-01",
+  "year": 1982,
+  "doi": "10.1063/1.330047",
+  "url": "https://doi.org/10.1063/1.330047",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Photogenerated Carriers",
+   "SrTiO3",
+   "TiO2",
+   "Visible Light"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Instituto de Catálisis y Petroleoquímica",
+   "Instituto de Química Física Blas Cabrera"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "36e4aff16bdb4eb4",

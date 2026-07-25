@@ -1,5 +1,61 @@
 [
  {
+  "id": "17dd0b2ef8039066",
+  "title": "Photoelectrolysis of Aqueous Solutions to Hydrogen—An Approach to Solar Energy Storage",
+  "authors": [
+   "Frank R. Smith"
+  ],
+  "journal": "ACS symposium series",
+  "publisher": "American Chemical Society",
+  "published": "1979-01-26",
+  "year": 1979,
+  "doi": "10.1021/bk-1979-0090.ch015",
+  "url": "https://doi.org/10.1021/bk-1979-0090.ch015",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Hydrogen Evolution",
+   "Photoelectrolysis",
+   "Semiconductors",
+   "TiO2",
+   "WO3"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Memorial University of Newfoundland"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "fdc34a3643d28141",
+  "title": "Photoelectrochemistry. I - Photoelectrolysis. II - The photogalvanic cell",
+  "authors": [
+   "A. Frederick Janzen"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "",
+  "url": "http://ui.adsabs.harvard.edu/abs/1979soec.book..905J/abstract",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "e8fb8801a10c47a3",
   "title": "Reversible Excited-State Electron-Transfer Reactions of Transition Metal Complexes",
   "authors": [
@@ -26,6 +82,32 @@
    "University of Virginia"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c3af3273489d1664",
+  "title": "Photoelectrolysis of water with semiconductors",
+  "authors": [
+   "Micha Tomkiewicz",
+   "H.G. Fay"
+  ],
+  "journal": "Applied Physics B",
+  "publisher": "Springer Science+Business Media",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1007/bf00935899",
+  "url": "https://doi.org/10.1007/bf00935899",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "beafb1c53385c98f",
@@ -59,6 +141,31 @@
    "Battelle"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bd81c36cf2ab06ae",
+  "title": "PHOTOELECTROCHEMISTRY I — PHOTOELECTROLYSIS",
+  "authors": [
+   "A. Frederick Janzen"
+  ],
+  "journal": "Elsevier eBooks",
+  "publisher": "Elsevier BV",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1016/b978-0-08-024744-1.50035-8",
+  "url": "https://doi.org/10.1016/b978-0-08-024744-1.50035-8",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Western University"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "b90b8b279d130b10",
@@ -276,6 +383,63 @@
   "added": "2026-07-24"
  },
  {
+  "id": "66c889a9fccba896",
+  "title": "Arc‐Plasma‐Sprayed Rutile Anodes for Photoelectrolysis of Water",
+  "authors": [
+   "Rong Wang",
+   "Chuck H. Henager"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1149/1.2128994",
+  "url": "https://doi.org/10.1149/1.2128994",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Battelle"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "5b4ae571113445e8",
+  "title": "Semiconducting TiO2 films for photoelectrolysis of water",
+  "authors": [
+   "Keisuke Yazawa",
+   "Hiroyoshi Kamogawa",
+   "Hiroshi Morisaki"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1016/0360-3199(79)90025-9",
+  "url": "https://doi.org/10.1016/0360-3199(79)90025-9",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Electro-Communications"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "46d148ad5278b825",
   "title": "Energy Balance of Photoredox Systems",
   "authors": [
@@ -352,6 +516,108 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3a842b64f40218a7",
+  "title": "Charge transfer by surface states in the photoelectrolysis of water using a semiconductor electrode",
+  "authors": [
+   "Masahiko Nishida"
+  ],
+  "journal": "Nature",
+  "publisher": "Nature Portfolio",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1038/277202a0",
+  "url": "https://doi.org/10.1038/277202a0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kanazawa Institute of Technology"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "2e90cfb0ff2378b4",
+  "title": "Solar photoelectrolysis with semiconductor electrodes",
+  "authors": [
+   "H. Gerischer"
+  ],
+  "journal": "Topics in applied physics",
+  "publisher": "Springer Science+Business Media",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1007/3-540-09224-2_4",
+  "url": "https://doi.org/10.1007/3-540-09224-2_4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "2b67e2ad9660a432",
+  "title": "The impracticability of large-scale generation of hydrogen from water photolysis by utilization of solar radiation",
+  "authors": [
+   "Ambrose A. Melvin"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "10.1016/0360-3199(79)90027-2",
+  "url": "https://doi.org/10.1016/0360-3199(79)90027-2",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "British Broadcasting Corporation (United Kingdom)"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "2b048c4d55a52b42",
+  "title": "Highly active hydrogenase from Desulfovibro vulgaris - useful e.g. for prodn. of hydrogen gas",
+  "authors": [
+   "C. Veeger"
+  ],
+  "journal": "Socio-Environmental Systems Modeling",
+  "publisher": "",
+  "published": "1979-01-01",
+  "year": 1979,
+  "doi": "",
+  "url": "https://research.wur.nl/en/publications/highly-active-hydrogenase-from-desulfovibro-vulgaris-useful-eg-fo",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "163ac3ba3f0d4a7c",

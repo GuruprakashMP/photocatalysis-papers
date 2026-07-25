@@ -1,5 +1,32 @@
 [
  {
+  "id": "07683df239b5d00f",
+  "title": "ChemInform Abstract: PHOTOELECTROLYSIS OF WATER WITH NATURAL MINERAL TITANIUM DIOXIDE RUTILE ELECTRODES",
+  "authors": [
+   "J. F. Julião",
+   "F. Decker",
+   "M. Abramovich"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1981-01-27",
+  "year": 1981,
+  "doi": "10.1002/chin.198104009",
+  "url": "https://doi.org/10.1002/chin.198104009",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "ee3cb957a8e103e8",
   "title": "ChemInform Abstract: α‐IRON(III) OXIDE PHOTOANODES DOPED WITH SILICON",
   "authors": [
@@ -484,6 +511,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8dea0f138b2e852e",
+  "title": "Photochemical synthesis of ammonia over zeolites",
+  "authors": [
+   "Fasihullah Khan",
+   "Po‐Lock Yue",
+   "Lucio Rizzuti",
+   "Vincenzo Augugliaro",
+   "M. Schiavello"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/c39810001049",
+  "url": "https://doi.org/10.1039/c39810001049",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photoreduction",
+   "Water Photolysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "841ef9334688bb17",
   "title": "Photochemistry of manganese porphyrins V: The photoreduction of methyl viologen",
   "authors": [
@@ -705,6 +761,117 @@
   "added": "2026-07-24"
  },
  {
+  "id": "604fda768c47d667",
+  "title": "Fe2O3-coated Si electrodes for the photoelectrolysis of water",
+  "authors": [
+   "Hiroshi Morisaki",
+   "Hiroyuki ONO",
+   "Hitoshi Dohkoshi",
+   "Keisuke Yazawa"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "http://ui.adsabs.harvard.edu/abs/1981hep..conf..765M/abstract",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "4bc63949a8d8329e",
+  "title": "Mechanistic studies on semiconductor electrodes",
+  "authors": [
+   "M. P. Dare‐Edwards"
+  ],
+  "journal": "Oxford University Research Archive (ORA) (University of Oxford)",
+  "publisher": "University of Oxford",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.5287/ora-gojjbb8ag",
+  "url": "https://doi.org/10.5287/ora-gojjbb8ag",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoelectrolysis",
+   "Photogenerated Carriers",
+   "Semiconductors"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "4adbce9c978a2280",
+  "title": "Photoelectric properties of TiO2 thin films for photoelectrolysis of water",
+  "authors": [
+   "Manabu Takeuchi",
+   "Hideo NAGASAKA",
+   "S. Okazaki"
+  ],
+  "journal": "hep eBooks",
+  "publisher": "",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "",
+  "url": "https://ui.adsabs.harvard.edu/abs/1981hep..conf..581T/abstract",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "46cbf8cc62c530b8",
+  "title": "Kinetic investigation of the reactions of OH(X 2 Π) with the hydrogen halides, HCl, DCl, HBr and DBr by time-resolved resonance fluorescence (A 2 ∑ + –X 2 Π)",
+  "authors": [
+   "David Husain",
+   "J. M. C. Plane",
+   "Nigel K.H. Slater"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 2 Molecular and Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1039/f29817701949",
+  "url": "https://doi.org/10.1039/f29817701949",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "3e8535216c158eb7",
   "title": "Photochemical cleavage of water by photocatalysis",
   "authors": [
@@ -812,6 +979,32 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3024e88f18ab1fb8",
+  "title": "Recent progress in the photolysis of water",
+  "authors": [
+   "George Porter"
+  ],
+  "journal": "Journal of Photochemistry",
+  "publisher": "Elsevier BV",
+  "published": "1981-01-01",
+  "year": 1981,
+  "doi": "10.1016/0047-2670(81)85021-6",
+  "url": "https://doi.org/10.1016/0047-2670(81)85021-6",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Albemarle (United States)",
+   "Royal Institution of Great Britain"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "2d715d1113b43d84",

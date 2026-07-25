@@ -243,6 +243,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cd4b2ea7398d9ba7",
+  "title": "A photoelectrochemical determination of the position of the conduction and valence band edges of p -type CuO",
+  "authors": [
+   "F. P. Koffyberg",
+   "F. A. Benko"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1982-02-01",
+  "year": 1982,
+  "doi": "10.1063/1.330567",
+  "url": "https://doi.org/10.1063/1.330567",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Brock University"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "9f9b5923a58e66bc",
   "title": "A partially stabilized photoeletrochemical cell using hydrogenated amorphous silicon photoanodes coated with thin films of polypyrrole",
   "authors": [
@@ -329,5 +360,39 @@
    "Laboratoire d'Electrochimie Moléculaire"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "04427356dea77681",
+  "title": "Photoelectrolysis at Fe2 O 3 / TiO2 Heterojunction Electrode",
+  "authors": [
+   "Fu‐Tai Liou",
+   "Chiang Y. Yang",
+   "Sumner N. Levine"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1982-02-01",
+  "year": 1982,
+  "doi": "10.1149/1.2123831",
+  "url": "https://doi.org/10.1149/1.2123831",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "State University of New York",
+   "Brookhaven National Laboratory",
+   "Department of Energy and Environment",
+   "Stony Brook University"
+  ],
+  "added": "2026-07-25"
  }
 ]

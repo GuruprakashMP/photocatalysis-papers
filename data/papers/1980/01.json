@@ -25,6 +25,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e9fb399028ca0a03",
+  "title": "Observation of charge-transfer-controlled photocurrent at the Ti O 2 -electrolyte interface",
+  "authors": [
+   "Hiroshi Morisaki",
+   "Toshihiko Baba",
+   "Keisuke Yazawa"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "1980-01-15",
+  "year": 1980,
+  "doi": "10.1103/physrevb.21.837",
+  "url": "https://doi.org/10.1103/physrevb.21.837",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Electro-Communications"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "b9ccb69aff0e4de1",
   "title": "Photoelectrochemistry",
   "authors": [
@@ -106,6 +135,35 @@
    "Laboratoire de Génie Chimique"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ec2e36b96cce4ecb",
+  "title": "C.W. and flash photoelectrolysis of water using ferroelectric photoanodes",
+  "authors": [
+   "G. Chanussot",
+   "R. Machet",
+   "A. Ennaoui",
+   "J. M. Bilbaut"
+  ],
+  "journal": "Ferroelectrics",
+  "publisher": "Taylor & Francis",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1080/00150198008226104",
+  "url": "https://doi.org/10.1080/00150198008226104",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photoanodes",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "e88e09c86743873b",
@@ -263,6 +321,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bc297813a84fc84d",
+  "title": "Utilization of solar radiation for water photolysis",
+  "authors": [
+   "E. Broda"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1016/0360-3199(80)90025-7",
+  "url": "https://doi.org/10.1016/0360-3199(80)90025-7",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Vienna"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "a81d06d9406c693d",
   "title": "Photocatalytic hydrogen production from liquid methanol and water",
   "authors": [
@@ -324,6 +407,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "973ed68ee0e78a33",
+  "title": "Sensitisation of semiconducting electrodes with ruthenium-based dyes",
+  "authors": [
+   "M. P. Dare‐Edwards",
+   "John B. Goodenough",
+   "A. Hamnett",
+   "Kenneth R. Seddon",
+   "Raymond D. Wright"
+  ],
+  "journal": "Faraday Discussions of the Chemical Society",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1039/dc9807000285",
+  "url": "https://doi.org/10.1039/dc9807000285",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Photoexcitation",
+   "Radical Chemistry",
+   "Semiconductors",
+   "SrTiO3",
+   "TiO2"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "91f09514649ac5b3",
   "title": "Heterogeneous Photocatalytic Decarboxylation of Adipic Acid--Production of Butane via the Photo-Kolbe Reaction",
   "authors": [
@@ -347,6 +467,33 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8d11717e5a607070",
+  "title": "Oxide semiconductors in photoelectrochemical conversion of solar energy",
+  "authors": [
+   "D. E. Scaife"
+  ],
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1016/0038-092x(80)90405-3",
+  "url": "https://doi.org/10.1016/0038-092x(80)90405-3",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Commonwealth Scientific and Industrial Research Organisation"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "81c9ec84132981b3",
@@ -661,6 +808,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4e3cff46e8e69f4a",
+  "title": "Flash photolysis of water vapor in methane. Hydrogen and hydroxyl yields and rate constants for methyl reactions with hydrogen and hydroxyl",
+  "authors": [
+   "Thomas J. Sworski",
+   "C. J. Hochanadel",
+   "Paul J. Ogren"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1021/j100439a002",
+  "url": "https://doi.org/10.1021/j100439a002",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "4a6f060ad3cd63f6",
   "title": "Photocatalysis (V) cyclotrimerisation of cycloheptene",
   "authors": [
@@ -711,6 +883,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "40936cc64ba36c2d",
+  "title": "Photoassociated electrolytic reduction of water at an In2O3 optically transparent electrode coated with merocyanine dye",
+  "authors": [
+   "Fumio Mizutani",
+   "Masahiko Yoshiura",
+   "Keiji Iriyama"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1039/c39800000393",
+  "url": "https://doi.org/10.1039/c39800000393",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "33c35f9a2c16d8fb",
   "title": "SOLAR CONVERSION AND ENERGY STORAGE BY THE CHLOROPHYLL A DIHYDRATE PHOTOCATALYTIC DECOMPOSITION OF WATER AND REDUCTION OF CARBON-DIOXIDE",
   "authors": [
@@ -738,6 +935,36 @@
   "relevance_score": 83,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2afcd82c5729be3d",
+  "title": "Pulsed laser-induced photoelectrochemistry at polycrystalline and single-crystal semiconductor electrodes",
+  "authors": [
+   "S.B. Deutscher",
+   "J. H. Richardson",
+   "Sam P. Perone",
+   "Jeff Rosenthal",
+   "J. N. Ziemer"
+  ],
+  "journal": "Faraday Discussions of the Chemical Society",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1980-01-01",
+  "year": 1980,
+  "doi": "10.1039/dc9807000033",
+  "url": "https://doi.org/10.1039/dc9807000033",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "20723f95ab3522c3",
