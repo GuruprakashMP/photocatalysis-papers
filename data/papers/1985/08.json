@@ -1,5 +1,31 @@
 [
  {
+  "id": "86995adf943fca45",
+  "title": "ChemInform Abstract: PHOTOLYSIS OF WATER OVER METALIZED POWDERED TITANIUM DIOXIDE",
+  "authors": [
+   "Keiiti Yamaguti",
+   "Shusuke Sato"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1985-08-20",
+  "year": 1985,
+  "doi": "10.1002/chin.198533030",
+  "url": "https://doi.org/10.1002/chin.198533030",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "TiO2",
+   "Water Photolysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "42e710c55471a970",
   "title": "ChemInform Abstract: PHOTOCATALYTIC OXIDATION OF SULFUR ON THE DOPED TITANIUM DIOXIDE CATALYSTS",
   "authors": [
@@ -144,6 +170,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "debc04ec506b083a",
+  "title": "Kinetic approach to the photocurrent transients in water photoelectrolysis at n-titanium dioxide electrodes. 1. Analysis of the ratio of the instantaneous to steady-state photocurrent",
+  "authors": [
+   "Pedro Salvador"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1985-08-01",
+  "year": 1985,
+  "doi": "10.1021/j100264a019",
+  "url": "https://doi.org/10.1021/j100264a019",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "d307adac7ab873e5",
   "title": "Remarks on “photocatalytic oxidation of water to hydrogen peroxide by irradiation of aqueous suspensions of TiO2”",
   "authors": [
@@ -277,6 +328,35 @@
    "Osaka Prefecture University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "830124cffb427fdb",
+  "title": "Limiting and realizable efficiencies of solar photolysis of water",
+  "authors": [
+   "James R. Bolton",
+   "Stewart J. Strickler",
+   "John S. Connolly"
+  ],
+  "journal": "Nature",
+  "publisher": "Nature Portfolio",
+  "published": "1985-08-01",
+  "year": 1985,
+  "doi": "10.1038/316495a0",
+  "url": "https://doi.org/10.1038/316495a0",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Western University",
+   "University of Colorado Boulder",
+   "National Laboratory of the Rockies"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "6817da1a98295952",

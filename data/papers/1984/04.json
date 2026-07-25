@@ -55,6 +55,65 @@
   "added": "2026-07-24"
  },
  {
+  "id": "81909e02a4c6c7ca",
+  "title": "ChemInform Abstract: ANALYSIS OF THE TRANSIENT PHOTOCURRENT‐TIME BEHAVIOR OF A SINTERED N‐TYPE STRONTIUM TITANATE (SRTIO3) ELECTRODE IN WATER PHOTOELECTROLYSIS",
+  "authors": [
+   "Pedro Salvador",
+   "C. Gutiérrez"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1984-04-17",
+  "year": 1984,
+  "doi": "10.1002/chin.198416009",
+  "url": "https://doi.org/10.1002/chin.198416009",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrolysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "d9de499bd3e4114f",
+  "title": "Evaluation of p-type PdO as a photocathode in water photoelectrolysis",
+  "authors": [
+   "M. P. Dare‐Edwards",
+   "John B. Goodenough",
+   "A. Hamnett",
+   "A. Katty"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1984-04-01",
+  "year": 1984,
+  "doi": "10.1016/0025-5408(84)90103-x",
+  "url": "https://doi.org/10.1016/0025-5408(84)90103-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocathodes",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Oxford",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de physique des Solides",
+   "Canadian Nautical Research Society"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "d34d5ee68c8d847f",
   "title": "Polarization effects in the luminescence of cadmium selenide electrodes",
   "authors": [
@@ -88,6 +147,34 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ae704dfeb264acfe",
+  "title": "The Stability of Silane Layers on Titanium Dioxide Electrodes",
+  "authors": [
+   "Rathnapala S. Vithanage",
+   "Harry O. Finklea"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1984-04-01",
+  "year": 1984,
+  "doi": "10.1149/1.2115702",
+  "url": "https://doi.org/10.1149/1.2115702",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Virginia Tech"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "aa4bfa13375483f2",

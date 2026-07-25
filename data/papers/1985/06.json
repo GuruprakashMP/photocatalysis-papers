@@ -24,6 +24,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "61e028790ec5c077",
+  "title": "ChemInform Abstract: Colloidal Semiconductors in Systems for the Sacrificial Photolysis of Water.",
+  "authors": [
+   "D. Neil Furlong",
+   "Darrell Wells",
+   "W. H. F. Sasse"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1985-06-18",
+  "year": 1985,
+  "doi": "10.1002/chin.198524025",
+  "url": "https://doi.org/10.1002/chin.198524025",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Semiconductors",
+   "Water Photolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "b5d3bcdf4cb7cf1f",
   "title": "A study on thin film Fe2O3 photoanodes by measuring laser-induced photopotential",
   "authors": [
@@ -239,5 +266,29 @@
    "Utrecht University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1a5e532583c5de44",
+  "title": "Confinement at large-N. [N = number of colors]",
+  "authors": [
+   "F. R. Klinkhamer"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1985-06-01",
+  "year": 1985,
+  "doi": "10.1002/anie.202103157",
+  "url": "https://doi.org/10.1002/anie.202103157",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Solar Fuels"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
  }
 ]

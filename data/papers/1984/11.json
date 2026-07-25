@@ -24,6 +24,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ea284e11632942ef",
+  "title": "Investigation of Photoelectrolysis of Water with Semiconductor Electrodes",
+  "authors": [
+   "正義 尾崎",
+   "正寛 小野",
+   "秀寿 小林",
+   "淳二 南條",
+   "滋 野村",
+   "進一 原"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "1984-11-01",
+  "year": 1984,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/naid/120005708692",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "badca757e44a2d5c",
   "title": "Photoluminescence evidence for the influence of symmetry of molybdenum ions upon photocatalytic activity",
   "authors": [
@@ -50,6 +80,33 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b0696ca0c906a881",
+  "title": "The electronic band character of Ru dichalcogenides and its significance for the photoelectrolysis of water",
+  "authors": [
+   "H.‐M. Kühne",
+   "Wolfram Jaegermann",
+   "H. Tributsch"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1984-11-01",
+  "year": 1984,
+  "doi": "10.1016/0009-2614(84)85013-7",
+  "url": "https://doi.org/10.1016/0009-2614(84)85013-7",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institut für Lungenforschung"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "ac40393dbbd08d92",
@@ -168,5 +225,31 @@
    "Nagaoka University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0cbc15dedfe13965",
+  "title": "Polymer-catalyst-modified cadmium sulfide photochemical diodes in the photolysis of water",
+  "authors": [
+   "Kenji Honda",
+   "Arthur J. Frank"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-11-01",
+  "year": 1984,
+  "doi": "10.1021/j150667a024",
+  "url": "https://doi.org/10.1021/j150667a024",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Water Photolysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-25"
  }
 ]

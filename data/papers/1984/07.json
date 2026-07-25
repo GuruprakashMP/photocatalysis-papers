@@ -1,5 +1,33 @@
 [
  {
+  "id": "e753f307b0db8505",
+  "title": "Kinetics of OH reactions with furan, thiophene, and tetrahydrothiophene",
+  "authors": [
+   "P. H. Wine",
+   "R. J. Thompson"
+  ],
+  "journal": "International Journal of Chemical Kinetics",
+  "publisher": "Wiley",
+  "published": "1984-07-01",
+  "year": 1984,
+  "doi": "10.1002/kin.550160707",
+  "url": "https://doi.org/10.1002/kin.550160707",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "d1afb0592fda1502",
   "title": "Photocatalytic oxidation of water to hydrogen peroxide by irradiation of aqueous suspensions of TiO2",
   "authors": [
@@ -105,6 +133,31 @@
    "Nagasaki University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6772d6c3c0e73aac",
+  "title": "The energetics of p/n photoelectrolysis cells",
+  "authors": [
+   "L. Fornarini",
+   "Arthur J. Nozik",
+   "B. A. Parkinson"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-07-01",
+  "year": 1984,
+  "doi": "10.1021/j150659a021",
+  "url": "https://doi.org/10.1021/j150659a021",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "56ab0a5b4c7ead15",

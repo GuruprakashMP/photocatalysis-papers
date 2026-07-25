@@ -401,6 +401,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a7438881615ab19e",
+  "title": "Analysis of the transient photocurrent-time behaviour of a sintered n-SrTiO3 electrode in water photoelectrolysis",
+  "authors": [
+   "Pedro Salvador",
+   "C. Gutiérrez"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/s0022-0728(84)80119-9",
+  "url": "https://doi.org/10.1016/s0022-0728(84)80119-9",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Instituto de Catálisis y Petroleoquímica",
+   "Instituto de Química Física Blas Cabrera"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "a61db24138805c71",
   "title": "Photoassisted Gas-Solid Reactions, Photocatalytic Processes And Endergonic Photoconversions Over Pure And Surface-Doped Metal Oxides",
   "authors": [
@@ -1214,6 +1243,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "21805dc7fb9affcb",
+  "title": "Artificial photosynthesis with algal and reconstituted systems",
+  "authors": [
+   "Elias Greenbaum",
+   "Mark E. Reeves",
+   "John M. Woodward"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1021/acsami.4c00068",
+  "url": "https://doi.org/10.1021/acsami.4c00068",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Artificial Photosynthesis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "1c650acdd3fd89dd",
   "title": "Protection of n ‐ GaAs Photoanodes by Photoelectrochemical Grafting of Poly (3‐Methyl‐thiophene) and Poly (3,4‐Dimethyl‐thiophene) Films",
   "authors": [
@@ -1322,6 +1376,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0f7bbcbc9edaa957",
+  "title": "Solar energy conversion in photoelectrochemical cells with semiconductor electrodes",
+  "authors": [
+   "Yu. V. Pleskov"
+  ],
+  "journal": "Progress in Surface Science",
+  "publisher": "Elsevier BV",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1016/0079-6816(84)90005-4",
+  "url": "https://doi.org/10.1016/0079-6816(84)90005-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "0e36ac781e29fbe0",
   "title": "Photoelectrochemical studies of thin films of several tetraphenylporphyrins deposited on tin(IV) oxide electrodes",
   "authors": [
@@ -1350,5 +1431,37 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0a4c5b3eb402177c",
+  "title": "Picosecond Transient Absorption Spectra of Metalloporphyrins: Zinctetraphenylporphyrin",
+  "authors": [
+   "T. Doust",
+   "Linda B. Giorgi",
+   "Bryson L. Gore",
+   "George Porter"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1984-01-01",
+  "year": 1984,
+  "doi": "10.1364/up.1984.the27",
+  "url": "https://doi.org/10.1364/up.1984.the27",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "Transient Absorption",
+   "Water Photolysis"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Royal Institution of Great Britain"
+  ],
+  "added": "2026-07-25"
  }
 ]

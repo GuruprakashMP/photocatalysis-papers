@@ -26,6 +26,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "63dd855ef131693d",
+  "title": "ChemInform Abstract: HYDROGEN EVOLUTION AND IODINE REDUCTION ON AN ILLUMINATED N‐P JUNCTION SILICON ELECTRODE AND ITS APPLICATION TO EFFICIENT SOLAR PHOTOELECTROLYSIS OF HYDROGEN IODIDE",
+  "authors": [
+   "Yoshihiro Nakato",
+   "Yoshihiro Egi",
+   "Masahiro Hiramoto",
+   "Hiroshi Tsubomura"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1984-12-25",
+  "year": 1984,
+  "doi": "10.1002/chin.198452020",
+  "url": "https://doi.org/10.1002/chin.198452020",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
   "id": "e85bf1ea7ffa142c",
   "title": "ChemInform Abstract: PHOTOCATALYTIC HYDROGENATION OF ALKYNES AND ALKENES WITH WATER OVER TITANIUM DIOXIDE. PLATINUM LOADING EFFECT ON THE PRIMARY PROCESSES",
   "authors": [
@@ -221,6 +249,61 @@
   "relevance_score": 67,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "65116fcc832daa93",
+  "title": "The generation of hydrogen peroxide during water photoelectrolysis at n-titanium dioxide",
+  "authors": [
+   "Pedro Salvador",
+   "F. Decker"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1021/j150669a013",
+  "url": "https://doi.org/10.1021/j150669a013",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-25"
+ },
+ {
+  "id": "1a1228af8b47c9a5",
+  "title": "Kinetics of OH reactions with aliphatic thiols",
+  "authors": [
+   "P. H. Wine",
+   "R. J. Thompson",
+   "D. H. Semmes"
+  ],
+  "journal": "International Journal of Chemical Kinetics",
+  "publisher": "Wiley",
+  "published": "1984-12-01",
+  "year": 1984,
+  "doi": "10.1002/kin.550161215",
+  "url": "https://doi.org/10.1002/kin.550161215",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "134c36ab891e892a",

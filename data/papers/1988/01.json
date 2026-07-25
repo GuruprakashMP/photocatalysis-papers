@@ -175,6 +175,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1abdbf29cf45cf09",
+  "title": "ChemInform Abstract: Photolysis of Water with Zn1‐xNixMn2O4 Powdered Spinel Oxides.",
+  "authors": [
+   "J.L. Gautier",
+   "J. Brenet",
+   "R. Fuentealba"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1988-01-05",
+  "year": 1988,
+  "doi": "10.1002/chin.198801034",
+  "url": "https://doi.org/10.1002/chin.198801034",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidad de Santiago de Chile"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "f8907cf28ae6d78e",
   "title": "Photocatalytic hydrogen generation from water—Organic solutions using polytungstates",
   "authors": [
@@ -198,6 +225,35 @@
    "Neft Kimya Prosesləri Institutu"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f26738a9391ab0e2",
+  "title": "System for hydrogen production by water photoelectrolysis with p-Si and p-InP photocathodes",
+  "authors": [
+   "G Popkirov"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1988-01-01",
+  "year": 1988,
+  "doi": "10.1016/0360-3199(88)90078-x",
+  "url": "https://doi.org/10.1016/0360-3199(88)90078-x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocathodes",
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Central Laboratory of Solar Energy and New Energy Sources"
+  ],
+  "added": "2026-07-25"
  },
  {
   "id": "f160a9efedde70ee",
@@ -856,6 +912,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a1cc69edad75edc7",
+  "title": "On the photoelectrodes TiO2 and WSe2 for hydrogen production through photoelectrolysis",
+  "authors": [
+   "G. Prasad",
+   "N RAO",
+   "O. N. Srivastava"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1988-01-01",
+  "year": 1988,
+  "doi": "10.1016/0360-3199(88)90125-5",
+  "url": "https://doi.org/10.1016/0360-3199(88)90125-5",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photoelectrolysis",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-25"
+ },
+ {
   "id": "a13afa11c465188d",
   "title": "Photocatalytic Formation of Symmetrical N-Alkylidene Amines or Secondary Amines from Primary Amines",
   "authors": [
@@ -1172,6 +1259,34 @@
    "University of Palermo"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "71c6b1e80560f54b",
+  "title": "Modulation of the Release and Biological Activity of Endothelium-Derived Relaxing Factor by Oxygen-Derived Free Radicals",
+  "authors": [
+   "Gabor M. Rubanyi",
+   "Paul M. Vanhoutte"
+  ],
+  "journal": "Humana Press eBooks",
+  "publisher": "Humana Press",
+  "published": "1988-01-01",
+  "year": 1988,
+  "doi": "10.1007/978-1-4612-4588-9_5",
+  "url": "https://doi.org/10.1007/978-1-4612-4588-9_5",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "ROS",
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-25"
  },
  {
   "id": "706b6d4ca46a7bd8",
