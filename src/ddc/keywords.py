@@ -53,6 +53,15 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     "photoinduced electron transfer": (3, "Photoinduced ET", "Mechanism & Charge Dynamics"),
     "plasmonic photocataly": (4, "Plasmonic", "Plasmonic Photocatalysis"),
     "photothermal cataly": (3, "Photothermal Catalysis", "General Photocatalysis"),
+    # Early-era vocabulary: the field's founding papers predate the word
+    # "photocatalysis" itself (Honda & Fujishima 1972 is "electrochemical
+    # photolysis of water at a semiconductor electrode").
+    "photolysis of water": (4, "Water Photolysis", "Water Splitting"),
+    "water photolysis": (4, "Water Photolysis", "Water Splitting"),
+    "photoelectrolysis": (4, "Photoelectrolysis", "Photoelectrochemistry"),
+    "photo-electrolysis": (4, "Photoelectrolysis", "Photoelectrochemistry"),
+    "photoassisted electroly": (4, "Photoelectrolysis", "Photoelectrochemistry"),
+    "photo-assisted electroly": (4, "Photoelectrolysis", "Photoelectrochemistry"),
 }
 
 # ---------------------------------------------------------------------------

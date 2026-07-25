@@ -110,6 +110,25 @@ class TestClassify(unittest.TestCase):
         self.assertLessEqual(verdict.score, 100)
         self.assertGreaterEqual(verdict.score, 90)
 
+    def test_accepts_honda_fujishima_1972(self):
+        # The field's founding paper predates the word "photocatalysis";
+        # early-era vocabulary must be enough to index it.
+        r = record(
+            "Electrochemical Photolysis of Water at a Semiconductor Electrode",
+            journal="Nature")
+        verdict = classify(r)
+        self.assertTrue(verdict.accepted)
+        self.assertIn("Water Splitting", verdict.categories)
+
+    def test_accepts_photoelectrolysis_era_paper(self):
+        r = record(
+            "Photoelectrolysis of water in cells with SrTiO3 anodes",
+            "Hydrogen and oxygen are evolved under ultraviolet illumination "
+            "without external bias.")
+        verdict = classify(r)
+        self.assertTrue(verdict.accepted)
+        self.assertIn("Photoelectrochemistry", verdict.categories)
+
 
 if __name__ == "__main__":
     unittest.main()

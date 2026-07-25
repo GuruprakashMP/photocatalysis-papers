@@ -60,6 +60,9 @@ TOPIC_QUERIES = (
     "photoanode",
     "plasmonic photocatalysis",
     "photocatalyst visible light",
+    # early-era terminology (pre-dates the word "photocatalysis")
+    '"photolysis of water"',
+    "photoelectrolysis",
 )
 
 
