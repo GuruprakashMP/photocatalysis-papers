@@ -63,6 +63,12 @@ TOPIC_QUERIES = (
     # early-era terminology (pre-dates the word "photocatalysis")
     '"photolysis of water"',
     "photoelectrolysis",
+    # modern photoredox / LMCT synthesis, which often never says "photocatal…"
+    '"visible light mediated"',
+    '"ligand to metal charge transfer"',
+    "photocatalyst",
+    "organophotocatalyst",
+    '"eosin y"',
 )
 
 

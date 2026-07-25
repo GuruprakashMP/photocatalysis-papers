@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import datetime as dt
 import logging
+import re
 import time
 from typing import Dict, List
 
@@ -25,7 +26,13 @@ SEARCHES = (
     "photocatalytic",
     "photoredox catalysis",
     "photoelectrochemical water splitting",
+    "visible light mediated",
+    "ligand to metal charge transfer",
 )
+
+# Transparent-peer-review reports get their own DOIs (e.g.
+# 10.1039/d3sc02440g/v1/review1) and OpenAlex serves them as works.
+_PEER_REVIEW_DOI = re.compile(r"/v\d+/review", re.IGNORECASE)
 
 
 @register
@@ -75,12 +82,21 @@ def work_to_record(work: dict, source: str) -> RawRecord:
     location = work.get("primary_location") or {}
     source_info = location.get("source") or {}
     doi = (work.get("doi") or "").replace("https://doi.org/", "")
+    journal = clean_text(source_info.get("display_name"))
+    if _PEER_REVIEW_DOI.search(doi):
+        return None  # a peer-review report, not a paper
+    # Corrupted OpenAlex merges: OSTI repository metadata fused with a
+    # foreign publisher's DOI (and that paper's abstract). OSTI's own DOIs
+    # start 10.2172; anything else on an OSTI record is a hijacked identity
+    # that would block the real paper from the index.
+    if journal and "OSTI OAI" in journal and doi and not doi.startswith("10.2172"):
+        return None
     url = work.get("doi") or location.get("landing_page_url") or ""
     return RawRecord(
         title=title,
         abstract=_reconstruct_abstract(work.get("abstract_inverted_index")),
         authors=authors,
-        journal=clean_text(source_info.get("display_name")),
+        journal=journal,
         publisher=clean_text(source_info.get("host_organization_name")),
         doi=doi,
         url=url,

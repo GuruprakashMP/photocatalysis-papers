@@ -120,6 +120,25 @@ class TestClassify(unittest.TestCase):
         self.assertTrue(verdict.accepted)
         self.assertIn("Water Splitting", verdict.categories)
 
+    def test_accepts_lmct_synthesis(self):
+        # Modern LMCT photochemistry often never says "photocatal…"
+        r = record(
+            "Expedient radical phosphonylations via ligand to metal charge "
+            "transfer",
+            "Efficient radical phosphonylations tailored upon visible-light "
+            "mediated LMCT on bismuth.")
+        verdict = classify(r)
+        self.assertTrue(verdict.accepted)
+        self.assertIn("Photoredox & Organic Synthesis", verdict.categories)
+
+    def test_accepts_eosin_photoredox_without_photo_words(self):
+        r = record(
+            "A highly diastereoselective one-pot Ugi/radical spirocyclization",
+            "Eosin-Y catalyzed radical spirocyclization of post-Ugi adducts "
+            "with aryl thiols provided access to complex azaspirotricycles.")
+        verdict = classify(r)
+        self.assertTrue(verdict.accepted)
+
     def test_accepts_photoelectrolysis_era_paper(self):
         r = record(
             "Photoelectrolysis of water in cells with SrTiO3 anodes",

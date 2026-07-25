@@ -62,6 +62,18 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     "photo-electrolysis": (4, "Photoelectrolysis", "Photoelectrochemistry"),
     "photoassisted electroly": (4, "Photoelectrolysis", "Photoelectrochemistry"),
     "photo-assisted electroly": (4, "Photoelectrolysis", "Photoelectrochemistry"),
+    # Modern photoredox / LMCT synthesis vocabulary: these papers often say
+    # "visible-light mediated" or name the photocatalyst without ever using
+    # a photocatal-/photoredox word.
+    "ligand-to-metal charge transfer": (4, "LMCT", "Photoredox & Organic Synthesis"),
+    "ligand to metal charge transfer": (4, "LMCT", "Photoredox & Organic Synthesis"),
+    "lmct": (4, "LMCT", "Photoredox & Organic Synthesis"),
+    "visible-light mediated": (4, "Visible Light", "General Photocatalysis"),
+    "visible light mediated": (4, "Visible Light", "General Photocatalysis"),
+    "organophotocataly": (4, "Organophotocatalysis", "Photoredox & Organic Synthesis"),
+    "organo-photocataly": (4, "Organophotocatalysis", "Photoredox & Organic Synthesis"),
+    "eosin y cataly": (4, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    "eosin-y cataly": (4, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
 }
 
 # ---------------------------------------------------------------------------
@@ -177,6 +189,13 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     "flow chemistry": (3, "Flow Chemistry", "Reactor Engineering & Scale-up"),
     "immobilized": (2, "Immobilization", "Reactor Engineering & Scale-up"),
     "recyclability": (2, "Recyclability", "Reactor Engineering & Scale-up"),
+    # named molecular photocatalysts (photoredox synthesis)
+    "eosin": (2, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    "rose bengal": (3, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    "4-czipn": (3, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    "acridinium": (3, "Organic Photocatalysts", "Photoredox & Organic Synthesis"),
+    "ru(bpy)": (3, "Metal Photocatalysts", "Photoredox & Organic Synthesis"),
+    "ir(ppy)": (3, "Metal Photocatalysts", "Photoredox & Organic Synthesis"),
 }
 
 # ---------------------------------------------------------------------------
