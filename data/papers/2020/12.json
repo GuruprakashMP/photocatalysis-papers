@@ -33,6 +33,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f377bb0e5b6f546c",
+  "title": "Dual-Sensitizer Photoanode for Bromide Oxidation",
+  "authors": [
+   "Michael D. Turlington",
+   "Matthew D. Brady",
+   "Gerald J. Meyer"
+  ],
+  "journal": "ACS Applied Energy Materials",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-31",
+  "year": 2020,
+  "doi": "10.1021/acsaem.0c02544",
+  "url": "https://doi.org/10.1021/acsaem.0c02544",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "TiO2",
+   "Transient Absorption",
+   "Visible Light"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "e78bc25002f500b1",
   "title": "Improved Light Harvesting and Efficiency for Overall Water Splitting by Embedding TiO 2 Transition Layer in GaP/Ga 2 O 3 /Ga 2 Se 3 Multijunction Photocatalyst",
   "authors": [
@@ -7428,6 +7460,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "20084e0508abf1e9",
+  "title": "Direct photoelectrochemical oxidation of hydroxymethylfurfural on tungsten trioxide photoanodes",
+  "authors": [
+   "Charles R. Lhermitte",
+   "Nukorn Plainpan",
+   "Pamela Canjura",
+   "Florent Boudoire",
+   "Kevin Sivula"
+  ],
+  "journal": "RSC Advances",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-23",
+  "year": 2020,
+  "doi": "10.1039/d0ra09989a",
+  "url": "https://doi.org/10.1039/d0ra09989a",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "École Polytechnique"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "1a2f54373ebb3f9d",
   "title": "Role of axial versus radial pore orientation in mesoporous silica particles, on its effect in photocatalysis via impregnated TiO2 nanoparticles in pores",
   "authors": [
@@ -7820,6 +7882,42 @@
    "Sun Yat-sen University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9b089b10c9b5a11e",
+  "title": "Defect engineered nanostructured LaFeO 3 photoanodes for improved activity in solar water oxidation",
+  "authors": [
+   "Yongpeng Liu",
+   "Javier Quiñonero",
+   "Liang Yao",
+   "Xavier Da Costa",
+   "Mounir Mensi",
+   "Roberto Gómez",
+   "Kevin Sivula",
+   "Néstor Guijarro"
+  ],
+  "journal": "Journal of Materials Chemistry A",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-12-22",
+  "year": 2020,
+  "doi": "10.1039/d0ta11541j",
+  "url": "https://doi.org/10.1039/d0ta11541j",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photoanodes"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Charles Humbert 8",
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Alicante"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "7d8373cb5d285124",
@@ -10659,6 +10757,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "766c4bd32501b12c",
+  "title": "RETRACTED: Highly sensitive and selective photoelectrochemical sensor for mercury(II) detection based on efficient Bi2MoO6 photoanode decorated with CuS",
+  "authors": [
+   "Xiaoying Zhang",
+   "Mengying Li",
+   "Lian-Man He",
+   "Dandan Tian",
+   "Lijuan Zhang",
+   "Jianhua Zhang",
+   "Min Liu"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-17",
+  "year": 2020,
+  "doi": "10.1016/j.jallcom.2020.157905",
+  "url": "https://doi.org/10.1016/j.jallcom.2020.157905",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Henan University",
+   "Henan Provincial People's Hospital",
+   "China Huadian Corporation (China)",
+   "Zhengzhou University"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "73c1903eb56757e3",
   "title": "Direct Z‐Scheme Structure g ‐C 3 N 4 ‐BiOI with Highly Efficient Visible‐Light‐Driven Photocatalytic Activity for Bacteria Inactivation",
   "authors": [
@@ -10975,6 +11108,37 @@
    "Tianjin University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ff06532308d16d5c",
+  "title": "Energy and environmental applications of Sn4+/Ti4+ doped α-Fe2O3@Cu2O/CuO photoanode under optimized photoelectrochemical conditions",
+  "authors": [
+   "N. Lakshmana Reddy",
+   "Jaewon Lee",
+   "Hyeonkwon Lee",
+   "Beomgyun Jeong",
+   "Kiyoung Lee"
+  ],
+  "journal": "Environmental Pollution",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-16",
+  "year": 2020,
+  "doi": "10.1016/j.envpol.2020.116318",
+  "url": "https://doi.org/10.1016/j.envpol.2020.116318",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Kyungpook National University",
+   "Korea Basic Science Institute"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "fb3d73793787f07e",
@@ -11555,6 +11719,45 @@
    "Cluster University Srinagar"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a2f8906419c679a9",
+  "title": "Defect-Tolerant TiO 2 -Coated and Discretized Photoanodes for >600 h of Stable Photoelectrochemical Water Oxidation",
+  "authors": [
+   "Xin Shen",
+   "Maoqing Yao",
+   "Ke Sun",
+   "Tianshuo Zhao",
+   "Yulian He",
+   "Chun-Yung Chi",
+   "Chongwu Zhou",
+   "P.D. Dapkus",
+   "Nathan S. Lewis",
+   "Shu Hu"
+  ],
+  "journal": "ACS Energy Letters",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-16",
+  "year": 2020,
+  "doi": "10.1021/acsenergylett.0c02521",
+  "url": "https://doi.org/10.1021/acsenergylett.0c02521",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Yale University",
+   "University of Southern California",
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "9ba015f7cd7b300d",
@@ -12758,6 +12961,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d074dd20d831ffc9",
+  "title": "Circular economy: national and global policy—overview",
+  "authors": [
+   "Artur Braun",
+   "Rita Tóth"
+  ],
+  "journal": "Clean Technologies and Environmental Policy",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.1007/s10098-020-01988-8",
+  "url": "https://doi.org/10.1007/s10098-020-01988-8",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Solar Fuels",
+   "Water Splitting"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Swiss Federal Laboratories for Materials Science and Technology"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "ccfa247e7949cc91",
   "title": "Development and Proof of Concept for a Large-Scale Photoredox Additive-Free Minisci Reaction",
   "authors": [
@@ -12973,6 +13206,41 @@
    "John Wiley & Sons (Germany)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "806b0da7de20a689",
+  "title": "Anionic Exchange Membrane for Photo-Electrolysis Application",
+  "authors": [
+   "Carmelo Lo Vecchio",
+   "Alessandra Carbone",
+   "Stefano Trocino",
+   "Irene Gatto",
+   "Assunta Patti",
+   "Vincenzo Baglio",
+   "A.S. Aricò"
+  ],
+  "journal": "Polymers",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-12-15",
+  "year": 2020,
+  "doi": "10.3390/polym12122991",
+  "url": "https://doi.org/10.3390/polym12122991",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photocathodes",
+   "Photoelectrolysis",
+   "Solar Fuels"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Institute for Advanced Energy Technologies"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "73192ea8012d56d0",
@@ -14501,6 +14769,41 @@
    "Zhengzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f972cab1380ea5ec",
+  "title": "Design of material for solar fuel production",
+  "authors": [
+   "Stephen Rhatigan"
+  ],
+  "journal": "Arrow@dit (Dublin Institute of Technology)",
+  "publisher": "Dublin Institute of Technology",
+  "published": "2020-12-12",
+  "year": 2020,
+  "doi": "",
+  "url": "http://hdl.handle.net/10468/11265",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Hydrogen Evolution",
+   "Water Splitting",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "DFT",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Semiconductors",
+   "Solar Fuels",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-07-26"
  },
  {
   "id": "b5e13e6f39ed286d",
@@ -17345,6 +17648,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3a0c12a9ffbaaaba",
+  "title": "Photo-assisted electrodeposition of NiMoZn on hematite nanostructures and their photoelectrochemical application as photoanode for corrosion protection of stainless steel",
+  "authors": [
+   "Mohamad Mohsen Momeni",
+   "Mehrdad Akbarnia"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-10",
+  "year": 2020,
+  "doi": "10.1016/j.jallcom.2020.158254",
+  "url": "https://doi.org/10.1016/j.jallcom.2020.158254",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Isfahan University of Technology"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "2e64e3eb426cb04e",
   "title": "Mild olefin formation via bio-inspired vitamin B 12 photocatalysis",
   "authors": [
@@ -18430,6 +18760,44 @@
    "State Key Laboratory of Chemical Engineering"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "72527d1111fb7cff",
+  "title": "Photoinduced Electron Injection in a Fully Solvated Dye-Sensitized Photoanode: A Dynamical Semiempirical Study",
+  "authors": [
+   "Jan Paul Menzel",
+   "Anastasios Papadopoulos",
+   "Jelena Belić",
+   "Huub J. M. de Groot",
+   "Lucas Visscher",
+   "Francesco Buda"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-09",
+  "year": 2020,
+  "doi": "10.1021/acs.jpcc.0c09551",
+  "url": "https://doi.org/10.1021/acs.jpcc.0c09551",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Separation",
+   "DFT",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Leiden University",
+   "Vrije Universiteit Amsterdam"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "59ccef5ea7e04e7e",
@@ -20061,6 +20429,74 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bdaf07824f0b7581",
+  "title": "Cover Feature: Excitation Energy Transfer and Exchange‐Mediated Quartet State Formation in Porphyrin‐Trityl Systems (Chem. Eur. J. 8/2021)",
+  "authors": [
+   "Oliver Nolden",
+   "Nico Fleck",
+   "Emmaline R. Lorenzo",
+   "Michael R. Wasielewski",
+   "Olav Schiemann",
+   "Peter Gilch",
+   "Sabine Richert"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2020-12-07",
+  "year": 2020,
+  "doi": "10.1002/chem.202004196",
+  "url": "https://doi.org/10.1002/chem.202004196",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Artificial Photosynthesis",
+   "Excited States",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Heinrich Heine University Düsseldorf",
+   "University of Bonn",
+   "Northwestern University",
+   "University of Freiburg"
+  ],
+  "added": "2026-07-26"
+ },
+ {
+  "id": "abec80cc93ddbe42",
+  "title": "Ultrasonication-assisted liquid-phase exfoliation enhances photoelectrochemical performance in α-Fe2O3/MoS2 photoanode",
+  "authors": [
+   "Zohreh Masoumi",
+   "Meysam Tayebi",
+   "Byeong–Kyu Lee"
+  ],
+  "journal": "Ultrasonics Sonochemistry",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-07",
+  "year": 2020,
+  "doi": "10.1016/j.ultsonch.2020.105403",
+  "url": "https://doi.org/10.1016/j.ultsonch.2020.105403",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Ulsan"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "ab790e532003cdd5",
   "title": "Recent Advances on Photocatalytic and Electrochemical Oxidation for Ammonia Treatment from Water/Wastewater",
   "authors": [
@@ -20218,6 +20654,51 @@
    "Qingdao Agricultural University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8b5898eb4d654915",
+  "title": "Plasmon-Induced Hot Electron Amplification and Effective Charge Separation by Au Nanoparticles Sandwiched between Copper Titanium Phosphate Nanosheets and Improved Carbon Dioxide Conversion to Methane",
+  "authors": [
+   "Jeong Yeon",
+   "Namgyu Son",
+   "Rama Krishna Chava",
+   "Kotesh Kumar Mandari",
+   "Sadanand Pandey",
+   "Vignesh Kumaravel",
+   "T.S. Senthil",
+   "Sang Woo Joo",
+   "Misook Kang"
+  ],
+  "journal": "ACS Sustainable Chemistry & Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-07",
+  "year": 2020,
+  "doi": "10.1021/acssuschemeng.0c06983",
+  "url": "https://doi.org/10.1021/acssuschemeng.0c06983",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels",
+   "Mechanism & Charge Dynamics",
+   "CO2 Reduction",
+   "Plasmonic Photocatalysis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Separation",
+   "DFT",
+   "LSPR",
+   "Photocatalysis",
+   "Plasmonics",
+   "Solar Fuels"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Yeungnam University",
+   "Research Institute of Industrial Science and Technology",
+   "Institute of Technology Sligo"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "8a09e1b36fb8f72e",
@@ -22290,6 +22771,37 @@
    "University of Kashan"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1d1f514f8635a26e",
+  "title": "Efficient Visible‐Light Driven Photothermal Conversion of CO 2 to Methane by Nickel Nanoparticles Supported on Barium Titanate",
+  "authors": [
+   "Diego Mateo",
+   "Natalia Morlanés",
+   "Partha Maity",
+   "Genrikh Shterk",
+   "Omar F. Mohammed",
+   "Jorge Gascón"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2020-12-04",
+  "year": 2020,
+  "doi": "10.1002/adfm.202008244",
+  "url": "https://doi.org/10.1002/adfm.202008244",
+  "source": "openalex",
+  "categories": [
+   "Solar Fuels"
+  ],
+  "tags": [
+   "Photothermal Catalysis",
+   "Solar Fuels"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "King Abdullah University of Science and Technology"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "1cf65a18dba6e64e",
@@ -25235,6 +25747,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8aa6b32769ac4e1c",
+  "title": "Functionalized Thermoplastic Polyurethane Gel Electrolytes for Cosensitized TiO 2 /CdS/CdSe Photoanode Solar Cells with High Efficiency",
+  "authors": [
+   "Ravi Prakash",
+   "Pralay Maiti"
+  ],
+  "journal": "Energy & Fuels",
+  "publisher": "American Chemical Society",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.1021/acs.energyfuels.0c03250",
+  "url": "https://doi.org/10.1021/acs.energyfuels.0c03250",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "CdS",
+   "Charge Carriers",
+   "Photoanodes",
+   "Quantum Dots",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Indian Institute of Technology BHU",
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "88bd88714a75babd",
   "title": "Highly Efficient and Selective Hg(II) Removal from Water Using Multilayered Ti 3 C 2 O x MXene via Adsorption Coupled with Catalytic Reduction Mechanism",
   "authors": [
@@ -25515,6 +26061,39 @@
    "Harbin University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6b7de238d516a94b",
+  "title": "Bi2S3/rGO co-modified TiO2 nanotube photoanode for enhanced photoelectrochemical cathodic protection of stainless steel",
+  "authors": [
+   "Piao Jin",
+   "Zi-Chao Guan",
+   "Haipeng Wang",
+   "Xia Wang",
+   "Guokun Liu",
+   "Rong-Gui Du"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.1016/j.jphotochem.2020.113060",
+  "url": "https://doi.org/10.1016/j.jphotochem.2020.113060",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Xiamen University"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "69eaf082d442b61e",
@@ -25830,6 +26409,45 @@
    "Lanzhou Institute of Chemical Physics"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "591ac8d1c5cbea08",
+  "title": "Growth of silver nanodendrites on titania nanotubes array for photoanode driven photoelectrocatalytic reduction of carbon dioxide",
+  "authors": [
+   "A.G. Karthick Raj",
+   "C. Murugan",
+   "Perumal Rameshkumar",
+   "Alagarsamy Pandikumar"
+  ],
+  "journal": "Applied Surface Science Advances",
+  "publisher": "Elsevier BV",
+  "published": "2020-12-01",
+  "year": 2020,
+  "doi": "10.1016/j.apsadv.2020.100035",
+  "url": "https://doi.org/10.1016/j.apsadv.2020.100035",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "CO2 Reduction",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Separation",
+   "Electron-Hole Pairs",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Central Electrochemical Research Institute",
+   "Academy of Scientific and Innovative Research",
+   "Kalasalingam Academy of Research and Education"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "54e6c28f127c5a97",
