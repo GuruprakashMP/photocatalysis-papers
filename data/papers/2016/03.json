@@ -8842,6 +8842,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "777fc543e3c26eab",
+  "title": "Ligand-to-Metal Charge-Transfer (LMCT) Transition",
+  "authors": [
+   "S. E. Braslavsky"
+  ],
+  "journal": "IUPAC Standards Online",
+  "publisher": "",
+  "published": "2016-03-16",
+  "year": 2016,
+  "doi": "10.1515/iupac.79.0342",
+  "url": "https://doi.org/10.1515/iupac.79.0342",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Max Planck Society",
+   "Mid-Pacific Institute"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "6fe08c3cfdc02a46",
   "title": "Photocatalysis",
   "authors": [
@@ -11902,6 +11928,48 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1eb25f77c08ae0b3",
+  "title": "Semiconductor",
+  "authors": [
+   "Silvia E. Braslavsky",
+   "André M. Braun",
+   "Alberto E. Cassano",
+   "Alexei V. Emeline",
+   "Marta I. Litter",
+   "Leonardo Palmisano",
+   "Valentin N. Parmon",
+   "Nick Serpone"
+  ],
+  "journal": "IUPAC Standards Online",
+  "publisher": "",
+  "published": "2016-03-13",
+  "year": 2016,
+  "doi": "10.1515/iupac.83.0276",
+  "url": "https://doi.org/10.1515/iupac.83.0276",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Max Planck Society",
+   "Mid-Pacific Institute",
+   "Karlsruhe University of Education",
+   "Universidad Nacional del Litoral",
+   "St Petersburg University",
+   "Institute of Physics",
+   "Comisión Nacional de Energía Atómica",
+   "University of Palermo",
+   "Boreskov Institute of Catalysis",
+   "University of Pavia"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "05eab04502f483a3",
   "title": "Artificial Photosynthesis",
   "authors": [
@@ -13797,6 +13865,37 @@
    "Collaborative Innovation Center of Chemical Science and Engineering Tianjin"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "469d49d9233c1385",
+  "title": "Visible-Light-Mediated Facile Reductive Aromatization of Quinols",
+  "authors": [
+   "Leifeng Wang",
+   "Zhiming Yan"
+  ],
+  "journal": "Synlett",
+  "publisher": "Thieme Medical Publishers (Germany)",
+  "published": "2016-03-09",
+  "year": 2016,
+  "doi": "10.1055/s-0035-1561404",
+  "url": "https://doi.org/10.1055/s-0035-1561404",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Metal Photocatalysts",
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Shenzhen University",
+   "Peking University",
+   "University Town of Shenzhen"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "3349d00b94aec637",
@@ -16072,6 +16171,49 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ed059e9c2b85ce80",
+  "title": "5,6-Dihydroxyindole-2-carboxylic Acid–TiO 2 Charge Transfer Complexes in the Radical Polymerization of Melanogenic Precursor(s)",
+  "authors": [
+   "Giuseppe Vitiello",
+   "Alessandro Pezzella",
+   "Vincenzo Calcagno",
+   "Brigida Silvestri",
+   "Luca Raiola",
+   "Gerardino D’Errico",
+   "A. Costantini",
+   "F. Branda",
+   "Giuseppina Luciani"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2016-03-03",
+  "year": 2016,
+  "doi": "10.1021/acs.jpcc.6b00226",
+  "url": "https://doi.org/10.1021/acs.jpcc.6b00226",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Photocatalysis",
+   "Photoluminescence",
+   "Radical Chemistry",
+   "Visible Light"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "Consorzio Interuniversitario per lo Sviluppo dei Sistemi a Grande Interfase",
+   "University of Naples Federico II",
+   "Institute of Polymers, Composites and Biomaterials",
+   "Italian Institute of Technology",
+   "Center for Advanced Biomaterials for Healthcare"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "ec75a615e6e991a3",
   "title": "A C 3 N 4 /Bi 2 WO 6 organic–inorganic hybrid photocatalyst with a high visible-light-driven photocatalytic activity",
   "authors": [
@@ -17523,6 +17665,36 @@
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cf6d3b82bf50c350",
+  "title": "Highly efficient visible light mediated azo dye degradation through barium titanate decorated reduced graphene oxide sheets",
+  "authors": [
+   "Monisha Rastogi",
+   "H.S. Kushwaha",
+   "Rahul Vaish"
+  ],
+  "journal": "Electronic Materials Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "2016-03-01",
+  "year": 2016,
+  "doi": "10.1007/s13391-015-5274-8",
+  "url": "https://doi.org/10.1007/s13391-015-5274-8",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Graphene",
+   "Visible Light"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Indian Institute of Technology Mandi"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "ca5c15ddf0caa7db",

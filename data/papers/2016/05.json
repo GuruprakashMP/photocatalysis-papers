@@ -170,6 +170,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c61e87c06c3da75a",
+  "title": "Visible light mediated reductions of ethers, amines and sulfides",
+  "authors": [
+   "Timothy M. Monos",
+   "Gabriel Magallanes",
+   "Leanne J. Sebren",
+   "Corey R. J. Stephenson"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2016-05-31",
+  "year": 2016,
+  "doi": "10.1016/j.jphotochem.2016.05.014",
+  "url": "https://doi.org/10.1016/j.jphotochem.2016.05.014",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Visible Light"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Michigan"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "c309eb7128be07b6",
   "title": "A Floating Sheet for Efficient Photocatalytic Water Splitting",
   "authors": [
@@ -3110,6 +3138,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a5d0122b0ecb4f00",
+  "title": "One-Pot Amide Bond Formation from Aldehydes and Amines via a Photoorganocatalytic Activation of Aldehydes",
+  "authors": [
+   "Giorgos N. Papadopoulos",
+   "Christoforos G. Kokotos"
+  ],
+  "journal": "The Journal of Organic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2016-05-26",
+  "year": 2016,
+  "doi": "10.1021/acs.joc.6b00488",
+  "url": "https://doi.org/10.1021/acs.joc.6b00488",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Visible Light"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National and Kapodistrian University of Athens"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "a0adb9871f4caee7",
   "title": "Highly efficient photocatalytic hydrogen evolution from nickel quinolinethiolate complexes under visible light irradiation",
   "authors": [
@@ -3414,6 +3469,32 @@
    "City University of Hong Kong"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "46a0e6048a0e24e1",
+  "title": "Organic photocatalysts for cleaner polymer synthesis",
+  "authors": [
+   "Sivaprakash Shanmugam",
+   "Cyrille Boyer"
+  ],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2016-05-26",
+  "year": 2016,
+  "doi": "10.1126/science.aaf7465",
+  "url": "https://doi.org/10.1126/science.aaf7465",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "ARC Centre of Excellence in Advanced Molecular Imaging"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "3648306d9fe3b52a",
@@ -5995,6 +6076,37 @@
    "University of Wisconsin–Milwaukee"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2f509874bdd7ddcc",
+  "title": "Optical Determination of Electron Transfer Dynamics and Kinetics for Asymmetrical [Mo 2 ]–ph–[Mo 2 ] Systems",
+  "authors": [
+   "Wei Yong Yu",
+   "Miao Meng",
+   "Hao Lei",
+   "Xuedan He",
+   "Chun Y. Liu"
+  ],
+  "journal": "The Journal of Physical Chemistry C",
+  "publisher": "American Chemical Society",
+  "published": "2016-05-23",
+  "year": 2016,
+  "doi": "10.1021/acs.jpcc.6b03792",
+  "url": "https://doi.org/10.1021/acs.jpcc.6b03792",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Jinan University"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "1e12008df50125f8",
@@ -14307,6 +14419,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "30137d8f7118366f",
+  "title": "Elucidating Strong Field Photochemical Reduction Mechanisms of Aqueous [AuCl 4 ] − : Kinetics of Multiphoton Photolysis and Radical-Mediated Reduction",
+  "authors": [
+   "Katharine Moore Tibbetts",
+   "Behzad Tangeysh",
+   "Johanan H. Odhner",
+   "Robert J. Levis"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2016-05-09",
+  "year": 2016,
+  "doi": "10.1021/acs.jpca.6b03163",
+  "url": "https://doi.org/10.1021/acs.jpca.6b03163",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Photonics (United States)",
+   "Temple University"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "219f672ebb531e11",
   "title": "General Strategy for the Synthesis of Transition Metal Phosphide Films for Electrocatalytic Hydrogen and Oxygen Evolution",
   "authors": [
@@ -14643,6 +14786,31 @@
    "Anhui University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a2e9725c4c8c6808",
+  "title": "Photoelectrolysis - Use of metal oxide semiconductors",
+  "authors": [
+   "Santeri Sompio"
+  ],
+  "journal": "Aaltodoc (Aalto University)",
+  "publisher": "Aalto University",
+  "published": "2016-05-08",
+  "year": 2016,
+  "doi": "",
+  "url": "https://aaltodoc.aalto.fi/handle/123456789/20796",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-26"
  },
  {
   "id": "83a4183cb6e0c7f3",
@@ -17633,6 +17801,49 @@
    "Institut des Sciences Chimiques de Rennes"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b557fee59d23ed06",
+  "title": "The role of oxygen in magnetron sputtered Ta3N5 films for water photoelectrolysis",
+  "authors": [
+   "Martin Rudolph",
+   "D. Stǎnescu",
+   "José Alvarez",
+   "Eddy Foy",
+   "Jean‐Paul Kleider",
+   "H. Magnan",
+   "Tiberiu Minea",
+   "Nathalie Herlin‐Boime",
+   "B. Bouchet-Fabre",
+   "M. C. Hugon"
+  ],
+  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "published": "2016-05-02",
+  "year": 2016,
+  "doi": "",
+  "url": "https://centralesupelec.hal.science/hal-01363717",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "Université Paris-Saclay",
+   "CEA Paris-Saclay",
+   "Laboratoire de Physique des Gaz et des Plasmas",
+   "Service de Physique de l'État Condensé",
+   "Laboratoire de Génie Électrique et Électronique de Paris",
+   "Institut de Recherche sur les ArchéoMATériaux",
+   "Laboratoire Archéomatériaux et Prévision de l'Altération",
+   "Laboratoire de Chimie Moléculaire et Thioorganique"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "ae8001d69d7834b2",
