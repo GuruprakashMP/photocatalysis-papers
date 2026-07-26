@@ -1134,6 +1134,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e43c7e14838df3bd",
+  "title": "Improved photodegradation properties and kinetic models of a solar-light-responsive photocatalyst when incorporated into electrospun hydrogel fibers",
+  "authors": [
+   "Ji Sun Im",
+   "Byong Chol Bai",
+   "Se Jin In",
+   "Young‐Seak Lee"
+  ],
+  "journal": "Journal of Colloid and Interface Science",
+  "publisher": "Elsevier BV",
+  "published": "2010-02-22",
+  "year": 2010,
+  "doi": "10.1016/j.jcis.2010.02.043",
+  "url": "https://doi.org/10.1016/j.jcis.2010.02.043",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Chungnam National University",
+   "Woosong University"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "dae89e198f6d4aff",
   "title": "Effect of H2O vapor addition on the photocatalytic oxidation of ethanol, acetaldehyde and acetic acid in the gas phase on TiO2 semiconductor powders",
   "authors": [
@@ -1263,6 +1293,45 @@
    "University of Birmingham"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3bd58a89371901a9",
+  "title": "Morphology, Structure and Photo-Electro-Catalytic Activity of TiO 2 /WO 3 Coatings Obtained by Pulsed Electrodeposition onto Stainless Steel",
+  "authors": [
+   "E. Valova",
+   "J. Georgieva",
+   "S. Armyanov",
+   "S. Sotiropoulos",
+   "Annick Hubin",
+   "Kitty Baert",
+   "Marc Raes"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2010-02-22",
+  "year": 2010,
+  "doi": "10.1149/1.3318500",
+  "url": "https://doi.org/10.1149/1.3318500",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrolysis",
+   "Pollutants",
+   "TiO2",
+   "WO3"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Aristotle University of Thessaloniki",
+   "Vrije Universiteit Brussel"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "1ab6b938a8f2b5ae",
@@ -1942,6 +2011,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1b93af75a165b03c",
+  "title": "Halogen Photoreductive Elimination from Metal−Metal Bonded Iridium(II)−Gold(II) Heterobimetallic Complexes",
+  "authors": [
+   "Thomas S. Teets",
+   "Daniel A. Lutterman",
+   "Daniel G. Nocera"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2010-02-18",
+  "year": 2010,
+  "doi": "10.1021/ic902590u",
+  "url": "https://doi.org/10.1021/ic902590u",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "ef54b1547a8e4ce8",
   "title": "SEM and Raman study of thermally treated TiO2 anatase nanopowders: Influence of calcination on photocatalytic activity",
   "authors": [
@@ -2485,6 +2583,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3b2f842d22023170",
+  "title": "Synthesis and characterization of TiO2–montmorillonites doped with vanadium and/or carbon and their application for the photodegradation of sulphorhodamine B under UV–vis irradiation",
+  "authors": [
+   "Ke Chen",
+   "Jingyi Li",
+   "Jingyi Li",
+   "Jie Li",
+   "Jie Li",
+   "Yumin Zhang",
+   "Wenxi Wang"
+  ],
+  "journal": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+  "publisher": "Elsevier BV",
+  "published": "2010-02-13",
+  "year": 2010,
+  "doi": "10.1016/j.colsurfa.2010.02.005",
+  "url": "https://doi.org/10.1016/j.colsurfa.2010.02.005",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Inner Mongolia University"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "f7207595e94da67f",
   "title": "Characterization of Cr(III)-grafted TiO2 for photocatalytic reaction under visible light",
   "authors": [
@@ -2996,6 +3127,39 @@
    "Institute of Mineralogy"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cf4ed67ac5e72e29",
+  "title": "Ta 3 N 5 Nanotube Arrays for Visible Light Water Photoelectrolysis",
+  "authors": [
+   "Xinjian Feng",
+   "Thomas J. LaTempa",
+   "James I. Basham",
+   "Gopal K. Mor",
+   "Oomman K. Varghese",
+   "Craig A. Grimes"
+  ],
+  "journal": "Nano Letters",
+  "publisher": "American Chemical Society",
+  "published": "2010-02-10",
+  "year": 2010,
+  "doi": "10.1021/nl903886e",
+  "url": "https://doi.org/10.1021/nl903886e",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photoelectrolysis",
+   "Visible Light"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "9a801220ec9adc5a",
@@ -4004,6 +4168,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "06b6ebc3f0a12290",
+  "title": "Photocatalytic Water Splitting under Visible Light by Eosin-Y Dye Sensitized Co-Doped TiO 2 Catalyst",
+  "authors": [
+   "Thi Thu Le",
+   "Shaheer M. Akhtar",
+   "O–Bong Yang"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2010-02-05",
+  "year": 2010,
+  "doi": "10.1149/ma2010-01/1/1",
+  "url": "https://doi.org/10.1149/ma2010-01/1/1",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organic Photocatalysts",
+   "Photocatalysis",
+   "Visible Light",
+   "Water Splitting"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Jeonbuk National University Hospital"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "06890d199b2ce072",
   "title": "Photocatalytic oxidation for antimicrobial control in built environment: A brief literature overview",
   "authors": [
@@ -4623,6 +4818,37 @@
    "Shanghai Jiao Tong University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6f8b54737df77753",
+  "title": "Temperature Switch of LMCT Role: From Quenching to Sensitization of Europium Emission in a Zn II −Eu III Binuclear Complex",
+  "authors": [
+   "T.D. Pasatoiu",
+   "Augustin M. Mădălan",
+   "Michael U. Kumke",
+   "Carmen Tiseanu",
+   "Marius Andruh"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2010-02-02",
+  "year": 2010,
+  "doi": "10.1021/ic902169s",
+  "url": "https://doi.org/10.1021/ic902169s",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Bucharest",
+   "University of Potsdam",
+   "National Institute for Laser Plasma and Radiation Physics"
+  ],
+  "added": "2026-07-26"
  },
  {
   "id": "6def90eccf509844",
@@ -5666,6 +5892,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2766bacbc6a27fd4",
+  "title": "The controlled engineering of photocatalyst nanostructures",
+  "authors": [
+   "John A. Stride",
+   "Nam T. Tuong"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2010-02-01",
+  "year": 2010,
+  "doi": "10.1109/iconn.2010.6045182",
+  "url": "https://doi.org/10.1109/iconn.2010.6045182",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Australian Nuclear Science and Technology Organisation",
+   "UNSW Sydney",
+   "Australian Centre for Neutron Scattering"
+  ],
+  "added": "2026-07-26"
+ },
+ {
   "id": "2563f23e5fd4799d",
   "title": "Domestic Intelligence and Homeland Security: Are We There Yet",
   "authors": [
@@ -5891,5 +6146,42 @@
    "North China University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "03ce1433133c795c",
+  "title": "PHOTODEGRADATION OF N-METHYLDIETHANOLAMINE OVER ZNO/SNO2 COUPLED PHOTOCATALYSTS",
+  "authors": [
+   "Reham Ali",
+   "Abu Bakar W.A.W.",
+   "S S Mislan",
+   "Sharifuddin"
+  ],
+  "journal": "Scientia Iranica",
+  "publisher": "Sharif University of Technology",
+  "published": "2010-02-01",
+  "year": 2010,
+  "doi": "",
+  "url": "http://scientiairanica.sharif.edu/article_3374_0342b1a63474c1ba6b00d85db4a7cf71.pdf",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "Semiconductors",
+   "Wastewater",
+   "ZnO"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Kuwait University",
+   "University of Technology Malaysia"
+  ],
+  "added": "2026-07-26"
  }
 ]
