@@ -19,7 +19,7 @@ import json
 import logging
 import time
 from pathlib import Path
-from typing import Iterator, List, Optional
+from typing import Iterator, List, Optional, Tuple
 
 from . import http
 from .collectors.openalex import work_to_record
@@ -34,6 +34,12 @@ API = "https://api.openalex.org/works"
 PER_PAGE = 200
 REQUEST_PAUSE = 1.0  # gentle pacing; OpenAlex enforces a daily quota
 PIONEERS_FILE = PROJECT_ROOT / "config" / "pioneers.json"
+# Fetch-side checkpoint: every successfully completed query is recorded here
+# and skipped on re-runs. Without it a retry re-FETCHES all queries from
+# scratch (dedup only skips ingestion), burns the per-run request budget on
+# queries that already succeeded, and dies on the same tail queries forever.
+# Delete a year's entries to force a fresh sweep of that year.
+PROGRESS_FILE = PROJECT_ROOT / "data" / "state" / "backfill_progress.json"
 # Abort the whole backfill after this many consecutive failed queries —
 # it means the API quota is exhausted and hammering on is pointless.
 MAX_CONSECUTIVE_FAILURES = 12
@@ -76,6 +82,21 @@ class QuotaExhausted(Exception):
     """The API is persistently refusing requests (e.g. daily quota hit)."""
 
 
+def _load_progress() -> dict:
+    try:
+        data = json.loads(PROGRESS_FILE.read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+def _save_progress(progress: dict) -> None:
+    PROGRESS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    PROGRESS_FILE.write_text(
+        json.dumps(progress, ensure_ascii=False, indent=1, sort_keys=True),
+        encoding="utf-8")
+
+
 def _paged_works(
     filter_expr: str,
     max_pages: int,
@@ -109,16 +130,18 @@ def _ingest_pages(
     seen: dict,
     source: str,
     failures: List[int],
-) -> PipelineResult:
+) -> Tuple[PipelineResult, bool]:
     """Fetch all pages for one filter and ingest them, with checkpointing.
 
-    ``failures`` is ``[consecutive, current_year, total]`` failed-query
-    counters shared across the sweep; sustained consecutive failure raises
-    :class:`QuotaExhausted`. The other two counters let the caller flag a
-    year (or the whole run) as incomplete even when failures were transient
-    — a skipped query silently loses its papers otherwise.
+    Returns ``(result, ok)`` — ``ok`` is False when the query failed and
+    must be re-run. ``failures`` is ``[consecutive, current_year, total]``
+    failed-query counters shared across the sweep; sustained consecutive
+    failure raises :class:`QuotaExhausted`. The other two counters let the
+    caller flag a year (or the whole run) as incomplete even when failures
+    were transient — a skipped query silently loses its papers otherwise.
     """
     total = PipelineResult()
+    ok = True
     try:
         for page in _paged_works(filter_expr, max_pages, settings.contact_email):
             records: List[RawRecord] = []
@@ -129,6 +152,7 @@ def _ingest_pages(
             total.merge(process_records(records, settings, store, seen))
         failures[0] = 0
     except http.FetchError as exc:
+        ok = False
         failures[0] += 1
         failures[1] += 1
         failures[2] += 1
@@ -143,7 +167,7 @@ def _ingest_pages(
         log.info("%-45s %5d fetched, %4d added, %4d dup, %4d off-topic",
                  label, total.collected, total.added, total.duplicates,
                  total.rejected)
-    return total
+    return total, ok
 
 
 def load_pioneers() -> List[str]:
@@ -171,6 +195,7 @@ def backfill(
     grand = PipelineResult()
     # [consecutive, current-year, total] failed queries across the sweep
     failures = [0, 0, 0]
+    progress = _load_progress()
 
     try:
         if authors:
@@ -179,11 +204,17 @@ def backfill(
             pioneers = load_pioneers()
             log.info("Pioneer sweep: %d researchers", len(pioneers))
             for name in pioneers:
+                key = f"author|{name}"
+                if key in progress:
+                    continue
                 filter_expr = f'raw_author_name.search:"{name}"'
-                result = _ingest_pages(
+                result, ok = _ingest_pages(
                     filter_expr, f"author [{name}]", max_pages,
                     settings, store, seen, source="openalex", failures=failures)
                 grand.merge(result)
+                if ok:
+                    progress[key] = True
+                    _save_progress(progress)
                 time.sleep(REQUEST_PAUSE)
 
         if topics:
@@ -193,16 +224,22 @@ def backfill(
                 year_total = PipelineResult()
                 failures[1] = 0
                 for query in TOPIC_QUERIES:
+                    key = f"{year}|{query}"
+                    if key in progress:
+                        continue
                     filter_expr = (
                         f"from_publication_date:{year}-01-01,"
                         f"to_publication_date:{year}-12-31,"
                         f"title_and_abstract.search:{query}"
                     )
-                    result = _ingest_pages(
+                    result, ok = _ingest_pages(
                         filter_expr, f"{year} [{query}]", max_pages,
                         settings, store, seen, source="openalex",
                         failures=failures)
                     year_total.merge(result)
+                    if ok:
+                        progress[key] = True
+                        _save_progress(progress)
                     time.sleep(REQUEST_PAUSE)
                 grand.merge(year_total)
                 if failures[1]:
