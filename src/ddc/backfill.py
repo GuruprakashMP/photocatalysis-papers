@@ -112,8 +112,11 @@ def _ingest_pages(
 ) -> PipelineResult:
     """Fetch all pages for one filter and ingest them, with checkpointing.
 
-    ``failures`` is a single-element counter of consecutive failed queries,
-    shared across the sweep; sustained failure raises :class:`QuotaExhausted`.
+    ``failures`` is ``[consecutive, current_year, total]`` failed-query
+    counters shared across the sweep; sustained consecutive failure raises
+    :class:`QuotaExhausted`. The other two counters let the caller flag a
+    year (or the whole run) as incomplete even when failures were transient
+    — a skipped query silently loses its papers otherwise.
     """
     total = PipelineResult()
     try:
@@ -127,6 +130,8 @@ def _ingest_pages(
         failures[0] = 0
     except http.FetchError as exc:
         failures[0] += 1
+        failures[1] += 1
+        failures[2] += 1
         log.warning("OpenAlex query failed (%s): %s [consecutive failures: %d]",
                     label, exc, failures[0])
         if failures[0] >= MAX_CONSECUTIVE_FAILURES:
@@ -164,7 +169,8 @@ def backfill(
     store = PaperStore()
     seen = store.load_seen()
     grand = PipelineResult()
-    failures = [0]  # consecutive failed queries, shared across the sweep
+    # [consecutive, current-year, total] failed queries across the sweep
+    failures = [0, 0, 0]
 
     try:
         if authors:
@@ -185,6 +191,7 @@ def backfill(
                      from_year, to_year, len(TOPIC_QUERIES), max_pages)
             for year in range(to_year, from_year - 1, -1):
                 year_total = PipelineResult()
+                failures[1] = 0
                 for query in TOPIC_QUERIES:
                     filter_expr = (
                         f"from_publication_date:{year}-01-01,"
@@ -198,12 +205,23 @@ def backfill(
                     year_total.merge(result)
                     time.sleep(REQUEST_PAUSE)
                 grand.merge(year_total)
-                log.info("=== %d done: %d papers added (running total %d) ===",
-                         year, year_total.added, grand.added)
+                if failures[1]:
+                    # A transiently failed query silently loses its papers:
+                    # never report the year as done, so a driver re-runs it.
+                    log.warning("=== %d INCOMPLETE: %d queries failed "
+                                "(%d papers added; re-run this year) ===",
+                                year, failures[1], year_total.added)
+                else:
+                    log.info("=== %d done: %d papers added (running total %d) ===",
+                             year, year_total.added, grand.added)
     except QuotaExhausted as exc:
         log.error("Backfill stopped early: %s", exc)
 
-    log.info("Backfill finished: %s", grand.summary())
+    if failures[2]:
+        log.warning("Backfill finished with %d failed queries: %s",
+                    failures[2], grand.summary())
+    else:
+        log.info("Backfill finished: %s", grand.summary())
     if generate:
         from .site.generator import generate_site
         generate_site(settings)
