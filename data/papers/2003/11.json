@@ -545,6 +545,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2b7406035b896463",
+  "title": "Environmental Remediation by an Integrated Microwave/UV Illumination Method. V. Thermal and Nonthermal Effects of Microwave Radiation on the Photocatalyst and on the Photodegradation of Rhodamine-B under UV/Vis Radiation",
+  "authors": [
+   "Satoshi Horikoshi",
+   "Aiko Saitou",
+   "Hisao Hidaka",
+   "Nick Serpone"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2003-11-14",
+  "year": 2003,
+  "doi": "10.1021/es030326i",
+  "url": "https://doi.org/10.1021/es030326i",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis",
+   "Photodegradation",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Meisei University",
+   "Concordia University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "0023600b3a1e7b79",
   "title": "Effect of thin film photocatalysis on light penetration by control of algal and photosynthetic bacterial adhesion",
   "authors": [
@@ -600,6 +636,40 @@
    "University of Nottingham"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "823ecc169ac44134",
+  "title": "Photochemical Charge Transfer and Trapping at the Interface between an Organic Adlayer and an Oxide Semiconductor",
+  "authors": [
+   "Michael A. Henderson",
+   "John White",
+   "Hiroshi Uetsuka",
+   "Hiroshi Ōnishi"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2003-11-13",
+  "year": 2003,
+  "doi": "10.1021/ja037764+",
+  "url": "https://doi.org/10.1021/ja037764+",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Pacific Northwest National Laboratory",
+   "Kanagawa Academy of Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "459ee6791b08f4fa",
@@ -1196,6 +1266,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "df2f35ccfec8e8a0",
+  "title": "Organism Resolution Ability of Titania Photocatalyst in Water",
+  "authors": [
+   "Eiji Watanabe",
+   "Mitsuharu Fukaya",
+   "Hiroshi Taoda"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-11-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/msf.439.302",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.439.302",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d158a38c80474bc6",
   "title": "Photocatalytic Hydrogen Production by Direct Sunlight: A Laboratory Experiment",
   "authors": [
@@ -1628,6 +1726,68 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "50fe0b7a4ef8f49a",
+  "title": "Apatite-Coated Titanium Dioxide Photocatalyst",
+  "authors": [
+   "Toru Nonami",
+   "Hiroko Hase",
+   "Kazushi Funakoshi"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-11-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/msf.439.337",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.439.337",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Air Purification",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4f4ce3f4fddc9ead",
+  "title": "Effect of TiO 2 Powder Size on the Reactivity of Photocatalyst",
+  "authors": [
+   "Eun Ah Lee",
+   "Soo Wohn Lee",
+   "Chul Ho Choi",
+   "Ho Seob Kim",
+   "B. Hockey"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-11-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/msf.439.288",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.439.288",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Sun Moon University",
+   "National Institute of Standards and Technology",
+   "National Institute of Standards"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "41d0eaecaaa74520",

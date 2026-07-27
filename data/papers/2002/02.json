@@ -1,5 +1,37 @@
 [
  {
+  "id": "e219105eeda0add5",
+  "title": "Photolysis of water phenol solutions under UV excitation by KrCl laser and KrCl excilamp",
+  "authors": [
+   "Valerii A. Svetlitchnyi",
+   "Э. А. Соснин",
+   "O. N. Tchaikovskaya",
+   "E. I. Lipatov",
+   "T. N. Kopylova",
+   "I. V. Sokolova",
+   "В. Ф. Тарасенко"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "2002-02-28",
+  "year": 2002,
+  "doi": "10.1117/12.458439",
+  "url": "https://doi.org/10.1117/12.458439",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "National Research Tomsk State University",
+   "Institute of High Current Electronics"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9a339f30fa1d75ef",
   "title": "Photocatalytic reaction of vanillin oxime and salicylaldehyde oxime by TiO2 semiconductor",
   "authors": [
@@ -85,6 +117,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "41761a53481f7acf",
+  "title": "Time-resolved photoelectrochemical measurements and photovoltaic efficiency of electrochemically self-assembled ZnO-dye electrodes",
+  "authors": [
+   "Derck Schlettwein",
+   "Torsten Oekermann",
+   "Tsukasa Yoshida",
+   "Takashi Sugiura",
+   "Hideki Minoura",
+   "Dieter Woehrle"
+  ],
+  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
+  "publisher": "SPIE",
+  "published": "2002-02-25",
+  "year": 2002,
+  "doi": "10.1117/12.456926",
+  "url": "https://doi.org/10.1117/12.456926",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Organic Photocatalysts",
+   "Photoelectrochemistry",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "University of Bremen",
+   "Gifu University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a2819737e61f1988",
   "title": "Ruthenium−Manganese Complexes for Artificial Photosynthesis: Factors Controlling Intramolecular Electron Transfer and Excited-State Quenching Reactions",
   "authors": [
@@ -122,6 +192,38 @@
    "Stockholm University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "479503e0b1dab8e1",
+  "title": "The Electronic Properties of a Model Active Site for Blue Copper Proteins as Probed by Stark Spectroscopy",
+  "authors": [
+   "Arindam Chowdhury",
+   "Linda A. Peteanu",
+   "Patrick L. Holland",
+   "William B. Tolman"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2002-02-21",
+  "year": 2002,
+  "doi": "10.1021/jp0115751",
+  "url": "https://doi.org/10.1021/jp0115751",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Minnesota",
+   "Carnegie Mellon University",
+   "Twin Cities Orthopedics"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6c0e3a74ecb94d6c",
@@ -216,6 +318,38 @@
    "Concordia University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f117fe2a7b856d75",
+  "title": "Behavior of superoxide radicals formed on TiO2 powder photocatalysts studied by a chemiluminescent probe method",
+  "authors": [
+   "Yoshio Nosaka",
+   "Masatsugu Nakamura",
+   "Tsutomu Hirakawa"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2002-02-14",
+  "year": 2002,
+  "doi": "10.1039/b108441k",
+  "url": "https://doi.org/10.1039/b108441k",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "ROS",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Nagaoka University of Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "a61a47319bc16fb8",
@@ -578,6 +712,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8b775f20c7862607",
+  "title": "A Novel One Step Synthesis of trans -1,4,6,9-tetraazabicyclo[4.4.0]decane over TiO2/Zeolite Composite Photocatalysts",
+  "authors": [
+   "K. V. Subba Rao",
+   "B. Srinivas",
+   "A. R. Prasad",
+   "M. Subrahmanyam"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "2002-02-01",
+  "year": 2002,
+  "doi": "10.1246/cl.2002.236",
+  "url": "https://doi.org/10.1246/cl.2002.236",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Indian Institute of Chemical Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7957d762788236ea",
   "title": "Feasibility study of photoelectrochemical degradation of methylene blue with three-dimensional electrode-photocatalytic reactor",
   "authors": [
@@ -877,6 +1040,34 @@
    "École Polytechnique Fédérale de Lausanne"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4a8b5163cb433572",
+  "title": "Semiconductor-mediated photocatalyzed degradation of two selected pesticide derivatives, terbacil and 2,4,5-tribromoimidazole, in aqueous suspension",
+  "authors": [
+   "M. Muneer",
+   "Detlef W. Bahnemann"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2002-02-01",
+  "year": 2002,
+  "doi": "10.1016/s0926-3373(01)00282-x",
+  "url": "https://doi.org/10.1016/s0926-3373(01)00282-x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Aligarh Muslim University",
+   "Institut für Solarenergieforschung"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "482f670a065f98de",

@@ -1,5 +1,62 @@
 [
  {
+  "id": "ee40d3f420fc7868",
+  "title": "Wavelength Dependence of Photooxidation vs Photofragmentation of Chromocene",
+  "authors": [
+   "Peter Muraoka",
+   "Daniel Byun",
+   "Jeffrey I. Zink"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2001-08-31",
+  "year": 2001,
+  "doi": "10.1021/jp0110152",
+  "url": "https://doi.org/10.1021/jp0110152",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Photooxidation"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of California, Los Angeles"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "e108abacba57e0be",
+  "title": "Hydrogen Produced from Hydrohalic Acid Solutions by a Two-Electron Mixed-Valence Photocatalyst",
+  "authors": [
+   "Alan F. Heyduk",
+   "Daniel G. Nocera"
+  ],
+  "journal": "Science",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2001-08-31",
+  "year": 2001,
+  "doi": "10.1126/science.1062965",
+  "url": "https://doi.org/10.1126/science.1062965",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Massachusetts Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "da7b0c68f132f6bd",
   "title": "Nanoscale Materials in Chemistry",
   "authors": [],
@@ -368,6 +425,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d359d1b84a2e9fa9",
+  "title": "Interface diffusion and reaction between TiO 2 film photocatalyst and aluminium alloy substrate",
+  "authors": [
+   "Yongfa Zhu",
+   "Li Zhang",
+   "Li Wang",
+   "Ruiqin Tan",
+   "Lili Cao"
+  ],
+  "journal": "Surface and Interface Analysis",
+  "publisher": "Wiley",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1002/sia.1041",
+  "url": "https://doi.org/10.1002/sia.1041",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "b451fabe89765584",
   "title": "Auxiliary functions in photosynthesis: the role of the FtsH protease",
   "authors": [
@@ -663,6 +750,59 @@
    "Slovak University of Technology in Bratislava"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4f5279889db2b393",
+  "title": "The Influence of Surface Termination and Domain Structure on the Photochemical Reactivity of SrTiO3 and BaTiO3",
+  "authors": [
+   "Jennifer L. Giocondi",
+   "Gregory S. Rohrer"
+  ],
+  "journal": "Microscopy and Microanalysis",
+  "publisher": "Oxford University Press",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1017/s143192760003138x",
+  "url": "https://doi.org/10.1017/s143192760003138x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "SrTiO3"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Carnegie Mellon University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4e2429365cd06db3",
+  "title": "Porphyrin Monolayer-Modified Gold Clusters as Photoactive Materials",
+  "authors": [
+   "Hiroshi Imahori",
+   "Shunichi Fukuzumi"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2001-08-01",
+  "year": 2001,
+  "doi": "10.1002/1521-4095(200108)13:15<1197::aid-adma1197>3.0.co;2-4",
+  "url": "https://doi.org/10.1002/1521-4095(200108)13:15<1197::aid-adma1197>3.0.co;2-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "3bfecc61c84a6142",

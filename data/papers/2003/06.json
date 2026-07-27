@@ -1,5 +1,38 @@
 [
  {
+  "id": "fdb145146722da8e",
+  "title": "A study on the excitations of ligand-to-metal charge transfer in complexes Cp2MCl2 (Cp=π-C5H5, M=Ti, Zr, Hf) by density functional theory",
+  "authors": [
+   "Xiaojing Wang",
+   "Chen Lv",
+   "Akira Endou",
+   "Momoji Kubo",
+   "Akira Miyamoto"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2003-06-30",
+  "year": 2003,
+  "doi": "10.1016/s0022-328x(03)00475-3",
+  "url": "https://doi.org/10.1016/s0022-328x(03)00475-3",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Tohoku University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "fc46a81a34c25290",
   "title": "Photocatalytic oxidation of toluene on irradiated TiO2: comparison of degradation performance in humidified air, in water and in water containing a zwitterionic surfactant",
   "authors": [
@@ -69,6 +102,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e5368659f490b860",
+  "title": "Effects of accumulated electrons on the decay kinetics of photogenerated electrons in Pt/TiO2 photocatalyst studied by time-resolved infrared absorption spectroscopy",
+  "authors": [
+   "Akira Yamakata",
+   "Taka‐aki Ishibashi",
+   "Hiroshi Ōnishi"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2003-06-30",
+  "year": 2003,
+  "doi": "10.1016/s1010-6030(03)00217-x",
+  "url": "https://doi.org/10.1016/s1010-6030(03)00217-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Kanagawa Academy of Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "dda6e48aff8b77e6",
   "title": "Photocatalyzed degradation of the biocides chlorothalonil and dichlofluanid over aqueous TiO2 suspensions",
   "authors": [
@@ -94,6 +157,35 @@
    "University of Ioannina"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b42620cd10323a5d",
+  "title": "Plasma-driven catalyst processing packed with photocatalyst for gas-phase benzene decomposition",
+  "authors": [
+   "Hyun‐Ha Kim",
+   "Yong‐Hwan Lee",
+   "Atsushi Ogata",
+   "Shigeru Futamura"
+  ],
+  "journal": "Catalysis Communications",
+  "publisher": "Elsevier BV",
+  "published": "2003-06-30",
+  "year": 2003,
+  "doi": "10.1016/s1566-7367(03)00086-4",
+  "url": "https://doi.org/10.1016/s1566-7367(03)00086-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology",
+   "Pohang University of Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "aa10dc47fe7fce8e",
@@ -568,6 +660,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8344911016c2c864",
+  "title": "Spectral Dependencies of the Quantum Yield of Photochemical Processes on the Surface of Nano/Micro-Particulates of Wide-Band-Gap Metal Oxides. IV. Theoretical Modeling of the Activity and Selectivity of Semiconductor Photocatalysts with Inclusion of a Subsurface Electric Field in the Space Charge Region",
+  "authors": [
+   "Alexei V. Emeline",
+   "А. В. Фролов",
+   "V. K. Ryabchuk",
+   "Nick Serpone"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2003-06-28",
+  "year": 2003,
+  "doi": "10.1021/jp030126t",
+  "url": "https://doi.org/10.1021/jp030126t",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Photocatalysis",
+   "Quantum Yield",
+   "Semiconductors"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Institute of Physics",
+   "Concordia University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5d3a6396cfd37ff3",
   "title": "Abatement of an Azo Dye on Structured C-Nafion/Fe-Ion Surfaces by Photo-Fenton Reactions Leading to Carboxylate Intermediates with a Remarkable Biodegradability Increase of the Treated Solution",
   "authors": [
@@ -687,6 +812,33 @@
    "University of Turin"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6802b7cd2708c0a7",
+  "title": "Titanium dioxide mediated photocatalyzed degradation of a textile dye derivative, acid orange 8, in aqueous suspensions",
+  "authors": [
+   "M. Saquib",
+   "M. Muneer"
+  ],
+  "journal": "Desalination",
+  "publisher": "Elsevier BV",
+  "published": "2003-06-21",
+  "year": 2003,
+  "doi": "10.1016/s0011-9164(03)00303-5",
+  "url": "https://doi.org/10.1016/s0011-9164(03)00303-5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Aligarh Muslim University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "2945add5d6f32895",
@@ -830,6 +982,35 @@
    "Saitama Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "807bf7a2d579cefd",
+  "title": "Photochemical Behavior of Carbon Monoxide in Aqueous Suspension of ZnO",
+  "authors": [
+   "Chul Ho Park",
+   "Woo‐Suk Chang",
+   "Yong‐Sung Kim",
+   "Hyoung-Ryun Park"
+  ],
+  "journal": "Journal of the Korean Chemical Society",
+  "publisher": "Korean Chemical Society",
+  "published": "2003-06-20",
+  "year": 2003,
+  "doi": "10.5012/jkcs.2003.47.3.213",
+  "url": "https://doi.org/10.5012/jkcs.2003.47.3.213",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "ZnO"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "73dc55e7ff9f9fe4",
@@ -1481,6 +1662,27 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d38f4fd17e8964f0",
+  "title": "Toshiba unveils photocatalyst",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2003-06-01",
+  "year": 2003,
+  "doi": "10.1016/s1351-4180(03)00644-5",
+  "url": "https://doi.org/10.1016/s1351-4180(03)00644-5",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d011f50e9434a6f5",
   "title": "JR Tokai rolls into photocatalytic materials business",
   "authors": [],
@@ -1703,6 +1905,33 @@
    "Fuzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "50e19073bdca1d85",
+  "title": "[Raman spectrum research on structure and performance of nanometer TiO2 film photocatalyst supported on stainless steel netweb].",
+  "authors": [
+   "Yongfa Zhu",
+   "Wei Li"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2003-06-01",
+  "year": 2003,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/12953523",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "44efb201a1b74772",

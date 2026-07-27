@@ -1057,6 +1057,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6c256c60295c6bbf",
+  "title": "Introduction of a π−π Interaction at the Active Site of a Cupredoxin: Characterization of the Met16Phe Pseudoazurin Mutant",
+  "authors": [
+   "Sachiko Yanagisawa",
+   "Katsuko Sato",
+   "Makiko Kikuchi",
+   "Takamitsu Kohzuma",
+   "Christopher Dennison"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "2003-05-10",
+  "year": 2003,
+  "doi": "10.1021/bi030030p",
+  "url": "https://doi.org/10.1021/bi030030p",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Ibaraki University",
+   "Newcastle University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c303c4cd04009849",
   "title": "Photocatalytic and Photoelectrochemical Properties of Nitrogen‐Doped Titanium Dioxide",
   "authors": [
@@ -1313,6 +1345,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "98a6e8f839f8084a",
+  "title": "REFORMING OF CARBON DIOXIDE INTO FUEL-LIKE SPECIES WITH PHOTOCATALYST",
+  "authors": [
+   "Akira Nishimura",
+   "Seizo KATO",
+   "Masahiro Hagi",
+   "Nobumasa Sugiura"
+  ],
+  "journal": "Macro review",
+  "publisher": "",
+  "published": "2003-05-05",
+  "year": 2003,
+  "doi": "10.11286/jmr1988.16.24",
+  "url": "https://doi.org/10.11286/jmr1988.16.24",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Mie University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5b66da7f6a9c34d1",
   "title": "Preparation of TiO2 Photocatalyst by Thermal Spraying with Liquid Feedstock",
   "authors": [
@@ -1400,6 +1460,69 @@
    "The University of Osaka"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1082f2790c9c3178",
+  "title": "Influence of Plasma Spray Parameters on Microstructural Characteristics of TiO2 Deposits",
+  "authors": [
+   "Nicolas Keller",
+   "G. Bertrand",
+   "C. Coddet",
+   "C. Meunier"
+  ],
+  "journal": "Thermal spray",
+  "publisher": "",
+  "published": "2003-05-05",
+  "year": 2003,
+  "doi": "10.31399/asm.cp.itsc2003p1403",
+  "url": "https://doi.org/10.31399/asm.cp.itsc2003p1403",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Université de technologie de belfort-montbéliard",
+   "Centre National de la Recherche Scientifique",
+   "Centre de Recherche en Économie et Statistique",
+   "L'Hôpital Nord Franche-Comté"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "63e92a6f1865616d",
+  "title": "Gallium and Indium Hydrazides. Molecular and Electronic Structure of In[N(SiMe 3 )NMe 2 ] 3 and Related Compounds",
+  "authors": [
+   "Bing Luo",
+   "Christopher J. Cramer",
+   "Wayne L. Gladfelter"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2003-05-03",
+  "year": 2003,
+  "doi": "10.1021/ic020693f",
+  "url": "https://doi.org/10.1021/ic020693f",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Minnesota"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "f3c52a32b81ab685",
@@ -1573,6 +1696,51 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cd0a76bcd97a2f32",
+  "title": "Comparative Study of Homogeneous and Heterogeneous Photocatalysts: POM vs TiO2",
+  "authors": [
+   "최원용"
+  ],
+  "journal": "Open Access System for Information Sharing (Pohang University of Science and Technology)",
+  "publisher": "Pohang University of Science and Technology",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "",
+  "url": "https://oasis.postech.ac.kr/handle/2014.oak/73997",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "c61ca751cdfdf7fc",
+  "title": "Koha, Toyoda Gosei use purple LEDs for photocatalyst system",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "10.1016/s1351-4180(03)00536-1",
+  "url": "https://doi.org/10.1016/s1351-4180(03)00536-1",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "bc5205f940c71b95",
   "title": "Influence of carbon-ion irradiation and hydrogen-plasma treatment on photocatalytic properties of titanium dioxide films",
   "authors": [
@@ -1601,6 +1769,36 @@
    "Fukushima Technology Centre (Japan)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ba5c4aba7c68ce44",
+  "title": "Development of Novel Spinel-Type Photocatalysts for Hydrogen Generation by Solar Energy Conversion",
+  "authors": [
+   "Defa Wang",
+   "Jun Hu Wang",
+   "Zhi Zou",
+   "Jinhua Ye"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/msf.423-425.491",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.423-425.491",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tianjin University",
+   "Material (Belgium)",
+   "National Institute for Materials Science"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "b9a0c9fafb6b90dc",
@@ -1663,6 +1861,35 @@
    "L.V. Pisarzhevskii Institute of Physical Chemistry"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b2e88a296518f26d",
+  "title": "低血清コレステロールの中年男子での喫煙と25年死亡率の関係 : 産業でのChicago Heart Association Detection Project.(海外文献紹介)",
+  "authors": [
+   "泰公 長田"
+  ],
+  "journal": "人間と生活環境",
+  "publisher": "",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "10.1016/j.chemosphere.2023.140333",
+  "url": "https://doi.org/10.1016/j.chemosphere.2023.140333",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Pollutants",
+   "Radical Chemistry",
+   "Wastewater"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "afbf4f93160fcdd0",
@@ -1792,6 +2019,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7d90f6eceac05daa",
+  "title": "Modification of Photophysical Properties of WO 3 by Doping Different Metals",
+  "authors": [
+   "Junwang Tang",
+   "Defa Wang",
+   "Zhi Zou",
+   "Jinhua Ye"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "10.4028/www.scientific.net/msf.423-425.163",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.423-425.163",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Doping",
+   "Photocatalysis",
+   "WO3"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Tianjin University",
+   "National Institute for Materials Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6a5734f59643367b",
   "title": "Photocatalysis: Science and Industry",
   "authors": [],
@@ -1839,6 +2100,41 @@
    "Kanagawa Academy of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5faa646d3e7c2b03",
+  "title": "Metal−Ligand Charge-Transfer-Promoted Photoelectronic Bergman Cyclization of Copper Metalloenediynes: Photochemical DNA Cleavage via C-4‘ H-Atom Abstraction",
+  "authors": [
+   "Pedro J. Benites",
+   "Rebecca C. Holmberg",
+   "Diwan S. Rawat",
+   "Brian J. Kraft",
+   "Lee J. Klein",
+   "Dennis G. Peters",
+   "H. Holden Thorp",
+   "Jeffrey M. Zaleski"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "10.1021/ja020939f",
+  "url": "https://doi.org/10.1021/ja020939f",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill",
+   "Indiana University Bloomington"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "5124ca7f3bd59609",
@@ -2104,6 +2400,31 @@
    "Tokyo Medical University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1f88fc0761fd8367",
+  "title": "Hydrothermal Synthesis of Fine NaTaO3 Powder as a Highly Efficient Photocatalyst under UV Light Irradiation",
+  "authors": [
+   "昌弘 吉村",
+   "MASAHIRO YOSHIMURA"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2003-05-01",
+  "year": 2003,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100398837",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "1ee6519385aab18a",

@@ -1,5 +1,63 @@
 [
  {
+  "id": "c07793c94bc57a3a",
+  "title": "Kinetics of irradiated semiconductor catalyzed degradation of picric acid",
+  "authors": [
+   "Diego Oyarzún J.",
+   "J. J. Vora",
+   "Sangita Sharma",
+   "C. C. Patel"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2003-03-31",
+  "year": 2003,
+  "doi": "10.5281/zenodo.5837882",
+  "url": "https://doi.org/10.5281/zenodo.5837882",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4d1ff9818cdfde5f",
+  "title": "Bactericidal and detoxification effects of irradiated semiconductor catalyst, TiO2",
+  "authors": [
+   "C. Srinivasan",
+   "N. Somasundaram"
+  ],
+  "journal": "Current Science",
+  "publisher": "Indian Academy of Sciences",
+  "published": "2003-03-30",
+  "year": 2003,
+  "doi": "",
+  "url": "https://www.researchgate.net/profile/Chockalingam_Srinivasan/publication/237490667_Bactericidal_and_detoxification_effects_of_irradiated_semiconductor_catalyst_TiO2/links/0deec5267244412364000000.pdf",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "3dab89956f68332d",
   "title": "Solar Photo Catalytic Hydrogen Production from water using a dual bed photosystem",
   "authors": [
@@ -142,6 +200,87 @@
    "Shandong University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4fe4e91abda8fc68",
+  "title": "n-Butane and n-Pentane Isomerization over Sulfated Zirconia Catalysts Investigated by In Situ UV-vis-near-IR Diffuse Reflectance Spectroscopy",
+  "authors": [
+   "Rafat Ahmad",
+   "Robert Schlögl",
+   "J. Simon"
+  ],
+  "journal": "Max Planck Digital Library",
+  "publisher": "",
+  "published": "2003-03-25",
+  "year": 2003,
+  "doi": "",
+  "url": "http://hdl.handle.net/11858/00-001M-0000-0011-10A2-9",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "493cde95fd4522ce",
+  "title": "New preparation technique for titanium dioxide photocatalyst and its application to surface treatment",
+  "authors": [
+   "善恵 石川"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2003-03-25",
+  "year": 2003,
+  "doi": "",
+  "url": "https://kumadai.repo.nii.ac.jp/?action=repository_uri&amp;item_id=16382",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "34298774b93fbd82",
+  "title": "Significant effect of iodide addition on water splitting into H2 and O2 over Pt-loaded TiO2 photocatalyst: suppression of backward reaction",
+  "authors": [
+   "Ryu Abe",
+   "Kazuhiro Sayama",
+   "Hironori Arakawa"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "2003-03-25",
+  "year": 2003,
+  "doi": "10.1016/s0009-2614(03)00252-5",
+  "url": "https://doi.org/10.1016/s0009-2614(03)00252-5",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "b17d5b6a4fac565e",
@@ -396,6 +535,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bcce75f4b77b7216",
+  "title": "A Cu2O/TiO2 heterojunction thin film cathode for photoelectrocatalysis",
+  "authors": [
+   "W. Siripala",
+   "Anna Ivanovskaya",
+   "Thomas F. Jaramillo",
+   "Sung‐Hyeon Baeck",
+   "Eric W. McFarland"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "2003-03-15",
+  "year": 2003,
+  "doi": "10.1016/s0927-0248(02)00343-4",
+  "url": "https://doi.org/10.1016/s0927-0248(02)00343-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of California, Santa Barbara"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8b88e4d06884e640",
   "title": "Photocatalytic deactivation of airborne microbial cells on TiO2-loaded plate",
   "authors": [
@@ -450,6 +622,38 @@
    "The University of Tokyo"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "df9cf8ca281c667b",
+  "title": "Preparation and Characterization of Clay Mineral Intercalated Titanium Dioxide Nanoparticles",
+  "authors": [
+   "Károly Mogyorósi",
+   "Imre Dékány",
+   "János H. Fendler"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2003-03-08",
+  "year": 2003,
+  "doi": "10.1021/la025969a",
+  "url": "https://doi.org/10.1021/la025969a",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Clarkson University",
+   "University of Szeged",
+   "Materials Processing (United States)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "9ed8f44f84730881",
@@ -727,6 +931,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0b5233986faeed9e",
+  "title": "Photochemical Reductions of Benzil and Benzoin in the Presence of Triethylamine and TiO 2 Photocatalyst.",
+  "authors": [
+   "Joon Woo Park",
+   "Eun‐Kyung Kim",
+   "Kwanghee Koh Park"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "2003-03-04",
+  "year": 2003,
+  "doi": "10.1002/chin.200309034",
+  "url": "https://doi.org/10.1002/chin.200309034",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Ewha Womans University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6e2c090724b6b95b",
   "title": "Fundamental Study on Durability of Photocatalyst-Plasma-Honeycomb (PPH) Converter",
   "authors": [
@@ -839,6 +1070,40 @@
    "Chosun University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "e069e7ebe8924471",
+  "title": "Photoinduced transformations at semiconductor/metal interfaces: X-ray absorption studies of titania/gold films",
+  "authors": [
+   "Debdutta Lahiri",
+   "Vaidyanathan Subramanian",
+   "Tomohiro Shibata",
+   "Eduardo E. Wolf",
+   "Bruce A. Bunker",
+   "Prashant V. Kamat"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "10.1063/1.1544068",
+  "url": "https://doi.org/10.1063/1.1544068",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Notre Dame"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "d8c8d75c1cb2b572",
@@ -1021,6 +1286,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a9b64aaa9df9a488",
+  "title": "サドル・ノード分岐型I類細胞のギャップ・ジャンクション結合系の時空カオス",
+  "authors": [
+   "学 中野",
+   "広通 横山",
+   "宏 藤井"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "10.1039/d4cc00217b",
+  "url": "https://doi.org/10.1039/d4cc00217b",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Photocatalysis"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a4317708bdc0829b",
   "title": "Photoredox properties of ultrafine rutile TiO2 acicular powder in aqueous 4-chlorophenol, Cu–EDTA and Pb–EDTA solutions",
   "authors": [
@@ -1143,6 +1434,30 @@
    "Tokyo University of Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9c8bb92da30e02a3",
+  "title": "Preparation of Thin Films Composed of Ta-based PHotocatalysts",
+  "authors": [
+   "昌弘 吉村",
+   "MASAHIRO YOSHIMURA"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "",
+  "url": "http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?q_publication_content_number=CTT100398834",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "8e5a41f8bb60e149",
@@ -1429,6 +1744,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "61b37b80f1a6c353",
+  "title": "Heteropolytungstic acid (H3PW12O40)—encapsulated into the titanium-exchanged HY (TiHY) zeolite: a novel photocatalyst for photoreduction of methyl orange",
+  "authors": [
+   "Sambandam Anandan",
+   "Su Young Ryu",
+   "WonJe Cho",
+   "Minjoong Yoon"
+  ],
+  "journal": "Journal of Molecular Catalysis A Chemical",
+  "publisher": "Elsevier BV",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "10.1016/s1381-1169(02)00571-x",
+  "url": "https://doi.org/10.1016/s1381-1169(02)00571-x",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreduction"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Chungnam National University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5708d5224fc2b85d",
   "title": "Photocatalyst TiO2 supported on glass fiber for indoor air purification: effect of NO on the photodegradation of CO and NO2",
   "authors": [
@@ -1601,6 +1945,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "24305c35c42032c4",
+  "title": "Combinatorial electrochemical synthesis and screening of transition metal-doped zinc oxides as water-splitting photocatalysts for hydrogen production.",
+  "authors": [
+   "Thomas F. Jaramillo",
+   "KS Choi",
+   "SH Baeck",
+   "G.D. Stucky",
+   "EW McFarland"
+  ],
+  "journal": "Queensland's institutional digital repository (The University of Queensland)",
+  "publisher": "The University of Queensland",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "",
+  "url": "",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis",
+   "ZnO"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "23cdf1958ea80f09",
   "title": "Products of Ag+, Cu+ and Cu2+ Ion Implantation in the Surface of Polycrystalline Cadmium Sulfide as Photocatalysts for the Oxidation–Reduction Reaction of Methylene Blue with Formaldehyde",
   "authors": [
@@ -1738,6 +2112,33 @@
    "Boreskov Institute of Catalysis"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1193b91f2759e163",
+  "title": "Reduction of carbon dioxide with water under concentrated sunlight using photocatalyst combined with Fe-based catalyst",
+  "authors": [
+   "Guoqing Guan",
+   "Tetsuya Kida",
+   "Akira Yoshida"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2003-03-01",
+  "year": 2003,
+  "doi": "10.1016/s0926-3373(02)00174-1",
+  "url": "https://doi.org/10.1016/s0926-3373(02)00174-1",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "0ea6d8240d2708d1",

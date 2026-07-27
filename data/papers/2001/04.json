@@ -145,6 +145,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d26ae81067bbd07f",
+  "title": "Gas phase ligand field photofragmentation spectroscopy",
+  "authors": [
+   "Ljiljana Puškar",
+   "A. J. Stace"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2001-04-15",
+  "year": 2001,
+  "doi": "10.1063/1.1365098",
+  "url": "https://doi.org/10.1063/1.1365098",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Sussex"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "706c59160f5b3250",
   "title": "Water Splitting into H 2 and O 2 on Alkali Tantalate Photocatalysts ATaO 3 (A = Li, Na, and K)",
   "authors": [
@@ -371,6 +399,40 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "cb3626977ae531fb",
+  "title": "Enhanced Visible Light Conversion Efficiency Using Nanocrystalline WO3 Films",
+  "authors": [
+   "Clara Santato",
+   "M. Ulmann",
+   "Jan Augustyński"
+  ],
+  "journal": "Advanced Materials",
+  "publisher": "",
+  "published": "2001-04-01",
+  "year": 2001,
+  "doi": "10.1002/1521-4095(200104)13:7<511::aid-adma511>3.0.co;2-w",
+  "url": "https://doi.org/10.1002/1521-4095(200104)13:7<511::aid-adma511>3.0.co;2-w",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoelectrolysis",
+   "Photooxidation",
+   "Visible Light",
+   "WO3"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Geneva"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "c46e1f77a71bbba2",
