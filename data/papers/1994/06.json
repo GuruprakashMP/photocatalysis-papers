@@ -132,6 +132,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f170abfeb6b08be3",
+  "title": "Photodecolorization of Methyl Orange Using Silver Ion Modified TiO2 as Photocatalyst",
+  "authors": [
+   "Lung-Chyuan Chen",
+   "Tse‐Chuan Chou"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1021/ie00030a002",
+  "url": "https://doi.org/10.1021/ie00030a002",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "df2c3225e80df2ab",
   "title": "A Photocatalytic Approach for the Reductive Decolorization of Textile Azo Dyes in Colloidal Semiconductor Suspensions",
   "authors": [
@@ -302,6 +327,65 @@
   "added": "2026-07-24"
  },
  {
+  "id": "32c6357d9fb770dd",
+  "title": "Photochemical Reduction of Carbon Dioxide to Methanol Using ZnS Microcrystallite as a Photocatalyst in the Presence of Methanol Dehydrogenase",
+  "authors": [
+   "Susumu Kuwabata",
+   "Kazufumi Nishida",
+   "Ryo Tsuda",
+   "Hiroshi Inoue",
+   "Hiroshi Yoneyama"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1149/1.2054952",
+  "url": "https://doi.org/10.1149/1.2054952",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "226c0e0a7eb1a18b",
+  "title": "Vacuum-ultraviolet (VUV) photolysis of water: Mineralization of atrazine",
+  "authors": [
+   "Mónica C. González",
+   "André M. Braun",
+   "Alessandra Bianco Prevot",
+   "Ezio Pelizzetti"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0045-6535(94)90180-5",
+  "url": "https://doi.org/10.1016/0045-6535(94)90180-5",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie",
+   "University of Turin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "1d0ca25f434ed8f4",
   "title": "The effect of the conditions of the photocatalytic carbonylation of pentane catalyzed by the Rh2Cl2(CO)4-PMe3 system on the yield of C6-aldehyde",
   "authors": [
@@ -357,5 +441,31 @@
   "relevance_score": 91,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "01c075652616e18d",
+  "title": "Electrical communication of redox proteins by means of electron relay-tethered polymers in photochemical, electrochemical and photoelectrochemical systems",
+  "authors": [
+   "Itamar Willner",
+   "Bilha Willner"
+  ],
+  "journal": "Reactive Polymers",
+  "publisher": "Elsevier BV",
+  "published": "1994-06-01",
+  "year": 1994,
+  "doi": "10.1016/0923-1137(94)90124-4",
+  "url": "https://doi.org/10.1016/0923-1137(94)90124-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Hebrew University of Jerusalem"
+  ],
+  "added": "2026-07-27"
  }
 ]

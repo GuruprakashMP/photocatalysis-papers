@@ -85,6 +85,64 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2130bf4bdc5aa1c2",
+  "title": "Cotton, Fleece, and Beads",
+  "authors": [
+   "Janet Raloff"
+  ],
+  "journal": "Science News",
+  "publisher": "Society for Science and the Public",
+  "published": "1993-05-22",
+  "year": 1993,
+  "doi": "10.2307/3977293",
+  "url": "https://doi.org/10.2307/3977293",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "828b69947f9c018d",
+  "title": "Photoreduction of iron(III) in marine mineral aerosol solutions",
+  "authors": [
+   "Xiaorong Zhu",
+   "Joseph M. Prospero",
+   "D. L. Savoie",
+   "Frank J. Millero",
+   "Rod G. Zika",
+   "E. S. Saltzman"
+  ],
+  "journal": "Journal of Geophysical Research Atmospheres",
+  "publisher": "American Geophysical Union",
+  "published": "1993-05-20",
+  "year": 1993,
+  "doi": "10.1029/93jd00202",
+  "url": "https://doi.org/10.1029/93jd00202",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Division of Ocean Sciences"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5342a9f7501c2d72",
   "title": "Gas phase photocatalytic degradation on TiO{sub 2} pellets of volatile chlorinated organic compounds from a soil vapor extraction well",
   "authors": [
@@ -178,6 +236,35 @@
    "Ghent University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9f05ed15beb694d8",
+  "title": "ChemInform Abstract: Effects of Altervalent Cation Doping of TiO2 on Its Performance as a Photocatalyst for Water Cleavage.",
+  "authors": [
+   "Kyriaki E. Karakitsou",
+   "Xenophon E. Verykios"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1993-05-11",
+  "year": 1993,
+  "doi": "10.1002/chin.199319025",
+  "url": "https://doi.org/10.1002/chin.199319025",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Patras"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "e38cbb61f592ef57",
@@ -484,6 +571,37 @@
    "Nikon (Japan)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "fed39bd0da03fd0b",
+  "title": "Alpha-keto acids are novel siderophores in the genera Proteus, Providencia, and Morganella and are produced by amino acid deaminases",
+  "authors": [
+   "Hartmut Drechsel",
+   "Andrea Thieken",
+   "Rolf Reissbrodt",
+   "G. Jung",
+   "G. Winkelmann"
+  ],
+  "journal": "Journal of Bacteriology",
+  "publisher": "American Society for Microbiology",
+  "published": "1993-05-01",
+  "year": 1993,
+  "doi": "10.1128/jb.175.9.2727-2733.1993",
+  "url": "https://doi.org/10.1128/jb.175.9.2727-2733.1993",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Tübingen"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "eb18e1fc55803780",
