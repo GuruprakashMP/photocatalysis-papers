@@ -24,5 +24,83 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "49a7c793d6e24110",
+  "title": "ChemInform Abstract: CORRELATION OF PHOTOCURRENT‐VOLTAGE CURVES WITH FLAT‐BAND POTENTIAL FOR STABLE PHOTOELECTRODES FOR THE PHOTOELECTROLYSIS OF WATER",
+  "authors": [
+   "Jeffrey M. Bolts",
+   "Mark S. Wrighton"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1977-02-22",
+  "year": 1977,
+  "doi": "10.1002/chin.197708021",
+  "url": "https://doi.org/10.1002/chin.197708021",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1b8bdf6f4956c5f6",
+  "title": "Sensitized photooxidation of low spin horseradish peroxidase",
+  "authors": [
+   "Yeou-Jan Kang",
+   "John D. Spikes"
+  ],
+  "journal": "Biochemical and Biophysical Research Communications",
+  "publisher": "Elsevier BV",
+  "published": "1977-02-01",
+  "year": 1977,
+  "doi": "10.1016/0006-291x(77)91640-0",
+  "url": "https://doi.org/10.1016/0006-291x(77)91640-0",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photooxidation"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Utah"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "13b0169cefab7680",
+  "title": "Direct generation of superoxide anions by flash photolysis of human oxyhemoglobin.",
+  "authors": [
+   "L Steven Demma",
+   "James M. Salhany"
+  ],
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1977-02-01",
+  "year": 1977,
+  "doi": "10.1016/s0021-9258(17)40644-2",
+  "url": "https://doi.org/10.1016/s0021-9258(17)40644-2",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "ROS",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "University of Nebraska–Lincoln"
+  ],
+  "added": "2026-07-27"
  }
 ]

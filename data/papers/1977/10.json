@@ -79,6 +79,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f4a4fd8a9aa724bf",
+  "title": "Photolysis of Water and Photoreduction of Nitrogen on Titanium Dioxide",
+  "authors": [
+   "G. N. Schrauzer",
+   "T. D. Guth"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1977-10-01",
+  "year": 1977,
+  "doi": "10.1021/ja00464a015",
+  "url": "https://doi.org/10.1021/ja00464a015",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoreduction",
+   "TiO2",
+   "Water Photolysis"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a97105c8f74659fe",
   "title": "Characterization of n‐Type Semiconducting Indium Phosphide Photoelectrodes: Stabilization to Photoanodic Dissolution in Aqueous Solutions of Telluride and Ditelluride Ions",
   "authors": [
@@ -162,5 +190,68 @@
    "Massachusetts Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3b3fd7db8e9ee226",
+  "title": "Photoelectrolysis of Water in Sunlight with Sensitized Semiconductor Electrodes",
+  "authors": [
+   "Amal K. Ghosh",
+   "H. Paul Maruska"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1977-10-01",
+  "year": 1977,
+  "doi": "10.1149/1.2133104",
+  "url": "https://doi.org/10.1149/1.2133104",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photoelectrolysis",
+   "Semiconductors",
+   "Visible Light"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "ExxonMobil (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "27ad0fb07c603f41",
+  "title": "Photoelectrochemical Properties of the Lead Electrode during Anodic Oxidation in Sulfuric Acid Solution",
+  "authors": [
+   "D. Pavlov",
+   "S. Zanova",
+   "G Papazov"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1977-10-01",
+  "year": 1977,
+  "doi": "10.1149/1.2133105",
+  "url": "https://doi.org/10.1149/1.2133105",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photoelectrochemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "Bulgarian Academy of Sciences",
+   "Institute of Electrochemistry and Energy Systems"
+  ],
+  "added": "2026-07-27"
  }
 ]
