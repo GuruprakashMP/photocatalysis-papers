@@ -30,9 +30,13 @@ SEARCHES = (
     "ligand to metal charge transfer",
 )
 
-# Transparent-peer-review reports get their own DOIs (e.g.
-# 10.1039/d3sc02440g/v1/review1) and OpenAlex serves them as works.
-_PEER_REVIEW_DOI = re.compile(r"/v\d+/review", re.IGNORECASE)
+# Transparent-peer-review artifacts (review reports, decision letters,
+# author responses) get their own DOIs — e.g. 10.1039/d3sc02440g/v1/review1,
+# .../v3/decision1, .../v2/response1 — and OpenAlex serves them as works.
+# Keep the label list explicit: a bare /v\d+/ also matches volume-numbered
+# DOI paths of real journals (e.g. 10.18520/cs/v106/i4/518-527).
+_PEER_REVIEW_DOI = re.compile(r"/v\d+/(review|decision|response)\d*$",
+                              re.IGNORECASE)
 
 
 @register

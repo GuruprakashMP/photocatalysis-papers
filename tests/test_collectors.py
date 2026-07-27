@@ -31,6 +31,11 @@ class TestOpenAlexGuards(unittest.TestCase):
                  doi="10.1039/d3sc02440g/v1/review1")
         self.assertIsNone(work_to_record(w, "openalex"))
 
+    def test_decision_letter_and_author_response_dropped(self):
+        for doi in ("10.1039/d4sc00692e/v3/decision1",
+                    "10.1039/d5cc05586e/v2/response1"):
+            self.assertIsNone(work_to_record(work(doi=doi), "openalex"))
+
     def test_osti_record_with_foreign_doi_dropped(self):
         # Corrupted OpenAlex merge: OSTI metadata carrying another
         # publisher's DOI (and that paper's abstract).
