@@ -282,6 +282,68 @@
   "added": "2026-07-24"
  },
  {
+  "id": "97bcadd3a543341c",
+  "title": "Photodegradation of pesticides .1. Photolysis rates and half‐life of acylanilides and their major metabolites in water",
+  "authors": [
+   "Filippo M. Pirisi",
+   "Paolo Cabras",
+   "Vincenzo L. Garau",
+   "Marinella Melis",
+   "Alberto Angioni",
+   "Diego Bullita"
+  ],
+  "journal": "Toxicological & Environmental Chemistry Reviews",
+  "publisher": "Taylor & Francis",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1080/02772249609358336",
+  "url": "https://doi.org/10.1080/02772249609358336",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Cagliari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "97471b69df2c85d3",
+  "title": "Surface Structures of 4-Chlorocatechol Adsorbed on Titanium Dioxide",
+  "authors": [
+   "Scot T. Martin",
+   "Janet M. Kesselman",
+   "David Park",
+   "Nathan S. Lewis",
+   "Michael R. Hoffmann"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1021/es950872e",
+  "url": "https://doi.org/10.1021/es950872e",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "633cc9dcf9d6fc35",
   "title": "Photoredox decomposition of tin(II), lead(II), antimony(III) and bismuth(III) iodide complexes in solution",
   "authors": [
@@ -310,6 +372,27 @@
    "Veszprémi Érseki Hittudományi Fõiskola"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "34604f882467bb66",
+  "title": "96/03995 Efficient photocatalysts for the reduction of aqueous carbonate and CR(VI)",
+  "authors": [],
+  "journal": "Fuel and Energy Abstracts",
+  "publisher": "Elsevier BV",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1016/0140-6701(96)82282-x",
+  "url": "https://doi.org/10.1016/0140-6701(96)82282-x",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "31c874d2ca0f2824",
@@ -374,5 +457,37 @@
    "United Technologies Research Center"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2b9dcdb52d48f3eb",
+  "title": "TiO2 by XPS",
+  "authors": [
+   "Ulrike Diebold",
+   "Theodore E. Madey"
+  ],
+  "journal": "Surface Science Spectra",
+  "publisher": "American Institute of Physics",
+  "published": "1996-07-01",
+  "year": 1996,
+  "doi": "10.1116/1.1247794",
+  "url": "https://doi.org/10.1116/1.1247794",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Doping",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Tulane University",
+   "Rutgers, The State University of New Jersey"
+  ],
+  "added": "2026-07-27"
  }
 ]

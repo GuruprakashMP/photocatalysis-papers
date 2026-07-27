@@ -1,5 +1,32 @@
 [
  {
+  "id": "d858ba532566aa53",
+  "title": "Disposal of TNT wastes with TiO_2 photocatalyst powder under UV radiation(I)",
+  "authors": [
+   "Youichi Sano",
+   "Nishi Ken-ichi",
+   "Masaru Matsumoto",
+   "Shunichi Yoshinaga",
+   "Toshiyuki Nagaishi"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "1997-04-30",
+  "year": 1997,
+  "doi": "",
+  "url": "http://ci.nii.ac.jp/naid/10002569241",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9deca8060b9111f3",
   "title": "Role of Water in the Photocatalytic Degradation of Trichloroethylene Vapor on TiO 2 Films",
   "authors": [
@@ -591,6 +618,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b2382ca38c6e56cc",
+  "title": "X-Ray Absorption Spectroscopic Studies on the Iridium(III) Complexes",
+  "authors": [
+   "Sung‐Ho Hwang",
+   "Jin‐Ho Choy",
+   "C. S. CHIN",
+   "Moonhyun Oh",
+   "H. Lee"
+  ],
+  "journal": "Journal de Physique IV (Proceedings)",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-04-01",
+  "year": 1997,
+  "doi": "10.1051/jp4/1997135",
+  "url": "https://doi.org/10.1051/jp4/1997135",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Seoul National University",
+   "Sogang University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8de4cbd13d722e70",
   "title": "Trichloroethylene-Promoted Photocatalytic Oxidation of Air Contaminants",
   "authors": [
@@ -707,6 +766,71 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5c362d41d739e0b9",
+  "title": "Electrochemical Production of Hydroxyl Radical at Polycrystalline Nb-Doped TiO 2 Electrodes and Estimation of the Partitioning between Hydroxyl Radical and Direct Hole Oxidation Pathways",
+  "authors": [
+   "Janet M. Kesselman",
+   "O. Weres",
+   "Nathan S. Lewis",
+   "Michael R. Hoffmann"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1997-04-01",
+  "year": 1997,
+  "doi": "10.1021/jp962669r",
+  "url": "https://doi.org/10.1021/jp962669r",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Photocatalysis",
+   "Pollutants",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "California Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "4083f86924158a31",
+  "title": "XAFS Studies on the Metal Ion (Cu, Ag) Photocatalysts Prepared Within Zeolite Cavities Using an Ion-Exchange Method",
+  "authors": [
+   "Hiromi Yamashita",
+   "Masaya Matsuoka",
+   "Masakazu Anpo",
+   "M. Che"
+  ],
+  "journal": "Journal de Physique IV (Proceedings)",
+  "publisher": "Springer Science+Business Media",
+  "published": "1997-04-01",
+  "year": 1997,
+  "doi": "10.1051/jp4:1997292",
+  "url": "https://doi.org/10.1051/jp4:1997292",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Osaka Prefecture University",
+   "Centre National de la Recherche Scientifique",
+   "Sorbonne Université",
+   "Laboratoire de Réactivité de Surface"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "36d7e09aac2a46a8",
   "title": "Relationship Between the Local Structures of Titanium Oxide Photocatalysts and their Reactivities — XAFS, UV, Photoluminescence and Photoreaction Investigations",
   "authors": [
@@ -738,6 +862,35 @@
    "Osaka Prefecture University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "30e48a326b476e84",
+  "title": "Absorption and Luminescence Spectroscopy of MnO 4 2 - -Doped Crystals of BaSO 4",
+  "authors": [
+   "Thomas C. Brunold",
+   "Hans U. Güdel"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1997-04-01",
+  "year": 1997,
+  "doi": "10.1021/ic9611711",
+  "url": "https://doi.org/10.1021/ic9611711",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Quantum Yield"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "1daf7a9d42c7affb",
@@ -793,6 +946,39 @@
    "Tokyo Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "092f0b13e35b7a7b",
+  "title": "X-ray Structure Determination and Characterization of the Pseudomonas aeruginosa Azurin Mutant Met121Glu ,",
+  "authors": [
+   "Göran Karlsson",
+   "Li‐Chu Tsai",
+   "Herbert Nar",
+   "Joann Sanders–Loehr",
+   "Nicklas Bonander",
+   "Vratislav Langer",
+   "Lennart Sjölin"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "1997-04-01",
+  "year": 1997,
+  "doi": "10.1021/bi962416o",
+  "url": "https://doi.org/10.1021/bi962416o",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chalmers University of Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "08bd9941d59a874f",

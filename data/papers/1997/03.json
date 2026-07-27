@@ -1,5 +1,37 @@
 [
  {
+  "id": "9352aaebceee7709",
+  "title": "Iron Redox Cycling in Surface Waters: Effects of Humic Substances and Light",
+  "authors": [
+   "Bettina M. Voelker",
+   "François M. M. Morel",
+   "Barbara Sulzberger"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "1997-03-27",
+  "year": 1997,
+  "doi": "10.1021/es9604018",
+  "url": "https://doi.org/10.1021/es9604018",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "ROS",
+   "Simulated Sunlight"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Princeton University",
+   "Swiss Federal Institute of Aquatic Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f9fd574b178f6a26",
   "title": "ChemInform Abstract: Photoelectrochemical Doping of TiO2 Particles and the Effect of Charge Carrier Density on the Photocatalytic Activity of Microporous Semiconductor Electrode Films.",
   "authors": [
@@ -227,6 +259,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d5cbabaca2679730",
+  "title": "Optical and photoinduced electron transfer in ion pairs of coordination compounds",
+  "authors": [
+   "Roland Billing"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "1997-03-01",
+  "year": 1997,
+  "doi": "10.1016/s0010-8545(96)01288-x",
+  "url": "https://doi.org/10.1016/s0010-8545(96)01288-x",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photoinduced ET"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Leipzig University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c777a51a0e9b0ee9",
   "title": "Heterogeneous photocatalysis XV. Mechanistic aspects of cadmium sulfide-catalyzed photoaddition of olefins to Schiff bases",
   "authors": [
@@ -400,6 +457,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "62dc5fb8ebfafd74",
+  "title": "Properties of photocatalysts with tunnel structures: formation of a surface lattice O− radical by the UV irradiation of BaTi4O9 with a pentagonal-prism tunnel structure",
+  "authors": [
+   "M. Kohno",
+   "S. Ogura",
+   "Kazunori Sato",
+   "Yo Inoue"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "1997-03-01",
+  "year": 1997,
+  "doi": "10.1016/s0009-2614(97)00061-4",
+  "url": "https://doi.org/10.1016/s0009-2614(97)00061-4",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Nagaoka University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "60baa9fbf4f1ea5c",
   "title": "Manifestation of peripheral group effects in photoredox reactions of complexes",
   "authors": [
@@ -449,6 +535,36 @@
    "University of Missouri"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "485b5f3886ebdd90",
+  "title": "Sol−Gel Template Synthesis of Semiconductor Nanostructures",
+  "authors": [
+   "Brinda B. Lakshmi",
+   "Peter K. Dorhout",
+   "Charles R. Martin"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "1997-03-01",
+  "year": 1997,
+  "doi": "10.1021/cm9605577",
+  "url": "https://doi.org/10.1021/cm9605577",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2",
+   "ZnO"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "3ea23d6a978e4308",

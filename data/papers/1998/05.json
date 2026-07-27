@@ -1,5 +1,38 @@
 [
  {
+  "id": "ef29ded9ad2b7b36",
+  "title": "Vacuum-UV (172 nm) Actinometry. The Quantum Yield of the Photolysis of Water",
+  "authors": [
+   "Gernot Heit",
+   "Annette Neuner",
+   "Pierre-Yves Saugy",
+   "André M. Braun"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "1998-05-27",
+  "year": 1998,
+  "doi": "10.1021/jp980130i",
+  "url": "https://doi.org/10.1021/jp980130i",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Quantum Yield",
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8e8daf2473d7a74d",
   "title": "Photocatalytic Reduction of Nitro Organics over Illuminated Titanium Dioxide: Role of the TiO 2 Surface",
   "authors": [
@@ -28,6 +61,71 @@
    "University of North Carolina at Chapel Hill"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "5fb8eaa42d1b7a94",
+  "title": "Single Crystal Polarized Spectroscopy of Manganese Superoxide Dismutase and Electronic Structure of the Active Site Metal Complex",
+  "authors": [
+   "Mei M. Whittaker",
+   "Christopher A. Ekberg",
+   "Ross A. Edwards",
+   "Edward N. Baker",
+   "Geoffrey B. Jameson",
+   "James W. Whittaker"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1998-05-19",
+  "year": 1998,
+  "doi": "10.1021/jp980775i",
+  "url": "https://doi.org/10.1021/jp980775i",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Excited States",
+   "LMCT",
+   "ROS"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "University of Auckland",
+   "Massey University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ed638b950fa77bfe",
+  "title": "Early Events in Decatungstate Photocatalyzed Oxidations: A Nanosecond Laser Transient Absorbance Reinvestigation",
+  "authors": [
+   "Dean C. Duncan",
+   "Marye Anne Fox"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "1998-05-15",
+  "year": 1998,
+  "doi": "10.1021/jp980723t",
+  "url": "https://doi.org/10.1021/jp980723t",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "LMCT",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "8eca9367cc8e9b95",
@@ -738,6 +836,37 @@
    "University of Ferrara"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0d6d056f13682872",
+  "title": "Photoelectrochemical Oxidation of Formate Ions on Nickel−Titanium Dioxide Nanocomposite Electrodes: Unusually High “Current Doubling” Yields and Manifestation of a Site Proximity Effect",
+  "authors": [
+   "Norma R. de Tacconi",
+   "Hongjian Wenren",
+   "Darrell McChesney",
+   "Krishnan Rajeshwar"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "1998-05-01",
+  "year": 1998,
+  "doi": "10.1021/la9709305",
+  "url": "https://doi.org/10.1021/la9709305",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "The University of Texas at Arlington"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "003e288ab25370b1",

@@ -86,6 +86,43 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8b1d497d3d6a65d3",
+  "title": "Iron(III) Phthalocyanine-Modified Titanium Dioxide: A Novel Photocatalyst for the Enhanced Photodegradation of Organic Pollutants",
+  "authors": [
+   "Ranjit T. Koodali",
+   "Itamar Willner",
+   "Stefan H. Bossmann",
+   "André M. Braun"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1998-10-28",
+  "year": 1998,
+  "doi": "10.1021/jp982694s",
+  "url": "https://doi.org/10.1021/jp982694s",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "Radical Chemistry",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "Hebrew University of Jerusalem",
+   "DVGW-Forschungsstelle am Engler-Bunte-Institut des Karlsruher Instituts für Technologie"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c5d7abd0777ef31c",
   "title": "Photocatalytic decomposition of DMMP on titania",
   "authors": [
@@ -608,6 +645,37 @@
    "Lanzhou University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2cf566e69ec9b461",
+  "title": "Electrical Characterization of the Semiconducting Properties of n ‐ TiO2",
+  "authors": [
+   "Marcelo Farah",
+   "François Lapicque",
+   "M. Matlosz"
+  ],
+  "journal": "Journal of The Electrochemical Society",
+  "publisher": "Institute of Physics",
+  "published": "1998-10-01",
+  "year": 1998,
+  "doi": "10.1149/1.1838841",
+  "url": "https://doi.org/10.1149/1.1838841",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Génie Chimique"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "144bade2e36bc435",

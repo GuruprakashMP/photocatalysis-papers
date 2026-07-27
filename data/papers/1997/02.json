@@ -29,6 +29,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "dcd06313b970a083",
+  "title": "Excited-State Distortions in Bis[hydrotris(3,5-dimethyl-1-pyrazolyl)borato]copper(II) Determined from Resonance Raman Intensities and a Normal Coordinate Analysis",
+  "authors": [
+   "Jeffrey L. Wootton",
+   "Jeffrey I. Zink",
+   "Guillermo Díaz Fleming",
+   "Marcelo Campos Vallette"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1997-02-01",
+  "year": 1997,
+  "doi": "10.1021/ic961006l",
+  "url": "https://doi.org/10.1021/ic961006l",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of California, Los Angeles",
+   "Universidad de Playa Ancha de Ciencias de la Educación",
+   "University of Chile"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a2e9e093c8a47a23",
   "title": "Studies of photoredox reactions on nanosize semiconductors",
   "authors": [
@@ -386,6 +420,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3a1c1a6837a7cc05",
+  "title": "Designed supramolecular assemblies for biosensors and photoactive devices. LDRD final report",
+  "authors": [
+   "X.Z. Song",
+   "John A. Shelnutt",
+   "J. Hobbs",
+   "Joseph Cesarano"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-02-01",
+  "year": 1997,
+  "doi": "10.2172/461263",
+  "url": "https://doi.org/10.2172/461263",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "1905bd579d7d0cb4",
   "title": "Electron Spin Resonance Study of Radicals Produced by Photoirradiation on Quantized and Bulk ZnS Particles",
   "authors": [
@@ -413,5 +474,31 @@
    "Nagaoka University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "01e8510df3f84f69",
+  "title": "Surface Modification and Surface Structure of Pt/CdS Photocatalyst",
+  "authors": [
+   "Huqin Zhang",
+   "Kaixun Chen",
+   "Zhengsheng Jing"
+  ],
+  "journal": "Chinese Journal of Applied Chemistry",
+  "publisher": "Science China Press",
+  "published": "1997-02-01",
+  "year": 1997,
+  "doi": "10.3724/j.issn.1000-0518.1997.1.98100",
+  "url": "https://doi.org/10.3724/j.issn.1000-0518.1997.1.98100",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-27"
  }
 ]

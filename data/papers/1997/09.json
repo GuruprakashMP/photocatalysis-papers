@@ -25,6 +25,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3101ee28a21b0188",
+  "title": "Güneş Işığıyla Deniz Suyundan hidrojen Üretilmesi",
+  "authors": [
+   "Zafer Ayvaz"
+  ],
+  "journal": "Ekoloji",
+  "publisher": "Foundation for Environmental Protection and Research",
+  "published": "1997-09-30",
+  "year": 1997,
+  "doi": "",
+  "url": "http://www.ekolojidergisi.com/article/gunes-isigiyla-deniz-suyundan-hidrojen-uretilmesi-4072",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "62784c9b6e6919bb",
   "title": "Safety and Environmental Effects of Azo Compounds",
   "authors": [
@@ -102,6 +128,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0a980c29b33b1828",
+  "title": "Excited-state energies and distortions of d transition metal tetraoxo complexes: A density functional study",
+  "authors": [
+   "A. Claudia Stückl",
+   "Claude Daul",
+   "H. U. Güdel"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1997-09-22",
+  "year": 1997,
+  "doi": "10.1063/1.474821",
+  "url": "https://doi.org/10.1063/1.474821",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 63,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "bd050560975aab23",
   "title": "Photocatalytic Decomposition of Water into H2 and O2 over Novel Photocatalyst K3Ta3Si2O13 with Pillared Structure Consisting of Three TaO6 Chains",
   "authors": [
@@ -152,6 +208,38 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b749e47d499bbdc7",
+  "title": "Phenol decomposition using M+/TiO2 photocatalysts supported by the sol-gel technique on glass fibres",
+  "authors": [
+   "Vlasta Brezová",
+   "Alžbeta Blažková",
+   "Ľ. Karpinský",
+   "J. Grošková",
+   "Bohuslava Havlı́nová",
+   "Vladimı́r Jorı́k",
+   "Michal Čeppan"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1997-09-01",
+  "year": 1997,
+  "doi": "10.1016/s1010-6030(97)00121-4",
+  "url": "https://doi.org/10.1016/s1010-6030(97)00121-4",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Slovak University of Technology in Bratislava"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "a5efe251ae8d8a7a",
@@ -343,6 +431,88 @@
    "The University of Osaka"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "69b8bc3bb3b5bfa1",
+  "title": "Luminescent Tetranuclear Copper(I) and Silver(I) Chalcogenides",
+  "authors": [
+   "Vivian Wing‐Wah Yam",
+   "Kenneth Kam‐Wing Lo"
+  ],
+  "journal": "Comments on Inorganic Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "1997-09-01",
+  "year": 1997,
+  "doi": "10.1080/02603599708032737",
+  "url": "https://doi.org/10.1080/02603599708032737",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "67d7f0b71aaee501",
+  "title": "Mixed-metal, multielectron photocatalysts for solar energy conversion. Final progress report, September 1, 1994--December 31, 1996",
+  "authors": [
+   "D.P. Rillema"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1997-09-01",
+  "year": 1997,
+  "doi": "10.2172/527883",
+  "url": "https://doi.org/10.2172/527883",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "5e95db1aa5b71322",
+  "title": "Excited-state absorption and laser potential of Mn^6+-doped BaSO_4 crystals",
+  "authors": [
+   "Thomas C. Brunold",
+   "Hans U. Güdel",
+   "S. Kück",
+   "G. Hüber"
+  ],
+  "journal": "Journal of the Optical Society of America B",
+  "publisher": "Optica Publishing Group",
+  "published": "1997-09-01",
+  "year": 1997,
+  "doi": "10.1364/josab.14.002373",
+  "url": "https://doi.org/10.1364/josab.14.002373",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Bern",
+   "Universität Hamburg"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "31915208645c3710",

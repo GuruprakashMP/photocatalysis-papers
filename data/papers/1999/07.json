@@ -113,6 +113,63 @@
   "added": "2026-07-24"
  },
  {
+  "id": "79aabad890e79e6c",
+  "title": "Preparation of Heterogeneous Photocatalyst (TiO 2 /Alumina) by Metallo-Organic Chemical Vapor Deposition",
+  "authors": [
+   "Lecheng Lei",
+   "Hiu Ping Chu",
+   "Xijun Hu",
+   "Po‐Lock Yue"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1999-07-22",
+  "year": 1999,
+  "doi": "10.1021/ie980677j",
+  "url": "https://doi.org/10.1021/ie980677j",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Hong Kong University of Science and Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "7167a674e463f6b7",
+  "title": "X-ray Absorption Spectroscopic Study of Chemically and Electrochemically Li Ion Extracted Li y Co 0.85 Al 0.15 O 2 Compounds",
+  "authors": [
+   "Min Gyu Kim",
+   "Chul Hyun Yo"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "1999-07-21",
+  "year": 1999,
+  "doi": "10.1021/jp990753b",
+  "url": "https://doi.org/10.1021/jp990753b",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Yonsei University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "b8b7c4c4aed7fe2c",
   "title": "ChemInform Abstract: Donor—Acceptor Binary Photocatalysis System Illustrated by the Intramolecular Cyclization of a Cyclopropanone Acetal Tethered to Cyclohexen‐2‐one.",
   "authors": [
@@ -174,6 +231,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "69013636e1380fe0",
+  "title": "Structure and Spectroscopy of Metallo-Lactamase Active Sites",
+  "authors": [
+   "Hillary S. R. Gilson",
+   "Morris Krauss"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1999-07-16",
+  "year": 1999,
+  "doi": "10.1021/ja990459x",
+  "url": "https://doi.org/10.1021/ja990459x",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Advanced Bioscience Laboratories (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "312ab87f77a6956d",
   "title": "Enhanced Photocatalysis in a Pilot Laminar Falling Film Slurry Reactor",
   "authors": [
@@ -200,6 +285,35 @@
    "University of Hong Kong"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7a863f0e7a4be8f8",
+  "title": "Vibrational and low-energy optical spectra of the square-planar Pd 3 ( P S 4 ) 2 thiophosphate",
+  "authors": [
+   "C. Calareso",
+   "V. Grasso",
+   "L. Silipigni"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "1999-07-15",
+  "year": 1999,
+  "doi": "10.1103/physrevb.60.2333",
+  "url": "https://doi.org/10.1103/physrevb.60.2333",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Istituto Nazionale per la Fisica della Materia"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6ba3f8e985b795a1",
@@ -322,6 +436,41 @@
    "University of Shiga Prefecture"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "f01864d9068c764d",
+  "title": "Competition between Intraligand Triplet Excited State and LMCT on the Thermal Quenching in β-Diketonate Complexes of Europium(III)",
+  "authors": [
+   "Laura S. Villata",
+   "Ezequiel Wolcan",
+   "M. Feliz",
+   "Alberto L. Capparelli"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "1999-07-01",
+  "year": 1999,
+  "doi": "10.1021/jp983714t",
+  "url": "https://doi.org/10.1021/jp983714t",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "LMCT",
+   "Photoinduced ET"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Consejo Nacional de Investigaciones Científicas y Técnicas",
+   "Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas",
+   "Universidad Nacional de La Plata"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "edd70504679d9ae8",
@@ -616,6 +765,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6e93e0bbe5cf78af",
+  "title": "Enhancement of heat transfer with liquid-vapor phase change by photo-induced hydrophilicity",
+  "authors": [
+   "Yasuyuki Takata",
+   "Katsunori Tanaka",
+   "Kazuyoshi Kaijima",
+   "Takehiro ITO",
+   "Toshiya Watanabe",
+   "Mitsuhide Shimohigoshi"
+  ],
+  "journal": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+  "publisher": "Office of Scientific and Technical Information",
+  "published": "1999-07-01",
+  "year": 1999,
+  "doi": "",
+  "url": "http://www.osti.gov/scitech/biblio/20002660",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6b47c1a64cc26b86",
   "title": "Photocatalytic Oxidation of Ethylene to CO2 and H2O on Ultrafine Powdered TiO2 Photocatalysts in the Presence of O2 and H2O",
   "authors": [
@@ -704,6 +881,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "5cba1964b54014cf",
+  "title": "Investigation of the Photo-Assisted Adsorption of Gases on Irradiated Titanium Dioxide",
+  "authors": [
+   "N. Bredemeyer",
+   "D. Hesse"
+  ],
+  "journal": "Chemical Engineering & Technology",
+  "publisher": "Wiley",
+  "published": "1999-07-01",
+  "year": 1999,
+  "doi": "10.1002/(sici)1521-4125(199907)22:7<580::aid-ceat580>3.0.co;2-5",
+  "url": "https://doi.org/10.1002/(sici)1521-4125(199907)22:7<580::aid-ceat580>3.0.co;2-5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Leibniz University Hannover"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5a933ba05c2b601c",
   "title": "Design, modelling and experimentation of a new large-scale photocatalytic reactor for water treatment",
   "authors": [
@@ -756,6 +961,39 @@
    "Toyohashi University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3d9f60ea67fc6854",
+  "title": "Effects of Mordenite Support on Photodegradation of Gaseous Organic Compounds over TiO2 Photocatalyst",
+  "authors": [
+   "Norihiko Takeda",
+   "Tsukasa Torimoto",
+   "Hiroshi Yoneyama"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1999-07-01",
+  "year": 1999,
+  "doi": "10.1246/bcsj.72.1615",
+  "url": "https://doi.org/10.1246/bcsj.72.1615",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Photogenerated Carriers",
+   "Photooxidation",
+   "TiO2"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "393cbbcd9a974b6b",

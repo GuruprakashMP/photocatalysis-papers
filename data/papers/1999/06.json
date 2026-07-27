@@ -84,6 +84,30 @@
   "added": "2026-07-24"
  },
  {
+  "id": "72b70e39e6129a0b",
+  "title": "Photocatalysts split water in high yield",
+  "authors": [],
+  "journal": "Chemical & Engineering News",
+  "publisher": "American Chemical Society",
+  "published": "1999-06-28",
+  "year": 1999,
+  "doi": "10.1021/cen-v077n026.p010a",
+  "url": "https://doi.org/10.1021/cen-v077n026.p010a",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Perovskites"
+  ],
+  "tags": [
+   "Perovskites",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f7b9d8d88f49649c",
   "title": "Photocatalytic Processes Using Solar Radiation. Modeling of Photodegradation of Contaminants in Polluted Waters",
   "authors": [
@@ -139,6 +163,70 @@
    "University of Bern"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1cc31e739cbcbbf3",
+  "title": "Activity of Cadmium Sulfide Photocatalysts for Hydrogen Production from Water: Role of Support",
+  "authors": [
+   "Manjit K. Arora",
+   "Namita Sahu",
+   "S. N. Upadhyay",
+   "A.S.K. Sinha"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1999-06-18",
+  "year": 1999,
+  "doi": "10.1021/ie980400j",
+  "url": "https://doi.org/10.1021/ie980400j",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "CdS",
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "ef9da14d377a1020",
+  "title": "Mononuclear and Binuclear Ruthenium(II) Complexes Containing 2,2‘-Bipyridine or 1,10-Phenanthroline and Pyrazole-3,5-Bis(benzimidazole). Synthesis, Structure, Isomerism, Spectroscopy, and Proton-Coupled Redox Activity",
+  "authors": [
+   "Sujoy Baitalik",
+   "Ülrich Flörke",
+   "K. Nag"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1999-06-17",
+  "year": 1999,
+  "doi": "10.1021/ic980564s",
+  "url": "https://doi.org/10.1021/ic980564s",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Metal Photocatalysts",
+   "Quantum Yield"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Indian Association for the Cultivation of Science"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "fb1ff29330312d1e",
@@ -350,6 +438,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "abc78574c30fca15",
+  "title": "Photodegradation of Organic Waste Coupling Hydrogenase and Titanium Dioxide",
+  "authors": [
+   "Giovanni Maria Mura",
+   "Maria Luisa Ganadu",
+   "Giuseppe Lubinu",
+   "Valeria Maida"
+  ],
+  "journal": "Annals of the New York Academy of Sciences",
+  "publisher": "Wiley",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1111/j.1749-6632.1999.tb10430.x",
+  "url": "https://doi.org/10.1111/j.1749-6632.1999.tb10430.x",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "University of Sassari"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a57e86e2f1639e3c",
   "title": "Photophysics and Photoredox Properties of the Tungsten Carbyne Complex Cp{P(OPh) 3 }(CO)W⋮CPh",
   "authors": [
@@ -496,6 +615,35 @@
    "Wadsworth Center"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "61889125f43db6fb",
+  "title": "Density functional study of the primary events on TiO2 photocatalyst",
+  "authors": [
+   "Suzuko Yamazaki",
+   "Kenzi Hori"
+  ],
+  "journal": "Catalysis Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "1999-06-01",
+  "year": 1999,
+  "doi": "10.1023/a:1019037008595",
+  "url": "https://doi.org/10.1023/a:1019037008595",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Yamaguchi University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "5e8935f4a8d14801",
