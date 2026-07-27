@@ -199,6 +199,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "189e45565edab150",
+  "title": "Grazing Use of Native Pastures by Beef Cattle in Japan : Recent Researches on Plant-animal Interactions in Native Pastures",
+  "authors": [
+   "Shin‐ichiro Ogura",
+   "Kazuo Sugawara"
+  ],
+  "journal": "Tohoku Journal of Agricultural Research",
+  "publisher": "Tohoku University",
+  "published": "2004-11-25",
+  "year": 2004,
+  "doi": "10.1021/acsomega.9b01407",
+  "url": "https://doi.org/10.1021/acsomega.9b01407",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ad2b2173a22f14a9",
   "title": "Highly active meso–microporous TaON photocatalyst driven by visible light",
   "authors": [
@@ -377,6 +404,33 @@
    "Hong Kong University of Science and Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "20047ba0b18d8789",
+  "title": "Actinic flux and photolysis in water droplets: Mie calculations and geometrical optics limit",
+  "authors": [
+   "Bernhard Mayer",
+   "S. Madronich"
+  ],
+  "journal": "Atmospheric chemistry and physics",
+  "publisher": "Copernicus Publications",
+  "published": "2004-11-22",
+  "year": 2004,
+  "doi": "10.5194/acp-4-2241-2004",
+  "url": "https://doi.org/10.5194/acp-4-2241-2004",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting"
+  ],
+  "tags": [
+   "Water Photolysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "NSF National Center for Atmospheric Research",
+   "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "be4e3259d5af02e2",
@@ -646,6 +700,43 @@
    "University of Mumbai"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "874dca65b2397d59",
+  "title": "Fine Tuning of MLCT States in New Mononuclear Complexes of Ruthenium( II ) Containing Tris(1‐pyrazolyl)methane, 2,2′‐Bipyridine and Aromatic Nitrogen Heterocycles",
+  "authors": [
+   "Néstor E. Katz",
+   "Isabel Romero",
+   "Antoni Llobet",
+   "Teodor Parella",
+   "Jordi Benet‐Buchholz"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2004-11-18",
+  "year": 2004,
+  "doi": "10.1002/ejic.200400487",
+  "url": "https://doi.org/10.1002/ejic.200400487",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "Metal Photocatalysts",
+   "Photocatalysis"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "National University of Tucumán",
+   "Universitat de Girona",
+   "Universitat Autònoma de Barcelona",
+   "Bayer (Germany)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "003eec8d35702b0c",
@@ -1310,6 +1401,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "94c5d3c42a45d2b6",
+  "title": "Computational and Spectroscopic Studies of Re(I) Bipyridyl Complexes Containing 2,6-Dimethylphenylisocyanide (CNx) Ligand",
+  "authors": [
+   "Stanislav R. Stoyanov",
+   "John M. Villegas",
+   "Arvin J. Cruz",
+   "Loranelle L. Lockyear",
+   "Joseph H. Reibenspies",
+   "D. Paul Rillema"
+  ],
+  "journal": "Journal of Chemical Theory and Computation",
+  "publisher": "American Chemical Society",
+  "published": "2004-11-05",
+  "year": 2004,
+  "doi": "10.1021/ct049956g",
+  "url": "https://doi.org/10.1021/ct049956g",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Wichita State University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "b367d389add46fd0",
   "title": "Photooxidation of xylenol orange in the presence of palladium-modified TiO2 catalysts",
   "authors": [
@@ -1407,6 +1532,27 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ef467d9fe83f822b",
+  "title": "Sumitomo Titanium commercialising photocatalysts",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "10.1016/s1351-4180(04)00632-4",
+  "url": "https://doi.org/10.1016/s1351-4180(04)00632-4",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "d55739aa90e962d9",
@@ -1520,6 +1666,32 @@
    "Semenov Institute of Chemical Physics"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bbace0525a9414d9",
+  "title": "Characterization of Nanometer-sized Al/TiO 2 Photocatalysts and the Decomposition of Benzene in Plasma- and Photo-types Systems",
+  "authors": [
+   "Sanghyuk Park",
+   "Sung-Chul Lee",
+   "Misook Kang",
+   "Suk-Jin Choung"
+  ],
+  "journal": "Journal of Industrial and Engineering Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2004-11-01",
+  "year": 2004,
+  "doi": "",
+  "url": "https://www.cheric.org/PDF/JIEC/IE10/IE10-6-0972.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "a9d963d818137e4f",

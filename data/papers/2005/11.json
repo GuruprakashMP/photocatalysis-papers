@@ -463,6 +463,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e7864c40ff69bcf0",
+  "title": "Time-Resolved EPR Study of the Photophysics and Photochemistry of 1-(3-(Methoxycarbonyl)propyl)-1-phenyl[6.6]C 61",
+  "authors": [
+   "Thomas W. Hamann",
+   "Nagarajan Srivatsan",
+   "Hans van Willigen"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2005-11-23",
+  "year": 2005,
+  "doi": "10.1021/jp0538363",
+  "url": "https://doi.org/10.1021/jp0538363",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoexcitation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Massachusetts Boston"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "39c73f500a9242a3",
   "title": "Enhanced TiO2 photocatalytic degradation of bisphenol E by β-cyclodextrin in suspended solutions",
   "authors": [
@@ -523,6 +553,36 @@
    "Osaka Prefecture University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1c05651ef623d246",
+  "title": "Anatase TiO 2 ‐Coated Multi‐Wall Carbon Nanotubes with the Vapor Phase Method",
+  "authors": [
+   "Wugang Fan",
+   "Lian Gao",
+   "Jing Sun"
+  ],
+  "journal": "Journal of the American Ceramic Society",
+  "publisher": "Wiley",
+  "published": "2005-11-23",
+  "year": 2005,
+  "doi": "10.1111/j.1551-2916.2005.00755.x",
+  "url": "https://doi.org/10.1111/j.1551-2916.2005.00755.x",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Ceramics",
+   "American Ceramic Society"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "eadd27a51b3e4c6b",
@@ -701,6 +761,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "9cebf4ac0f17a308",
+  "title": "Final Technical Report on \"Metabolic Engineering for Heavy Metal and Actinide Removal\"",
+  "authors": [
+   "Jay D. Keasling"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-11-21",
+  "year": 2005,
+  "doi": "10.2172/860182",
+  "url": "https://doi.org/10.2172/860182",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "MOFs & COFs",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "MOFs",
+   "Photocatalysis",
+   "Photoreduction",
+   "TiO2"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9670d80a520affb2",
   "title": "Photoluminescence and photocatalytic properties of SrSnO3 perovskite",
   "authors": [
@@ -730,6 +818,43 @@
    "Japan Science and Technology Agency"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "594ab8a7e1412c34",
+  "title": "Photocatalyst activation in a pulsed low pressure discharge",
+  "authors": [
+   "Antoine Rousseau",
+   "Olivier Guaitella",
+   "L. Gatilova",
+   "Frédéric Thévenet",
+   "C. Guillard",
+   "J. Röpcke",
+   "Gabi-Daniel Stancu"
+  ],
+  "journal": "Applied Physics Letters",
+  "publisher": "American Institute of Physics",
+  "published": "2005-11-21",
+  "year": 2005,
+  "doi": "10.1063/1.2136415",
+  "url": "https://doi.org/10.1063/1.2136415",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "École Polytechnique",
+   "Laboratoire de Physique des Plasmas",
+   "Université Claude Bernard Lyon 1",
+   "Institut de Recherches sur la Catalyse et l'Environnement de Lyon",
+   "Leibniz Institute for Plasma Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "8ad15fda5b2f6830",
@@ -1284,6 +1409,68 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d549ec2b9a0e6ad3",
+  "title": "Development of a non-continuous micro-flow opto-wetting droplet manipulation technology",
+  "authors": [
+   "Ming‐Yih Lee",
+   "Hung-Chia Lin",
+   "Hung-Wei Chiang",
+   "Wei-Xun Lee",
+   "Xian-Dong Huang",
+   "Chia-Yi Tsai"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-11-15",
+  "year": 2005,
+  "doi": "10.1109/icmech.2005.1529384",
+  "url": "https://doi.org/10.1109/icmech.2005.1529384",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Chang Gung University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "b7a00d824cc0a809",
+  "title": "The kinetics of phenol decomposition under UV irradiation with and without H2O2 on TiO2, Fe–TiO2 and Fe–C–TiO2 photocatalysts",
+  "authors": [
+   "Beata Tryba",
+   "Antoni W. Morawski",
+   "Michio Inagaki",
+   "Masahiro Toyoda"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-15",
+  "year": 2005,
+  "doi": "10.1016/j.apcatb.2005.09.011",
+  "url": "https://doi.org/10.1016/j.apcatb.2005.09.011",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Szczecin",
+   "Oita University",
+   "Aichi Institute of Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "871eefe0c1a14fdb",
@@ -1937,6 +2124,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d2857007d3ad77ef",
+  "title": "Oxidative Energy Storage Ability of a TiO 2 −Ni(OH) 2 Bilayer Photocatalyst",
+  "authors": [
+   "Yukina Takahashi",
+   "Tetsu Tatsuma"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "2005-11-03",
+  "year": 2005,
+  "doi": "10.1021/la052107b",
+  "url": "https://doi.org/10.1021/la052107b",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "2a9967ce71371f7d",
   "title": "Preparation and photoelectrocatalytic activity of Pt(TiO 2 )–TiO 2 hybrid films",
   "authors": [
@@ -2177,6 +2391,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cfa4de71ba5dcd1b",
+  "title": "Study on environmental engineering application of photocatalyst immobilized using plasma spray coating technique",
+  "authors": [
+   "Tae Ho Kim",
+   "Soo Wohn Lee",
+   "Chen Huang"
+  ],
+  "journal": "한국표면공학회 학술발표회 초록집",
+  "publisher": "",
+  "published": "2005-11-01",
+  "year": 2005,
+  "doi": "",
+  "url": "http://www.dbpia.co.kr/Article/NODE01052013",
+  "source": "openalex",
+  "categories": [
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Immobilization",
+   "Photocatalysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c81dfe37b82479da",
   "title": "Photocatalysis by ZnS nanoparticles of the formation of ZnS/Au heterostructure in the reduction of complex ions of gold",
   "authors": [
@@ -2205,6 +2445,27 @@
    "L.V. Pisarzhevskii Institute of Physical Chemistry"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c07a7bfb79d6e9b8",
+  "title": "New photocatalyst retains platinum nanoparticles",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2005-11-01",
+  "year": 2005,
+  "doi": "10.1016/s1351-4180(05)71295-2",
+  "url": "https://doi.org/10.1016/s1351-4180(05)71295-2",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "bdbf6b85e12adac9",
@@ -2443,6 +2704,40 @@
    "Czech Academy of Sciences, Institute of Microbiology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3ea85749397c12d3",
+  "title": "Anelastic Spectroscopy in TiO 2",
+  "authors": [
+   "Carlos Roberto Grandini",
+   "Rafael Luiz Neves de Oliveira",
+   "R. Mota",
+   "F.P. Santos",
+   "Élson de Campos"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2005-11-01",
+  "year": 2005,
+  "doi": "10.4028/www.scientific.net/msf.498-499.540",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.498-499.540",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Universidade Estadual Paulista (Unesp)",
+   "Faculdades Guarulhos"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "35738ec475a0a354",

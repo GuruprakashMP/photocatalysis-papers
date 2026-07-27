@@ -1,5 +1,30 @@
 [
  {
+  "id": "1b1296db89de3565",
+  "title": "The Effect of Oil &Water Repellent Finishing on Antibacterial Properties of Polyester Fabrics Treated with Nanometer Ag-TiO2 Complex Photocatalyst",
+  "authors": [
+   "王權泉",
+   "陳宇軒"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2006-03-31",
+  "year": 2006,
+  "doi": "",
+  "url": "https://irlib.pccu.edu.tw//handle/987654321/3484",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e07a7fa96d90f0bc",
   "title": "Synthesis of Nanocrystalline TiO 2 and Reduced Titanium Oxides via Rapid and Exothermic Metathesis Reactions",
   "authors": [
@@ -603,6 +628,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "994875208fcbb6c1",
+  "title": "Time-Resolved Infrared Spectroscopy of K 3 Ta 3 B 2 O 12 Photocatalysts for Water Splitting",
+  "authors": [
+   "Toshitatsu Ikeda",
+   "Satoru Fujiyoshi",
+   "Hideki Kato",
+   "Akihiko Kudo",
+   "Hiroshi Ōnishi"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2006-03-25",
+  "year": 2006,
+  "doi": "10.1021/jp057536x",
+  "url": "https://doi.org/10.1021/jp057536x",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Electron-Hole Pairs",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Photoexcitation",
+   "Water Splitting"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7ab21ed47d3b2577",
   "title": "Novel luminescent RE/TiO2 (RE=Eu, Gd) catalysts prepared by in-situation sol–gel approach construction of multi-functional precursors and their photo or photocatalytic oxidation properties",
   "authors": [
@@ -781,6 +842,29 @@
   "added": "2026-07-24"
  },
  {
+  "id": "71f7f5d9f28cfbb7",
+  "title": "Design of new process of zeolite synthesis and application for photocatalyst",
+  "authors": [
+   "修 千代田"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2006-03-24",
+  "year": 2006,
+  "doi": "",
+  "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/46862/20320_%E8%A6%81%E6%97%A8.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "622768182e139e8f",
   "title": "Nanosized Au Particles as an Efficient Cocatalyst for Photocatalytic Overall Water Splitting",
   "authors": [
@@ -939,6 +1023,65 @@
    "National Environmental Engineering Research Institute"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a1e12dd89c43066c",
+  "title": "Controlled Crystallization of Nanoporous and Core/Shell Structure Titania Photocatalyst Particles",
+  "authors": [
+   "Yun‐Mo Sung",
+   "Jin-Kyung Lee",
+   "Won‐Seok Chae"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2006-03-21",
+  "year": 2006,
+  "doi": "10.1021/cg050342m",
+  "url": "https://doi.org/10.1021/cg050342m",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Korea University",
+   "Daejin University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8c306e15f0e68b33",
+  "title": "Synthesis and characterization of TiO2/BaF2/ceramic radio-sensitive photocatalyst",
+  "authors": [
+   "C.F. Wang",
+   "C.T. Yu",
+   "Binshan Lin",
+   "J.H. Lee"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-03-21",
+  "year": 2006,
+  "doi": "10.1016/j.jphotochem.2006.01.020",
+  "url": "https://doi.org/10.1016/j.jphotochem.2006.01.020",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "National Tsing Hua University",
+   "Institute of Nuclear Energy Research"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "853664b6e9b633fa",
@@ -1251,6 +1394,40 @@
    "North Carolina State University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "c282c87b405c97ba",
+  "title": "Application of a “Black Body” Like Reactor for Measurements of Quantum Yields of Photochemical Reactions in Heterogeneous Systems",
+  "authors": [
+   "Alexei V. Emeline",
+   "Xintong Zhang",
+   "Ming Jin",
+   "Taketoshi Murakami",
+   "Akira Fujishima"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2006-03-18",
+  "year": 2006,
+  "doi": "10.1021/jp057115f",
+  "url": "https://doi.org/10.1021/jp057115f",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Photodegradation",
+   "Quantum Yield"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Kanagawa Academy of Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "ae57299094a7af67",
@@ -1773,6 +1950,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7af67e1a5f095fb2",
+  "title": "Characterization and Synthesis of Functional TiO 2 Sol-Gel Coatings on the Glass",
+  "authors": [
+   "Dae Yong Shin",
+   "Myung Gi So",
+   "Sang-Mok Han"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2006-03-15",
+  "year": 2006,
+  "doi": "10.4028/www.scientific.net/msf.510-511.94",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.510-511.94",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Kangwon National University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "53a7e4c1bf14758d",
   "title": "Preparation of TiO2 Photocatalyst Using TiCl4 as a Precursor and its Photocatalytic Performance",
   "authors": [
@@ -1925,6 +2132,34 @@
    "Kangwon National University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "263b2596ad123186",
+  "title": "Impact Evaluation to Human Body Skin of Titania Photocatalyst Fine Particles",
+  "authors": [
+   "Eiji Watanabe",
+   "Mitsuharu Fukaya",
+   "Hiroshi Taoda"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2006-03-15",
+  "year": 2006,
+  "doi": "10.4028/www.scientific.net/msf.510-511.38",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.510-511.38",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "National Institute of Advanced Industrial Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "217a2dbdf1803390",
@@ -2774,6 +3009,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "97011d32b984be79",
+  "title": "Tetrabutylammonium Decatungstate‐Photosensitized Alkylation of Electrophilic Alkenes: Convenient Functionalization of Aliphatic CH Bonds",
+  "authors": [
+   "Daniele Dondi",
+   "Maurizio Fagnoni",
+   "Angelo Albini"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2006-03-07",
+  "year": 2006,
+  "doi": "10.1002/chem.200501216",
+  "url": "https://doi.org/10.1002/chem.200501216",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Quantum Yield",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Pavia"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "75dd9969ac61e213",
   "title": "A Photocatalytic Acid‐ and Base‐Free Meerwein–Ponndorf–Verley‐Type Reduction Using a [Ru(bpy) 3 ] 2+ /Viologen Couple",
   "authors": [
@@ -2803,6 +3068,39 @@
    "Universitat Politècnica de València"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6d745e9190d74cf3",
+  "title": "Ion-exclusion/adsorption chromatography of dimethylsulfoxide and its derivatives for the evaluation to quality-test of TiO2-photocatalyst in water",
+  "authors": [
+   "Masataka Mori",
+   "Katsunori Tanaka",
+   "Hiroshi Taoda",
+   "Mikaru Ikedo",
+   "H. Itabashi"
+  ],
+  "journal": "Talanta",
+  "publisher": "Elsevier BV",
+  "published": "2006-03-07",
+  "year": 2006,
+  "doi": "10.1016/j.talanta.2006.02.001",
+  "url": "https://doi.org/10.1016/j.talanta.2006.02.001",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Gunma University",
+   "Hiroshima University",
+   "National Institute of Advanced Industrial Science and Technology",
+   "Chubu University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "4ff7f75b923aad3c",
@@ -3192,6 +3490,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c3fa0d075f95b570",
+  "title": "Efficient and Selective Oxidation of Benzylic Alcohols to Carbonyl Compounds Using O 2 Catalysed by [ n Bu 4 N] 4 W 10 O 32 /SiO 2 Under Photoirradiation",
+  "authors": [
+   "Saeed Farhadi",
+   "Mozhgan Afshari"
+  ],
+  "journal": "Journal of Chemical Research",
+  "publisher": "SAGE Publishing",
+  "published": "2006-03-01",
+  "year": 2006,
+  "doi": "10.3184/030823406776330765",
+  "url": "https://doi.org/10.3184/030823406776330765",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Selective Oxidation"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Lorestan University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c283eddf0b6a2126",
   "title": "Photocatalytic Titania Coatings by a Low‐Temparature Sol‐Gel Process",
   "authors": [
@@ -3333,6 +3658,36 @@
   "relevance_score": 51,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b4a9cfe38949a2fe",
+  "title": "Effect of TiO 2 Photocatalyst on Odorous Gases Using Glass Fiber Filter for Repeatable Use",
+  "authors": [
+   "Susumu Sakai",
+   "Kazuyo Hiraoka",
+   "Rie Yamashita",
+   "Yutaka Matsumoto"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2006-03-01",
+  "year": 2006,
+  "doi": "10.1143/jjap.45.l343",
+  "url": "https://doi.org/10.1143/jjap.45.l343",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Light Irradiation",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Industrial Research Institute of Shizuoka Prefecture"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "af0e55fd2fc8ff50",

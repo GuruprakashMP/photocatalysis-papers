@@ -1,5 +1,33 @@
 [
  {
+  "id": "f76d76eebb11285d",
+  "title": "?Structural Transformations in Ceramics: Perovskite-like Oxides and Group III, IV, and V Nitrides?",
+  "authors": [
+   "James P. Lewis"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2006-12-31",
+  "year": 2006,
+  "doi": "10.2172/909138",
+  "url": "https://doi.org/10.2172/909138",
+  "source": "openalex",
+  "categories": [
+   "Perovskites",
+   "Semiconductor Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Perovskites",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "676786da44be12f6",
   "title": "Photocatalytic efficiency enhancement of plasma-sprayed TiO2 coatings under external bias voltage",
   "authors": [
@@ -552,6 +580,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "bbc2846733967b3f",
+  "title": "TiO2-based photocatalysts impregnated with metallo-porphyrins employed for degradation of 4-nitrophenol in aqueous solutions: role of metal and macrocycle",
+  "authors": [
+   "Giuseppe Mele",
+   "Roberta Del Sole",
+   "Giuseppe Vasapollo",
+   "Elisa I. García‐López",
+   "Leonardo Palmisano",
+   "Jun Li",
+   "Rudolf Słota",
+   "Gabriela Dyrda"
+  ],
+  "journal": "Research on Chemical Intermediates",
+  "publisher": "Springer Science+Business Media",
+  "published": "2006-12-25",
+  "year": 2006,
+  "doi": "10.1163/156856707779238649",
+  "url": "https://doi.org/10.1163/156856707779238649",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Lecce",
+   "University of Palermo",
+   "Northwest University",
+   "University of Opole"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "9cbae2978136dd04",
   "title": "The influence of dissolved transition metals on the photocatalytic degradation of phenol with TiO2",
   "authors": [
@@ -1077,6 +1141,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8a58b34d9f351580",
+  "title": "Photophysical properties and electronic structure of highly donor doped (110) layered perovskite material",
+  "authors": [
+   "E. D. Jeong",
+   "Myoung Gyu Ha",
+   "Minseok Won",
+   "H. G. Kim",
+   "Hyuk Kyu Pak",
+   "Pramod H. Borse",
+   "Seunghyun Ji",
+   "Jae Sung Lee"
+  ],
+  "journal": "Open Access System for Information Sharing (Pohang University of Science and Technology)",
+  "publisher": "Pohang University of Science and Technology",
+  "published": "2006-12-20",
+  "year": 2006,
+  "doi": "",
+  "url": "https://oasis.postech.ac.kr/handle/2014.oak/23634",
+  "source": "openalex",
+  "categories": [
+   "Perovskites",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Structure",
+   "DFT",
+   "Perovskites",
+   "Photocatalysis",
+   "SrTiO3",
+   "TiO2"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "34dba5f4a5505a78",
   "title": "Electronic Band Structure and Photocatalytic Activity of M-Doped TiO2 (M = Co and Fe)",
   "authors": [
@@ -1477,6 +1579,42 @@
    "Japan Science and Technology Agency"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2597535ba92b84cd",
+  "title": "Electronic Structure Analysis of Interface between Support Surface and Cocatalyst for Water Splitting Layer Photocatalyst by DFT Method",
+  "authors": [
+   "Yoshiki Shimodaira",
+   "Akihiko Kudo",
+   "Hisayoshi Kobayashi"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "2006-12-16",
+  "year": 2006,
+  "doi": "10.1246/cl.2007.170",
+  "url": "https://doi.org/10.1246/cl.2007.170",
+  "source": "openalex",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Water Splitting",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Co-catalysts",
+   "DFT",
+   "Photocatalysis",
+   "Photoexcitation",
+   "Water Splitting"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Japan Science and Technology Agency",
+   "Kyoto Institute of Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "f961d54f97eb71e2",
@@ -2802,6 +2940,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "391a5e3e08503f0f",
+  "title": "Diels-Alder reaction between indoles and cyclohexadienes photocatalyzed by a (thia)pyrylium salt",
+  "authors": [
+   "María González‐Béjar",
+   "Salah‐Eddine Stiriba",
+   "Miguel A. Miranda",
+   "Julia Pérez‐Prieto"
+  ],
+  "journal": "ARKIVOC",
+  "publisher": "ARKAT USA, Inc.",
+  "published": "2006-12-02",
+  "year": 2006,
+  "doi": "10.3998/ark.5550190.0008.431",
+  "url": "https://doi.org/10.3998/ark.5550190.0008.431",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Excited States",
+   "Photocatalysis",
+   "Quantum Yield"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Universitat de València",
+   "Parc Científic de la Universitat de València",
+   "Instituto de Tecnología Química",
+   "Universitat Politècnica de València"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ff46f2e6614e124a",
   "title": "One‐Pot Synthesis and Photocatalysis of Encapsulated TiO 2 in Mesoporous SiO 2",
   "authors": [
@@ -2979,6 +3151,33 @@
    "Guizhou Minzu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ee4bbaa48ed4867c",
+  "title": "Fabricating highly active mixed phase TiO2 photocatalysts by low angle reactive dc magnetron sputter deposition",
+  "authors": [
+   "Le Chen",
+   "Michael E. Graham",
+   "Gonghu Li",
+   "Kimberly A. Gray"
+  ],
+  "journal": "2006 AIChE Annual Meeting",
+  "publisher": "",
+  "published": "2006-12-01",
+  "year": 2006,
+  "doi": "",
+  "url": "https://www.scholars.northwestern.edu/en/publications/fabricating-highly-active-mixed-phase-tiosub2sub-photocatalysts-b-2",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "ece92a56e19449d9",
@@ -3917,6 +4116,71 @@
    "Centre National de la Recherche Scientifique"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "11720e2d99eec4f6",
+  "title": "Titania-based nanocomposite materials as highly active photocatalysts",
+  "authors": [
+   "Gonghu Li",
+   "Le Chen",
+   "Shannon Ciston",
+   "Tijana Rajh",
+   "Kimberly A. Gray"
+  ],
+  "journal": "2006 AIChE Annual Meeting",
+  "publisher": "",
+  "published": "2006-12-01",
+  "year": 2006,
+  "doi": "",
+  "url": "https://www.scholars.northwestern.edu/en/publications/titania-based-nanocomposite-materials-as-highly-active-photocatal",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Argonne National Laboratory"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0b17e4c5ef18dc82",
+  "title": "Growth of Au–TiO2 nanocomposite thin films by a dual-laser, dual-target system",
+  "authors": [
+   "E. M. Gyorgy",
+   "Guillaume Sauthier",
+   "António Figueras",
+   "Α. Γιαννουδάκος",
+   "Μιχάλης Κομπίτσας",
+   "I. N. Mihãilescu"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2006-12-01",
+  "year": 2006,
+  "doi": "10.1063/1.2372450",
+  "url": "https://doi.org/10.1063/1.2372450",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Consejo Superior de Investigaciones Científicas",
+   "National Hellenic Research Foundation",
+   "National Institute for Laser Plasma and Radiation Physics"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "06ab658b030bb13a",

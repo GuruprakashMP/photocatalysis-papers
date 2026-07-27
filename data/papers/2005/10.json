@@ -453,6 +453,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6a0d270592e1444b",
+  "title": "Innovative Supported Composite Photocatalyst for the Oxidation of Phenolic Waters in Reactor Processes",
+  "authors": [
+   "P. Raja",
+   "Jayasundera Bandara",
+   "P. Giordano",
+   "J. Kiwi"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-22",
+  "year": 2005,
+  "doi": "10.1021/ie050689m",
+  "url": "https://doi.org/10.1021/ie050689m",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Photoreactors",
+   "Wastewater"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "National Institute of Fundamental Studies",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "eb81b1d909352bbb",
   "title": "Enhanced photocatalytic activity of microwave treated TiO2 pillared montmorillonite",
   "authors": [
@@ -776,6 +809,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4f6b679e7a30621b",
+  "title": "CdS Coating on TiO 2 Nanoparticles under Multibubble Sonoluminescence Condition",
+  "authors": [
+   "Seung Soo Lee"
+  ],
+  "journal": "Bulletin of the Korean Chemical Society",
+  "publisher": "Wiley",
+  "published": "2005-10-20",
+  "year": 2005,
+  "doi": "10.5012/bkcs.2005.26.10.1579",
+  "url": "https://doi.org/10.5012/bkcs.2005.26.10.1579",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Dye Degradation",
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "23fd8b2d5ab7f4ce",
   "title": "Decomposition of gaseous formaldehyde in a photocatalytic reactor with a parallel array of light sources",
   "authors": [
@@ -906,6 +967,66 @@
    "The University of Osaka"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2e6998b5a0948b7e",
+  "title": "Infrared laser diagnostics of the plasma-photocatalyst interaction in a pulsed low pressure discharge",
+  "authors": [
+   "Olivier Guaitella",
+   "Frédéric Thévenet",
+   "Antoine Rousseau",
+   "C. Guillard",
+   "Gabi-Daniel Stancu",
+   "J. Roepcke"
+  ],
+  "journal": "Bulletin of the American Physical Society",
+  "publisher": "Cambridge University Press",
+  "published": "2005-10-19",
+  "year": 2005,
+  "doi": "",
+  "url": "http://absimage.aps.org/image/GEC05/MWS_GEC05-2005-000091.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1bfbbbee1d1e0d7f",
+  "title": "Computational and Spectroscopic Characterization of the Molecular and Electronic Structure of the Pb(II)−Quercetin Complex",
+  "authors": [
+   "J.P. Cornard",
+   "Laëtitia Dangleterre",
+   "Christine Lapouge"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-19",
+  "year": 2005,
+  "doi": "10.1021/jp053506i",
+  "url": "https://doi.org/10.1021/jp053506i",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "fce8832d7c79ae60",
@@ -1222,6 +1343,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e1f84a625d3605f4",
+  "title": "Structural and Spectroscopic Features of Mono- and Binuclear Nickel(II) Complexes with Tetradentate N(amine) 2 S(thiolate) 2 Ligation",
+  "authors": [
+   "R.T. Stibrany",
+   "S. Fox",
+   "Parimal K. Bharadwaj",
+   "Harvey J. Schugar",
+   "J.A. Potenza"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-15",
+  "year": 2005,
+  "doi": "10.1021/ic050114h",
+  "url": "https://doi.org/10.1021/ic050114h",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Rutgers, The State University of New Jersey"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5c714ad458ec2aca",
   "title": "New Insights into the Origin of Visible Light Photocatalytic Activity of Nitrogen-Doped and Oxygen-Deficient Anatase TiO 2",
   "authors": [
@@ -1411,6 +1563,34 @@
    "University of Milan"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4eeec94f91c6bcfd",
+  "title": "A5 Augmentation of ultrasonic disinfection power with TiO_2 photocatalyst",
+  "authors": [
+   "Mahmoud Farshbaf Dadjour",
+   "Chiaki Ogino",
+   "Susumu Matsumura",
+   "Nobuaki Shimizu"
+  ],
+  "journal": "Medical Entomology and Zoology",
+  "publisher": "Japan Society of Medical Entomology and Zoology",
+  "published": "2005-10-14",
+  "year": 2005,
+  "doi": "10.20577/pamjss.14.0_13",
+  "url": "https://doi.org/10.20577/pamjss.14.0_13",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Kanazawa University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "424e50b2d4503463",
@@ -1642,6 +1822,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "99eb956b1de2d9e1",
+  "title": "Solar radiation-induced polymerization of methyl methacrylate in the presence of semiconductor-based photocatalyst",
+  "authors": [
+   "Raju Ojah",
+   "Swapan Kr. Dolui"
+  ],
+  "journal": "Solar Energy Materials and Solar Cells",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-11",
+  "year": 2005,
+  "doi": "10.1016/j.solmat.2005.08.009",
+  "url": "https://doi.org/10.1016/j.solmat.2005.08.009",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Tezpur University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "857432c95e001bd5",
   "title": "Sonochemistry in Environmental Remediation. 2. Heterogeneous Sonophotocatalytic Oxidation Processes for the Treatment of Pollutants in Water",
   "authors": [
@@ -1757,6 +1964,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "eb51e244ca23bbc1",
+  "title": "Light‐Induced Transformation of Alkylurea Derivatives in Aqueous TiO 2 Dispersion",
+  "authors": [
+   "Paola Calza",
+   "Claudio Medana",
+   "Claudio Baiocchi",
+   "Hisao Hidaka",
+   "Ezio Pelizzetti"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2005-10-10",
+  "year": 2005,
+  "doi": "10.1002/chem.200500292",
+  "url": "https://doi.org/10.1002/chem.200500292",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Photocatalysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Turin",
+   "Meisei University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f0fe14df7f288eba",
   "title": "Photocatalytic Electron Transfer in Hybrid Titania Nanosheets Studied by Nanosecond Laser Flash Photolysis",
   "authors": [
@@ -1789,6 +2027,35 @@
    "Nagoya University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "fbfdae36c6651417",
+  "title": "Hydrogen generation by photoelectrolysis using nitride semiconductors",
+  "authors": [
+   "Katsushi Fujii",
+   "Masato Ono",
+   "Takashi Ito",
+   "Yasuhiro Iwaki",
+   "Ohkawa Kazuhiro"
+  ],
+  "journal": "IEICE Technical Report; IEICE Tech. Rep.",
+  "publisher": "",
+  "published": "2005-10-07",
+  "year": 2005,
+  "doi": "",
+  "url": "https://www.ieice.org/ken/paper/20051014fAgY/eng/",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "63dfffac96f53db5",
@@ -1941,6 +2208,34 @@
    "Harbin Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b87bbe45cf48d210",
+  "title": "2,4,5-Trihydroxyphenylalanine Quinone Biogenesis in the Copper Amine Oxidase from Hansenula polymorpha with the Alternate Metal Nickel",
+  "authors": [
+   "Nicole M. Samuels",
+   "Judith P. Klinman"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-05",
+  "year": 2005,
+  "doi": "10.1021/bi051176m",
+  "url": "https://doi.org/10.1021/bi051176m",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "f4032a87b780d506",

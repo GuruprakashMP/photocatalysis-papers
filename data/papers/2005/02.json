@@ -77,6 +77,31 @@
   "added": "2026-07-24"
  },
  {
+  "id": "04722bcb29c33af9",
+  "title": "Fotodegradasi Zat Warna Rhodamin B Menggunakan Katalis Bentonit Alam Terpilar Oksida Zr",
+  "authors": [
+   "Is Fatimah"
+  ],
+  "journal": "Logika",
+  "publisher": "",
+  "published": "2005-02-26",
+  "year": 2005,
+  "doi": "10.20885/logika.vol2.iss1.art3",
+  "url": "https://doi.org/10.20885/logika.vol2.iss1.art3",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Dye Degradation",
+   "Photocatalysis",
+   "Photodegradation"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f0be26ad8df752d1",
   "title": "Photodegradation of tetra- and hexachlorodibenzo-p-dioxins",
   "authors": [
@@ -737,6 +762,73 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a3709944da9ae214",
+  "title": "Triplet Photophysics of Gold(III) Porphyrins",
+  "authors": [
+   "Mattias P. Eng",
+   "Thomas Ljungdahl",
+   "Joakim Andréasson",
+   "Jerker Mårtensson",
+   "Bo Albinsson"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2005-02-15",
+  "year": 2005,
+  "doi": "10.1021/jp0449399",
+  "url": "https://doi.org/10.1021/jp0449399",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "LMCT",
+   "Photoinduced ET",
+   "Transient Absorption"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Chalmers University of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "6c529f056fabf56b",
+  "title": "Catalytic activity of asymmetric monobenzoylmonobenzotetraazacyclo[14]tetradecinatonickel(II) complexes: X-ray crystal structure of monobenzo-2,4,9,11-tetramethyl-1,5,8,12-tetraazacyclo[14]tetradecinatonickel(II)",
+  "authors": [
+   "Dong Il Kim",
+   "Eun Hee Kim",
+   "Tapashi G. Roy",
+   "Hun Gil Na",
+   "Zun Ung Bae",
+   "Yu Chul Park"
+  ],
+  "journal": "Journal of Coordination Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "2005-02-15",
+  "year": 2005,
+  "doi": "10.1080/00958970512331331334",
+  "url": "https://doi.org/10.1080/00958970512331331334",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Kyungpook National University",
+   "Daejin University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f5f6ff4ae3a95aa7",
   "title": "Solar photocatalysis: oxidation of aniline on CdS",
   "authors": [
@@ -1002,6 +1094,37 @@
    "Aristotle University of Thessaloniki"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7a336975615f6551",
+  "title": "Sulfate-promoted Titania Photocatalyst for High Efficiency Gas Phase Toluene Degradation",
+  "authors": [
+   "E. Barraud",
+   "F. Bosc",
+   "Nicolas Keller",
+   "Valérie Keller"
+  ],
+  "journal": "Chemistry Letters",
+  "publisher": "Oxford University Press",
+  "published": "2005-02-05",
+  "year": 2005,
+  "doi": "10.1246/cl.2005.336",
+  "url": "https://doi.org/10.1246/cl.2005.336",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "TiO2"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Laboratoire des Matériaux Surfaces et Procédés pour la Catalyse"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "ad8d0dbf11e61939",
@@ -1289,6 +1412,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "52c97ea7b345af91",
+  "title": "Evaluation of Front-Opening Unified Pod with Attached UV/Photocatalyst Cleaning Unit",
+  "authors": [
+   "Masato Suzuki",
+   "Tetsuo Tabei",
+   "Shin Yokoyama",
+   "Kazuhisa Miyamoto",
+   "Takeo Wada",
+   "Toshiaki Fujii"
+  ],
+  "journal": "Japanese Journal of Applied Physics",
+  "publisher": "Institute of Physics",
+  "published": "2005-02-01",
+  "year": 2005,
+  "doi": "10.1143/jjap.44.1130",
+  "url": "https://doi.org/10.1143/jjap.44.1130",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Hiroshima University",
+   "Dainichiseika (Japan)",
+   "Hitachi (Japan)",
+   "Ebara (Japan)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "4bf2b54867d69372",
   "title": "[Preparation of Ce-loaded nano-TiO2 and study on its UV-Vis reflective spectrum].",
   "authors": [
@@ -1347,6 +1504,28 @@
    "Kurita Water Industries (Japan)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2254e977b2662591",
+  "title": "Titania photocatalyst inactivates SARS virus",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2005-02-01",
+  "year": 2005,
+  "doi": "10.1016/s1351-4180(05)00815-9",
+  "url": "https://doi.org/10.1016/s1351-4180(05)00815-9",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "1ffb9176e8ec9d52",
@@ -1502,5 +1681,27 @@
    "National Institute for Materials Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0640c91586675f56",
+  "title": "Sumitomo Chemical raising titania photocatalyst capacity",
+  "authors": [],
+  "journal": "Focus on Catalysts",
+  "publisher": "Elsevier BV",
+  "published": "2005-02-01",
+  "year": 2005,
+  "doi": "10.1016/s1351-4180(05)00787-7",
+  "url": "https://doi.org/10.1016/s1351-4180(05)00787-7",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-27"
  }
 ]

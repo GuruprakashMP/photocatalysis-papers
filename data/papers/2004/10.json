@@ -141,6 +141,41 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2ee7e2397b7b94e8",
+  "title": "Photodecomposition of Adsorbed 2-Chloroethyl Ethyl Sulfide on TiO 2 : Involvement of Lattice Oxygen",
+  "authors": [
+   "Tracy Thompson",
+   "D. Panayotov",
+   "John T. Yates",
+   "Igor N. Martyanov",
+   "Kenneth J. Klabunde"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-26",
+  "year": 2004,
+  "doi": "10.1021/jp040468e",
+  "url": "https://doi.org/10.1021/jp040468e",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "University of Pittsburgh",
+   "Kansas State University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ff6427fa7b75130a",
   "title": "Photoelectrochemical Hydrogen Production Using New Combinatorial Chemistry Derived Materials",
   "authors": [
@@ -319,6 +354,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7d136bae32e990e8",
+  "title": "High‐Throughput Characterisation of Materials by Photoluminescence Spectroscopy",
+  "authors": [
+   "Pedro Atienzar",
+   "Avelino Corma",
+   "Hermenegildo Garcı́a",
+   "José M. Serra"
+  ],
+  "journal": "Chemistry - A European Journal",
+  "publisher": "Wiley",
+  "published": "2004-10-21",
+  "year": 2004,
+  "doi": "10.1002/chem.200400471",
+  "url": "https://doi.org/10.1002/chem.200400471",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Instituto de Tecnología Química",
+   "Universitat Politècnica de València"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "524253c087b5118e",
   "title": "Preparation of TiO2 photocatalyst by hydrothermal method from aqueous peroxotitanium acid gel",
   "authors": [
@@ -374,6 +439,39 @@
    "Institute of Advanced Energy, Kyoto University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "babc51b48d679a8a",
+  "title": "Syntheses, Characterization, and Luminescence of Pt II −M I (M = Cu, Ag, Au) Heterometallic Complexes by Incorporating Pt(diimine)(dithiolate) with [M 2 (dppm) 2 ] 2+ (dppm = Bis(diphenylphosphino)methane)",
+  "authors": [
+   "Yandan Chen",
+   "Liyi Zhang",
+   "Lin‐Xi Shi",
+   "Zhong‐Ning Chen"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-19",
+  "year": 2004,
+  "doi": "10.1021/ic049104r",
+  "url": "https://doi.org/10.1021/ic049104r",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Photoluminescence"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Organic Chemistry",
+   "Fujian Institute of Research on the Structure of Matter"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "547a7a6bf336f2cb",
@@ -620,6 +718,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fe9a823286eca12f",
+  "title": "Experimental and Theoretical Study of the Photophysics and Structures of Europium Cryptates Incorporating 3,3′‐Bi‐isoquinoline‐2,2′‐dioxide",
+  "authors": [
+   "Paula Gawryszewska",
+   "Oscar L. Malta",
+   "Ricardo L. Longo",
+   "Fabiana R. Gonçalves e Silva",
+   "Severino Alves",
+   "Krzysztof Mierzwicki",
+   "Zbigniew Latajka",
+   "Marek Pietraszkiewicz",
+   "J. Legendziewicz"
+  ],
+  "journal": "ChemPhysChem",
+  "publisher": "Wiley",
+  "published": "2004-10-14",
+  "year": 2004,
+  "doi": "10.1002/cphc.200400036",
+  "url": "https://doi.org/10.1002/cphc.200400036",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Quantum Yield"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Wrocław",
+   "Universidade Federal de Pernambuco",
+   "Institute of Physical Chemistry"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "842810a4228bab56",
   "title": "Photocatalytic TiO2 film prepared using arc ion plating",
   "authors": [
@@ -680,6 +816,39 @@
    "Instituto de Ciencia de Materiales de Sevilla"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "4943cdb057b4956b",
+  "title": "Molecular Design of Luminescence Ion Probes for Various Cations Based on Weak Gold(I)···Gold(I) Interactions in Dinuclear Gold(I) Complexes",
+  "authors": [
+   "Chi-Kwan Li",
+   "Xiaoxia Lü",
+   "Keith Man‐Chung Wong",
+   "Chui‐Ling Chan",
+   "Nianyong Zhu",
+   "Vivian Wing‐Wah Yam"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2004-10-14",
+  "year": 2004,
+  "doi": "10.1021/ic049094u",
+  "url": "https://doi.org/10.1021/ic049094u",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "State Key Laboratory of Synthetic Chemistry",
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "3a54b7058a935a85",
@@ -1173,6 +1342,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f8468aec6d5fecb7",
+  "title": "Characterization of nanosized partly crystalline photocatalysts",
+  "authors": [
+   "Henrik Jensen",
+   "Karsten D. Joensen",
+   "Jens-Erik J�rgensen",
+   "Jan Skov Pedersen",
+   "G. S�gaard"
+  ],
+  "journal": "Journal of Nanoparticle Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2004-10-01",
+  "year": 2004,
+  "doi": "10.1007/s11051-004-1714-3",
+  "url": "https://doi.org/10.1007/s11051-004-1714-3",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Aalborg University",
+   "X-ray Instrumentation Associates (United States)",
+   "Jj X-Ray",
+   "Aarhus University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e7df63996b65ac22",
   "title": "Photocatalytic Decolorization of Dye usingUV/TiO 2 and Fluidized Bed Reactor",
   "authors": [
@@ -1233,6 +1434,59 @@
    "Banaras Hindu University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "dcbf455d1a8c00e9",
+  "title": "Longitudinal Oscillations in Hall thrusters",
+  "authors": [
+   "S. Barral",
+   "Karol Makowski",
+   "Z. Peradzyński",
+   "Michel Dudeck"
+  ],
+  "journal": "ESASP",
+  "publisher": "",
+  "published": "2004-10-01",
+  "year": 2004,
+  "doi": "10.1021/jacs.2c09745",
+  "url": "https://doi.org/10.1021/jacs.2c09745",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Polish Academy of Sciences",
+   "Centre National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d8993f8d92d2bc40",
+  "title": "Erratum: Control Effectiveness of Ultraviolet Germicidal Irradiation on Bioaerosols",
+  "authors": [],
+  "journal": "Aerosol Science and Technology",
+  "publisher": "Taylor & Francis",
+  "published": "2004-10-01",
+  "year": 2004,
+  "doi": "10.1080/02786820490903921",
+  "url": "https://doi.org/10.1080/02786820490903921",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "c8a6cfa3888d5ba7",
