@@ -63,6 +63,72 @@
   "added": "2026-07-24"
  },
  {
+  "id": "25e92a6af0066cae",
+  "title": "Copper(II) and Nickel(II) Complexes of Binucleating Macrocyclic Bis(disulfide)tetramine Ligands",
+  "authors": [
+   "S. Fox",
+   "R.T. Stibrany",
+   "J.A. Potenza",
+   "Spencer Knapp",
+   "Harvey J. Schugar"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2000-09-28",
+  "year": 2000,
+  "doi": "10.1021/ic000380p",
+  "url": "https://doi.org/10.1021/ic000380p",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Rutgers, The State University of New Jersey"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0a5199cf8d7ad998",
+  "title": "Electronic Structure of Chemically-Prepared Li x Mn 2 O 4 Determined by Mn X-ray Absorption and Emission Spectroscopies",
+  "authors": [
+   "Craig R. Horne",
+   "Uwe Bergmann",
+   "M. M. Grush",
+   "R. C. C. Perera",
+   "D. L. Ederer",
+   "T. A. Callcott",
+   "Elton J. Cairns",
+   "Stephen P. Cramer"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2000-09-23",
+  "year": 2000,
+  "doi": "10.1021/jp994475s",
+  "url": "https://doi.org/10.1021/jp994475s",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "University of Tennessee at Knoxville"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "987a680719c663ad",
   "title": "Photocatalytic Transformation of Organic Compounds in the Presence of Inorganic Ions. 2. Competitive Reactions of Phenol and Alcohols on a Titanium Dioxide−Fluoride System",
   "authors": [
@@ -359,6 +425,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e91c9464bccc5940",
+  "title": "Comparison of the LMCT resonance Raman spectra of PdCl 2 (PCy 3 ) 2 and PdCl 2 (PPh 3 ) 2 : effect of the phenyl versus cyclohexyl substituents on the LMCT excited state",
+  "authors": [
+   "King Hung Leung",
+   "Witold S. Szulbinski",
+   "Davide Le Phillips"
+  ],
+  "journal": "Molecular Physics",
+  "publisher": "Taylor & Francis",
+  "published": "2000-09-01",
+  "year": 2000,
+  "doi": "10.1080/002689700413578",
+  "url": "https://doi.org/10.1080/002689700413578",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e572d1a8ea30b29c",
   "title": "Preparation and characterization of a nano-sized Mo/Ti mixed photocatalyst",
   "authors": [
@@ -451,6 +546,34 @@
    "Yuanpei University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b4e0cbfb48b28d9d",
+  "title": "The nature of the active sites of titanium oxide photocatalysts stabilized on an active carbon surface. A theoretical ab initio study",
+  "authors": [
+   "Nurbosyn U. Zhanpeisov",
+   "Masaru Harada",
+   "Masakazu Anpo"
+  ],
+  "journal": "Journal of Molecular Structure THEOCHEM",
+  "publisher": "Elsevier BV",
+  "published": "2000-09-01",
+  "year": 2000,
+  "doi": "10.1016/s0166-1280(00)00540-6",
+  "url": "https://doi.org/10.1016/s0166-1280(00)00540-6",
+  "source": "openalex",
+  "categories": [
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Photocatalysis"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Osaka Prefecture University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "9ace1167ab24eecb",
@@ -560,6 +683,44 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3260374a23ac0efb",
+  "title": "Efficient Solar Water Splitting, Exemplified by RuO 2 -Catalyzed AlGaAs/Si Photoelectrolysis",
+  "authors": [
+   "Stuart Licht",
+   "Baohui Wang",
+   "Sudeshna Mukerji",
+   "Tetsuo Soga",
+   "M. Umeno",
+   "H. Tributsch"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2000-09-01",
+  "year": 2000,
+  "doi": "10.1021/jp002083b",
+  "url": "https://doi.org/10.1021/jp002083b",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photoelectrolysis",
+   "Semiconductors",
+   "Water Splitting"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "Technion – Israel Institute of Technology",
+   "Nagoya Institute of Technology",
+   "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "2f1bd00b3bd2a08a",

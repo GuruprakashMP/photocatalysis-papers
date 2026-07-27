@@ -209,6 +209,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "d5e52e3e82460994",
+  "title": "Accurate ab initio determination of magnetic interactions and hopping integrals in La2−xSrxCuO4 systems",
+  "authors": [
+   "Carmen J. Calzado",
+   "Javier Fdez. Sanz",
+   "Jean Paul Malrieu"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2000-03-15",
+  "year": 2000,
+  "doi": "10.1063/1.481093",
+  "url": "https://doi.org/10.1063/1.481093",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Université Toulouse III - Paul Sabatier",
+   "Institut de Recherche sur les Systèmes Atomiques et Moléculaires Complexes",
+   "Laboratoire de Chimie et Physique Quantiques",
+   "Universidad de Sevilla"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7765ef37340ddbe2",
   "title": "Photocatalytic Pilot Scale Degradation Study of Pyrimethanil and of Its Main Degradation Products in Waters by Means of Solid-Phase Extraction Followed by Gas and Liquid Chromatography with Mass Spectrometry Detection",
   "authors": [
@@ -563,6 +597,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "92e492ae35e0c607",
+  "title": "Time-resolved photoluminescence of particulate TiO2 photocatalysts suspended in aqueous solutions",
+  "authors": [
+   "Kan Fujihara",
+   "Shinobu Izumi",
+   "Teruhisa Ohno",
+   "Michio Matsumura"
+  ],
+  "journal": "Journal of Photochemistry and Photobiology A Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2000-03-01",
+  "year": 2000,
+  "doi": "10.1016/s1010-6030(00)00204-5",
+  "url": "https://doi.org/10.1016/s1010-6030(00)00204-5",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoluminescence",
+   "TiO2"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7ac6138e3133b969",
   "title": "Surface charge transfer processes; hot electron mediated dissociation and photocatalysis",
   "authors": [
@@ -680,6 +745,66 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3da3130ed1aed389",
+  "title": "The absolute energy positions of conduction and valence bands of selected semiconducting minerals",
+  "authors": [
+   "Yong Xu",
+   "Martin A. A. Schoonen"
+  ],
+  "journal": "American Mineralogist",
+  "publisher": "Mineralogical Society of America",
+  "published": "2000-03-01",
+  "year": 2000,
+  "doi": "10.2138/am-2000-0416",
+  "url": "https://doi.org/10.2138/am-2000-0416",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Stony Brook University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "319c62a84ce3fc06",
+  "title": "Degradation of propoxur in water using 2,4,6-triphenylpyrylium–Zeolite Y as photocatalyst",
+  "authors": [
+   "Ana M. Sanjuán",
+   "Guillermo Aguirre",
+   "Mercedes Ãlvaro",
+   "Hermenegildo Garcı́a",
+   "J. C. Scaiano"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2000-03-01",
+  "year": 2000,
+  "doi": "10.1016/s0926-3373(99)00140-x",
+  "url": "https://doi.org/10.1016/s0926-3373(99)00140-x",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Instituto de Tecnología Química",
+   "Universitat Politècnica de València",
+   "University of Ottawa"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "12ecbc764c900a96",

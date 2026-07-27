@@ -1,5 +1,34 @@
 [
  {
+  "id": "468f49d20618ab2f",
+  "title": "Mechanistic Study of CO 2 Photoreduction in Ti Silicalite Molecular Sieve by FT-IR Spectroscopy",
+  "authors": [
+   "N. Ulagappan",
+   "Heinz Frei"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2000-07-29",
+  "year": 2000,
+  "doi": "10.1021/jp001470i",
+  "url": "https://doi.org/10.1021/jp001470i",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT",
+   "Photoreduction"
+  ],
+  "relevance_score": 62,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6b55b7a39386e235",
   "title": "Photoanodic Dissolution of n-InP: An Electrochemical Impedance Study",
   "authors": [
@@ -54,6 +83,35 @@
   "relevance_score": 88,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ca4d514728c19202",
+  "title": "Application of the Photodegradation Method to a Water Reclamation System",
+  "authors": [
+   "Kazuhiro Toda",
+   "Atsuko Ohwada",
+   "Noboru Nagayama",
+   "Takanobu Shimoda"
+  ],
+  "journal": "SAE technical papers on CD-ROM/SAE technical paper series",
+  "publisher": "",
+  "published": "2000-07-10",
+  "year": 2000,
+  "doi": "10.4271/2000-01-2520",
+  "url": "https://doi.org/10.4271/2000-01-2520",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "Advanced Engineering Services (Japan)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "68c14554395dac46",
@@ -147,6 +205,47 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cb5b3879b77ad1cc",
+  "title": "FeIII-Hydroperoxo and Peroxo Complexes with Aminopyridyl Ligands and the Resonance Raman Spectroscopic Identification of the Fe−O and O−O Stretching Modes",
+  "authors": [
+   "A. Jalila Simaan",
+   "Susanne Döpner",
+   "Frédéric Banse",
+   "Sophie Bourcier",
+   "Guy Bouchoux",
+   "Alain Boussac",
+   "Peter Hildebrandt",
+   "Jean‐Jacques Girerd"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2000-07-01",
+  "year": 2000,
+  "doi": "10.1002/1099-0682(200007)2000:7<1627::aid-ejic1627>3.0.co;2-9",
+  "url": "https://doi.org/10.1002/1099-0682(200007)2000:7<1627::aid-ejic1627>3.0.co;2-9",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Université Paris-Sud",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie",
+   "Max Planck Society",
+   "Max-Planck-Institut für Kohlenforschung",
+   "École Polytechnique",
+   "Commissariat à l'Énergie Atomique et aux Énergies Alternatives",
+   "CEA Paris-Saclay"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "beabdecaab091e27",
   "title": "A comparative study for the synergistic effect of ozone on the γ-irradiated and photocatalytic reaction of 4-chlorobenzaldehyde",
   "authors": [
@@ -173,6 +272,33 @@
    "University of Vienna"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b962cb1a196e3e14",
+  "title": "Effects of Photocatalyst Pretreatment on the Rate of Mineralisation of a Fungicide",
+  "authors": [
+   "John Nettleton-Hammond",
+   "Mounir A. Malati"
+  ],
+  "journal": "Reaction Kinetics and Catalysis Letters",
+  "publisher": "Akadémiai Kiadó",
+  "published": "2000-07-01",
+  "year": 2000,
+  "doi": "10.1023/a:1010301219444",
+  "url": "https://doi.org/10.1023/a:1010301219444",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "AstraZeneca (United Kingdom)",
+   "MidKent College"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "b2d6ab68447479f0",
@@ -355,6 +481,34 @@
    "University of Waterloo"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1bd9534e46a86c46",
+  "title": "Photoreactivity of the triphenylphosphine adduct of methyl(trioxo)rhenium(VII) induced by ligand-to-metal charge transfer excitation",
+  "authors": [
+   "Horst Kunkely",
+   "Arnd Vogler"
+  ],
+  "journal": "Journal of Organometallic Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2000-07-01",
+  "year": 2000,
+  "doi": "10.1016/s0022-328x(00)00274-6",
+  "url": "https://doi.org/10.1016/s0022-328x(00)00274-6",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Regensburg"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "11ba454770ad61fe",
