@@ -242,6 +242,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e8e774065ff4d0ba",
+  "title": "Coloquio de los colaboradores en el tema monográfico",
+  "authors": [
+   "Miguel Durán Bellido"
+  ],
+  "journal": "Todo hospital",
+  "publisher": "",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1021/acs.accounts.9b00153",
+  "url": "https://doi.org/10.1021/acs.accounts.9b00153",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Plasmonic Photocatalysis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Band Structure",
+   "Charge Carriers",
+   "DFT",
+   "LSPR",
+   "Photocatalysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e6687c972dd5b32f",
   "title": "Photocatalysis (VIII) (stereo)selective photochemical co-dimerization of cyclohexene and cycloheptene, catalyzed by copper (I) triflate",
   "authors": [
@@ -293,6 +324,70 @@
   "relevance_score": 49,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d79962b9b22528ad",
+  "title": "New anode materials for photoelectrolysis",
+  "authors": [
+   "G. Bin-Daar",
+   "M. P. Dare‐Edwards",
+   "John B. Goodenough",
+   "A. Hamnett"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1039/f19837901199",
+  "url": "https://doi.org/10.1039/f19837901199",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photoelectrolysis",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "d5af367311b95228",
+  "title": "Rates of hydroxy radical reactions with methane, ethane and propane over the temperature range 403–696 K",
+  "authors": [
+   "D. L. Baulch",
+   "Robert Craven",
+   "M. Yu. Zeyn el Din",
+   "D. D. Drysdale",
+   "Stephen Grant",
+   "David J. Richardson",
+   "Albert C. Walker",
+   "Gillian Watling"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1039/f19837900689",
+  "url": "https://doi.org/10.1039/f19837900689",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "d5587b8ce8500a55",
@@ -401,6 +496,37 @@
    "The University of Tokyo"
   ],
   "added": "2026-07-25"
+ },
+ {
+  "id": "cb040bd2c3a3b8da",
+  "title": "A photoelectrochemical study of the hexagonal ferrite PbFe12O19",
+  "authors": [
+   "E. Pollert",
+   "J. Hejtmaneck",
+   "J.P. Doumerc",
+   "J. Claverie",
+   "Paul Hagenmuller"
+  ],
+  "journal": "Journal of Physics and Chemistry of Solids",
+  "publisher": "Elsevier BV",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1016/0022-3697(83)90095-1",
+  "url": "https://doi.org/10.1016/0022-3697(83)90095-1",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Institute of Physics of the Slovak Academy of Sciences",
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Chimie"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "ca3acb5ea4dd7b00",
@@ -734,6 +860,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "92d96cd37069dcc6",
+  "title": "Electrochemical investigation of the energetics of particulate titanium dioxide photocatalysts. The methyl viologen-acetate system",
+  "authors": [
+   "Michael D. Ward",
+   "James R. White",
+   "Allen J. Bard"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1021/ja00339a007",
+  "url": "https://doi.org/10.1021/ja00339a007",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Texas at Austin"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8bd2b5db3670605a",
   "title": "Semiconductor Particulate Systems for Photocatalysis and Photosynthesis: An Overview",
   "authors": [
@@ -788,6 +942,34 @@
    "University of Vienna"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8435b140a8d7179e",
+  "title": "Iron oxide electrodes for photoelectrolysis of water",
+  "authors": [
+   "N. Giordano",
+   "E. Passalacqua",
+   "V. Antonucci",
+   "J BART"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1016/0360-3199(83)90205-7",
+  "url": "https://doi.org/10.1016/0360-3199(83)90205-7",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Eni (Italy)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "7f682a9fa872f545",
@@ -1090,6 +1272,37 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "2bf150b8dc99ee1b",
+  "title": "Electrochemistry and photoelectrochemistry of iron(III) oxide",
+  "authors": [
+   "M. P. Dare‐Edwards",
+   "John B. Goodenough",
+   "A. Hamnett",
+   "Peter R. Trevellick"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions 1 Physical Chemistry in Condensed Phases",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1983-01-01",
+  "year": 1983,
+  "doi": "10.1039/f19837902027",
+  "url": "https://doi.org/10.1039/f19837902027",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Oxford"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "297e95c5f9111a54",

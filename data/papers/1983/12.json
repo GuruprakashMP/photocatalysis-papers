@@ -81,6 +81,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "feb98a997b16bb3d",
+  "title": "Transport and kinetics in photoelectrolysis by semiconductor particles in suspension",
+  "authors": [
+   "J. S. Curran",
+   "D. Lamouche"
+  ],
+  "journal": "The Journal of Physical Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1021/j150644a020",
+  "url": "https://doi.org/10.1021/j150644a020",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f4afb596b14cc5cf",
   "title": "Photocatalytic synthesis of ammonia",
   "authors": [],
@@ -261,5 +287,90 @@
    "Institute of Metallurgy and Materials Science"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "75afa5e0754c6254",
+  "title": "Substitutional and defect doping effects on the photoelectrochemical properties of transition metal oxide electrodes",
+  "authors": [
+   "J.F. Houlihan",
+   "Art N. Bain",
+   "T. Pannaparayil",
+   "Ryan Pollock"
+  ],
+  "journal": "Alternative Energy Sources",
+  "publisher": "",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "",
+  "url": "https://www.osti.gov/scitech/biblio/6684573",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Doping",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Semiconductors"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "593901509d044a8c",
+  "title": "Photoelectrochemical reduction of carbon dioxide to formic acid, formaldehyde and methanol on p-gallium arsenide in an aqueous V(II)-V(III) chloride redox system",
+  "authors": [
+   "M. Zafrir",
+   "M. Ulman",
+   "Y. Zuckerman",
+   "M. Halmann"
+  ],
+  "journal": "Journal of Electroanalytical Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "10.1016/s0022-0728(83)80635-4",
+  "url": "https://doi.org/10.1016/s0022-0728(83)80635-4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Isotop (Israel)",
+   "Weizmann Institute of Science"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "0f56b967c98364aa",
+  "title": "PHOTOELECTROLYSIS AT ORDERED POLYCRYSTALLINE GaPc-Cl THIN FILM SURFACES.",
+  "authors": [
+   "Peter C. Rieke",
+   "Clovis L. Linkons",
+   "Neal R. Armstrong"
+  ],
+  "journal": "Electrochemical Society Extended Abstracts",
+  "publisher": "",
+  "published": "1983-12-01",
+  "year": 1983,
+  "doi": "",
+  "url": "https://arizona.pure.elsevier.com/en/publications/photoelectrolysis-at-ordered-polycrystalline-gapc-cl-thin-film-su",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  }
 ]

@@ -1,5 +1,31 @@
 [
  {
+  "id": "1881633188e04755",
+  "title": "ChemInform Abstract: NEW ANODE METERIALS FOR PHOTOELECTROLYSIS",
+  "authors": [
+   "G. Bin-Daar",
+   "M. P. Dare‐Edwards",
+   "John B. Goodenough",
+   "A. Hamnett"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-08-30",
+  "year": 1983,
+  "doi": "10.1002/chin.198335009",
+  "url": "https://doi.org/10.1002/chin.198335009",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "89ea195e9127d8e7",
   "title": "ChemInform Abstract: COMPETITION REACTIONS AT α‐FERRIC OXIDE PHOTOANODES",
   "authors": [
@@ -22,6 +48,30 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "03f908a69aebeeef",
+  "title": "ChemInform Abstract: PHOTOELECTROLYSIS OF WATER AT α‐FERRIC OXIDE ELECTRODES IN ACIDIC SOLUTION",
+  "authors": [
+   "John H. Kennedy",
+   "M. Anderman"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-08-23",
+  "year": 1983,
+  "doi": "10.1002/chin.198334023",
+  "url": "https://doi.org/10.1002/chin.198334023",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "d21fb0402586bd84",
@@ -100,5 +150,42 @@
    "Eltron Research"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "284cf23752073171",
+  "title": "Titanium dioxide as photocatalyst in hydrogen production",
+  "authors": [
+   "V.V. Nikandrov",
+   "G.P. Brin",
+   "А.А. Krasnovsky"
+  ],
+  "journal": "Photobiochemistry and photobiophysics.",
+  "publisher": "",
+  "published": "1983-08-01",
+  "year": 1983,
+  "doi": "10.1016/s0165-8646(24)00559-2",
+  "url": "https://doi.org/10.1016/s0165-8646(24)00559-2",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoreduction",
+   "Quantum Yield",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "A N Bach Institute of Biochemistry"
+  ],
+  "added": "2026-07-27"
  }
 ]

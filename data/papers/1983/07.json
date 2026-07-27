@@ -26,6 +26,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "c118469d07d25dc4",
+  "title": "ChemInform Abstract: PRODUCTION OF HYDROGEN BY PHOTOCHEMICAL SPLITTING OF WATER USING DIAMMONIUM TETRATHIOMOLYBDATE AS PHOTOCATALYST",
+  "authors": [
+   "Amrita Bhattacharya",
+   "Jayanta Kumar Basu",
+   "Kundan Kumar Das",
+   "R.G. Bhattacharyya",
+   "Amit Chatterjee",
+   "K.K. Rohatgi-Mukherjee"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-07-19",
+  "year": 1983,
+  "doi": "10.1002/chin.198329035",
+  "url": "https://doi.org/10.1002/chin.198329035",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "ec2a4e5da88522d1",
   "title": "Influence of hydrogen reduction on photoelectrochemical behavior of anodic oxidized n-TiO2-layers",
   "authors": [
@@ -250,6 +278,65 @@
    "The University of Tokyo"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "169fda690a886266",
+  "title": "The preparation and selected properties of Mg-doped p-type iron oxide as a photocathode for the photoelectrolysis of water using visible light",
+  "authors": [
+   "Christofer Leygraf",
+   "M. Hendewerk",
+   "Gábor A. Somorjai"
+  ],
+  "journal": "Journal of Solid State Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1016/0022-4596(83)90093-2",
+  "url": "https://doi.org/10.1016/0022-4596(83)90093-2",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photocathodes",
+   "Photoelectrolysis",
+   "Visible Light"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Lawrence Berkeley National Laboratory",
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "095929c4ee0d44a7",
+  "title": "HYDROGEN AND OXYGEN PHOTOPRODUCTION BY TITANATE POWDERS",
+  "authors": [
+   "Richard S. Magliozzo",
+   "Alvin I. Krasna"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "1983-07-01",
+  "year": 1983,
+  "doi": "10.1111/j.1751-1097.1983.tb08360.x",
+  "url": "https://doi.org/10.1111/j.1751-1097.1983.tb08360.x",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [
+   "Albert Einstein College of Medicine",
+   "Columbia University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "01ba6e976b150bf0",

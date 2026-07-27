@@ -1,5 +1,31 @@
 [
  {
+  "id": "7cd105fc8ab7b46a",
+  "title": "ChemInform Abstract: ELECTROCHEMICAL INVESTIGATION OF THE ENERGETICS OF PARTICULATE TITANIUM DIOXIDE PHOTOCATALYSTS. THE METHYL VIOLOGEN‐ACETATE SYSTEM",
+  "authors": [
+   "Michael D. Ward",
+   "James R. White",
+   "Allen J. Bard"
+  ],
+  "journal": "Chemischer Informationsdienst",
+  "publisher": "Wiley",
+  "published": "1983-04-19",
+  "year": 1983,
+  "doi": "10.1002/chin.198316095",
+  "url": "https://doi.org/10.1002/chin.198316095",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "fd5111309117c125",
   "title": "Stability of Semiconducting TiO2 Photoanodes",
   "authors": [
@@ -55,6 +81,35 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "ba7c6b478ea667e8",
+  "title": "The cluster–lattice interaction in the calculation of the electronic structure of CrF3−6 in K2NaCrF6",
+  "authors": [
+   "Zoila Barandiarán",
+   "L. Pueyo",
+   "F. Gómez Beltrán"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1063/1.445303",
+  "url": "https://doi.org/10.1063/1.445303",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Universidad de Oviedo"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "add8365be407e078",
@@ -136,6 +191,32 @@
    "University of California, Santa Barbara"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7c19d157383b64fd",
+  "title": "Oxidized rare earth-iron compounds in photoassisted electrolysis of water",
+  "authors": [
+   "Abolghasem Shamsi",
+   "W.E. Wallace"
+  ],
+  "journal": "Materials Research Bulletin",
+  "publisher": "Elsevier BV",
+  "published": "1983-04-01",
+  "year": 1983,
+  "doi": "10.1016/0025-5408(83)90129-0",
+  "url": "https://doi.org/10.1016/0025-5408(83)90129-0",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "University of Pittsburgh"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6879272287aca976",
