@@ -2504,6 +2504,42 @@
   "added": "2026-07-24"
  },
  {
+  "id": "a98c8b2ef8297b85",
+  "title": "Ab initio study of a Bi3+ impurity in Cs2NaYCl6 and Y2O3: Comparison of perturbative and variational electron correlation methods",
+  "authors": [
+   "Florent Réal",
+   "Valérie Vallet",
+   "Jean‐Pierre Flament",
+   "J. Schamps"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2006-11-06",
+  "year": 2006,
+  "doi": "10.1063/1.2361293",
+  "url": "https://doi.org/10.1063/1.2361293",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Charge Transfer",
+   "Doping",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Laboratoire de Physique des Lasers, Atomes et Molécules"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "f63640df0ad63b7b",
   "title": "Simulation of a multi-annular photocatalytic reactor for degradation of perchloroethylene in air: Parametric analysis of radiative energy efficiencies",
   "authors": [
@@ -2901,6 +2937,36 @@
    "University of Calabria"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "bb6e140167d35d7f",
+  "title": "Photochemistry of Organic Iron(III) Complexing Ligands in Oceanic Systems",
+  "authors": [
+   "Katherine A. Barbeau"
+  ],
+  "journal": "Photochemistry and Photobiology",
+  "publisher": "Wiley",
+  "published": "2006-11-01",
+  "year": 2006,
+  "doi": "10.1111/j.1751-1097.2006.tb09806.x",
+  "url": "https://doi.org/10.1111/j.1751-1097.2006.tb09806.x",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "ROS",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Scripps Institution of Oceanography",
+   "University of California San Diego"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "ad43d72f55b6c7ad",

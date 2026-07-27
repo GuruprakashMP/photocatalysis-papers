@@ -421,6 +421,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "0e88a377aa5cf806",
+  "title": "Photodegradation of glyphosate in the ferrioxalate system",
+  "authors": [
+   "Yong Chen",
+   "Feng Wu",
+   "Yixin Lin",
+   "Nansheng Deng",
+   "N. M. Bazhin",
+   "Evgeni M. Glebov"
+  ],
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "published": "2007-02-26",
+  "year": 2007,
+  "doi": "10.1016/j.jhazmat.2007.02.044",
+  "url": "https://doi.org/10.1016/j.jhazmat.2007.02.044",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Wuhan University",
+   "Institute of Chemical Kinetics and Combustion"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "eac0a65805526d06",
   "title": "LC-MS for identifying photodegradation products of pharmaceuticals in the environment",
   "authors": [
@@ -714,6 +745,29 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4f9d2396ff87d0c9",
+  "title": "Polymeric Photocatalysts",
+  "authors": [
+   "Prof. Dr. W. Schnabel"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2007-02-23",
+  "year": 2007,
+  "doi": "10.1002/9783527611027.ch14",
+  "url": "https://doi.org/10.1002/9783527611027.ch14",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "adeada9c8514a651",
   "title": "Flame synthesis of TiO2 nanoparticles with high photocatalytic activity",
   "authors": [
@@ -954,6 +1008,40 @@
    "Nanjing University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b941b559574c0af4",
+  "title": "Single Wall Carbon Nanotube Scaffolds for Photoelectrochemical Solar Cells. Capture and Transport of Photogenerated Electrons",
+  "authors": [
+   "Anusorn Kongkanand",
+   "Rebeca Martínez Domínguez",
+   "Prashant V. Kamat"
+  ],
+  "journal": "Nano Letters",
+  "publisher": "American Chemical Society",
+  "published": "2007-02-20",
+  "year": 2007,
+  "doi": "10.1021/nl0627238",
+  "url": "https://doi.org/10.1021/nl0627238",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Photogenerated Carriers",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Notre Dame"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "b4790c8d27175526",
@@ -1455,6 +1543,36 @@
    "Tianjin University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "575557887359e92b",
+  "title": "Study on Nano Film of TiO 2 and ZnFe 2 O 4 Composite Prepared by Dip Coating Method",
+  "authors": [
+   "Hong‐Yi Li",
+   "Yun Ling",
+   "Xing Jun Jiang",
+   "Xin Bai"
+  ],
+  "journal": "Key engineering materials",
+  "publisher": "Trans Tech Publications",
+  "published": "2007-02-15",
+  "year": 2007,
+  "doi": "10.4028/www.scientific.net/kem.280-283.819",
+  "url": "https://doi.org/10.4028/www.scientific.net/kem.280-283.819",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors",
+   "TiO2"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Tsinghua University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "3f4e4631d9897a87",
@@ -1971,6 +2089,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "1fcb79c63cb43e89",
+  "title": "Erratum to “The kinetics of phenol decomposition under UV irradiation with and without H2O2 on TiO2, Fe–TiO2 and Fe–C–TiO2 photocatalysts” [Appl. Catal. B: Environ. 65 (2006) 86–92]",
+  "authors": [
+   "Beata Tryba",
+   "Antoni W. Morawski",
+   "Michio Inagaki",
+   "Masahiro Toyoda"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2007-02-10",
+  "year": 2007,
+  "doi": "10.1016/j.apcatb.2007.02.002",
+  "url": "https://doi.org/10.1016/j.apcatb.2007.02.002",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Szczecin",
+   "Aichi Institute of Technology",
+   "Oita University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "e730204c023cca08",
   "title": "Unexpected Selective Photocatalytic Reduction of Nitrite to Nitrogen on Silver-Doped Titanium Dioxide",
   "authors": [
@@ -2391,6 +2540,38 @@
    "Northwestern University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1c8f07c72964950b",
+  "title": "Chemical bonding in V ( TCNE ) x ( x ∼ 2 ) thin-film magnets grown in situ",
+  "authors": [
+   "M. P. de Jong",
+   "Carl Tengstedt",
+   "Anna Kanciurzewska",
+   "Elin Carlegrim",
+   "W. R. Salaneck",
+   "Mats Fahlman"
+  ],
+  "journal": "Physical Review B",
+  "publisher": "American Physical Society",
+  "published": "2007-02-06",
+  "year": 2007,
+  "doi": "10.1103/physrevb.75.064407",
+  "url": "https://doi.org/10.1103/physrevb.75.064407",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Linköping University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "a1df3ce231958e23",
@@ -3526,6 +3707,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "aecd22fa929dc83d",
+  "title": "Development and basic study of TiO 2 coatings",
+  "authors": [
+   "S. Sugihara",
+   "L. R. Sheppard"
+  ],
+  "journal": "Advances in Applied Ceramics Structural Functional and Bioceramics",
+  "publisher": "Taylor & Francis",
+  "published": "2007-02-01",
+  "year": 2007,
+  "doi": "10.1179/174367607x152623",
+  "url": "https://doi.org/10.1179/174367607x152623",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "Shonan Institute of Technology",
+   "UNSW Sydney",
+   "Division of Materials Science and Engineering"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a71592865390c772",
   "title": "Synthesis and Photocatalytic Properties of Mesoporous TiO 2 /ZnO Films with Improved Hydrophilicity",
   "authors": [
@@ -3767,6 +3977,37 @@
    "In-Q-Tel"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "587d5c985be42e35",
+  "title": "Controllable Synthesis and Optical Properties of Zn-Doped CdS Nanorods from Single-Source Molecular Precursors",
+  "authors": [
+   "Yongcai Zhang",
+   "Wei Wei Chen",
+   "Xiao Ya Hu"
+  ],
+  "journal": "Crystal Growth & Design",
+  "publisher": "American Chemical Society",
+  "published": "2007-02-01",
+  "year": 2007,
+  "doi": "10.1021/cg060597f",
+  "url": "https://doi.org/10.1021/cg060597f",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "CdS",
+   "Photocatalysis",
+   "Photoluminescence"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Yangzhou University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "4cb2bb466d3816d4",

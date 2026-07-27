@@ -1,5 +1,34 @@
 [
  {
+  "id": "ec8e37909eb7c4bd",
+  "title": "Structural and optoelectronic characterization of TiO 2 films prepared using the sol–gel technique",
+  "authors": [
+   "A. E. González",
+   "S Gelover Santiago"
+  ],
+  "journal": "Semiconductor Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2007-05-31",
+  "year": 2007,
+  "doi": "10.1088/0268-1242/22/7/006",
+  "url": "https://doi.org/10.1088/0268-1242/22/7/006",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Band Gap",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Universidad Nacional Autónoma de México"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "cc4549580f1a5af5",
   "title": "Evaluation and testing of a novel photocatalytic reactor with model water pollutants.",
   "authors": [
@@ -431,6 +460,34 @@
    "AGH University of Krakow"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "03b6a5149d24134b",
+  "title": "Time-resolved infrared absorption study of nine TiO2 photocatalysts",
+  "authors": [
+   "Akira Yamakata",
+   "Taka‐aki Ishibashi",
+   "Hiroshi Ōnishi"
+  ],
+  "journal": "Chemical Physics",
+  "publisher": "Elsevier BV",
+  "published": "2007-05-28",
+  "year": 2007,
+  "doi": "10.1016/j.chemphys.2007.05.010",
+  "url": "https://doi.org/10.1016/j.chemphys.2007.05.010",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Kanagawa Academy of Science and Technology"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "639ccd24bb8ad547",
@@ -1449,6 +1506,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "58431136048ace2a",
+  "title": "Optical Properties of the Phosphorescent Trinuclear Copper(I) Complexes of Pyrazolates: Insights from Theory",
+  "authors": [
+   "Bo Hu",
+   "Godefroid Gahungu",
+   "Jingping Zhang"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2007-05-19",
+  "year": 2007,
+  "doi": "10.1021/jp0689215",
+  "url": "https://doi.org/10.1021/jp0689215",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Jilin Normal University",
+   "Northeast Normal University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "30fc220c3606002c",
   "title": "Enhanced mineralization of phenol and other hydroxylated compounds in a photocatalytic process assisted with ferric ions",
   "authors": [
@@ -2442,6 +2531,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "449fe7ac45d8513b",
+  "title": "NO x and SO x Removal by Low Temperature Plasma-Photocatalysts Hybrid System",
+  "authors": [
+   "Dong‐Joo Kim",
+   "Anna Nasonova",
+   "Jong Hun Park",
+   "Jin Kang",
+   "Kyo Seon Kim"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2007-05-15",
+  "year": 2007,
+  "doi": "10.4028/www.scientific.net/msf.544-545.91",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.544-545.91",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Kangwon National University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "446faf0426af1128",
   "title": "Photocatalytic and Photoelectrochemical Properties of Nitrogen-Substituted TiO 2 Thin Films Prepared by an RF Magnetron Sputtering Deposition Method",
   "authors": [
@@ -2572,6 +2690,41 @@
    "Thailand National Metal and Materials Technology Center"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1b27f39d131ee0fa",
+  "title": "Characterization of Flame-Generated TiO 2 Deposited Activated Carbon Fibers (ACF)",
+  "authors": [
+   "Jae Hong Park",
+   "Jun Ho Ji",
+   "Jeong Hoon Byeon",
+   "Gyo Woo Lee",
+   "Jung Ho Hwang"
+  ],
+  "journal": "Materials science forum",
+  "publisher": "Trans Tech Publications",
+  "published": "2007-05-15",
+  "year": 2007,
+  "doi": "10.4028/www.scientific.net/msf.544-545.31",
+  "url": "https://doi.org/10.4028/www.scientific.net/msf.544-545.31",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Pollutants",
+   "TiO2"
+  ],
+  "relevance_score": 76,
+  "affiliations": [
+   "Yonsei University",
+   "Samsung (South Korea)",
+   "Jeonbuk National University Hospital"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "190a769576b5182f",
@@ -3648,6 +3801,34 @@
   "added": "2026-07-24"
  },
  {
+  "id": "ed78b9d253644aa8",
+  "title": "Raschig rings-Fe2O3 composite photocatalyst activate in the degradation of 4-chlorophenol and Orange II under daylight irradiation",
+  "authors": [
+   "Jayasundera Bandara",
+   "U. Klehm",
+   "J. Kiwi"
+  ],
+  "journal": "Applied Catalysis B: Environmental",
+  "publisher": "Elsevier BV",
+  "published": "2007-05-06",
+  "year": 2007,
+  "doi": "10.1016/j.apcatb.2007.05.007",
+  "url": "https://doi.org/10.1016/j.apcatb.2007.05.007",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Institute of Fundamental Studies",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a6cfe79e399716a2",
   "title": "Preparation of (Ga1−Zn ) (N1−O ) solid-solution from ZnGa2O4 and ZnO as a photo-catalyst for overall water splitting under visible light",
   "authors": [
@@ -4132,6 +4313,40 @@
   "added": "2026-07-24"
  },
  {
+  "id": "af76c9e3f579d4d0",
+  "title": "Ligand-to-Metal Charge Transfer Excited States with Unprecedented Luminescence Yield in Fluid Solution",
+  "authors": [
+   "G. V. Loukova",
+   "W. Hühn",
+   "V. P. Vasiliev",
+   "Vyatcheslav A. Smirnov"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2007-05-01",
+  "year": 2007,
+  "doi": "10.1021/jp0721797",
+  "url": "https://doi.org/10.1021/jp0721797",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Russian Academy of Sciences",
+   "Procter & Gamble (Italy)",
+   "Institute of Problems of Chemical Physics"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "a77b263a3bc9ad87",
   "title": "The Usage of Non‐woven Fabric Material as Separation Media in Submerged Membrane Photocatalytic Reactor for Degradation of Organic Pollutants in Water",
   "authors": [
@@ -4560,6 +4775,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "573c5311e7cc09bf",
+  "title": "Electrodeposited amorphous iron(III) oxides as anodes for photoelectrolysis of water",
+  "authors": [
+   "Peishan Li",
+   "Hsisheng Teng"
+  ],
+  "journal": "Journal of The Chinese Institute of Chemical Engineers",
+  "publisher": "",
+  "published": "2007-05-01",
+  "year": 2007,
+  "doi": "10.1016/j.jcice.2007.01.006",
+  "url": "https://doi.org/10.1016/j.jcice.2007.01.006",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "National Cheng Kung University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "5577f9a74c2ea7d8",
   "title": "The Preparation of Binary Oxide ZrO2-TiO2 Semiconductor by Sol-gel Method and Their Photocatalytic Reactivity for the Degradation of 4-chlorophenol",
   "authors": [
@@ -4717,6 +4958,35 @@
   "relevance_score": 49,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "465b5cf55d36fc6d",
+  "title": "Wavelength and Metal Dependence in the Photofragmentation of a Gas-Phase Lanthanide β-Diketonate Complex",
+  "authors": [
+   "Franklin P. Ow",
+   "Mary T. Berry",
+   "P. Stanley May",
+   "Jeffrey I. Zink"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2007-05-01",
+  "year": 2007,
+  "doi": "10.1021/jp068838h",
+  "url": "https://doi.org/10.1021/jp068838h",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of California, Los Angeles",
+   "University of South Dakota"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "442daa1c0ca6f2d7",
@@ -5014,6 +5284,35 @@
    "University of Patras"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "09e7bca1f8c1fdbc",
+  "title": "New floating photocatalysts based on expanded graphite and anatase",
+  "authors": [
+   "A. P. Yaroshenko",
+   "М. В. Савоськин",
+   "Vadym N. Mochalin",
+   "N. I. Lazareva"
+  ],
+  "journal": "Russian Journal of Applied Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2007-05-01",
+  "year": 2007,
+  "doi": "10.1134/s1070427207050126",
+  "url": "https://doi.org/10.1134/s1070427207050126",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "National Academy of Sciences of Ukraine"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "05364639bef390d0",

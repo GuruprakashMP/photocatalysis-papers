@@ -446,6 +446,38 @@
   "added": "2026-07-24"
  },
  {
+  "id": "fc7718a1cafd36f1",
+  "title": "Theoretical Study of Adsorption of O( 3 P) and H 2 O on the Rutile TiO 2 (110) Surface",
+  "authors": [
+   "Zheng‐Wang Qu",
+   "Geert–Jan Kroes"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2006-10-26",
+  "year": 2006,
+  "doi": "10.1021/jp065028x",
+  "url": "https://doi.org/10.1021/jp065028x",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials",
+   "Computational & DFT",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "DFT",
+   "Photoelectrolysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Leiden University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "cf6237508b9938b7",
   "title": "Photolysis and photocatalysis of bisphenol A: identification of degradation products by liquid chromatography with electrospray ionization/time-of-flight/mass spectrometry (LC/ESI/ToF/MS)",
   "authors": [
@@ -1076,6 +1108,38 @@
    "Winona State University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "76fa2b9a118987d3",
+  "title": "Nafion Quantity Variation on Electrodes used in SPE Electrolyzer",
+  "authors": [
+   "Lizbeth Morales",
+   "L.G. Arríaga",
+   "U. Cano",
+   "Roberto I. Acosta"
+  ],
+  "journal": "ECS Transactions",
+  "publisher": "Institute of Physics",
+  "published": "2006-10-20",
+  "year": 2006,
+  "doi": "10.1149/1.2356157",
+  "url": "https://doi.org/10.1149/1.2356157",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Oxygen Evolution",
+   "Photoelectrolysis",
+   "Pollutants"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Quintana Roo"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "61ab3b1e2ca84d8e",
@@ -1917,6 +1981,36 @@
    "University of New Brunswick"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "44c1ee843637a131",
+  "title": "Computational Studies on the Photophysical Properties and NMR Fluxionality of the Tetranuclear Copper(I) Complexes [Cu 4 (μ-dppm) 4 (μ 4 -E)] 2+ (E = PPh and S)",
+  "authors": [
+   "Wai Han Lam",
+   "Eddie Chung‐Chin Cheng",
+   "Vivian Wing‐Wah Yam"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2006-10-11",
+  "year": 2006,
+  "doi": "10.1021/ic0612855",
+  "url": "https://doi.org/10.1021/ic0612855",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "DFT",
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "df24b13c19e396ea",
@@ -2878,6 +2972,40 @@
    "National Environmental Engineering Research Institute"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "7d772262b1359eb3",
+  "title": "Solar conversion efficiency of photovoltaic and photoelectrolysis cells with carrier multiplication absorbers",
+  "authors": [
+   "M. C. Hanna",
+   "Arthur J. Nozik"
+  ],
+  "journal": "Journal of Applied Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2006-10-01",
+  "year": 2006,
+  "doi": "10.1063/1.2356795",
+  "url": "https://doi.org/10.1063/1.2356795",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Hydrogen Production",
+   "Photoelectrolysis",
+   "Quantum Dots",
+   "Quantum Yield",
+   "Semiconductors"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Laboratory of the Rockies"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6fcd7f6273123b94",

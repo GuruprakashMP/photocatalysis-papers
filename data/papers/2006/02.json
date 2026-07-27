@@ -31,6 +31,37 @@
   "added": "2026-07-24"
  },
  {
+  "id": "3ffc0d54e208db29",
+  "title": "Self‐Assembly of N , N′ , N″ , N″′ ‐Tetra(pyridin‐4‐yl)‐1,4,7,10‐tetraazacyclododecane‐1,4,7,10‐tetracarboxamide with Zn 2+ or Cd 2+ Ions",
+  "authors": [
+   "Biing‐Chiau Tzeng",
+   "Yun‐Mei Lu",
+   "Gene‐Hsiang Lee",
+   "Shie‐Ming Peng"
+  ],
+  "journal": "European Journal of Inorganic Chemistry",
+  "publisher": "Wiley",
+  "published": "2006-02-28",
+  "year": 2006,
+  "doi": "10.1002/ejic.200501060",
+  "url": "https://doi.org/10.1002/ejic.200501060",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Excited States",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "National Chung Cheng University",
+   "National Taiwan University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "26974fc9fd183489",
   "title": "Low-temperature synthesis of photocatalytic TiO2 thin film from aqueous anatase precursor sols",
   "authors": [
@@ -548,6 +579,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "669ea68dc60a7c9d",
+  "title": "A Combinatorial Approach to the Discovery of Oxide Materials for the Photoelectrolysis of Water",
+  "authors": [
+   "B. A. Parkinson",
+   "Mike Woodhouse"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-22",
+  "year": 2006,
+  "doi": "10.1149/ma2005-01/17/746",
+  "url": "https://doi.org/10.1149/ma2005-01/17/746",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "495fc7a15ca545dc",
   "title": "Adsorption Properties of Water and Oxygen Molecules on the Surfaces of Photo-Catalysts: First Principles Theoretical Investigations on InVO4",
   "authors": [
@@ -913,6 +970,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "f709ba0dda6e0f12",
+  "title": "Production and Screening of Novel Materials for Photoelectrolysis",
+  "authors": [
+   "Michael Woodhouse",
+   "B. A. Parkinson",
+   "Michelle Romanishan"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/3/198",
+  "url": "https://doi.org/10.1149/ma2006-01/3/198",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "d75e87c07a7a6615",
   "title": "TiO2-Clay Composite for Photocatalytic Coatings",
   "authors": [
@@ -936,6 +1020,70 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d30c829ad1a3e003",
+  "title": "Efficient Solar Hydrogen via Novel Nanostructured Photoelectrolysis Cells",
+  "authors": [
+   "Arthur J. Nozik",
+   "M. C. Hanna",
+   "Justin C. Johnson",
+   "Arthur Frank",
+   "Nathan R. Neale",
+   "Geeta Rana",
+   "D. B. Popović",
+   "Irina Paci",
+   "Mark A. Ratner",
+   "Josef Michl"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/24/845",
+  "url": "https://doi.org/10.1149/ma2006-01/24/845",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Solar Hydrogen"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of Colorado Boulder",
+   "University of Colorado System"
+  ],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "8df63b8830949c4b",
+  "title": "A Combinatorial Method to Identify New Oxide Materials for the Photoelectrolysis of Water",
+  "authors": [
+   "B. A. Parkinson",
+   "Michael Woodhouse",
+   "Michelle Romanishan"
+  ],
+  "journal": "ECS Meeting Abstracts",
+  "publisher": "Institute of Physics",
+  "published": "2006-02-17",
+  "year": 2006,
+  "doi": "10.1149/ma2006-01/24/847",
+  "url": "https://doi.org/10.1149/ma2006-01/24/847",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "66ca0f37f4187f7d",
@@ -1501,6 +1649,45 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "9af4c983b6817489",
+  "title": "Calix[4]azacrowns as Novel Molecular Scaffolds for the Generation of Visible and Near-Infrared Lanthanide Luminescence",
+  "authors": [
+   "Issam Oueslati",
+   "Rute A. S. Ferreira",
+   "Luís D. Carlos",
+   "Carlos Baleizão",
+   "Mário N. Berberan‐Santos",
+   "Baltazar de Castro",
+   "Jacques Vicens",
+   "Uwe Pischel"
+  ],
+  "journal": "Inorganic Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2006-02-11",
+  "year": 2006,
+  "doi": "10.1021/ic051159l",
+  "url": "https://doi.org/10.1021/ic051159l",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "Photoinduced ET",
+   "Quantum Yield"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Universidade do Porto",
+   "Rede de Química e Tecnologia",
+   "University of Aveiro"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6506dacd0dd2bb94",

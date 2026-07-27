@@ -605,6 +605,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "cfcc8091631e5358",
+  "title": "Investigation of cu(I)-dependent 2,4,5-Trihydroxyphenylalanine Quinone Biogenesis in Hansenula polymorpha Amine Oxidase",
+  "authors": [
+   "Nicole M. Samuels",
+   "Judith P. Klinman"
+  ],
+  "journal": "Journal of Biological Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-23",
+  "year": 2006,
+  "doi": "10.1074/jbc.m601501200",
+  "url": "https://doi.org/10.1074/jbc.m601501200",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "ROS",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "baeed467477ffe2c",
   "title": "Novel polymerizable N ‐aromatic maleimides as free radical initiators for photopolymerization",
   "authors": [
@@ -759,6 +789,39 @@
    "Xi'an Jiaotong University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "551b061a5100f279",
+  "title": "cis,cis -[(bpy) 2 Ru V O] 2 O 4+ Catalyzes Water Oxidation Formally via in Situ Generation of Radicaloid Ru IV −O•",
+  "authors": [
+   "Xiaofan Yang",
+   "Mu‐Hyun Baik"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2006-05-23",
+  "year": 2006,
+  "doi": "10.1021/ja053710j",
+  "url": "https://doi.org/10.1021/ja053710j",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Water Splitting",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "DFT",
+   "LMCT",
+   "Radical Chemistry",
+   "Water Splitting"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "Indiana University Bloomington"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "1802119939edf138",
@@ -1300,6 +1363,35 @@
    "Uppsala University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "acd6e80acb3a99cf",
+  "title": "Hydrogen generation from aqueous water using n‐GaN by photoassisted electrolysis",
+  "authors": [
+   "Katsushi Fujii",
+   "Kazuhiro Ohkawa"
+  ],
+  "journal": "Physica status solidi. C, Conferences and critical reviews/Physica status solidi. C, Current topics in solid state physics",
+  "publisher": "Wiley",
+  "published": "2006-05-18",
+  "year": 2006,
+  "doi": "10.1002/pssc.200565171",
+  "url": "https://doi.org/10.1002/pssc.200565171",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting"
+  ],
+  "tags": [
+   "Photoelectrolysis",
+   "Water Splitting"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Tokyo University of Science",
+   "Japan Science and Technology Agency"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "866d8d4b0e50d2b5",
@@ -1915,6 +2007,34 @@
    "Tianjin University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d246789fddf43cc6",
+  "title": "Photoelectrocatalytic oxidation of remazol turquoise blue and toxicological assessment of its oxidation products",
+  "authors": [
+   "Marli E. Osugi",
+   "Gisela de Aragão Umbuzeiro",
+   "Francisco José Viana de Castro",
+   "Maria Valnice Boldrín Zanoni"
+  ],
+  "journal": "Journal of Hazardous Materials",
+  "publisher": "Elsevier BV",
+  "published": "2006-05-13",
+  "year": 2006,
+  "doi": "10.1016/j.jhazmat.2006.03.036",
+  "url": "https://doi.org/10.1016/j.jhazmat.2006.03.036",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Universidade Estadual Paulista (Unesp)"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "9cf490b87b8248e7",
@@ -3171,6 +3291,37 @@
    "National Taipei University of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1b6746c7f0eb5b4e",
+  "title": "Multivariate statistical treatment of solvent effects in the photoreduction of CoIII(En)2(Br)(RC6H4NH2)2+ complexes in aqua-organic solvent media",
+  "authors": [
+   "K. Anbalagan"
+  ],
+  "journal": "Russian Journal of Coordination Chemistry",
+  "publisher": "Pleiades Publishing",
+  "published": "2006-05-01",
+  "year": 2006,
+  "doi": "10.1134/s1070328406050095",
+  "url": "https://doi.org/10.1134/s1070328406050095",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction",
+   "Computational & DFT",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Excited States",
+   "Photoreduction",
+   "Quantum Yield",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Gandhigram Rural Institute"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "1a8a8ae3535e9ccc",
