@@ -1,5 +1,63 @@
 [
  {
+  "id": "9819c3a22475fccf",
+  "title": "Measurement of Optical Radiations in Spacecraft Environments",
+  "authors": [
+   "I. L. Kofsky",
+   "Nghia Tran",
+   "M. A. Maris",
+   "Christian A. Trowbridge"
+  ],
+  "journal": "Defense Technical Information Center (DTIC)",
+  "publisher": "",
+  "published": "1989-06-15",
+  "year": 1989,
+  "doi": "",
+  "url": "http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA213814",
+  "source": "openalex",
+  "categories": [
+   "Water Splitting",
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Hydroxyl Radicals",
+   "Radical Chemistry",
+   "Water Photolysis"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1dfcda58f80d012c",
+  "title": "Photoemission study of the valence-band electronic structure in Fe x O, Fe 3 O 4 , and α - Fe 2 O 3 single crystals",
+  "authors": [
+   "Robert J. Lad",
+   "Victor E. Henrich"
+  ],
+  "journal": "Physical review. B, Condensed matter",
+  "publisher": "American Physical Society",
+  "published": "1989-06-15",
+  "year": 1989,
+  "doi": "10.1103/physrevb.39.13478",
+  "url": "https://doi.org/10.1103/physrevb.39.13478",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Yale University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "cff0b0a43b7e5093",
   "title": "Agent Degradation via Catalytic and Photocatalytic Reactions on Surfaces and in Organized Assemblies",
   "authors": [
@@ -157,6 +215,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "7ff973f84adf7bfe",
+  "title": "Electron yield X ray absorption spectroscopy studies of thin WO3 films used as photocatalysts",
+  "authors": [
+   "G. Tourillon",
+   "Michel Ladouceur",
+   "Jean‐Pol Dodelet"
+  ],
+  "journal": "Physica B Condensed Matter",
+  "publisher": "Elsevier BV",
+  "published": "1989-06-01",
+  "year": 1989,
+  "doi": "10.1016/0921-4526(89)90276-7",
+  "url": "https://doi.org/10.1016/0921-4526(89)90276-7",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "WO3"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Campus France",
+   "Institut National de la Recherche Scientifique"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "7a2d0cbc770cf961",
   "title": "Removal of Phenols from Water by a Photocatalytic Oxidation Process",
   "authors": [
@@ -180,6 +267,33 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6bd3d7042cd944bb",
+  "title": "Preparation and characterization of doped WO3 photocatalyst powders",
+  "authors": [
+   "Muthupandian Ashokkumar",
+   "P. Maruthamuthu"
+  ],
+  "journal": "Journal of Materials Science",
+  "publisher": "Springer Science+Business Media",
+  "published": "1989-06-01",
+  "year": 1989,
+  "doi": "10.1007/bf02385433",
+  "url": "https://doi.org/10.1007/bf02385433",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "WO3"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Madras"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "5fbf7d006c713929",
@@ -322,6 +436,33 @@
    "Seikei University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "1d09a09c19d52761",
+  "title": "Bleaching of lignin solution by a photocatalyzed reaction on semiconductor photocatalysts",
+  "authors": [
+   "Hideyuki Ohnishi",
+   "Michio Matsumura",
+   "Hiroshi Tsubomura",
+   "Makoto Iwasaki"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "1989-06-01",
+  "year": 1989,
+  "doi": "10.1021/ie00090a012",
+  "url": "https://doi.org/10.1021/ie00090a012",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "0d2e15759595ddb1",

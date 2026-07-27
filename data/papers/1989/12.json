@@ -1,5 +1,33 @@
 [
  {
+  "id": "f431e56bf2fc34e9",
+  "title": "ChemInform Abstract: Protonated Pteridine and Flavin Analogues Acting as Efficient and Substrate‐Selective Photocatalysts in the Oxidation of Benzyl Alcohol Derivatives by Oxygen.",
+  "authors": [
+   "Shunichi Fukuzumi",
+   "Kumiko Tanii",
+   "Takashi Tanaka"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1989-12-12",
+  "year": 1989,
+  "doi": "10.1002/chin.198950140",
+  "url": "https://doi.org/10.1002/chin.198950140",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photooxidation"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "340d4fd75e1c9164",
   "title": "ChemInform Abstract: The Selective Photocatalytic Oxidation of m‐Phenoxytoluene on Titanium Dioxide Particles Supported in Nafion Membranes.",
   "authors": [
@@ -274,5 +302,38 @@
    "University of Regensburg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "0204c45416a3e83d",
+  "title": "Nickel-loaded K4Nb6O17 photocatalyst in the decomposition of H2O into H2 and O2: Structure and reaction mechanism",
+  "authors": [
+   "Akihiko Kudo",
+   "Kazuhiro Sayama",
+   "Akira Tanaka",
+   "Kiyotaka Asakura",
+   "Kazunari Domen",
+   "K. MARUYA",
+   "Toshikazu Onishi"
+  ],
+  "journal": "Journal of Catalysis",
+  "publisher": "Elsevier BV",
+  "published": "1989-12-01",
+  "year": 1989,
+  "doi": "10.1016/0021-9517(89)90274-1",
+  "url": "https://doi.org/10.1016/0021-9517(89)90274-1",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Nikon (Japan)",
+   "The University of Tokyo"
+  ],
+  "added": "2026-07-27"
  }
 ]
