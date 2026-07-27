@@ -3317,6 +3317,55 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e31a4e517a702985",
+  "title": "Reduced graphene oxide/silicon nanowire heterostructures with enhanced photoactivity and superior photoelectrochemical stability",
+  "authors": [
+   "Xing Zhong",
+   "Gongming Wang",
+   "Benjamin Papandrea",
+   "Mufan Li",
+   "Yuxi Xu",
+   "Yu Chen",
+   "Chih‐Yen Chen",
+   "Hailong Zhou",
+   "Xue Teng",
+   "Yongjia Li",
+   "Dehui Li",
+   "Yu Huang",
+   "Xiangfeng Duan"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Springer Science+Business Media",
+  "published": "2015-07-24",
+  "year": 2015,
+  "doi": "10.1007/s12274-015-0790-2",
+  "url": "https://doi.org/10.1007/s12274-015-0790-2",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Pollutant Degradation",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Separation",
+   "Dye Degradation",
+   "Graphene",
+   "Heterostructures",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Photoexcitation"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of California, Los Angeles",
+   "California NanoSystems Institute"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "cf63025a766163c2",
   "title": "Fabrication and photocatalytic activity of MAO–TiO 2 films formed on titanium doped with cations",
   "authors": [
@@ -5272,6 +5321,36 @@
    "Massachusetts Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "18f1d1f8fac9f4f8",
+  "title": "Photodegradation of perfluorooctane sulfonate in environmental matrices",
+  "authors": [
+   "Xianjin Lyu",
+   "Wen‐Wei Li",
+   "Paul K.S. Lam",
+   "Han‐Qing Yu"
+  ],
+  "journal": "Separation and Purification Technology",
+  "publisher": "Elsevier BV",
+  "published": "2015-07-21",
+  "year": 2015,
+  "doi": "10.1016/j.seppur.2015.07.049",
+  "url": "https://doi.org/10.1016/j.seppur.2015.07.049",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Photodegradation"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "University of Science and Technology of China",
+   "City University of Hong Kong",
+   "CAS Key Laboratory of Urban Pollutant Conversion"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "18b3372bca83088f",
@@ -7973,6 +8052,37 @@
    "Nanjing Tech University"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6ec5df534ebe6978",
+  "title": "Hydrogen Production from Water by Photolysis, Sonolysis and Sonophotolysis with Solid Solutions of Rare Earth, Gallium and Indium Oxides as Heterogeneous Catalysts",
+  "authors": [
+   "Marta Penconi",
+   "Federico Rossi",
+   "F. Ortica",
+   "Fausto Elisei",
+   "Pier Luigi Gentili"
+  ],
+  "journal": "Sustainability",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2015-07-16",
+  "year": 2015,
+  "doi": "10.3390/su7079310",
+  "url": "https://doi.org/10.3390/su7079310",
+  "source": "openalex",
+  "categories": [
+   "Hydrogen Evolution"
+  ],
+  "tags": [
+   "Hydrogen Production",
+   "Photocatalysis"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Perugia",
+   "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "6631e4f1885e7d5b",
@@ -12981,6 +13091,44 @@
   "added": "2026-07-24"
  },
  {
+  "id": "738cda5545b7b517",
+  "title": "Engineering two-dimensional electron gases at the (001) and (101) surfaces of TiO 2 anatase using light",
+  "authors": [
+   "T. C. Rödel",
+   "F. Fortuna",
+   "F. Bertran",
+   "M. Gabay",
+   "M. J. Rozenberg",
+   "A. F. Santander-Syro",
+   "Patrick Le Fèvre"
+  ],
+  "journal": "Physical Review B",
+  "publisher": "American Physical Society",
+  "published": "2015-07-08",
+  "year": 2015,
+  "doi": "10.1103/physrevb.92.041106",
+  "url": "https://doi.org/10.1103/physrevb.92.041106",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials",
+   "Co-catalysts & Surface"
+  ],
+  "tags": [
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "Université Paris-Sud",
+   "Centre National de la Recherche Scientifique",
+   "Synchrotron soleil",
+   "Institut National de Physique Nucléaire et de Physique des Particules",
+   "Laboratoire de physique des Solides"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "720f7e61be4fe315",
   "title": "Visible Photoelectrochemical Water Splitting Based on a Ru(II) Polypyridyl Chromophore and Iridium Oxide Nanoparticle Catalyst",
   "authors": [
@@ -17046,6 +17194,41 @@
    "University of Borås"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "e13fa89219399294",
+  "title": "CO2 photoreduction with water: Catalyst and process investigation",
+  "authors": [
+   "Alberto Olivo",
+   "Valentina Trevisan",
+   "Elena Ghedini",
+   "Francesco Pinna",
+   "Claudia L. Bianchi‬",
+   "Alberto Naldoni",
+   "Giuseppe Cruciani",
+   "Michela Signoretto"
+  ],
+  "journal": "Journal of CO2 Utilization",
+  "publisher": "Elsevier BV",
+  "published": "2015-07-03",
+  "year": 2015,
+  "doi": "10.1016/j.jcou.2015.06.001",
+  "url": "https://doi.org/10.1016/j.jcou.2015.06.001",
+  "source": "openalex",
+  "categories": [
+   "CO2 Reduction"
+  ],
+  "tags": [
+   "Photoreduction"
+  ],
+  "relevance_score": 40,
+  "affiliations": [
+   "Ca' Foscari University of Venice",
+   "National Interuniversity Consortium of Materials Science and Technology",
+   "Institute of Molecular Science and Technologies",
+   "University of Ferrara"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "e0aa80cd3e1b4f0d",
