@@ -29,6 +29,32 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4d3a14342dc30d11",
+  "title": "ChemInform Abstract: Photoelectrolysis and in situ Storage of Solar Energy.",
+  "authors": [
+   "Suresh Chandra",
+   "Neeraj Khare"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-01-09",
+  "year": 1990,
+  "doi": "10.1002/chin.199002355",
+  "url": "https://doi.org/10.1002/chin.199002355",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Banaras Hindu University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "0b21a9513c15fdc6",
   "title": "ChemInform Abstract: Photoelectrochemical Oxidation of Inorganic Anions at Polycrystalline α‐Fe2O3 Photoanodes.",
   "authors": [
@@ -476,6 +502,39 @@
   "added": "2026-07-24"
  },
  {
+  "id": "b9940e7b4428ae65",
+  "title": "Dual cure photocatalyst systems",
+  "authors": [
+   "Robert J. DeVoe",
+   "Brown-Wensley, K. A.",
+   "Holmes, G. L.",
+   "Mathis, M. D.",
+   "McCormick, F. B.",
+   "Palazzotto, M. C.",
+   "Spurgeon, K. M."
+  ],
+  "journal": "University of North Texas Digital Library (University of North Texas)",
+  "publisher": "University of North Texas",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "",
+  "url": "https://digital.library.unt.edu/ark:/67531/metadc1209452/",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Science Research Laboratory",
+   "3M (United States)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "b4c38edc310e0e7b",
   "title": "Solar photocatalyzed red dye destruction using a titanium dioxide suspension",
   "authors": [
@@ -500,6 +559,29 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "b479da2e31e43436",
+  "title": "Solar Energy Conversion into Chemical Energy. Cells for Photoelectrolysis of Inorganic (other than Water) and Organic Substances",
+  "authors": [
+   "Yu. V. Pleskov"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1007/978-3-642-74958-2_5",
+  "url": "https://doi.org/10.1007/978-3-642-74958-2_5",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "b0ed45fa0a9e7209",
@@ -563,6 +645,33 @@
    "Laboratoire de Réactivité de Surface"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "a696a8cc9e97fcba",
+  "title": "Absorption and emission spectrum of [Zn4O(acetate)6]",
+  "authors": [
+   "Horst Kunkely",
+   "Arnd Vogler"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1039/c39900001204",
+  "url": "https://doi.org/10.1039/c39900001204",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "LMCT",
+   "Semiconductors",
+   "ZnO"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "a44c04340721d2a0",
@@ -765,6 +874,36 @@
   "added": "2026-07-24"
  },
  {
+  "id": "8f174f6699e115d7",
+  "title": "Improvement of nickel-loaded K4Nb6O17 photocatalyst for the decomposition of H2O",
+  "authors": [
+   "Kazuhiro Sayama",
+   "Akira Tanaka",
+   "Kazunari Domen",
+   "K. MARUYA",
+   "Toshikazu Onishi"
+  ],
+  "journal": "Catalysis Letters",
+  "publisher": "Springer Science+Business Media",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1007/bf00765937",
+  "url": "https://doi.org/10.1007/bf00765937",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology",
+   "Nikon (Japan)"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "8e364061c66fbb03",
   "title": "Aquatic chemical kinetics : reaction rates of processes in natural waters",
   "authors": [
@@ -962,6 +1101,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "6edbee6fb3063c67",
+  "title": "A novel cyclam–nickel( II ) complex appended with a tris-(2,2′-bipyridine) ruthenium( II ) complex (cyclam = 1,4,8,11-tetra-azacyclotetradecane)",
+  "authors": [
+   "Eiichi Kimura",
+   "Senji Wada",
+   "Mitsuhiko Shionoya",
+   "Toshikazu Takahashi",
+   "Yoichi Litaka"
+  ],
+  "journal": "Journal of the Chemical Society Chemical Communications",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1039/c39900000397",
+  "url": "https://doi.org/10.1039/c39900000397",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "6e59972efc884c37",
   "title": "Preparation of supproted vanadium oxide by photochemical-anchoring method and photocatalytic reactions on it.",
   "authors": [
@@ -1014,6 +1180,57 @@
    "The University of Texas at Austin"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "6bc26e053e1ab92a",
+  "title": "Solar Energy Conversion into Chemical Energy. Cells for Photoelectrolysis of Water",
+  "authors": [
+   "Yu. V. Pleskov"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1007/978-3-642-74958-2_4",
+  "url": "https://doi.org/10.1007/978-3-642-74958-2_4",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "65fa1e3f3d54628e",
+  "title": "TiO 2 corrosion during water photocleavage using Rh/TiO 2 suspensions",
+  "authors": [
+   "G. Munuera",
+   "J.P. Espinós",
+   "A. Fernández",
+   "P. Malet",
+   "Agustı́n R. González-Elipe"
+  ],
+  "journal": "Journal of the Chemical Society Faraday Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1039/ft9908603441",
+  "url": "https://doi.org/10.1039/ft9908603441",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "601dd3995ee62a89",
@@ -1128,6 +1345,35 @@
   "added": "2026-07-24"
  },
  {
+  "id": "4b50ce740a0b6ca1",
+  "title": "Solar energy fixation of carbon dioxide via cadmium sulphide and other semiconductor photocatalysts",
+  "authors": [
+   "John T. S. Irvine",
+   "Brian R. Eggins",
+   "Jeremy Grimshaw"
+  ],
+  "journal": "Solar Energy",
+  "publisher": "Elsevier BV",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1016/0038-092x(90)90063-i",
+  "url": "https://doi.org/10.1016/0038-092x(90)90063-i",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "University of Ulster",
+   "Queen's University Belfast"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "49a46210e0ea33f0",
   "title": "Photoelectrochemical properties of indium doped iron oxide",
   "authors": [
@@ -1156,6 +1402,36 @@
    "Hydro One (Canada)"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "3e85ed60b34a60e0",
+  "title": "Blue copper models. Synthesis and characterization of copper(II) enethiolate complexes derived from (1R)-3-hydroxymethylenebornane-2-thione and 2-aminothia-alkyl-1-methylbenzimidazoles (donor set N2SS*) or diamines (donor set N2S2)",
+  "authors": [
+   "Luigi Casella",
+   "Michele Gullotti",
+   "Edoardo Suardi",
+   "Massimo Sisti",
+   "Roberto Pagliarin",
+   "Piero Zanello"
+  ],
+  "journal": "Journal of the Chemical Society Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1039/dt9900002843",
+  "url": "https://doi.org/10.1039/dt9900002843",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "3d18d9e46407dced",
@@ -1244,6 +1520,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "2bd2000d21b4739d",
+  "title": "Electronic structure of axially distorted molybdenum(V) complexes; an absorption spectral study",
+  "authors": [
+   "David Collison"
+  ],
+  "journal": "Journal of the Chemical Society Dalton Transactions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.1039/dt9900002999",
+  "url": "https://doi.org/10.1039/dt9900002999",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT",
+   "WO3"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "295d54ca11731398",
   "title": "Enhancement of processes for solar photocatalytic detoxification of water",
   "authors": [
@@ -1298,6 +1601,60 @@
    "L.V. Pisarzhevskii Institute of Physical Chemistry"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "22eb5ecd289e08e0",
+  "title": "(Surface chemistry at semiconductor-electrolyte interfaces)",
+  "authors": [
+   "Princeton Univ., NJ (USA)"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "10.2172/6331715",
+  "url": "https://doi.org/10.2172/6331715",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photoelectrochemistry",
+   "Photoelectrolysis",
+   "Semiconductors"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "1dc5b854934d79fc",
+  "title": "A study of photoelectrolysis of water by use of titanium oxide films.",
+  "authors": [
+   "윤경석",
+   "박성용",
+   "조원일",
+   "조병원",
+   "이응조"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1990-01-01",
+  "year": 1990,
+  "doi": "",
+  "url": "http://pubs.kist.re.kr/handle/201004/9777",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "180fde181fa4a85b",

@@ -1,5 +1,36 @@
 [
  {
+  "id": "58ea2dfa11f1dc1f",
+  "title": "ChemInform Abstract: Nickel‐Loaded K4Nb6O17 Photocatalyst in the Decomposition of H2O into H2 and O2: Structure and Reaction Mechanism.",
+  "authors": [
+   "Akihiko Kudo",
+   "Kazuhiro Sayama",
+   "Akira Tanaka",
+   "Kiyotaka Asakura",
+   "Kazunari Domen",
+   "K. MARUYA",
+   "Toshikazu Onishi"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1990-03-20",
+  "year": 1990,
+  "doi": "10.1002/chin.199012017",
+  "url": "https://doi.org/10.1002/chin.199012017",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Tokyo Institute of Technology"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "fb6b0bfcd44e7b48",
   "title": "Falling-Film and Glass-Tube Solar Photocatalytic Reactors for Treating Contaminated Water",
   "authors": [
@@ -56,6 +87,33 @@
   "added": "2026-07-24"
  },
  {
+  "id": "e46fe33bd840eb6c",
+  "title": "Rhodium and rhodium sulfide coated cadmium sulfide as a photocatalyst for photochemical decomposition of aqueous sulfide",
+  "authors": [
+   "I. B. Rufus",
+   "V. Ramakrishnan",
+   "B. Viswanathan",
+   "J. C. Kuriacose"
+  ],
+  "journal": "Langmuir",
+  "publisher": "American Chemical Society",
+  "published": "1990-03-01",
+  "year": 1990,
+  "doi": "10.1021/la00093a008",
+  "url": "https://doi.org/10.1021/la00093a008",
+  "source": "openalex",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Photocatalysis"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
   "id": "b77d069b9863d01b",
   "title": "Novel visible-light-driven photocatalyst. Poly(p-phenylene)-catalyzed photoreductions of water, carbonyl compounds, and olefins",
   "authors": [
@@ -84,6 +142,35 @@
   "relevance_score": 66,
   "affiliations": [],
   "added": "2026-07-24"
+ },
+ {
+  "id": "af615c8e5d277b3f",
+  "title": "An Attempt to Improve the Performance of Fuel Cell by Powered Photocatalysts: A New Energy Conversion System Using Photogenerated Hydrogen",
+  "authors": [
+   "ヒサシ ハラダ",
+   "ヒサオ ヒダカ",
+   "トヨトシ ウエダ",
+   "Hisashi Harada",
+   "Hisao Hidaka",
+   "Toyotoshi Ueda"
+  ],
+  "journal": "Institutional Repositories DataBase (IRDB)",
+  "publisher": "National Institute of Informatics",
+  "published": "1990-03-01",
+  "year": 1990,
+  "doi": "",
+  "url": "https://meisei.repo.nii.ac.jp/records/2280",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "85366fb4522a0e41",

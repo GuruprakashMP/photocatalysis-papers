@@ -1,5 +1,31 @@
 [
  {
+  "id": "5adc38204ce60ab3",
+  "title": "ChemInform Abstract: Biphase Photoelectrochemistry: A Novel Cell with a Liquid‐Liquid Phase Boundary for Water Photoelectrolysis.",
+  "authors": [
+   "I. Francis Cheng",
+   "J. Jordan"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1991-08-27",
+  "year": 1991,
+  "doi": "10.1002/chin.199134019",
+  "url": "https://doi.org/10.1002/chin.199134019",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry"
+  ],
+  "tags": [
+   "Photoelectrolysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "Pennsylvania State University"
+  ],
+  "added": "2026-07-27"
+ },
+ {
   "id": "c1e2c699d2c93f8d",
   "title": "ChemInform Abstract: Photocatalytic Activity of Alkali‐Metal Titanates Combined with Ru in the Decomposition of Water.",
   "authors": [
@@ -80,6 +106,37 @@
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "d43e0e710578467c",
+  "title": "Structure and Properties of (NEt4)[MoVO(α,2-toluenedithiolato)2]. Distorted Tetragonal-Pyramidal MoOS4 Core",
+  "authors": [
+   "Norikazu Ueyama",
+   "Naoto Yoshinaga",
+   "Atsushi Kajiwara",
+   "Akira Nakamura",
+   "Masami Kusunoki"
+  ],
+  "journal": "Bulletin of the Chemical Society of Japan",
+  "publisher": "Oxford University Press",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1246/bcsj.64.2458",
+  "url": "https://doi.org/10.1246/bcsj.64.2458",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Transfer",
+   "LMCT"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "The University of Osaka"
+  ],
+  "added": "2026-07-27"
  },
  {
   "id": "a87f623b1448f81a",
@@ -163,6 +220,66 @@
    "Tokyo Institute of Technology"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "8925770b7bede948",
+  "title": "21565 スーパーフレームの構造特性に関する解析的検討 : その3 簡略モデル",
+  "authors": [
+   "隆一 井上",
+   "不二男 内山",
+   "健治 横田",
+   "雄一 加藤",
+   "信之 和泉",
+   "昌利 林"
+  ],
+  "journal": "学術講演梗概集. C, 構造II",
+  "publisher": "",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.3390/polym14224942",
+  "url": "https://doi.org/10.3390/polym14224942",
+  "source": "openalex",
+  "categories": [
+   "Pollutant Degradation",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Air Purification",
+   "Photocatalysis",
+   "TiO2"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-27"
+ },
+ {
+  "id": "761cd3be671cf1fc",
+  "title": "Photoassisted oxidation of oil films on water",
+  "authors": [
+   "Adam Heller",
+   "J. R. Brock"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.2172/5117156",
+  "url": "https://doi.org/10.2172/5117156",
+  "source": "openalex",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Semiconductor Materials",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Electron-Hole Pairs",
+   "Photocatalysis",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-07-27"
  },
  {
   "id": "6e2f82d00fd76adb",
@@ -276,5 +393,32 @@
    "University of Ferrara"
   ],
   "added": "2026-07-24"
+ },
+ {
+  "id": "068a2fb01def5d86",
+  "title": "Site-specific 1,N6-ethenoadenylated single-stranded oligonucleotides as structural probes for the T4 gene 32 protein-ssDNA complex",
+  "authors": [
+   "David Giedroc",
+   "Raza Khan",
+   "Keith Barnhart"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "1991-08-01",
+  "year": 1991,
+  "doi": "10.1021/bi00247a020",
+  "url": "https://doi.org/10.1021/bi00247a020",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-07-27"
  }
 ]
