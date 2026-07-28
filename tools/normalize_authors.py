@@ -52,6 +52,7 @@ def migrate(apply_changes: bool) -> int:
     names_rewritten = 0
     dupes_collapsed = 0
     examples: Counter = Counter()
+    failed_writes: list = []
 
     for shard in sorted(PAPERS_DIR.glob("*/*.json")):
         shards_total += 1
@@ -90,7 +91,23 @@ def migrate(apply_changes: bool) -> int:
             if apply_changes:
                 new_text = _dump(papers)
                 if new_text != original_text:
-                    shard.write_text(new_text, encoding="utf-8")
+                    # Verify the write landed. OneDrive transiently locks
+                    # files in this tree, and a silently dropped shard would
+                    # leave the index half-migrated with no error.
+                    for attempt in (1, 2, 3):
+                        try:
+                            shard.write_text(new_text, encoding="utf-8")
+                            if shard.read_text(encoding="utf-8") == new_text:
+                                break
+                        except OSError as exc:
+                            if attempt == 3:
+                                print(f"  !! could not write {shard}: {exc}")
+                                failed_writes.append(shard)
+                                break
+                            continue
+                    else:
+                        print(f"  !! write did not stick for {shard}")
+                        failed_writes.append(shard)
 
     verb = "Rewrote" if apply_changes else "Would rewrite"
     print(f"{verb} {shards_changed:,} of {shards_total:,} shards")
@@ -101,6 +118,12 @@ def migrate(apply_changes: bool) -> int:
         print("  most common rewrites:")
         for (before, after), n in examples.most_common(8):
             print(f"    {n:6d}  {before!r} -> {after!r}")
+    if failed_writes:
+        print(f"\n!! {len(failed_writes)} shard(s) could not be written — "
+              "re-run --apply to finish (the pass is idempotent):")
+        for shard in failed_writes[:10]:
+            print(f"     {shard}")
+        return 1
     if not apply_changes and shards_changed:
         print("\nDry run. Re-run with --apply to write these changes.")
     return 0
