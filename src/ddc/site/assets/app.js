@@ -22,6 +22,26 @@
     });
   }
   function params() { return new URLSearchParams(location.search); }
+  /* Mirror of ddc.models.normalize_author. Stored names are already
+   * canonical, so this only cleans the incoming ?a= value — it keeps links
+   * and bookmarks made before the migration (which carry a U+2010 hyphen or
+   * an honorific) resolving to the right author page. */
+  function normalizeAuthor(name) {
+    if (!name) return "";
+    var n = String(name);
+    if (n.normalize) n = n.normalize("NFC");
+    n = n.replace(/ /g, " ").replace(/[​-‍﻿]/g, "");
+    n = n.replace(/[‐-―−﹘﹣－]/g, "-");
+    n = n.replace(/\s+/g, " ").trim();
+    var prev = null;
+    while (prev !== n) {
+      prev = n;
+      n = n.replace(/^(?:prof(?:essor)?|dr|doctor|mr|mrs|ms|miss|sir|dame|rev)\.?\s+/i, "").trim();
+      n = n.replace(/^[.,;\s]+/, "").trim();
+    }
+    n = n.replace(/[,;\s]+$/, "").trim();   // trailing "." kept: it may be an initial
+    return n || String(name).replace(/\s+/g, " ").trim();
+  }
   function prettyDate(iso) {
     if (!iso) return "";
     var m = ["January","February","March","April","May","June","July",
@@ -242,7 +262,7 @@
     var isAuthor = kind === "authors";
     var q = params();
     var selected = q.get(isAuthor ? "a" : "j");
-    if (selected) return detailPage(kind, selected);
+    if (selected) return detailPage(kind, isAuthor ? normalizeAuthor(selected) : selected);
 
     var title = isAuthor ? "Authors" : "Journals";
     var papers = [];

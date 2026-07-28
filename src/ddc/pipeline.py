@@ -16,7 +16,8 @@ from typing import Dict, List
 
 from .classify import classify
 from .collectors import enabled_collectors
-from .models import Paper, RawRecord, dedupe_keys, make_paper_id, normalize_doi
+from .models import (Paper, RawRecord, dedupe_keys, make_paper_id,
+                     normalize_author, normalize_doi)
 from .settings import Settings
 from .store import PaperStore
 
@@ -103,10 +104,20 @@ def process_records(
             continue
 
         published = _sane_date(record.published, today)
+        # Normalize here rather than per collector: this is the one path both
+        # the daily run and the backfill go through, so all 8 sources are
+        # covered. Author names never feed paper ids or dedupe keys (those
+        # derive from DOI/title), so this cannot disturb identity or the
+        # seen-set.
+        authors = []
+        for raw_author in record.authors[:30]:
+            cleaned = normalize_author(raw_author)
+            if cleaned and cleaned not in authors:
+                authors.append(cleaned)
         paper = Paper(
             id=make_paper_id(record.doi, record.title),
             title=record.title,
-            authors=record.authors[:30],
+            authors=authors,
             journal=record.journal,
             publisher=record.publisher,
             published=published,
