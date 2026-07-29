@@ -15,6 +15,8 @@ Safe by construction:
 * Only shards whose content actually changes are rewritten, so the git diff
   stays proportional to the fix.
 * Shard JSON is re-emitted with the exact formatting ``store.py`` uses.
+* Self-converging: OneDrive sometimes reverts a shard *after* the write has
+  read back correctly, so ``--apply`` re-sweeps until a pass finds nothing.
 
 Usage (from the project root, the folder containing ``src/``)::
 
@@ -41,11 +43,8 @@ def _dump(payload: object) -> str:
     return json.dumps(payload, ensure_ascii=False, indent=1, sort_keys=False)
 
 
-def migrate(apply_changes: bool) -> int:
-    if not PAPERS_DIR.exists():
-        print(f"No papers directory at {PAPERS_DIR}")
-        return 1
-
+def _sweep(apply_changes: bool, quiet: bool = False) -> int:
+    """One pass over every shard. Returns the number of dirty shards found."""
     shards_changed = 0
     shards_total = 0
     papers_changed = 0
@@ -109,24 +108,45 @@ def migrate(apply_changes: bool) -> int:
                         print(f"  !! write did not stick for {shard}")
                         failed_writes.append(shard)
 
-    verb = "Rewrote" if apply_changes else "Would rewrite"
-    print(f"{verb} {shards_changed:,} of {shards_total:,} shards")
-    print(f"  papers touched      : {papers_changed:,}")
-    print(f"  author names fixed  : {names_rewritten:,}")
-    print(f"  in-paper duplicates : {dupes_collapsed:,}")
-    if examples:
-        print("  most common rewrites:")
-        for (before, after), n in examples.most_common(8):
-            print(f"    {n:6d}  {before!r} -> {after!r}")
-    if failed_writes:
-        print(f"\n!! {len(failed_writes)} shard(s) could not be written — "
-              "re-run --apply to finish (the pass is idempotent):")
-        for shard in failed_writes[:10]:
-            print(f"     {shard}")
+    if not quiet:
+        verb = "Rewrote" if apply_changes else "Would rewrite"
+        print(f"{verb} {shards_changed:,} of {shards_total:,} shards")
+        print(f"  papers touched      : {papers_changed:,}")
+        print(f"  author names fixed  : {names_rewritten:,}")
+        print(f"  in-paper duplicates : {dupes_collapsed:,}")
+        if examples:
+            print("  most common rewrites:")
+            for (before, after), n in examples.most_common(8):
+                print(f"    {n:6d}  {before!r} -> {after!r}")
+    return shards_changed
+
+
+def migrate(apply_changes: bool) -> int:
+    if not PAPERS_DIR.exists():
+        print(f"No papers directory at {PAPERS_DIR}")
         return 1
-    if not apply_changes and shards_changed:
-        print("\nDry run. Re-run with --apply to write these changes.")
-    return 0
+
+    dirty = _sweep(apply_changes)
+    if not apply_changes:
+        if dirty:
+            print("\nDry run. Re-run with --apply to write these changes.")
+        return 0
+
+    # Converge. OneDrive in this tree occasionally reverts a freshly written
+    # file *after* it has read back correctly, so a single pass can silently
+    # leave a shard behind — seen on 2 of the 4 sibling projects. Re-sweep
+    # until a pass finds nothing rather than relying on the operator to spot
+    # it in the verification run.
+    for round_number in range(2, 7):
+        remaining = _sweep(True, quiet=True)
+        if not remaining:
+            print("\nVerified: a follow-up sweep found nothing left to change.")
+            return 0
+        print(f"  round {round_number}: {remaining} shard(s) reverted after "
+              "writing (OneDrive); re-applied")
+    print("\n!! Still not converged after 6 rounds — re-run --apply, and check "
+          "whether OneDrive is actively syncing this folder.")
+    return 1
 
 
 def main() -> int:
