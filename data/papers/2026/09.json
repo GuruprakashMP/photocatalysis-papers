@@ -245,6 +245,37 @@
   "added": "2026-08-19"
  },
  {
+  "id": "eca074ae69a45b5d",
+  "title": "Beyond Panchromatic Absorption: Deciphering the Excited-State Maze from Light Absorption to Photocatalysis in Dye-Sensitized MOFs",
+  "authors": [
+   "Manuela L. Kim",
+   "Mauricio E. Calvo",
+   "Katsuya Teshima",
+   "Fabio La Mattina",
+   "Eugenio H. Otal"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.00931v1",
+  "source": "arxiv",
+  "categories": [
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photoexcitation",
+   "Photoluminescence",
+   "TiO2"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
   "id": "e959b3174b990024",
   "title": "Sonochemically synthesized N-graphyne-Bi2O3/BiOBr heterojunctions for high-performance photocatalysis",
   "authors": [
@@ -381,6 +412,44 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-08-02"
+ },
+ {
+  "id": "dc4ac677e3c1e48e",
+  "title": "Phase Switchable Photocatalytic Water Splitting via a Paraelectric-Ferroelectric Transition in Zr2Ge2S6 Monolayer: A Comprehensive Theoretical Insights",
+  "authors": [
+   "Jubair Hossan Abir",
+   "Tauhidur Rahman",
+   "Md. Tanvir Khan",
+   "S. S. B. Pallab",
+   "Raihana Shams Islam",
+   "Saleh Hasan Naqib"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2609.00724v1",
+  "source": "arxiv",
+  "categories": [
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Band Gap",
+   "First-Principles",
+   "Hydrogen Evolution",
+   "Oxygen Evolution",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Solar Hydrogen",
+   "Water Splitting"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-09-02"
  },
  {
   "id": "cbe33feb9c3d9599",
@@ -733,6 +802,86 @@
   "added": "2026-08-08"
  },
  {
+  "id": "6b95674b4c716c9b",
+  "title": "Elucidating Photo-Kinetic Control in Photothermal Reverse Water-Gas Shift Reaction.",
+  "authors": [
+   "Junchuan Sun",
+   "Rui Song",
+   "Chang Xu",
+   "Xue Ding",
+   "Wanguo Gao",
+   "Athanasios A Tountas",
+   "Zhe Lu",
+   "Jiakun Wang",
+   "Zeshu Zhang",
+   "Xiaolu Zhuo",
+   "Yingfang Yao",
+   "Zhigang Zou",
+   "Geoffrey A Ozin",
+   "Lu Wang"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/anie.4338333",
+  "url": "https://doi.org/10.1002/anie.4338333",
+  "source": "pubmed",
+  "categories": [
+   "CO2 Reduction",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Carriers",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photothermal Catalysis"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
+  "id": "6ac6907fab51e549",
+  "title": "Site-Specific Molecular Engineering Redirects Radical Pathways for Selective Photocatalytic Coupling of Methane to C2+ Hydrocarbons.",
+  "authors": [
+   "Yaru Shao",
+   "Wanying Guo",
+   "Wei Li",
+   "Gaoyu Cui",
+   "Huijie Cheng",
+   "Lingfeng Zhu",
+   "Liqun Ye",
+   "Zihan Qiu",
+   "Yu Shan",
+   "Rui Li",
+   "Tianyi Ma",
+   "Jungang Hou"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/anie.6847901",
+  "url": "https://doi.org/10.1002/anie.6847901",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Charge Dynamics",
+   "Photoredox & Organic Synthesis",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Radical Chemistry",
+   "TiO2"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
   "id": "6133cd1edd31dee1",
   "title": "PEDOT-Centered TiO₂ Hybrid Electrodes for Visible-Light-Driven Photoelectrochemical Water Splitting",
   "authors": [
@@ -841,6 +990,85 @@
   "relevance_score": 96,
   "affiliations": [],
   "added": "2026-08-30"
+ },
+ {
+  "id": "5037be4379438afd",
+  "title": "Hydroxyl-Bridged Phosphorus Doping-Induced Charge Polarization Enhancing Electron Delocalization for Efficient Photoreduction of CO2.",
+  "authors": [
+   "Hainan Shi",
+   "Ruiling Kong",
+   "Haozhi Wang",
+   "Jianbin Lin",
+   "Yida Zhou",
+   "Shutao Xu",
+   "Xinwen Guo"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/anie.3254251",
+  "url": "https://doi.org/10.1002/anie.3254251",
+  "source": "pubmed",
+  "categories": [
+   "CO2 Reduction",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Carbon Nitride",
+   "Charge Separation",
+   "DFT",
+   "Doping",
+   "Photocatalysis",
+   "Photoreduction"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
+  "id": "4fb7bb615807776b",
+  "title": "Covalent Organic Framework Colloids With Core-Shell Donor/Acceptor Architecture and Ultralong-Lived Charge-Separated States.",
+  "authors": [
+   "Ting Yu",
+   "Cory Ruchlin",
+   "Tong Li",
+   "Mohammad Hossein Gohari",
+   "Zhechang He",
+   "Zeina Chamseddine",
+   "Chang Wan Kang",
+   "Dongling Ma",
+   "Dmytro F Perepichka"
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/anie.8901776",
+  "url": "https://doi.org/10.1002/anie.8901776",
+  "source": "pubmed",
+  "categories": [
+   "CO2 Reduction",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "COFs",
+   "Charge Separation",
+   "Heterojunctions",
+   "Heterostructures",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Photoreduction"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-09-02"
  },
  {
   "id": "4c7f56c6d4ab7435",
@@ -992,6 +1220,96 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-08-07"
+ },
+ {
+  "id": "3995791ba96d4f58",
+  "title": "D-band center-driven photocatalyst design for CO2 reduction: mechanisms, modulation, and perspectives.",
+  "authors": [
+   "Shijie Zhao",
+   "Jie Wang",
+   "Jianghong Zhao",
+   "Pengju Yang"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1039/d6cc03827a",
+  "url": "https://doi.org/10.1039/d6cc03827a",
+  "source": "pubmed",
+  "categories": [
+   "CO2 Reduction",
+   "Machine Learning for Photocatalysis",
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Transfer",
+   "Doping",
+   "High-Throughput",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
+  "id": "3420de5a3bbe2250",
+  "title": "Circular economy in polystyrene photodegradation to valuable chemicals.",
+  "authors": [
+   "Chitra Sarkar",
+   "Solanki Chowdhury",
+   "Ratul Paul",
+   "Asim Bhaumik"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1039/d6cc03723b",
+  "url": "https://doi.org/10.1039/d6cc03723b",
+  "source": "pubmed",
+  "categories": [
+   "Pollutant Degradation",
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photodegradation",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
+  "id": "3247f3171b02f426",
+  "title": "Etching engineering for high-performance photocatalysts: from mechanistic insights to strategic design and practical applications.",
+  "authors": [
+   "Hui Li",
+   "Xiaopeng Cheng",
+   "Tao Li"
+  ],
+  "journal": "Materials horizons",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1039/d6mh01069e",
+  "url": "https://doi.org/10.1039/d6mh01069e",
+  "source": "pubmed",
+  "categories": [
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Charge Carriers",
+   "Charge Separation",
+   "Photocatalysis",
+   "Photogenerated Carriers"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-09-02"
  },
  {
   "id": "2f286e08ede323a8",
@@ -1179,6 +1497,34 @@
   "added": "2026-08-11"
  },
  {
+  "id": "0e662250d11e68a5",
+  "title": "Creation of a negatively charged surface on carbon nitride powders by self-photocatalysis in aerated water.",
+  "authors": [
+   "Kazuki Miyata",
+   "Yasuhiro Shiraishi",
+   "Satoshi Ichikawa",
+   "Shunsuke Tanaka",
+   "Takayuki Hirai"
+  ],
+  "journal": "Chemical communications (Cambridge, England)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1039/d6cc04568e",
+  "url": "https://doi.org/10.1039/d6cc04568e",
+  "source": "pubmed",
+  "categories": [
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Photocatalysis"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
   "id": "0cd6d32b5bc1f603",
   "title": "Molecularly engineered multifunctional Fe-doped ZnO@rGO hybrid nanocomposites with synergistic photocatalytic and pseudocapacitive performance.",
   "authors": [
@@ -1215,5 +1561,73 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-09-01"
+ },
+ {
+  "id": "096ab6bcbfdebff5",
+  "title": "Modulation of electron delocalization and localization induced by single-atom alloys on defective HxMoO3−y for boosting photocatalytic reduction of nitric oxide to ammonia",
+  "authors": [
+   "Haibo Yin",
+   "Haiwei Su",
+   "Hua Zhao",
+   "Chao He",
+   "Tianchang Lei",
+   "Xiaoguang Zhao",
+   "Yakun Qu",
+   "Weizhen Ye",
+   "Yu Wu",
+   "Xing Yuan",
+   "Yunlong Wang",
+   "Yuan Li",
+   "Junting Wang",
+   "Gaoke Zhang",
+   "Junhua Li"
+  ],
+  "journal": "eScience",
+  "publisher": "KeAi Communications Co. Ltd.",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.esci.2025.100529",
+  "url": "https://doi.org/10.1016/j.esci.2025.100529",
+  "source": "doaj",
+  "categories": [
+   "Co-catalysts & Surface",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Single-Atom Catalysts"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-09-02"
+ },
+ {
+  "id": "003ec77397bb9fc0",
+  "title": "Piezo-photocatalytic BaTiO3@CeO2 core-shell abrasives for chemical mechanical polishing of SiC",
+  "authors": [
+   "Zutong Xie",
+   "Guomei Chen",
+   "Zifeng Ni",
+   "Xinyue Zhang",
+   "Wenjie Lv",
+   "Xueyu Lu"
+  ],
+  "journal": "Materials Letters",
+  "publisher": "Elsevier BV",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.matlet.2026.141559",
+  "url": "https://doi.org/10.1016/j.matlet.2026.141559",
+  "source": "crossref",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-02"
  }
 ]
