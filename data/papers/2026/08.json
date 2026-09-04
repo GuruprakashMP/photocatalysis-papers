@@ -1,5 +1,31 @@
 [
  {
+  "id": "ffc175497338cfaa",
+  "title": "A General Photoredox Platform for the Hydroarylation of Olefins.",
+  "authors": [
+   "Yi-Lun Li",
+   "Johnny Z Wang",
+   "David W C MacMillan"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c14333",
+  "url": "https://doi.org/10.1021/jacs.6c14333",
+  "source": "pubmed",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-04"
+ },
+ {
   "id": "fbd6743620611429",
   "title": "Unveiling the mechanisms of adsorption-photocatalytic degradation of tetracycline in water by pristine biochar: The decisive roles of pyrolysis temperature and endogenous minerals",
   "authors": [
@@ -59,6 +85,38 @@
   "relevance_score": 64,
   "affiliations": [],
   "added": "2026-09-01"
+ },
+ {
+  "id": "fb264680ddc8a69d",
+  "title": "Eco-Friendly AgInGaS/ZnSe Core/Shell Quantum Dots for Solar-Driven Hydrogen Evolution.",
+  "authors": [
+   "MingZhu Wang",
+   "Lei Jin",
+   "Federico Rosei"
+  ],
+  "journal": "ACS applied materials & interfaces",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1021/acsami.6c05866",
+  "url": "https://doi.org/10.1021/acsami.6c05866",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Hydrogen Evolution",
+   "Semiconductor Materials",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Photoanodes",
+   "Photoelectrochemistry",
+   "Photoluminescence",
+   "Quantum Dots"
+  ],
+  "relevance_score": 88,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "e63ea5843ebc7ef4",
@@ -550,6 +608,45 @@
   "added": "2026-09-01"
  },
  {
+  "id": "b30fa405d847d5e6",
+  "title": "A Bifunctional CoFcMOF Nanozyme Enables Dual-Mode PEC-Colorimetric Immunosensing of C-Reactive Protein with Built-In Cross-Validation.",
+  "authors": [
+   "Linying Cheng",
+   "Yuee Zhong",
+   "Manqi Li",
+   "Shu Huang",
+   "Jianru Tang",
+   "Xiaohua Zhu",
+   "Haitao Li",
+   "Youyu Zhang",
+   "Meiling Liu"
+  ],
+  "journal": "ACS sensors",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1021/acssensors.6c01384",
+  "url": "https://doi.org/10.1021/acssensors.6c01384",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Separation",
+   "Heterojunctions",
+   "MOFs",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-09-04"
+ },
+ {
   "id": "a8cefa5d49830ceb",
   "title": "Thermodynamic fouling control in β-phase-PVDF-MIL-101(Fe)/Bi2O3 photocatalytic membranes coupled with zeolite adsorption-ozonation pre-treatment for visible-light self-cleaning of textile wastewater",
   "authors": [
@@ -579,6 +676,46 @@
    "University of Technology Malaysia"
   ],
   "added": "2026-09-01"
+ },
+ {
+  "id": "a58a902056c5b67a",
+  "title": "MOF-Derived Z-Scheme Bi/BiVO4/MgIn2S4 Heterojunction with Oxygen Vacancies and Plasmonic Bi0 for Enhanced Photocatalytic H2O2 Production.",
+  "authors": [
+   "Lu Zhang",
+   "Jianhao Qiu",
+   "Dan Zhang",
+   "Haotian Wang",
+   "Li Lv",
+   "Wenxiang Tang"
+  ],
+  "journal": "Inorganic chemistry",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1021/acs.inorgchem.6c02682",
+  "url": "https://doi.org/10.1021/acs.inorgchem.6c02682",
+  "source": "pubmed",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Solar Fuels",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Plasmonic Photocatalysis"
+  ],
+  "tags": [
+   "BiVO4",
+   "Defect Engineering",
+   "H2O2 Production",
+   "Heterojunctions",
+   "Light Irradiation",
+   "Oxygen Vacancies",
+   "Photocatalysis",
+   "Plasmonics",
+   "Z-Scheme"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "a51674f26218f406",
@@ -1038,6 +1175,41 @@
    "Indian Institute of Science Education and Research Kolkata"
   ],
   "added": "2026-09-01"
+ },
+ {
+  "id": "15d4053010db8d2d",
+  "title": "Photoelectrochemical highly efficient detection of β-amyloid 1-42 based on in-situ grown donor-acceptor covalent organic frameworks combined with dual-aptamer sandwich amplification strategy.",
+  "authors": [
+   "Jiadong Chen",
+   "Xuejun Li",
+   "Chuan He",
+   "Linli Yao",
+   "Ting Han",
+   "Qingnan Han",
+   "Jia Huang",
+   "Chenchen Li",
+   "Xinjian Song"
+  ],
+  "journal": "Talanta",
+  "publisher": "",
+  "published": "2026-08-31",
+  "year": 2026,
+  "doi": "10.1016/j.talanta.2026.130537",
+  "url": "https://doi.org/10.1016/j.talanta.2026.130537",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "MOFs & COFs",
+   "Mechanism & Charge Dynamics"
+  ],
+  "tags": [
+   "COFs",
+   "Charge Transfer",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "f0775293eb3bebc1",
@@ -2505,6 +2677,47 @@
   "added": "2026-08-30"
  },
  {
+  "id": "1b76faf2e4c721b4",
+  "title": "Treating Bisphenol A in real thermal paper leachates by visible-light photocatalysis with an iodide-mediated Z-scheme heterojunction.",
+  "authors": [
+   "Yifeng Zeng",
+   "Wenli Zhang",
+   "Lu Di",
+   "Yun Wang",
+   "Hongping Liao",
+   "Huiji Xiao",
+   "Xubiao Luo",
+   "Yanbo Zhou"
+  ],
+  "journal": "Water research",
+  "publisher": "",
+  "published": "2026-08-29",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.126829",
+  "url": "https://doi.org/10.1016/j.watres.2026.126829",
+  "source": "pubmed",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Heterojunctions",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Pollutants",
+   "Singlet Oxygen",
+   "Visible Light",
+   "Wastewater",
+   "Z-Scheme",
+   "g-C3N4"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-04"
+ },
+ {
   "id": "0901e35fe39e8a37",
   "title": "Lattice distortion and cation vacancy decorated V2-xCTy MXene quantum dots anchored on porous g-C3N4 nanotubes for efficient photocatalytic hydrogen evolution.",
   "authors": [
@@ -2973,6 +3186,44 @@
   "relevance_score": 96,
   "affiliations": [],
   "added": "2026-08-30"
+ },
+ {
+  "id": "af0d21c23eeedc27",
+  "title": "Flexible 3D-Printed Polydimethylsiloxane Microdevice with a Ternary Heterojunction-Engineered Photoanode for Sensitive Photoelectrochemical Detection of Tumor Necrosis Factor-α in Sweat.",
+  "authors": [
+   "Tong Su",
+   "Sihan Yang",
+   "Lin Zhu",
+   "Yaorong He",
+   "Hui Huang",
+   "Yujie Zhou",
+   "Peiyao Du",
+   "Xiaoquan Lu"
+  ],
+  "journal": "ACS sensors",
+  "publisher": "",
+  "published": "2026-08-28",
+  "year": 2026,
+  "doi": "10.1021/acssensors.6c01626",
+  "url": "https://doi.org/10.1021/acssensors.6c01626",
+  "source": "pubmed",
+  "categories": [
+   "Photoelectrochemistry",
+   "Z-Scheme & Heterojunctions",
+   "Mechanism & Charge Dynamics",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Charge Separation",
+   "Charge Transfer",
+   "Graphene",
+   "Heterojunctions",
+   "Photoanodes",
+   "Photoelectrochemistry"
+  ],
+  "relevance_score": 93,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "aecdade568699bb8",
@@ -3611,6 +3862,41 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-09-03"
+ },
+ {
+  "id": "1cc19d73f5159b09",
+  "title": "Facet engineering of gradient-truncated CsPbBr 3 perovskite nanocrystals: Controlled synthesis and selective photocatalytic CO 2 reduction",
+  "authors": [
+   "Junyang Hou",
+   "Ye Liu",
+   "Hengwei Qiu",
+   "Xiaojun Lv",
+   "Hao Zhang"
+  ],
+  "journal": "Nano Research",
+  "publisher": "Tsinghua University Press",
+  "published": "2026-08-28",
+  "year": 2026,
+  "doi": "10.26599/nr.2026.94909159",
+  "url": "https://doi.org/10.26599/nr.2026.94909159",
+  "source": "crossref",
+  "categories": [
+   "CO2 Reduction",
+   "Mechanism & Charge Dynamics",
+   "Perovskites",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Charge Carriers",
+   "Perovskites",
+   "Photocatalysis",
+   "Photogenerated Carriers",
+   "Semiconductors"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "11993b7da8f3a914",
@@ -6555,6 +6841,37 @@
   "relevance_score": 82,
   "affiliations": [],
   "added": "2026-08-27"
+ },
+ {
+  "id": "41d1ef09ea48adac",
+  "title": "Photoinduced Iron-Catalyzed Intermolecular Dearomative Hydroalkylation of Unactivated Indoles with Alkanes",
+  "authors": [
+   "Jing Huang",
+   "Feng-Shuo Bao",
+   "Min Jiang",
+   "Xiao-Ye Yu",
+   "Qiaowen Chang",
+   "Wen-Jing Xiao",
+   "Jia-Rong Chen"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-26",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c05002",
+  "url": "https://doi.org/10.1021/acscatal.6c05002",
+  "source": "crossref",
+  "categories": [
+   "Photoredox & Organic Synthesis"
+  ],
+  "tags": [
+   "LMCT",
+   "Photocatalysis",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "3e3772792d4882d3",
@@ -13719,6 +14036,52 @@
   "added": "2026-08-22"
  },
  {
+  "id": "7392ab0460763d14",
+  "title": "Rational Design of Star-Shaped Donor−Acceptor Organic Small-Molecule/GCN Heterostructures for Superior Photocatalytic Hydrogen Evolution and Photoelectrocatalytic Water Splitting Applications",
+  "authors": [
+   "Govindasamy Sathiyan",
+   "Gayathri Kumaresan",
+   "Geetha Venkatesan",
+   "Sebin Devasia",
+   "Pachagounder Sakthivel",
+   "Nisha Banerjee",
+   "Ranjith G. Nair",
+   "Abinash Das"
+  ],
+  "journal": "ACS Applied Engineering Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-20",
+  "year": 2026,
+  "doi": "10.1021/acsaenm.6c00868",
+  "url": "https://doi.org/10.1021/acsaenm.6c00868",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Hydrogen Evolution",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Carriers",
+   "Charge Transfer",
+   "Heterojunctions",
+   "Heterostructures",
+   "Hydrogen Evolution",
+   "Hydrogen Production",
+   "Photocatalysis",
+   "Photoelectrochemistry",
+   "Solar Hydrogen",
+   "Water Splitting",
+   "g-C3N4"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-04"
+ },
+ {
   "id": "72d30fd73937bd4b",
   "title": "Constructing Substituted-Pyridine-Linked Conjugated Porous Polymers via Multicomponent Hantzsch-Type Reaction for Efficient Hydrogen Peroxide Photosynthesis from Real Seawater and Air.",
   "authors": [
@@ -15952,6 +16315,40 @@
   "relevance_score": 65,
   "affiliations": [],
   "added": "2026-08-22"
+ },
+ {
+  "id": "2fd9fba29d206c5d",
+  "title": "Electronic Isolation Wall Engineering in Covalent Organic Frameworks for Enhancing Overall H2O2 Photosynthesis",
+  "authors": [
+   "Ziling Li",
+   "Zihe Wang",
+   "Donghui Lan",
+   "Jinke Cheng",
+   "Xiaoxu Deng",
+   "Peng Chen"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-19",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c05092",
+  "url": "https://doi.org/10.1021/acscatal.6c05092",
+  "source": "crossref",
+  "categories": [
+   "MOFs & COFs",
+   "Solar Fuels",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "COFs",
+   "H2O2 Production",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Pollutants"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "27fa1a3979bc4458",
@@ -23614,6 +24011,43 @@
   "added": "2026-08-14"
  },
  {
+  "id": "3b06eefccebfbe89",
+  "title": "Correction to “Performance and Mechanism of a Commercial Cu/ZnO/Al2O3 Catalyst for the Gas–Solid Photothermal Catalytic Reverse Water–Gas Shift Reaction”",
+  "authors": [
+   "Xiao Han",
+   "Jianan Han",
+   "Zhaohui Li",
+   "Zhaorui Zhang",
+   "Yingtian Zhang",
+   "Jinsheng Zhao",
+   "Shuai Han",
+   "Baohuai Zhao",
+   "Peng Xu",
+   "Lingcong Li",
+   "Takashi Toyao",
+   "Ken-ichi Shimizu",
+   "Bingbing Zhang",
+   "Ningqiang Zhang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-13",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c05624",
+  "url": "https://doi.org/10.1021/acscatal.6c05624",
+  "source": "crossref",
+  "categories": [
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photothermal Catalysis",
+   "ZnO"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-09-04"
+ },
+ {
   "id": "36f9c920e6322723",
   "title": "Mechanistic Investigation of Visible-Light-Driven Photocatalysis in Bio-Synthesized Graphitic Carbon Nitride/MgO Nanocomposites Toward Safranine Orange Dye.",
   "authors": [
@@ -24143,6 +24577,35 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-08-13"
+ },
+ {
+  "id": "e3bc950e625e5944",
+  "title": "Machine-Learning-Guided Optimization of Rapid-Lamp-Annealed Hematite Photoanodes for Solar Water Splitting",
+  "authors": [
+   "Kaori Matsuzawa",
+   "Yoshua Albert Darmawan",
+   "Kenji Katayama"
+  ],
+  "journal": "ACS Applied Engineering Materials",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-08-12",
+  "year": 2026,
+  "doi": "10.1021/acsaenm.6c00796",
+  "url": "https://doi.org/10.1021/acsaenm.6c00796",
+  "source": "crossref",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Machine Learning for Photocatalysis"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Photoanodes",
+   "Water Splitting"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-09-04"
  },
  {
   "id": "e0c649275c355228",
