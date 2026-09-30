@@ -1,5 +1,28 @@
 [
  {
+  "id": "4fd0c24dbeecfb20",
+  "title": "Influence of rapid heat treatment on the photocatalytic activity of alkaline earth metal titanates",
+  "authors": [
+   "Shah Abedi Mahsa"
+  ],
+  "journal": "SZTE Repository of Dissertations (University of Szeged)",
+  "publisher": "University of Szeged",
+  "published": "2026-10-16",
+  "year": 2026,
+  "doi": "",
+  "url": "https://doktori.bibl.u-szeged.hu/id/eprint/12973/1/Mahsa_Abedi_Booklet_Final%20%281%29.pdf",
+  "source": "openalex",
+  "categories": [
+   "General Photocatalysis"
+  ],
+  "tags": [
+   "Photocatalysis"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
   "id": "e2cde30ffdad7a61",
   "title": "Surface-Modified Zn3In2S6 for a Dual-Pathway Photocatalytic Hydrogen Peroxide Production.",
   "authors": [
@@ -66,6 +89,54 @@
   "relevance_score": 98,
   "affiliations": [],
   "added": "2026-09-28"
+ },
+ {
+  "id": "88186868ef2a2c05",
+  "title": "Boosting Photocatalytic Hydrogen Peroxide Production via Multiscale Engineering O-Doped g-C3N4/CuO Nanosheets.",
+  "authors": [
+   "Mingzhi Xu",
+   "Mengru Ji",
+   "Tianqiao He",
+   "Fei Ke",
+   "Yuqing Pang",
+   "Jie Mao",
+   "Xin Dong",
+   "Yulu Feng",
+   "Jiale Liang",
+   "Na Xu",
+   "Chunyan Zhang"
+  ],
+  "journal": "ChemSusChem",
+  "publisher": "",
+  "published": "2026-10-14",
+  "year": 2026,
+  "doi": "10.1002/cssc.71107",
+  "url": "https://doi.org/10.1002/cssc.71107",
+  "source": "pubmed",
+  "categories": [
+   "Solar Fuels",
+   "g-C3N4 & Carbon Materials",
+   "Mechanism & Charge Dynamics",
+   "Co-catalysts & Surface",
+   "Semiconductor Materials",
+   "Z-Scheme & Heterojunctions"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Charge Separation",
+   "Charge Transfer",
+   "Doping",
+   "Electron-Hole Pairs",
+   "H2O2 Production",
+   "Heterostructures",
+   "Light Irradiation",
+   "Photocatalysis",
+   "Semiconductors",
+   "g-C3N4"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "d791c5a5044919ca",
@@ -195,6 +266,43 @@
   "relevance_score": 78,
   "affiliations": [],
   "added": "2026-08-11"
+ },
+ {
+  "id": "e69e1935e064fffc",
+  "title": "Construction of ZnIn2S4/ZnS S-scheme heterojunction for enhanced photocatalytic hydrogen peroxide production",
+  "authors": [
+   "Shuo Wang",
+   "Shu-Hua Wang",
+   "Xiao-Wei Niu",
+   "Lin Wang",
+   "Yang Yang",
+   "Dong-Dong Zhang",
+   "Wei-You Yang",
+   "B. Likozar",
+   "Hui-Lin Hou"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.jallcom.2026.191186",
+  "url": "https://doi.org/10.1016/j.jallcom.2026.191186",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Solar Fuels",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "H2O2 Production",
+   "Heterojunctions",
+   "Photocatalysis",
+   "S-Scheme",
+   "ZnIn2S4"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "e4f25dde1082076a",
@@ -381,6 +489,37 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-09-04"
+ },
+ {
+  "id": "bd04cbbb5f8be122",
+  "title": "Fabrication of the immobilized Z-scheme Co|NiCo2O4/NiO@Er3+:YAlO3 composite photocatalyst film with upconversion-mediated spectral expansion for Congo Red degradation with simultaneous hydrogen evolution",
+  "authors": [
+   "Hong-Lu Zhang",
+   "Zhao-Hong Zhang",
+   "Da-Wei Fang",
+   "Jun Wang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157707",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157707",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Reactor Engineering & Scale-up"
+  ],
+  "tags": [
+   "Hydrogen Evolution",
+   "Immobilization",
+   "Photocatalysis",
+   "Z-Scheme"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "ba4a40612202fcad",
@@ -603,6 +742,41 @@
   "added": "2026-09-18"
  },
  {
+  "id": "8a872fcec5201d2e",
+  "title": "Rational design of carbon nitride nanosheet/tube isotype heterojunction for enhanced photocatalytic H2 evolution",
+  "authors": [
+   "Xun-Huai Huang",
+   "Si Chen",
+   "Hai-Nian Zhang",
+   "Xuan-Hui Lin",
+   "Xu-Yue Wang",
+   "Zhi-Peng Fang",
+   "Zhao Mo",
+   "Yan-Hua Song"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157610",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157610",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Z-Scheme & Heterojunctions",
+   "g-C3N4 & Carbon Materials"
+  ],
+  "tags": [
+   "Carbon Nitride",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-30"
+ },
+ {
   "id": "89f5a116b0ccc071",
   "title": "Photocatalytic upcycling of plastic waste coupled with CO",
   "authors": [
@@ -773,6 +947,43 @@
   "relevance_score": 96,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "75f2bbf0da6ea01f",
+  "title": "Zinc vacancies mediated Z-scheme composite type-II heterojunction for enhanced photocatalytic hydrogen evolution and tetracycline hydrochloride degradation",
+  "authors": [
+   "Chang Chen",
+   "Shi-Wen Du",
+   "Zhen-Fei Fu",
+   "Zi-Wu Han",
+   "Yu-Min Wang",
+   "Si-Ying Zhang",
+   "Wen-Mei Ma",
+   "Hu Xu",
+   "Peng-Fei Fang"
+  ],
+  "journal": "Journal of Alloys and Compounds",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.jallcom.2026.191225",
+  "url": "https://doi.org/10.1016/j.jallcom.2026.191225",
+  "source": "semanticscholar",
+  "categories": [
+   "Z-Scheme & Heterojunctions",
+   "Hydrogen Evolution",
+   "Pollutant Degradation"
+  ],
+  "tags": [
+   "Antibiotic Degradation",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis",
+   "Z-Scheme"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "75e4376dba23ddf5",
@@ -1060,6 +1271,42 @@
   "relevance_score": 73,
   "affiliations": [],
   "added": "2026-08-22"
+ },
+ {
+  "id": "5986c3bba4f06317",
+  "title": "Morphology and energy band engineering of CdS nanowires by Ni-substitution for boosted photocatalytic hydrogen evolution",
+  "authors": [
+   "Zhan-He Liu",
+   "Li-Yun Cao",
+   "Liang-Liang Feng",
+   "Xin-Gang Kong",
+   "Yong-Qiang Feng",
+   "Fa-Liang Luo",
+   "Hai-Jun Ma",
+   "De-Wei Chu",
+   "Meng-Fan Niu",
+   "Yi-Jun Liu",
+   "Jian-Feng Huang"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157505",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157505",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "52096a415468ad15",
@@ -1490,6 +1737,45 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-08-11"
+ },
+ {
+  "id": "28056d7468856a48",
+  "title": "Ferroelectric polarization engineering enables dual enhancement of interfacial electronic interaction and charge separation driving force in BaTiO3/CdS heterojunctions for photocatalytic hydrogen evolution",
+  "authors": [
+   "Yu-Lin Tan",
+   "Yang-Hao Wu",
+   "Yan-Fang He",
+   "Ying Yang",
+   "Hui-Min Zhang",
+   "Yu-Fang Xie",
+   "Cheng-Lin Zhang",
+   "Yuan Liu",
+   "Ming-Ming Chen",
+   "Da-Wei Cao"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.157458",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.157458",
+  "source": "semanticscholar",
+  "categories": [
+   "Hydrogen Evolution",
+   "Mechanism & Charge Dynamics",
+   "Z-Scheme & Heterojunctions",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "CdS",
+   "Charge Separation",
+   "Heterojunctions",
+   "Hydrogen Evolution",
+   "Photocatalysis"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-30"
  },
  {
   "id": "27071193223620f6",
