@@ -44,8 +44,17 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "GuruprakashMP"
-          git config user.email "guruprakash29011999@gmail.com"
+          # Each day only some of the *-papers repos commit as the owner (none on
+          # Sundays and most Saturdays); the rest commit as github-actions[bot],
+          # which does not count on the contribution graph.
+          # See .github/scripts/commit_identity.py.
+          if [ "$(python .github/scripts/commit_identity.py "${GITHUB_REPOSITORY#*/}")" = owner ]; then
+            git config user.name "GuruprakashMP"
+            git config user.email "guruprakash29011999@gmail.com"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          fi
           git add -A
           if git diff --cached --quiet; then
             echo "No new papers today."
