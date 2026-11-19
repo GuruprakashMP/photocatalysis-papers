@@ -183,6 +183,41 @@
   "added": "2026-11-18"
  },
  {
+  "id": "f2ddda93114cc867",
+  "title": "Engineering TiO2–Carbon Interfaces for Efficient Photoelectrochemical Water Splitting",
+  "authors": [
+   "Francisco J. Peón-Díaz",
+   "Juan Carlos Expósito-Gálvez",
+   "Paul E.D. Soto-Rodríguez",
+   "Rodrigo Segura"
+  ],
+  "journal": "International Journal of Hydrogen Energy",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1016/j.ijhydene.2026.158550",
+  "url": "https://doi.org/10.1016/j.ijhydene.2026.158550",
+  "source": "openalex",
+  "categories": [
+   "Photoelectrochemistry",
+   "Water Splitting",
+   "Semiconductor Materials"
+  ],
+  "tags": [
+   "Photoelectrochemistry",
+   "TiO2",
+   "Water Splitting"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "Universidad Técnica Federico Santa María",
+   "University of Valparaíso",
+   "Universidad Pablo de Olavide",
+   "Universidad de La Laguna"
+  ],
+  "added": "2026-11-19"
+ },
+ {
   "id": "de34c8dd93132ec8",
   "title": "Carbon Upgrading of Glycerol to Glycolic Acid and Formic Acid via Radical-Mediated C-C Cleavage Using Gallium-Doped TiO2.",
   "authors": [
@@ -526,6 +561,44 @@
   ],
   "relevance_score": 92,
   "affiliations": [],
+  "added": "2026-11-19"
+ },
+ {
+  "id": "0549a508bc41ec83",
+  "title": "Enantioconvergent Radical Suzuki–Miyaura C(sp3)–C(sp2) Cross-Coupling of Racemic Alkylboronic Esters Via Photoredox/Ni Catalysis",
+  "authors": [
+   "Zhaoyang Xu",
+   "Yu Chen",
+   "Yanran Yang",
+   "Ruiyang Wang",
+   "Tianhang Huang",
+   "Huanyu Xiao",
+   "Xiaotai Wang",
+   "Tao Yang"
+  ],
+  "journal": "ACS Catalysis",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1021/acscatal.6c07424",
+  "url": "https://doi.org/10.1021/acscatal.6c07424",
+  "source": "openalex",
+  "categories": [
+   "Photoredox & Organic Synthesis",
+   "Computational & DFT"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "DFT",
+   "Photocatalysis",
+   "Photoredox",
+   "Radical Chemistry"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Nanchang University",
+   "Xi’an Jiaotong-Liverpool University"
+  ],
   "added": "2026-11-19"
  },
  {
