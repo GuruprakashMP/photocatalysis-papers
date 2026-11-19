@@ -9,7 +9,7 @@ All notable changes to PhotocatalysisPapers.
   every tool on guruprakashmp.github.io), a starfield header band and the shared
   footer, served once by the main site. Every page uses it.
 - **A reading list of recent additions** (`assets/data/feed.json`): the papers added
-  in the last 30 days, newest first, each with its journal badge, how long ago it
+  in the last 30 days (at least the newest 200, whole days), newest first, each with its journal badge, how long ago it
   was published, Full text (DOI), Abstract, Save and Mark read. Read papers are
   dimmed and listed below a "You're all caught up" divider; "N new since your last
   visit"; Saved, Unread, New and Following views; journal chips with counts and a

@@ -68,7 +68,7 @@ and the served format can evolve independently.
 * **Static HTML** (SEO, works without JS): archive year→month→day,
   categories, about, and the newest additions as a fallback on the front page.
 * **Front page** (`index.html` + `assets/app.js`): the papers added in the last
-  30 days (`assets/data/feed.json`, written by the generator), with read / unread,
+  30 days, at least the newest 200 in whole days (`assets/data/feed.json`, written by the generator), with read / unread,
   saved papers, followed journals, "new since your last visit", a title and author
   filter and keyboard shortcuts (j / k / s / r / a / o). The visitor's marks live in
   the browser's localStorage under `gp.idx.<index_key>.` (all tools on

@@ -102,6 +102,16 @@ class TestGenerator(unittest.TestCase):
         self.assertNotIn("old", [p.id for p in picked])
         # fewer than FEED_MIN in the window: the newest additions fill up to FEED_MIN
         self.assertEqual([p.id for p in generator.feed_papers(old, today)], ["old"])
+        # ... and the oldest day taken comes whole, so "added since <date>" stays true
+        def mk(i, added):
+            return Paper(id=f"d{i}", title="t", authors=[], journal="", publisher="",
+                         published="2026-01-01", year=2026, doi="", url="", source="x",
+                         categories=[], tags=[], relevance_score=50, added=added)
+        days = [mk(i, "2026-05-02") for i in range(generator.FEED_MIN - 3)] + \
+               [mk(1000 + i, "2026-05-01") for i in range(10)] + [mk(2000, "2026-04-30")]
+        picked = generator.feed_papers(days, today)
+        self.assertEqual(len(picked), generator.FEED_MIN - 3 + 10)
+        self.assertEqual({p.added for p in picked}, {"2026-05-02", "2026-05-01"})
 
     def test_pages_carry_the_index_key_and_theme(self):
         html = (self.out / "index.html").read_text(encoding="utf-8")

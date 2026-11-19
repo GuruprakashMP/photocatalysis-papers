@@ -162,12 +162,20 @@ def _write_data_shards(papers: List[Paper], out_dir: Path, generated: str) -> No
 
 
 def feed_papers(papers: List[Paper], today: dt.date) -> List[Paper]:
-    """Papers added in the FEED_DAYS days up to ``today`` (at least FEED_MIN), newest first."""
+    """Papers added in the FEED_DAYS days up to ``today``, newest first.
+
+    Fewer than FEED_MIN there: the newest FEED_MIN additions, plus the rest of the oldest
+    day taken, so the list always holds every paper added since its oldest date (the
+    front page says "added since <that date>").
+    """
     since = (today - dt.timedelta(days=FEED_DAYS - 1)).isoformat()
     ordered = sorted(papers, key=lambda p: (p.added or "", p.published or "", p.id),
                      reverse=True)
     recent = [p for p in ordered if (p.added or "") >= since]
-    return recent if len(recent) >= FEED_MIN else ordered[:FEED_MIN]
+    if len(recent) >= FEED_MIN or len(ordered) <= FEED_MIN:
+        return recent if len(recent) >= FEED_MIN else ordered
+    last_day = ordered[FEED_MIN - 1].added or ""
+    return [p for p in ordered if (p.added or "") >= last_day]
 
 
 def _write_feed(papers: List[Paper], out_dir: Path, generated: str) -> List[Paper]:
