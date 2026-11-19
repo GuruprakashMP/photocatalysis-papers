@@ -2,6 +2,27 @@
 
 All notable changes to PhotocatalysisPapers.
 
+## [1.3.0] - 2026-11-19
+
+### Added
+- **Front page in the GP Tools theme.** The shared top bar (GP icon, Tools menu of
+  every tool on guruprakashmp.github.io), a starfield header band and the shared
+  footer, served once by the main site. Every page uses it.
+- **A reading list of recent additions** (`assets/data/feed.json`): the papers added
+  in the last 30 days, newest first, each with its journal badge, how long ago it
+  was published, Full text (DOI), Abstract, Save and Mark read. Read papers are
+  dimmed and listed below a "You're all caught up" divider; "N new since your last
+  visit"; Saved, Unread, New and Following views; journal chips with counts and a
+  list of journals to follow; a title and author filter; "Updated X ago"; keys
+  j / k / s / r / a / o. Marks stay in the browser (localStorage, `gp.idx.photocatalysis.`).
+- **Abstract on click**, fetched by DOI from OpenAlex (`abstract_inverted_index`),
+  else Crossref; "No abstract available" when neither has one. Not stored.
+- Search, author, journal and archive cards get the same buttons.
+
+### Changed
+- About and Categories texts: no em dashes; "one or more categories" (many papers
+  have exactly one).
+
 ## [1.2.1] — 2026-07-28
 
 ### Fixed

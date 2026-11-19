@@ -28,6 +28,10 @@ ASSETS_SRC_DIR = Path(__file__).resolve().parent / "site" / "assets"
 class Settings:
     site_title: str = "PhotocatalysisPapers"
     site_tagline: str = ""
+    # Short id of this index on guruprakashmp.github.io: the GP Tools menu marks it, and the
+    # browser keeps its read / saved marks under "gp.idx.<index_key>." (all the tools share
+    # one origin, so each needs its own names).
+    index_key: str = "photocatalysis"
     site_base_url: str = ""
     contact_email: str = ""
     min_relevance_score: int = 40

@@ -65,16 +65,27 @@ shards (`assets/data/papers-YYYY.json`) for the browser, so the stored format
 and the served format can evolve independently.
 
 ### Hybrid static/client-side site
-* **Static HTML** (SEO, works without JS): homepage with the newest papers,
-  archive year→month→day, categories, about.
+* **Static HTML** (SEO, works without JS): archive year→month→day,
+  categories, about, and the newest additions as a fallback on the front page.
+* **Front page** (`index.html` + `assets/app.js`): the papers added in the last
+  30 days (`assets/data/feed.json`, written by the generator), with read / unread,
+  saved papers, followed journals, "new since your last visit", a title and author
+  filter and keyboard shortcuts (j / k / s / r / a / o). The visitor's marks live in
+  the browser's localStorage under `gp.idx.<index_key>.` (all tools on
+  guruprakashmp.github.io share one origin). The Abstract button fetches one
+  abstract by DOI from OpenAlex, then Crossref, in the visitor's browser; nothing
+  is stored.
 * **Client-side JS** (`assets/app.js`, vanilla): search with filters
   (year, category, journal, source, min-score, sort), author pages
   (`authors.html?a=Name`) and journal pages (`journals.html?j=Name`).
   **Why client-side for authors/journals:** thousands of authors would mean
   tens of thousands of static pages regenerated and committed daily; query-
   param pages give every author/journal a stable URL at zero repo cost.
-* All links are **relative**, so the site works at any base path
-  (e.g. `/repo/ddc_papers/`).
+* The index's own links are **relative**, so it works at any base path. The
+  look is the shared GP Tools theme of guruprakashmp.github.io: every page loads
+  `/assets/css/gp-tools.css`, `/assets/js/gp-bar.js` (top bar Tools menu, footer)
+  and `/assets/js/starfield.js` (header band) from the main site, root-relative,
+  so one edit there restyles every tool. Without them the pages still work.
 
 ### Generated site lives at the project root
 `index.html` etc. sit next to `src/` and `data/` so that copying the single
