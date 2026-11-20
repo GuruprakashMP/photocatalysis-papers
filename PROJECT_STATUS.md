@@ -22,7 +22,7 @@ _Last updated: 2026-07-27 (verified re-sweep complete: 208,399 papers)_
 - [x] Daily workflow at 05:00 UTC collects, classifies, rebuilds, commits
 - [x] **Historical backfill 1972→2026 complete and VERIFIED (2026-07-27):
       208,399 papers** across ~90 workflow runs. Every year's sweep is
-      confirmed clean (no silently failed queries — see CHANGELOG 1.2.0);
+      confirmed clean (no silently failed queries - see CHANGELOG 1.2.0);
       the 1972 Honda–Fujishima paper is indexed and on Fujishima's page.
 - [x] Data-quality passes: corrupted OpenAlex merges + 700 transparent-
       peer-review artifacts purged, with collector guards so they cannot
@@ -38,14 +38,14 @@ _Last updated: 2026-07-27 (verified re-sweep complete: 208,399 papers)_
 ## Known issues (inherited environment quirks)
 
 - Local machine: arXiv fails (missing SSL certs) and ChemRxiv 403s
-  (Cloudflare) — both work/degrade gracefully in GitHub Actions.
+  (Cloudflare) - both work/degrade gracefully in GitHub Actions.
 - Semantic Scholar keyless tier rate-limits; collector skips gracefully.
 - OpenAlex throttling (revised 2026-07-27): throttles in long daily windows
   (~11:00–05:00 UTC) regardless of runner IP; only ~05:00–11:00 UTC is
-  reliable. Each run also has a fetch budget (~15k records) — the
+  reliable. Each run also has a fetch budget (~15k records) - the
   fetch-side checkpoint (data/state/backfill_progress.json) makes retries
   spend it only on missing queries. The pioneer sweep alone costs ~15k
-  fetches — never bundle it with a topic-year range in one run.
+  fetches - never bundle it with a topic-year range in one run.
 - OpenAlex serves occasional corrupted merges (OSTI repository records with
   a foreign publisher's DOI + abstract). Detection: OSTI journal/publisher
   with a DOI not starting 10.2172. Re-check after any large backfill.

@@ -6,6 +6,7 @@ Run from the project root (the folder containing ``src/``):
     python -m ddc run --days 7     # look further back
     python -m ddc collect          # collect only, no site build
     python -m ddc build            # rebuild the site from stored data only
+    python -m ddc toc              # read journal feeds for TOC graphics, then rebuild
     python -m ddc stats            # print index statistics
 
 (Requires ``src`` on the path: ``python -m ddc`` works when invoked as
@@ -47,6 +48,7 @@ def main(argv=None) -> int:
                         help="skip site rebuild at the end")
 
     sub.add_parser("build", help="rebuild the website from stored data")
+    sub.add_parser("toc", help="read the journals' RSS feeds for TOC graphics, then rebuild")
     sub.add_parser("stats", help="print index statistics")
 
     args = parser.parse_args(argv)
@@ -70,6 +72,14 @@ def main(argv=None) -> int:
             generate=not args.no_site,
         )
         print(result.summary())
+        return 0
+
+    if args.command == "toc":
+        from .site.generator import generate_site
+        from .store import PaperStore
+        from .toc import update
+        print(update(PaperStore().load_all()))
+        generate_site(Settings.load())
         return 0
 
     if args.command == "build":

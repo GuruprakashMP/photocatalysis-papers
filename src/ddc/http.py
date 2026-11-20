@@ -1,4 +1,4 @@
-"""Minimal HTTP client on top of urllib — no third-party dependencies.
+"""Minimal HTTP client on top of urllib - no third-party dependencies.
 
 Every collector goes through :func:`get_json` / :func:`get_text`, which add a
 polite User-Agent, timeouts, and retry with exponential backoff.  Failures are

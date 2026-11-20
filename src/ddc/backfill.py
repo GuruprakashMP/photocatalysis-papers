@@ -1,4 +1,4 @@
-"""Historical backfill — index the whole history of ML applied to chemistry.
+"""Historical backfill - index the whole history of ML applied to chemistry.
 
 Walks OpenAlex (which aggregates Crossref, PubMed, arXiv and more, with
 abstracts for classification) using cursor pagination:
@@ -40,11 +40,11 @@ PIONEERS_FILE = PROJECT_ROOT / "config" / "pioneers.json"
 # queries that already succeeded, and dies on the same tail queries forever.
 # Delete a year's entries to force a fresh sweep of that year.
 PROGRESS_FILE = PROJECT_ROOT / "data" / "state" / "backfill_progress.json"
-# Abort the whole backfill after this many consecutive failed queries —
+# Abort the whole backfill after this many consecutive failed queries -
 # it means the API quota is exhausted and hammering on is pointless.
 MAX_CONSECUTIVE_FAILURES = 12
 
-# Fields we actually read — trimming the payload makes paging ~5x faster.
+# Fields we actually read - trimming the payload makes paging ~5x faster.
 SELECT = ("id,display_name,authorships,primary_location,doi,"
           "publication_date,abstract_inverted_index")
 
@@ -133,12 +133,12 @@ def _ingest_pages(
 ) -> Tuple[PipelineResult, bool]:
     """Fetch all pages for one filter and ingest them, with checkpointing.
 
-    Returns ``(result, ok)`` — ``ok`` is False when the query failed and
+    Returns ``(result, ok)`` - ``ok`` is False when the query failed and
     must be re-run. ``failures`` is ``[consecutive, current_year, total]``
     failed-query counters shared across the sweep; sustained consecutive
     failure raises :class:`QuotaExhausted`. The other two counters let the
     caller flag a year (or the whole run) as incomplete even when failures
-    were transient — a skipped query silently loses its papers otherwise.
+    were transient - a skipped query silently loses its papers otherwise.
     """
     total = PipelineResult()
     ok = True
@@ -160,7 +160,7 @@ def _ingest_pages(
                     label, exc, failures[0])
         if failures[0] >= MAX_CONSECUTIVE_FAILURES:
             raise QuotaExhausted(
-                f"{failures[0]} consecutive failed queries — API quota "
+                f"{failures[0]} consecutive failed queries - API quota "
                 "exhausted; re-run the backfill later to resume") from exc
     store.save_seen(seen)  # checkpoint: re-running skips everything ingested
     if total.collected:

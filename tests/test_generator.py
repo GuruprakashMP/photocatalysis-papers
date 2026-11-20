@@ -44,6 +44,11 @@ class TestGenerator(unittest.TestCase):
                                     return_value=fake_store)
         patcher.start()
         self.addCleanup(patcher.stop)
+        tocs = mock.patch.object(generator, "_load_tocs", return_value={
+            "10.1021/x": {"img": "https://pubs.acs.org/cms/10.1021/x/asset/images/medium/x.gif",
+                          "pub": "ACS"}})
+        tocs.start()
+        self.addCleanup(tocs.stop)
         self.addCleanup(self.tmp.cleanup)
         generator.generate_site(Settings(site_title="TestSite"), out_dir=self.out)
 
@@ -112,6 +117,24 @@ class TestGenerator(unittest.TestCase):
         picked = generator.feed_papers(days, today)
         self.assertEqual(len(picked), generator.FEED_MIN - 3 + 10)
         self.assertEqual({p.added for p in picked}, {"2026-05-02", "2026-05-01"})
+
+    def test_toc_graphic_reaches_feed_cards_and_about(self):
+        feed = json.loads((self.out / "assets" / "data" / "feed.json").read_text("utf-8"))
+        p1 = next(p for p in feed["papers"] if p["id"] == "p1")
+        self.assertEqual(p1["toc"], "https://pubs.acs.org/cms/10.1021/x/asset/images/medium/x.gif")
+        self.assertEqual(p1["tp"], "ACS")
+        self.assertNotIn("toc", next(p for p in feed["papers"] if p["id"] == "p2"))
+        month = (self.out / "archive" / "2026" / "07" / "index.html").read_text(encoding="utf-8")
+        self.assertIn('class="card has-toc"', month)
+        self.assertIn("Graphic: ACS", month)
+        self.assertIn('referrerpolicy="no-referrer"', month)
+        about = (self.out / "about.html").read_text(encoding="utf-8")
+        self.assertIn("So far 1 paper here has one (ACS 1).", about)
+
+    def test_em_dash_shown_as_hyphen_but_kept_in_links(self):
+        from ddc.site.html import no_dash
+        self.assertEqual(no_dash("Science—Sustainable"), "Science - Sustainable")
+        self.assertEqual(no_dash("Therapy — Nucleic Acids"), "Therapy - Nucleic Acids")
 
     def test_pages_carry_the_index_key_and_theme(self):
         html = (self.out / "index.html").read_text(encoding="utf-8")

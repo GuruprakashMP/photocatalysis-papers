@@ -2,12 +2,12 @@
 
 Three vocabularies drive the relevance decision:
 
-* ``PRIMARY_TERMS`` — photocatalysis-specific vocabulary. A paper must show
+* ``PRIMARY_TERMS`` - photocatalysis-specific vocabulary. A paper must show
   strong evidence here to be indexed at all: this is the project's core rule,
   *photocatalysis as the primary subject*.
-* ``SUPPORT_TERMS`` — materials, reactions, characterization, computational
+* ``SUPPORT_TERMS`` - materials, reactions, characterization, computational
   and data-driven methods that refine the score and assign categories.
-* ``NEGATIVE_TERMS`` — signals the paper belongs to a neighbouring field
+* ``NEGATIVE_TERMS`` - signals the paper belongs to a neighbouring field
   (photovoltaics, LEDs, photodynamic therapy...).  ``penalty`` points.
 
 Weights: 4 = unambiguous ("photocatal…", "photoredox"), 3 = strong,
@@ -20,7 +20,7 @@ from __future__ import annotations
 from typing import Dict, Tuple
 
 # ---------------------------------------------------------------------------
-# Primary photocatalysis terms — required evidence
+# Primary photocatalysis terms - required evidence
 # ---------------------------------------------------------------------------
 PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
     # phrase: (weight, tag, category)
@@ -77,7 +77,7 @@ PRIMARY_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Support terms — materials, reactions, methods, characterization
+# Support terms - materials, reactions, methods, characterization
 # ---------------------------------------------------------------------------
 SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
     # target reactions
@@ -199,7 +199,7 @@ SUPPORT_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Negative signals — neighbouring fields that are NOT photocatalysis
+# Negative signals - neighbouring fields that are NOT photocatalysis
 # ---------------------------------------------------------------------------
 NEGATIVE_TERMS: Dict[str, int] = {
     "solar cell": 10,

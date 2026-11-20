@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ddc-write   # shared with the backfill workflow — one writer at a time
+  group: ddc-write   # shared with the backfill workflow - one writer at a time
   cancel-in-progress: false
 
 jobs:

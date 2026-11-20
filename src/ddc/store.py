@@ -1,4 +1,4 @@
-"""JSON storage — no database, perfect for GitHub Pages.
+"""JSON storage - no database, perfect for GitHub Pages.
 
 Papers are sharded into monthly files ``data/papers/<YYYY>/<MM>.json`` so the
 repository diff each day stays small and files never grow unbounded.  A

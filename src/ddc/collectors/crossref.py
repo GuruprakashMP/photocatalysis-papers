@@ -1,8 +1,8 @@
 """Crossref collector (https://api.crossref.org).
 
-Crossref carries the metadata of essentially every DOI-issuing publisher —
+Crossref carries the metadata of essentially every DOI-issuing publisher -
 ACS, RSC, Wiley, Springer Nature, Elsevier, MDPI, Taylor & Francis, IOP, AIP
-and more — so this single collector legally covers all of them.
+and more - so this single collector legally covers all of them.
 """
 
 from __future__ import annotations

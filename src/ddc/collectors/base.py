@@ -2,7 +2,7 @@
 
 A collector knows how to query ONE metadata source and return
 :class:`~ddc.models.RawRecord` objects.  It performs no filtering beyond what
-the source API needs — classification and deduplication happen downstream in
+the source API needs - classification and deduplication happen downstream in
 the pipeline, so every collector stays small and independent.
 
 To add a new source: create a module in this package with a subclass of
@@ -39,7 +39,7 @@ def registry() -> Dict[str, Type["Collector"]]:
 class Collector(abc.ABC):
     """Base class for all metadata collectors."""
 
-    #: unique machine name, e.g. "arxiv" — used in config and paper records
+    #: unique machine name, e.g. "arxiv" - used in config and paper records
     name: str = ""
     #: human-readable label shown on the website's About page
     label: str = ""

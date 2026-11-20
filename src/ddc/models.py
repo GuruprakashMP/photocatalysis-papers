@@ -1,6 +1,6 @@
 """Core data model.
 
-A :class:`Paper` holds *metadata only* — never full text or abstracts — so the
+A :class:`Paper` holds *metadata only* - never full text or abstracts - so the
 project stays free of copyright concerns.  Abstracts fetched from APIs are used
 transiently for classification and are discarded before storage.
 """
@@ -33,7 +33,7 @@ _SPACE_RE = re.compile(r"\s+")
 def normalize_author(name: Optional[str]) -> str:
     """Canonical form of an author display name.
 
-    Mechanical only — it fixes encoding and formatting noise so the *same*
+    Mechanical only - it fixes encoding and formatting noise so the *same*
     person stops fragmenting across author pages, and never tries to decide
     that two differently-spelled names are the same human:
 
@@ -44,7 +44,7 @@ def normalize_author(name: Optional[str]) -> str:
     Deliberately NOT done: merging initials with full given names
     ("J. Yoshida" vs "Jun-ichi Yoshida") or removing a hyphen entirely
     ("Junichi" vs "Jun-ichi"). Those are judgement calls that would silently
-    fuse distinct researchers — surnames like "Li", "Hu" and "Wu" appear as
+    fuse distinct researchers - surnames like "Li", "Hu" and "Wu" appear as
     complete names in this data, so any surname-collapsing rule is unsafe.
 
     A trailing period is preserved: 1,339 stored names legitimately end in an
@@ -103,7 +103,7 @@ class RawRecord:
 
 @dataclass
 class Paper:
-    """A stored paper record.  Only bibliographic metadata — no content."""
+    """A stored paper record.  Only bibliographic metadata - no content."""
 
     id: str
     title: str

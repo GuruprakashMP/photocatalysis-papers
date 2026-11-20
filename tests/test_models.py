@@ -45,7 +45,7 @@ class TestAuthorNormalization(unittest.TestCase):
             self.assertEqual(normalize_author(raw), "C. Oliver Kappe")
 
     def test_trailing_initial_period_preserved(self):
-        # 1,339 stored names legitimately end in an initial — trimming the
+        # 1,339 stored names legitimately end in an initial - trimming the
         # period would corrupt them.
         self.assertEqual(normalize_author("Jain, K. K."), "Jain, K. K.")
 

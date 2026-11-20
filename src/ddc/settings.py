@@ -38,6 +38,8 @@ class Settings:
     collect_days_back: int = 3
     max_results_per_source: int = 200
     homepage_paper_count: int = 50
+    # Show publishers' table-of-contents graphics (ACS, Wiley, RSC journal feeds; see toc.py)
+    toc_graphics: bool = True
     enabled_sources: List[str] = field(default_factory=list)
 
     @classmethod

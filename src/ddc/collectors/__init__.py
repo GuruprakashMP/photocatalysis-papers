@@ -1,4 +1,4 @@
-"""Collector package — importing it registers every built-in collector.
+"""Collector package - importing it registers every built-in collector.
 
 Adding a new source is a one-file change: drop a module here containing a
 ``@register``-decorated :class:`~ddc.collectors.base.Collector` subclass and

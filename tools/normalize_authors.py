@@ -1,7 +1,7 @@
 """One-off (but idempotent) migration: canonicalize stored author names.
 
 Publisher metadata carries Unicode dashes and honorifics, so one researcher
-fragments across several author pages — "Jun‐ichi Yoshida" (U+2010) held 113
+fragments across several author pages - "Jun‐ichi Yoshida" (U+2010) held 113
 papers while the ASCII spelling everyone types held 2. Ingestion now
 normalizes via :func:`ddc.models.normalize_author`; this rewrites the papers
 already on disk with the same rule.
@@ -11,7 +11,7 @@ Safe by construction:
 * Paper ids and dedupe keys derive from DOI/title only, never from authors
   (see ``make_paper_id`` / ``dedupe_keys``), so ``data/state/seen.json`` is
   neither read nor written here and identity cannot shift.
-* Idempotent — running it twice changes nothing the second time.
+* Idempotent - running it twice changes nothing the second time.
 * Only shards whose content actually changes are rewritten, so the git diff
   stays proportional to the fix.
 * Shard JSON is re-emitted with the exact formatting ``store.py`` uses.
@@ -134,7 +134,7 @@ def migrate(apply_changes: bool) -> int:
 
     # Converge. OneDrive in this tree occasionally reverts a freshly written
     # file *after* it has read back correctly, so a single pass can silently
-    # leave a shard behind — seen on 2 of the 4 sibling projects. Re-sweep
+    # leave a shard behind - seen on 2 of the 4 sibling projects. Re-sweep
     # until a pass finds nothing rather than relying on the operator to spot
     # it in the verification run.
     for round_number in range(2, 7):
@@ -144,7 +144,7 @@ def migrate(apply_changes: bool) -> int:
             return 0
         print(f"  round {round_number}: {remaining} shard(s) reverted after "
               "writing (OneDrive); re-applied")
-    print("\n!! Still not converged after 6 rounds — re-run --apply, and check "
+    print("\n!! Still not converged after 6 rounds - re-run --apply, and check "
           "whether OneDrive is actively syncing this folder.")
     return 1
 

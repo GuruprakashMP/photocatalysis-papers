@@ -28,7 +28,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Dict, List
 
-from ..models import Paper
+from ..models import Paper, normalize_doi
 from ..settings import ASSETS_SRC_DIR, SITE_DIR, Settings
 from ..store import PaperStore
 from .html import AUTHORS_SHOWN, _q, esc, month_name, page, paper_card, pretty_date
@@ -49,14 +49,15 @@ def generate_site(settings: Settings, out_dir: Path = SITE_DIR) -> None:
     _clean_generated(out_dir)
     _copy_assets(out_dir)
     generated = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    _write_data_shards(papers, out_dir, generated)
-    feed = _write_feed(papers, out_dir, generated)
+    tocs = _load_tocs() if settings.toc_graphics else {}
+    _write_data_shards(papers, out_dir, generated, tocs)
+    feed = _write_feed(papers, out_dir, generated, tocs)
 
     ctx = dict(site_title=settings.site_title, tagline=settings.site_tagline,
-               index_key=settings.index_key)
+               index_key=settings.index_key, contact_email=settings.contact_email)
 
     _write(out_dir / "index.html",
-           _homepage(papers, feed, generated, settings, ctx))
+           _homepage(papers, feed, generated, settings, ctx, tocs))
     _write(out_dir / "search.html",
            _js_page("Search", "search", ctx, depth=0))
     _write(out_dir / "authors.html",
@@ -65,8 +66,20 @@ def generate_site(settings: Settings, out_dir: Path = SITE_DIR) -> None:
            _js_page("Journals", "journals", ctx, depth=0))
     _write(out_dir / "about.html", _about_page(papers, settings, ctx))
     _write(out_dir / "categories" / "index.html", _categories_page(papers, ctx))
-    _write_archive(papers, out_dir, ctx)
+    _write_archive(papers, out_dir, ctx, tocs)
     log.info("Site generation complete")
+
+
+def _load_tocs() -> Dict[str, dict]:
+    """{doi: {"img": url, "pub": publisher}} recorded by toc.update()."""
+    from ..toc import load
+    return {normalize_doi(k): v for k, v in load().items()
+            if isinstance(v, dict) and isinstance(v.get("img"), str)}
+
+
+def _toc_fields(p: Paper, tocs: Dict[str, dict]) -> dict:
+    t = tocs.get(normalize_doi(p.doi)) if p.doi else None
+    return {"toc": t["img"], "tp": t.get("pub", "")} if t else {}
 
 
 # ---------------------------------------------------------------------------
@@ -77,7 +90,7 @@ def _clean_generated(out_dir: Path) -> None:
     """Remove fully regenerated output so stale pages never linger.
 
     Only touches directories the generator owns completely (archive tree and
-    the JSON data shards) — never source code or stored data.
+    the JSON data shards) - never source code or stored data.
     """
     archive = out_dir / "archive"
     if archive.exists():
@@ -124,7 +137,8 @@ def _copy_assets(out_dir: Path) -> None:
             shutil.copy2(asset, dest / asset.name)
 
 
-def _write_data_shards(papers: List[Paper], out_dir: Path, generated: str) -> None:
+def _write_data_shards(papers: List[Paper], out_dir: Path, generated: str,
+                       tocs: Dict[str, dict]) -> None:
     """Compact per-year JSON consumed by app.js (client-side pages)."""
     data_dir = out_dir / "assets" / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
@@ -144,6 +158,7 @@ def _write_data_shards(papers: List[Paper], out_dir: Path, generated: str) -> No
             "tags": p.tags,
             "score": p.relevance_score,
             "affiliations": p.affiliations,
+            **_toc_fields(p, tocs),
         })
     years = []
     for year, items in sorted(by_year.items(), reverse=True):
@@ -178,7 +193,8 @@ def feed_papers(papers: List[Paper], today: dt.date) -> List[Paper]:
     return [p for p in ordered if (p.added or "") >= last_day]
 
 
-def _write_feed(papers: List[Paper], out_dir: Path, generated: str) -> List[Paper]:
+def _write_feed(papers: List[Paper], out_dir: Path, generated: str,
+                tocs: Dict[str, dict]) -> List[Paper]:
     """assets/data/feed.json: what the front page (app.js) lists, small enough to load at once.
 
     Only what a feed card shows: no affiliations or tags, the first AUTHORS_SHOWN authors
@@ -198,6 +214,7 @@ def _write_feed(papers: List[Paper], out_dir: Path, generated: str) -> List[Pape
             item["url"] = p.url
         if len(p.authors) > AUTHORS_SHOWN:
             item["na"] = len(p.authors) - AUTHORS_SHOWN
+        item.update(_toc_fields(p, tocs))
         items.append(item)
     payload = {"generated": generated, "days": FEED_DAYS, "total": len(papers),
                "count": len(items), "papers": items}
@@ -211,18 +228,30 @@ def _write_feed(papers: List[Paper], out_dir: Path, generated: str) -> List[Pape
 # pages
 # ---------------------------------------------------------------------------
 
+def _short_date(iso: str) -> str:
+    """2026-10-22 -> 22 Oct 2026."""
+    full = pretty_date(iso).split(" ")
+    return " ".join([full[0], full[1][:3], full[2]]) if len(full) == 3 else pretty_date(iso)
+
+
 def _homepage(papers: List[Paper], feed: List[Paper], generated: str,
-              settings: Settings, ctx: dict) -> str:
+              settings: Settings, ctx: dict, tocs: Dict[str, dict]) -> str:
     oldest = min((p.added for p in feed if p.added), default="")
-    stats = (f'<li><strong>{len(papers):,}</strong> papers indexed</li>'
-             f'<li><strong>{len(feed):,}</strong> added since {esc(pretty_date(oldest))}</li>'
-             f'<li id="hero-updated">Updated {esc(generated)}</li>') if papers else ""
-    fallback = "\n".join(paper_card(p) for p in feed[: settings.homepage_paper_count])
+    n_sources = len(settings.enabled_sources)
+    stats = (f'<div class="gp-stat"><dt>Papers indexed</dt><dd>{len(papers):,}</dd></div>'
+             f'<div class="gp-stat"><dt>Added since {esc(_short_date(oldest))}</dt>'
+             f'<dd>{len(feed):,}</dd></div>'
+             f'<div class="gp-stat"><dt>Last update</dt><dd id="hero-updated">{esc(generated)}</dd></div>'
+             + (f'<div class="gp-stat"><dt>Open metadata sources</dt>'
+                f'<dd><a href="about.html#sources">{n_sources}</a></dd></div>' if n_sources else "")
+             ) if papers else ""
+    fallback = "\n".join(paper_card(p, toc=_toc_fields(p, tocs))
+                         for p in feed[: settings.homepage_paper_count])
     content = f"""
 <div id="app" data-page="feed" data-root="">
   <p class="loading">Loading the latest papers…</p>
   <noscript>
-  <h1 class="page-title">Recently added papers</h1>
+  <h2 class="page-title">Recently added papers</h2>
   <p>This list needs JavaScript to mark papers read or saved. The newest additions are below;
   the <a href="archive/index.html">archive</a> lists every paper by date.</p>
   {fallback if fallback else '<p class="empty">No papers indexed yet. The first pipeline run will populate this page.</p>'}
@@ -247,7 +276,7 @@ def _js_page(title: str, page_kind: str, ctx: dict, depth: int) -> str:
     active = {"search": "search.html", "authors": "authors.html",
               "journals": "journals.html"}.get(page_kind, "")
     return page(title=f"{title} · {ctx['site_title']}", content=content,
-                depth=depth, active=active, head_extra=head, **ctx)
+                depth=depth, active=active, head_extra=head, page_heading=title, **ctx)
 
 
 def _categories_page(papers: List[Paper], ctx: dict) -> str:
@@ -257,59 +286,79 @@ def _categories_page(papers: List[Paper], ctx: dict) -> str:
         f'<span class="count">{count:,}</span></li>'
         for cat, count in sorted(counts.items()))  # alphabetical for findability
     content = f"""
-<h1>Categories</h1>
 <p>Every paper has one or more categories, from the reaction or application
 it reports to the photocatalyst materials, mechanisms and methods behind it.
 Click one to browse.</p>
 <ul class="tile-list">{items or '<li>No categories yet.</li>'}</ul>"""
     return page(title=f"Categories · {ctx['site_title']}", content=content,
-                depth=1, active="categories/index.html", **ctx)
+                depth=1, active="categories/index.html", page_heading="Categories", **ctx)
+
+
+def _toc_about(papers: List[Paper]) -> str:
+    tocs = _load_tocs()
+    by_pub = Counter(tocs[normalize_doi(p.doi)].get("pub", "")
+                     for p in papers if p.doi and normalize_doi(p.doi) in tocs)
+    n = sum(by_pub.values())
+    counts = ", ".join(f"{esc(k)} {v:,}" for k, v in by_pub.most_common() if k)
+    so_far = (f"So far {n:,} paper{'s' if n != 1 else ''} here {'have' if n != 1 else 'has'} "
+              f"one ({counts})." if n else "No paper here has one yet.")
+    return f"""<h2 id="toc">Table-of-contents graphics</h2>
+<p>Every day the index reads the RSS feeds of the ACS, Wiley and RSC journals that
+publish papers listed here, and keeps, for those papers, only the address of the
+table-of-contents graphic the feed links. The image is not copied: your browser loads it
+from the publisher's own server, which therefore sees that request, as it would on the
+journal's website. A paper gets a graphic only while it is in its journal's feed, so
+mostly recent papers have one. {so_far} Each graphic remains the property of its
+publisher or authors, is credited under it, and links to the paper.</p>"""
 
 
 def _about_page(papers: List[Paper], settings: Settings, ctx: dict) -> str:
     from ..collectors import registry
+    toc_section = _toc_about(papers) if settings.toc_graphics else ""
     sources = "\n".join(
         f"<li><strong>{esc(cls.label)}</strong> (<code>{esc(name)}</code>)</li>"
         for name, cls in sorted(registry().items()))
     content = f"""
-<h1>About</h1>
 <p><strong>{esc(ctx['site_title'])}</strong> is an automatically updated index of
 photocatalysis research papers: water splitting, hydrogen evolution, CO2
 photoreduction, pollutant degradation, photoredox and organic synthesis,
 semiconductor photocatalysts, Z-scheme systems, photoelectrochemistry and
 solar fuels, covering experimental, computational and data-driven studies
 alike.</p>
-<h2>How it works</h2>
+<h2 id="method">How it works</h2>
 <p>Every day an automated pipeline queries open scholarly metadata APIs,
 removes duplicates, classifies each paper with a photocatalysis relevance
 model, assigns categories and a relevance score, and regenerates this site.</p>
-<h2>Sources</h2>
+<h2 id="sources">Sources</h2>
 <ul>{sources}</ul>
 <p>Papers from publishers such as ACS, RSC, Wiley, Springer Nature, Elsevier,
 MDPI, Frontiers, Taylor &amp; Francis, IOP and AIP reach this index through
 Crossref, OpenAlex, PubMed, Europe PMC, Semantic Scholar and DOAJ, which
 legally distribute their bibliographic metadata.</p>
-<h2>Data policy</h2>
+<h2 id="policy">Data policy</h2>
 <p>This site stores <em>metadata only</em>: title, authors, journal, date, DOI
-and link. No abstracts, no full text, no PDFs. Every paper links to the
+and link, and for some papers the address of the publisher's table-of-contents
+graphic. No abstracts, no full text, no PDFs, no images. Every paper links to the
 original publisher page. To have a record corrected or removed, contact
 <a href="mailto:{esc(settings.contact_email)}">{esc(settings.contact_email)}</a>.</p>
-<h2>Abstracts</h2>
+<h2 id="abstracts">Abstracts</h2>
 <p>A paper's <strong>Abstract</strong> button asks <a href="https://openalex.org/">OpenAlex</a>
 for the abstract by the paper's DOI, and <a href="https://www.crossref.org/">Crossref</a> when
 OpenAlex has none. Your browser sends that request itself, only when you click, and the
 abstract is shown with its source. Nothing is stored, here or in your browser. Papers
 without a DOI, or whose abstract neither service has, show "No abstract available".</p>
-<h2>Read, saved and followed</h2>
+{toc_section}
+<h2 id="your-data">What your browser keeps</h2>
 <p>Marking a paper read or saved, the journals you follow and the time of your last
 visit are kept in your browser's local storage on this computer, for this index only.
 They are never sent anywhere. Clearing this site's data in your browser removes them.</p>
 <p class="stats"><span><strong>{len(papers):,}</strong> papers indexed so far.</span></p>"""
     return page(title=f"About · {ctx['site_title']}", content=content,
-                depth=0, active="about.html", **ctx)
+                depth=0, active="about.html", page_heading="About this index", **ctx)
 
 
-def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict) -> None:
+def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict,
+                   tocs: Dict[str, dict]) -> None:
     by_year: Dict[int, Dict[int, List[Paper]]] = defaultdict(lambda: defaultdict(list))
     for p in papers:
         parts = (p.published or "").split("-")
@@ -322,12 +371,11 @@ def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict) -> None:
         f'<span class="count">{sum(len(v) for v in months.values()):,}</span></li>'
         for y, months in sorted(by_year.items(), reverse=True))
     content = f"""
-<h1>Archive</h1>
 <p>Browse the index by publication date: year, then month, then day.</p>
 <ul class="tile-list">{year_items or '<li>Empty archive.</li>'}</ul>"""
     _write(out_dir / "archive" / "index.html",
            page(title=f"Archive · {ctx['site_title']}", content=content,
-                depth=1, active="archive/index.html", **ctx))
+                depth=1, active="archive/index.html", page_heading="Archive", **ctx))
 
     for year, months in by_year.items():
         month_items = "\n".join(
@@ -335,12 +383,11 @@ def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict) -> None:
             f'<span class="count">{len(month_papers):,}</span></li>'
             for m, month_papers in sorted(months.items(), reverse=True))
         content = f"""
-<h1>{year}</h1>
 <p><a href="../index.html">← All years</a></p>
 <ul class="tile-list">{month_items}</ul>"""
         _write(out_dir / "archive" / str(year) / "index.html",
                page(title=f"{year} · {ctx['site_title']}", content=content,
-                    depth=2, active="archive/index.html", **ctx))
+                    depth=2, active="archive/index.html", page_heading=f"Archive · {year}", **ctx))
 
         for m, month_papers in months.items():
             by_day: Dict[str, List[Paper]] = defaultdict(list)
@@ -353,15 +400,14 @@ def _write_archive(papers: List[Paper], out_dir: Path, ctx: dict) -> None:
                     f'<section id="d{esc(day_label)}">'
                     f"<h2>{esc(day_label)} {esc(month_name(m))} {year} "
                     f'<span class="count">{len(day_papers)}</span></h2>'
-                    + "\n".join(paper_card(p, root="../../../")
+                    + "\n".join(paper_card(p, root="../../../", toc=_toc_fields(p, tocs))
                                 for p in day_papers)
                     + "</section>")
             content = f"""
-<h1>{esc(month_name(m))} {year}</h1>
 <p><a href="../index.html">← {year}</a></p>
 {''.join(sections)}"""
             _write(out_dir / "archive" / str(year) / f"{m:02d}" / "index.html",
                    page(title=f"{month_name(m)} {year} · {ctx['site_title']}",
                         content=content, depth=3, active="archive/index.html",
                         head_extra='<script defer src="../../../assets/app.js"></script>',
-                        body_page="static", **ctx))
+                        body_page="static", page_heading=f"{month_name(m)} {year}", **ctx))

@@ -70,7 +70,7 @@ def collect_records(settings: Settings, since: dt.date) -> List[RawRecord]:
             found = collector.fetch(since, settings.max_results_per_source)
             log.info("%s: %d records", collector.name, len(found))
             records.extend(found)
-        except Exception as exc:  # noqa: BLE001 — one source must never kill the run
+        except Exception as exc:  # noqa: BLE001 - one source must never kill the run
             log.error("%s failed, continuing without it: %s", collector.name, exc)
     return records
 
@@ -154,6 +154,14 @@ def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
     result = process_records(records, settings, store, seen)
     store.save_seen(seen)
     log.info("Pipeline: %s", result.summary())
+
+    if settings.toc_graphics:
+        # TOC graphics are a bonus: nothing here may stop the daily update.
+        try:
+            from .toc import update as update_toc
+            update_toc(store.load_all())
+        except Exception:  # noqa: BLE001
+            log.exception("toc: update failed; continuing without new graphics")
 
     if generate:
         from .site.generator import generate_site

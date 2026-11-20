@@ -2,6 +2,27 @@
 
 All notable changes to PhotocatalysisPapers.
 
+## [1.4.0] - 2026-11-20
+
+### Added
+- **Table-of-contents graphics** (`src/ddc/toc.py`, `python -m ddc toc`). Every daily
+  run reads the RSS feeds of the ACS, Wiley and RSC journals with papers added here
+  in the last 60 days and records, for papers in the index, the address of the
+  graphic each feed item links (`data/state/toc.json`). Only the address is stored;
+  pages show the image from the publisher's own HTTPS host, credited ("Graphic:
+  Wiley") and linked to the paper, and drop it if it does not load. A blocked feed
+  is logged and skipped; after 3 failures in a row with no success a publisher is
+  skipped for that run. `toc_graphics` in the settings turns it off.
+
+### Changed
+- A more structured look (shared GP Tools theme): header band with labelled
+  figures (papers indexed, added since, last update, sources), the page title in
+  the band on every other page, a filter sidebar on the front page, cards with
+  icon buttons and the graphic beside the text, a four-column footer.
+- No em dashes in anything shown: titles, journals, authors and abstracts that
+  contain one are shown with a spaced hyphen (the stored record is unchanged), and
+  docs and code comments no longer use them.
+
 ## [1.3.0] - 2026-11-19
 
 ### Added
@@ -23,12 +44,12 @@ All notable changes to PhotocatalysisPapers.
 - About and Categories texts: no em dashes; "one or more categories" (many papers
   have exactly one).
 
-## [1.2.1] — 2026-07-28
+## [1.2.1] - 2026-07-28
 
 ### Fixed
 - **One researcher is now one author page.** Publisher metadata carries
   Unicode dashes and honorifics, so the same person fragmented across
-  several pages — the U+2010 spelling of a hyphenated name and the ASCII
+  several pages - the U+2010 spelling of a hyphenated name and the ASCII
   spelling everyone types were different keys. Li-Zhu Wu's ASCII page went from 6 to 240 papers;
   48,147 stored names were rewritten.
 
@@ -40,13 +61,13 @@ All notable changes to PhotocatalysisPapers.
   `app.js` normalizes the incoming `?a=` value so pre-existing links and
   bookmarks still resolve.
 - Deliberately not merged: initials vs full given names, and hyphen-less
-  spellings — those would fuse distinct researchers, since surnames like
+  spellings - those would fuse distinct researchers, since surnames like
   "Li", "Hu" and "Wu" occur as complete names in this data. A trailing
   period is preserved because many names legitimately end in an initial.
 - Paper ids and `data/state/seen.json` are byte-identical before and after
   the migration: author names never feed identity or dedupe keys.
 
-## [1.2.0] — 2026-07-27
+## [1.2.0] - 2026-07-27
 
 Recall + integrity release: **208,399 papers** after a verified full
 re-sweep. Prompted by real missing papers (modern photoredox/LMCT work
@@ -60,13 +81,13 @@ that never says "photocatal…").
   daily OpenAlex searches extended to match.
 - **Fetch-side checkpoint** (`data/state/backfill_progress.json`):
   completed (year, query) pairs are skipped on re-runs. Without it a
-  retry re-fetched everything and always died on the same tail queries —
+  retry re-fetched everything and always died on the same tail queries -
   large years could never converge.
 - Backfill years with any transiently failed query now log
   `INCOMPLETE` instead of `done` (a 429'd query silently lost its
   papers before), and the run summary reports total failed queries.
 - Collector guards: transparent-peer-review artifacts (review reports,
-  decision letters, author responses — DOIs `…/vN/reviewM|decisionM|
+  decision letters, author responses - DOIs `…/vN/reviewM|decisionM|
   responseM`) and corrupted OSTI merges are dropped at ingestion.
 
 ### Fixed
@@ -82,7 +103,7 @@ that never says "photocatal…").
   (e.g. 10.1002/chem.202201290) has no clean OpenAlex record and cannot
   be recovered from OpenAlex.
 
-## [1.1.0] — 2026-07-25
+## [1.1.0] - 2026-07-25
 
 Historical backfill 1972→2026 complete: **179,456 papers** indexed
 (from 319), spanning the field's whole history back to the Honda–Fujishima
@@ -106,7 +127,7 @@ daily quota.
   than OSTI's own 10.2172. DOI-less OSTI records are genuine DOE reports
   and were kept.
 
-## [1.0.0] — 2026-07-24
+## [1.0.0] - 2026-07-24
 
 Initial release, adapted from the proven
 [DataDrivenChemistryPapers](https://github.com/GuruprakashMP/ddc-papers)

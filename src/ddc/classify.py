@@ -1,7 +1,7 @@
 """Relevance classification.
 
 Implements the project's core filtering rule: a paper is indexed only when
-*photocatalysis is its primary subject* — any methodology (experimental,
+*photocatalysis is its primary subject* - any methodology (experimental,
 computational/DFT, machine learning) qualifies, but neighbouring fields such
 as photovoltaics, LEDs or photodynamic therapy are rejected.
 
