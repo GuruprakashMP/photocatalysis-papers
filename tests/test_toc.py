@@ -92,7 +92,7 @@ class TestFeeds(unittest.TestCase):
         with mock.patch.object(toc, "_wiley_feed_from_crossref", return_value=toc.wiley_feed("1521-3773")):
             feeds = toc.choose_feeds(papers, dt.date(2026, 11, 20), {})
         self.assertEqual(feeds, [
-            ("RSC", "https://feeds.rsc.org/rss/cc"),
+            ("RSC", "http://feeds.rsc.org/rss/cc"),
             ("ACS", "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat"),
             ("Wiley", "https://onlinelibrary.wiley.com/feed/15213773/most-recent"),
         ])

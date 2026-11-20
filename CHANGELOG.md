@@ -13,6 +13,10 @@ All notable changes to PhotocatalysisPapers.
   Wiley") and linked to the paper, and drop it if it does not load. A blocked feed
   is logged and skipped; after 3 failures in a row with no success a publisher is
   skipped for that run. `toc_graphics` in the settings turns it off.
+  On the first runs (2026-11-20) only Wiley gave graphics: ACS answers GitHub's
+  servers with HTTP 403, and RSC's feeds (read over plain HTTP, as feeds.rsc.org
+  breaks off HTTPS from there) carry no graphic. A run logs the first item of any
+  feed that yields none, so a change of format shows up.
 
 ### Changed
 - A more structured look (shared GP Tools theme): header band with labelled
