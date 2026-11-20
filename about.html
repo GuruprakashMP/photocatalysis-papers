@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · PhotocatalysisPapers</title>
 <meta name="description" content="A continuously updated index of photocatalysis research - from water splitting to photoredox catalysis">
+<meta name="theme-color" content="#0f172a">
+<meta property="og:type" content="website">
+<meta property="og:title" content="About · PhotocatalysisPapers">
+<meta property="og:description" content="A continuously updated index of photocatalysis research - from water splitting to photoredox catalysis">
 <link rel="icon" href="/images/gp-icon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/css/gp-tools.css">
 <link rel="stylesheet" href="assets/style.css">
@@ -12,44 +16,43 @@
 
 </head>
 <body class="gp-page" data-index-key="photocatalysis" data-site-title="PhotocatalysisPapers" data-root="">
-<a class="skip" href="#main">Skip to the papers</a>
+<a class="skip" href="#main">Skip to the content</a>
 <header class="gp-bar">
   <div class="gp-bar-in">
     <a class="gp-home" href="/" aria-label="Guruprakash M P: home page"><img src="/images/gp-icon.svg" alt="" width="30" height="30"></a>
-    <span data-gp-tools data-gp-current="photocatalysis"></span>
+    <span data-gp-tools data-gp-current="photocatalysis" data-gp-compact></span>
     <a class="gp-bar-title" href="index.html">PhotocatalysisPapers</a>
     <nav class="gp-bar-nav" aria-label="PhotocatalysisPapers">
-    <a href="index.html">Latest</a>
-    <a href="search.html">Search</a>
-    <a href="archive/index.html">Archive</a>
-    <a href="authors.html">Authors</a>
-    <a href="journals.html">Journals</a>
-    <a href="categories/index.html">Categories</a>
-    <a href="about.html" aria-current="page">About</a>
+      <a href="index.html">Latest</a>
+      <a href="search.html">Search</a>
+      <a href="archive/index.html">Archive</a>
+      <a href="authors.html">Authors</a>
+      <a href="journals.html">Journals</a>
+      <a href="categories/index.html">Categories</a>
+      <a href="about.html" aria-current="page">About</a>
     </nav>
   </div>
 </header>
 <section class="gp-hero gp-slim">
-  <canvas class="starfield" data-density="0.9" data-max="140" aria-hidden="true"></canvas>
+  <canvas class="starfield" data-density="0.6" data-max="90" data-meteors="0" data-speed="0.35" aria-hidden="true"></canvas>
   <div class="gp-hero-in">
-    <p class="gp-hero-title">PhotocatalysisPapers</p>
-    <p class="gp-hero-sub">A continuously updated index of photocatalysis research - from water splitting to photoredox catalysis</p>
+    <p class="gp-hero-kicker"><a href="index.html">PhotocatalysisPapers</a></p>
+    <p class="gp-hero-title">About this index</p>
   </div>
 </section>
 <main class="wrap" id="main">
 
-<h1>About</h1>
 <p><strong>PhotocatalysisPapers</strong> is an automatically updated index of
 photocatalysis research papers: water splitting, hydrogen evolution, CO2
 photoreduction, pollutant degradation, photoredox and organic synthesis,
 semiconductor photocatalysts, Z-scheme systems, photoelectrochemistry and
 solar fuels, covering experimental, computational and data-driven studies
 alike.</p>
-<h2>How it works</h2>
+<h2 id="method">How it works</h2>
 <p>Every day an automated pipeline queries open scholarly metadata APIs,
 removes duplicates, classifies each paper with a photocatalysis relevance
 model, assigns categories and a relevance score, and regenerates this site.</p>
-<h2>Sources</h2>
+<h2 id="sources">Sources</h2>
 <ul><li><strong>arXiv</strong> (<code>arxiv</code>)</li>
 <li><strong>ChemRxiv</strong> (<code>chemrxiv</code>)</li>
 <li><strong>Crossref (ACS, RSC, Wiley, Springer Nature, Elsevier, ...)</strong> (<code>crossref</code>)</li>
@@ -62,29 +65,62 @@ model, assigns categories and a relevance score, and regenerates this site.</p>
 MDPI, Frontiers, Taylor &amp; Francis, IOP and AIP reach this index through
 Crossref, OpenAlex, PubMed, Europe PMC, Semantic Scholar and DOAJ, which
 legally distribute their bibliographic metadata.</p>
-<h2>Data policy</h2>
+<h2 id="policy">Data policy</h2>
 <p>This site stores <em>metadata only</em>: title, authors, journal, date, DOI
-and link. No abstracts, no full text, no PDFs. Every paper links to the
+and link, and for some papers the address of the publisher's table-of-contents
+graphic. No abstracts, no full text, no PDFs, no images. Every paper links to the
 original publisher page. To have a record corrected or removed, contact
 <a href="mailto:guruprakash29011999@gmail.com">guruprakash29011999@gmail.com</a>.</p>
-<h2>Abstracts</h2>
+<h2 id="abstracts">Abstracts</h2>
 <p>A paper's <strong>Abstract</strong> button asks <a href="https://openalex.org/">OpenAlex</a>
 for the abstract by the paper's DOI, and <a href="https://www.crossref.org/">Crossref</a> when
 OpenAlex has none. Your browser sends that request itself, only when you click, and the
 abstract is shown with its source. Nothing is stored, here or in your browser. Papers
 without a DOI, or whose abstract neither service has, show "No abstract available".</p>
-<h2>Read, saved and followed</h2>
+<h2 id="toc">Table-of-contents graphics</h2>
+<p>Every day the index reads the RSS feeds of the ACS, Wiley and RSC journals that
+publish papers listed here, and keeps, for those papers, only the address of the
+table-of-contents graphic the feed links. The image is not copied: your browser loads it
+from the publisher's own server, which therefore sees that request, as it would on the
+journal's website. A paper gets a graphic only while it is in its journal's feed, so
+mostly recent papers have one. No paper here has one yet. Each graphic remains the property of its
+publisher or authors, is credited under it, and links to the paper.</p>
+<h2 id="your-data">What your browser keeps</h2>
 <p>Marking a paper read or saved, the journals you follow and the time of your last
 visit are kept in your browser's local storage on this computer, for this index only.
 They are never sent anywhere. Clearing this site's data in your browser removes them.</p>
 <p class="stats"><span><strong>214,102</strong> papers indexed so far.</span></p>
 </main>
 <footer class="gp-footer" data-gp-footer>
-  <div class="gp-footer-in">
-    <a class="gp-footer-made" href="/">Made by Guruprakash M P</a>
-    <p class="gp-footer-note">PhotocatalysisPapers indexes bibliographic metadata only and links to the
-    original publisher for every paper. No article content is hosted here.
-    &copy; 2026 · Generated automatically · Updated daily</p>
+  <div class="gp-footer-in gp-footer-grid">
+    <div class="gp-footer-col gp-footer-brand">
+      <a class="gp-footer-made" href="/">Made by Guruprakash M P</a>
+      <p><strong>PhotocatalysisPapers</strong>. A continuously updated index of photocatalysis research - from water splitting to photoredox catalysis</p>
+      <p>Bibliographic metadata only: every paper links to its publisher, and no article
+      content is hosted here.</p>
+    </div>
+    <nav class="gp-footer-col" aria-label="This index">
+      <h2>This index</h2>
+      <ul><li><a href="index.html">Latest</a></li><li><a href="search.html">Search</a></li><li><a href="archive/index.html">Archive</a></li><li><a href="authors.html">Authors</a></li><li><a href="journals.html">Journals</a></li><li><a href="categories/index.html">Categories</a></li><li><a href="about.html">About</a></li></ul>
+    </nav>
+    <div class="gp-footer-col">
+      <h2>Data</h2>
+      <ul>
+        <li><a href="about.html#sources">Sources</a></li>
+        <li><a href="about.html#method">How papers are selected</a></li>
+        <li><a href="about.html#policy">Data policy</a></li>
+        <li><a href="about.html#your-data">What your browser keeps</a></li>
+        <li><a href="mailto:guruprakash29011999@gmail.com">Report a correction</a></li>
+      </ul>
+    </div>
+    <nav class="gp-footer-col" aria-label="Other tools">
+      <h2>Tools</h2>
+      <ul data-gp-toollist></ul>
+    </nav>
+  </div>
+  <div class="gp-footer-base">
+    <span>&copy; 2026 Guruprakash M P</span>
+    <span>Generated automatically and updated daily</span>
   </div>
 </footer>
 <script defer src="/assets/js/starfield.js"></script>

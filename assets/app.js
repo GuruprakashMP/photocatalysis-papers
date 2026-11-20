@@ -34,6 +34,10 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   }
+  /* Text from the data as shown: an em dash becomes a spaced hyphen (the record itself,
+   * and every link and search built from it, keeps the publisher's text). */
+  function nd(s) { return String(s == null ? "" : s).replace(/\s*\u2014\s*/g, " - ").trim(); }
+  function tx(s) { return esc(nd(s)); }
   function params() { return new URLSearchParams(location.search); }
   function fmt(n) { return Number(n).toLocaleString("en-US"); }
   function plural(n, one, many) { return fmt(n) + " " + (n === 1 ? one : (many || one + "s")); }
@@ -176,6 +180,7 @@
     if (typeof p.score === "number") m.score = p.score;
     if (p.source) m.source = p.source;
     if (Array.isArray(p.categories)) m.categories = p.categories.slice(0, 5);
+    if (p.toc) { m.toc = p.toc; m.tp = p.tp || ""; }
     return m;
   }
   function setSaved(p, on) {
@@ -195,9 +200,9 @@
 
   function paperLink(p) { return p.doi ? "https://doi.org/" + p.doi : (p.url || ""); }
   function authorsHtml(p) {
-    if (!Array.isArray(p.authors)) return esc(p.authorsText || "");
+    if (!Array.isArray(p.authors)) return tx(p.authorsText || "");
     var s = p.authors.slice(0, AUTHORS_SHOWN).map(function (a) {
-      return '<a href="' + ROOT + "authors.html?a=" + encodeURIComponent(a) + '">' + esc(a) + "</a>";
+      return '<a href="' + ROOT + "authors.html?a=" + encodeURIComponent(a) + '">' + tx(a) + "</a>";
     }).join(", ");
     var more = (p.na || 0) + Math.max(0, p.authors.length - AUTHORS_SHOWN);
     if (more) s += " and " + more + " more";
@@ -215,42 +220,50 @@
   }
   function actionButtons(id) {
     var r = isRead(id), s = isSaved(id);
-    return '<button type="button" class="act" data-act="abstract" aria-expanded="false" title="Show the abstract (a)">Abstract</button>' +
+    return '<button type="button" class="act act-abs" data-act="abstract" aria-expanded="false" title="Show the abstract (a)">Abstract</button>' +
       '<button type="button" class="act act-save" data-act="save" aria-pressed="' + s + '" title="' +
       (s ? "Remove from saved (s)" : "Save this paper (s)") + '">' + (s ? "Saved" : "Save") + "</button>" +
       '<button type="button" class="act act-read" data-act="read" aria-pressed="' + r + '" title="' +
       (r ? "Mark as unread (r)" : "Mark as read (r)") + '">' + (r ? "Read" : "Mark read") + "</button>";
   }
+  function tocFigure(p, link) {
+    if (!p.toc || !/^https:\/\//.test(p.toc)) return "";
+    var img = '<img src="' + esc(p.toc) + '" alt="Table of contents graphic" loading="lazy" decoding="async" referrerpolicy="no-referrer">';
+    if (link) img = '<a href="' + esc(link) + '" target="_blank" rel="noopener" tabindex="-1">' + img + "</a>";
+    return '<figure class="card-toc">' + img + "<figcaption>Graphic: " + esc(p.tp || "the publisher") + "</figcaption></figure>";
+  }
   function renderCard(p, opts) {
     known[p.id] = p;
     var link = paperLink(p);
-    var title = link ? '<a href="' + esc(link) + '" target="_blank" rel="noopener">' + esc(p.title) + "</a>"
-                     : esc(p.title);
+    var title = link ? '<a href="' + esc(link) + '" target="_blank" rel="noopener">' + tx(p.title) + "</a>"
+                     : tx(p.title);
     var chips = "";
     (p.categories || []).slice(0, 5).forEach(function (c) {
       chips += '<a class="chip chip-cat" href="' + ROOT + "search.html?category=" +
-        encodeURIComponent(c) + '">' + esc(c) + "</a>";
+        encodeURIComponent(c) + '">' + tx(c) + "</a>";
     });
     (p.tags || []).slice(0, 6).forEach(function (t) {
       if ((p.categories || []).indexOf(t) === -1)
         chips += '<a class="chip" href="' + ROOT + "search.html?q=" +
-          encodeURIComponent(t) + '">' + esc(t) + "</a>";
+          encodeURIComponent(t) + '">' + tx(t) + "</a>";
     });
     var journal = p.journal ? '<a class="badge-journal" href="' + ROOT + "journals.html?j=" +
-      encodeURIComponent(p.journal) + '">' + esc(p.journal) + "</a>" : "";
+      encodeURIComponent(p.journal) + '">' + tx(p.journal) + "</a>" : "";
     var isNew = opts && opts.isNew ? '<span class="badge-new">New</span>' : "";
     var source = p.source ? '<span class="meta-source">' + esc(p.source) + "</span>" : "";
     var score = typeof p.score === "number"
       ? '<span class="score ' + scoreClass(p.score) + '" title="Relevance score">' + p.score + "</span>" : "";
-    return '<article class="card' + (isRead(p.id) ? " is-read" : "") + '" data-id="' + esc(p.id) +
-      '" data-doi="' + esc(p.doi || "") + '" tabindex="-1">' +
+    var fig = tocFigure(p, link);
+    return '<article class="card' + (fig ? " has-toc" : "") + (isRead(p.id) ? " is-read" : "") +
+      '" data-id="' + esc(p.id) + '" data-doi="' + esc(p.doi || "") + '" tabindex="-1">' +
+      '<div class="card-body">' +
       '<h3 class="card-title">' + title + "</h3>" +
       '<p class="card-authors">' + authorsHtml(p) + "</p>" +
       '<p class="card-meta">' + isNew + journal + timeHtml(p) + source + score + "</p>" +
       (chips ? '<p class="card-chips">' + chips + "</p>" : "") +
       '<div class="card-actions">' +
       (link ? '<a class="act act-primary" href="' + esc(link) + '" target="_blank" rel="noopener">Full text</a>' : "") +
-      actionButtons(p.id) + "</div></article>";
+      actionButtons(p.id) + "</div></div>" + fig + "</article>";
   }
   /* A server-rendered card (archive pages) as a paper record, for Save. */
   function paperFromCard(card) {
@@ -268,6 +281,8 @@
       categories: [].map.call(card.querySelectorAll(".chip-cat"), function (c) { return c.textContent.trim(); })
     };
     if (sc && /^\d+$/.test(sc.textContent.trim())) p.score = +sc.textContent.trim();
+    var ti = card.querySelector(".card-toc img"), tc = card.querySelector(".card-toc figcaption");
+    if (ti) { p.toc = ti.getAttribute("src"); p.tp = tc ? tc.textContent.replace(/^Graphic:\s*/, "") : ""; }
     known[id] = p;
     return p;
   }
@@ -398,8 +413,8 @@
       if (r.paras) {
         r.paras.forEach(function (x) {
           var el = document.createElement("p");
-          if (x.title) { var b = document.createElement("strong"); b.textContent = x.title + " "; el.appendChild(b); }
-          if (x.text) el.appendChild(document.createTextNode(x.text));
+          if (x.title) { var b = document.createElement("strong"); b.textContent = nd(x.title) + " "; el.appendChild(b); }
+          if (x.text) el.appendChild(document.createTextNode(nd(x.text)));
           box.appendChild(el);
         });
         var src = document.createElement("p");
@@ -432,6 +447,16 @@
     else if (what === "abstract-retry") toggleAbstract(card, p, true);
     if ((what === "save" || what === "read") && onChange) onChange();
   }
+  // A TOC graphic the publisher's server does not deliver is removed, never shown broken.
+  document.addEventListener("error", function (e) {
+    var t = e.target;
+    if (!t || t.tagName !== "IMG" || !t.closest) return;
+    var fig = t.closest(".card-toc");
+    if (!fig) return;
+    var card = fig.closest(".card");
+    fig.parentNode.removeChild(fig);
+    if (card) card.classList.remove("has-toc");
+  }, true);
   document.addEventListener("click", function (e) {
     var b = e.target && e.target.closest ? e.target.closest("[data-act]") : null;
     var card = e.target && e.target.closest ? e.target.closest(".card[data-id]") : null;
@@ -546,17 +571,22 @@
     function build() {
       app.innerHTML =
         '<div class="feed">' +
-        '<div class="feed-status" id="feed-status" aria-live="polite"></div>' +
-        '<div class="feed-tools">' +
-        '<input type="search" id="feed-q" placeholder="Filter by title or author" aria-label="Filter by title or author" autocomplete="off">' +
-        '<div class="fchips" id="fchips" role="group" aria-label="Show"></div>' +
-        "</div>" +
+        '<aside class="feed-side" aria-label="Filters">' +
+        '<section class="side-block"><h2 class="side-h">Show</h2>' +
+        '<div class="fchips" id="fchips" role="group" aria-label="Show"></div></section>' +
+        '<section class="side-block"><h2 class="side-h">Journals</h2>' +
         '<div class="jchips" id="jchips" role="group" aria-label="Journals"></div>' +
-        '<div class="follow-panel" id="follow-panel" hidden></div>' +
+        '<div class="follow-panel" id="follow-panel" hidden></div></section>' +
+        '<section class="side-block side-about"><h2 class="side-h">About this list</h2>' +
+        '<p id="side-about"></p></section>' +
+        "</aside>" +
+        '<div class="feed-main">' +
+        '<div class="feed-status" id="feed-status" aria-live="polite"></div>' +
+        '<div class="feed-search"><input type="search" id="feed-q" placeholder="Filter by title or author" aria-label="Filter by title or author" autocomplete="off"></div>' +
         '<div class="feed-bar"><span id="feed-count"></span><span class="feed-bar-r">' +
         '<span id="undo-wrap"></span><button type="button" class="btn btn-small" id="mark-all" hidden></button></span></div>' +
         '<div id="results" class="results"></div><p class="more" id="more-wrap"></p>' +
-        keysHint() + "</div>";
+        keysHint() + "</div></div>";
       var timer;
       document.getElementById("feed-q").addEventListener("input", function (e) {
         clearTimeout(timer);
@@ -652,11 +682,11 @@
       var narrow = window.matchMedia && window.matchMedia("(max-width: 600px)").matches;
       var TOP = narrow ? 5 : 10, shown = S.showAllJ ? names : names.slice(0, TOP);
       if (!S.showAllJ && S.journal && shown.indexOf(S.journal) === -1) shown.push(S.journal);
-      var html = '<span class="jchips-label">Journals</span>' + shown.map(function (j) {
+      var html = shown.map(function (j) {
         return '<button type="button" class="jchip' + (f.indexOf(j) !== -1 ? " is-followed" : "") +
           '" data-journal="' + esc(j) + '" aria-pressed="' + (S.journal === j) + '"' +
-          (f.indexOf(j) !== -1 ? ' title="A journal you follow"' : "") + ">" + esc(j) +
-          ' <span class="n">' + fmt(counts[j]) + "</span></button>";
+          (f.indexOf(j) !== -1 ? ' title="A journal you follow"' : ' title="' + tx(j) + '"') + '><span class="jn">' + tx(j) +
+          '</span><span class="n">' + fmt(counts[j]) + "</span></button>";
       }).join("");
       if (names.length > TOP)
         html += '<button type="button" class="linkbtn" id="j-more" aria-expanded="' + S.showAllJ + '">' +
@@ -690,7 +720,7 @@
         '<input type="search" id="follow-q" placeholder="Find a journal" aria-label="Find a journal" autocomplete="off" value="' + esc(q) + '">' +
         '<ul class="follow-list" id="follow-list">' + names.map(function (j) {
           return '<li><label><input type="checkbox" data-follow value="' + esc(j) + '"' +
-            (f.indexOf(j) !== -1 ? " checked" : "") + "> <span>" + esc(j) + '</span> <span class="n">' +
+            (f.indexOf(j) !== -1 ? " checked" : "") + "> <span>" + tx(j) + '</span> <span class="n">' +
             fmt(counts[j]) + "</span></label></li>";
         }).join("") + "</ul>" +
         '<p class="follow-actions"><button type="button" class="btn btn-small" id="follow-done">Done</button>' +
@@ -796,7 +826,7 @@
       var ms = parseGenerated(gen), li = document.getElementById("hero-updated");
       if (li && !isNaN(ms)) {
         var a = agoTime(ms);
-        if (a) { li.textContent = "Updated " + a; li.title = "Last update: " + gen; }
+        if (a) { li.textContent = a; li.title = gen; }
       }
     }
 
@@ -810,6 +840,11 @@
       }
       S.view = String(sget("view", "all"));
       build();
+      document.getElementById("side-about").innerHTML = S.fallback
+        ? "The newest papers by publication date."
+        : "Every paper added to the index since " + esc(prettyDate(S.oldest)) + ", newest first. " +
+          "Papers you mark read move below the ones you have not read. The index is updated once a day; " +
+          'see <a href="' + ROOT + 'about.html#method">how papers are selected</a>.';
       onChange = function () { renderStatus(); renderChips(); renderJournals(); updateBar(); };
       render();
     }
@@ -858,7 +893,6 @@
 
     function build() {
       app.innerHTML =
-        '<h1 class="page-title">Search</h1>' +
         '<div class="filter-bar">' +
         '<input type="search" id="f-q" aria-label="Search" placeholder="Search titles, authors, journals, universities, methods…" value="' +
         esc(q.get("q") || q.get("author") || "") + '">' +
@@ -965,7 +999,7 @@
     while (select.options.length > 1) select.remove(1);
     values.forEach(function (v) {
       var opt = document.createElement("option");
-      opt.value = v; opt.textContent = v;
+      opt.value = v; opt.textContent = nd(v);
       select.appendChild(opt);
     });
     setSelect(id, current);
@@ -991,8 +1025,7 @@
     var counts = {}, names = [];
 
     function build() {
-      app.innerHTML = '<h1 class="page-title">' + title + "</h1>" +
-        '<div class="filter-bar">' +
+      app.innerHTML = '<div class="filter-bar">' +
         '<input type="search" id="dir-q" aria-label="Filter ' + title.toLowerCase() + '" placeholder="Filter ' +
         title.toLowerCase() + '…">' +
         '<select id="dir-cat" aria-label="Category"><option value="">All categories</option></select>' +
@@ -1025,12 +1058,12 @@
         ? names.filter(function (n) { return n.toLowerCase().indexOf(needle) !== -1; })
         : names;
       document.getElementById("result-count").textContent =
-        fmt(out.length) + " " + title.toLowerCase() + (cat ? " in " + cat : "");
+        fmt(out.length) + " " + title.toLowerCase() + (cat ? " in " + nd(cat) : "");
       document.getElementById("load-state").textContent = complete ? "" : "loading the full archive…";
       document.getElementById("dir-list").innerHTML =
         out.slice(0, 1500).map(function (n) {
           return '<li><a href="?' + (isAuthor ? "a" : "j") + "=" +
-            encodeURIComponent(n) + catParam + '">' + esc(n) + "</a>" +
+            encodeURIComponent(n) + catParam + '">' + tx(n) + "</a>" +
             '<span class="count">' + fmt(counts[n]) + "</span></li>";
         }).join("") +
         (out.length > 1500
@@ -1062,15 +1095,16 @@
         ? all.filter(function (p) { return (p.categories || []).indexOf(cat) !== -1; })
         : all;
       document.title = name + " · " + SITE;
+      var band = document.querySelector(".gp-hero-title");
+      if (band) band.textContent = nd(name);
       var meta = plural(matches.length, "paper") +
-        (cat ? " in " + esc(cat) : "") +
+        (cat ? " in " + tx(cat) : "") +
         (complete ? "" : " so far, loading the full archive…");
       var showAll = (cat && all.length > matches.length)
         ? ' · <a href="?' + (isAuthor ? "a" : "j") + "=" + encodeURIComponent(name) +
           '">show all ' + fmt(all.length) + " papers</a>"
         : "";
-      app.innerHTML = '<h1 class="page-title">' + esc(name) + "</h1>" +
-        '<p class="result-meta"><span>' + meta + showAll + "</span>" +
+      app.innerHTML = '<p class="result-meta"><span>' + meta + showAll + "</span>" +
         '<a href="' + ROOT + baseName + ".html" +
         (cat ? "?cat=" + encodeURIComponent(cat) : "") + '">← All ' +
         baseName + "</a></p>" +
